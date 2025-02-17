@@ -1,2 +1,2 @@
 # Dayz_Kiwi
-mpmissions, profiles
+тут можемо писати плани та замітки
