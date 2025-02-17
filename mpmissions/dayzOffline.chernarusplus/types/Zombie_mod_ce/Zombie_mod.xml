@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="BRDK_Hurl ock_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_FamDoctor_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_MedievalMan_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_MedievalMan2_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_Pilot_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_Am_Soldier_01_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_Am_Soldier_02_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_Am_Soldier_03_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_Am_Soldier_04_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_IT_Soldier_01_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_IT_Soldier_02_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_JetPilot_Ru">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_JetPilot_Ch">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_JetPilot_Us">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_Knight_zmb">
+        <nominal>0</nominal>
+        <lifetime>3500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_Hurlock_hand">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="BRDK_Hurlock_head">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <!-- FC -->
+    <type name="FC_Zmb_Toxic_Blue">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Toxic_Orange">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Toxic_White">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Toxic_Yellow">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+    <type name="FC_Zmb_Worker_1">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_1_Blood">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_2">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_2_Blood">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_3">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_3_Blood">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_Police">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_Police_Blood">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_Soldier">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_Soldier_Blood">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_Builder">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="FC_Zmb_Worker_Builder_Blood">
+		<lifetime>7200</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+</types>

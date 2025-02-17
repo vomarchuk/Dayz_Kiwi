@@ -1,0 +1,481 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Знайди нагороду",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "сховок",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [317.819946, 322.233521, 7876.442383],  
+        [328.837372, 287.154266, 8584.712891],  
+        [427.826660, 347.130371, 9592.060547],  
+        [710.996033, 130.626328, 4598.657715],  
+        [1345.362671, 137.987106, 4074.416748],  
+        [1668.633545, 144.036545, 3852.350342],  
+        [1745.939819, 16.252394, 2330.801025],  
+        [1746.226685, 142.842987, 3832.760986],  
+        [2872.328125, 8.872240, 1534.212524],  
+        [2892.425537, 304.109192, 8075.379395],  
+        [2973.684814, 369.429871, 6720.138672],  
+        [3030.909912, 250.396149, 11827.482422],  
+        [3442.465332, 304.084747, 4546.647461],
+        [3741.081543, 311.033569, 8921.794922],  
+        [4802.485352, 474.017120, 15064.598633],
+        [4952.235352, 287.122864, 6379.052246],    
+        [5735.590820, 342.454834, 14431.581055],   
+        [6582.202637, 15.692904, 3015.400391],  
+        [6875.757324, 7.254978, 3102.092041],  
+        [7709.645020, 288.656982, 14376.495117],  
+        [8011.944336, 113.957115, 12749.482422],  
+        [8179.180664, 260.782440, 10929.703125],  
+        [9437.956055, 102.761345, 13884.937500],  
+        [9500.466797, 316.707947, 5985.727051],  
+        [9597.797852, 294.470245, 8781.293945],  
+        [10107.265625, 246.333054, 5534.027832],
+        [10432.026367, 222.866791, 8903.949219],    
+        [10661.256836, 210.966904, 8043.002441],   
+        [11593.159180, 202.647751, 7300.557129],  
+        [11966.281250, 54.036232, 9117.430664],  
+        [12179.292969, 24.506149, 9475.542969],  
+        [12750.907227, 15.422943, 14081.101563],  
+        [12923.653320, 21.405184, 8045.623535],  
+        [12940.323242, 216.196304, 12757.893555],  
+        [12968.021484, 6.037842, 10150.154297],  
+        [12974.043945, 213.004898, 12766.510742],  
+        [13824.338867, 20.617502, 13192.793945],  
+        [14127.384766, 139.895737, 13851.925781]
+
+    ],
+    "LootItemsAmount": 3,
+    "MaxDistance": 15.0,
+    "Loot": [
+        {
+            "Name": "DNA_KeyCard_Yellow",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": 30,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_Carbon",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": 60,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_bolts",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": 50,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_nuts",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": 50,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_rivets",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": 25,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_rivets2",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": 20,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_EmptyBag",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "KIWI_WeaponCleaningKit",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "GardenLime",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_TobaccoSeedsPack",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackFuture",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackStardawg",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackNomad",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackBlackFrost",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackS1",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackBlue",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackKush",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackSkunk",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TerjeDrink6Energy",
+            "Chance": 0.20,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TerjeDrinkGang",
+            "Chance": 0.20,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TerjeDrinkPrayboy",
+            "Chance": 0.20,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TerjeDrinkYaguar",
+            "Chance": 0.20,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "NailBox",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_Anvil",
+            "Chance": 0.03,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_Drill",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_Grinde",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_napilnik",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_Oiler",
+            "Chance": 0.03,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_Vise",
+            "Chance": 0.03,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HP_Payalnik",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Wrench",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Screwdriver",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Pipewrench",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Pipe",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Hatchet",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HandSaw",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Hammer",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Crowbar",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SmallProtectorCase",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_CleaningKitPlastic",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_OilPlastic",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_WeaponCleaningSpray_2",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_WeaponCleaningSpray",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_WD40",
+            "Chance": 0.05,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_WD40S",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_Glue",
+            "Chance": 0.10,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

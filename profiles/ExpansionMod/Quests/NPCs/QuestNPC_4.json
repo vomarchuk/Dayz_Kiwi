@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCAIHassan",
+    "Position": [
+        3727.404297, 402.199463, 5981.163574
+    ],
+    "Orientation": [
+        175.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Міняйло",
+    "DefaultNPCText": "Привіт!",
+    "Waypoints": [
+        [
+            3727.404297, 402.199463, 5981.163574
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "HumanLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}
+
+

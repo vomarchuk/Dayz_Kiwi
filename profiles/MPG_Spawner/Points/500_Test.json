@@ -1,0 +1,148 @@
+[
+  {
+    "pointId": 500,
+    "isDebugEnabled": 1,
+    "isDisabled": 0,
+    "showVisualisation": 1,
+    "notificationTitle": "Test 1",
+    "notificationTextEnter": "",
+    "notificationTextExit": "",
+    "notificationTextSpawn": "",
+    "notificationTextWin": "",
+    "notificationTime": 4,
+    "notificationIcon": "set:dayz_gui image:iconSkull",
+    "triggerDependencies": [],
+    "triggerDependenciesAnyOf": 0,
+    "triggersToEnableOnEnter": [],
+    "triggersToEnableOnFirstSpawn": [],
+    "triggersToEnableOnWin": [],
+    "triggersToEnableOnLeave": [],
+    "triggerPosition": "8246.560547, 466.578186, 9072.786133",
+    "triggerDebugColor": "red",
+    "triggerRadius": "5.0",
+    "triggerHeight": "",
+    "triggerWidthX": "",
+    "triggerWidthY": "",
+    "triggerFirstDelay": "3-7",
+    "triggerCooldown": "10",
+    "triggerSafeDistance": 25.0,
+    "triggerEnterDelay": 0,
+    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLunchTime": 0,
+    "triggerCleanupDelay": 0,
+    "triggerWorkingTime": "0-24",
+    "triggerDisableOnWin": 0,
+    "triggerDisableOnLeave": 1,
+    "spawnPositions": [
+      "8266.000000, 473.000000, 9077.000000"
+      ],
+    "spawnRadius": 0.0,
+    "spawnMin": 1,
+    "spawnMax": 1,
+    "spawnCountLimit": 30,
+    "spawnLoopInside": 1,
+    "spawnList": [
+    ],
+    "clearDeathAnimals": 0,
+    "clearDeathZombies": 0,
+    "mappingData": [
+      {
+        "addOnStartup": 0,
+        "addOnEnter": 1,
+        "addOnFirstSpawn": 0,
+        "addOnWin": 0,
+        "addDelay": 0.0,
+        "removeOnEnter": 0,
+        "removeOnFirstSpawn": 0,
+        "removeOnWin": 0,
+        "removeDelay": 0.0,
+        "mappingObjects": [
+          {
+            "name": "Land_Sawmill_Illuminanttower",
+            "pos": [
+              8266.000000, 473.000000, 9077.000000
+            ],
+            "ypr": [
+              -110.997864, 0.000000, -0.000000
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": 501,
+    "isDebugEnabled": 1,
+    "isDisabled": 0,
+    "showVisualisation": 1,
+    "notificationTitle": "Test 2",
+    "notificationTextEnter": "",
+    "notificationTextExit": "",
+    "notificationTextSpawn": "",
+    "notificationTextWin": "",
+    "notificationTime": 4,
+    "notificationIcon": "set:dayz_gui image:iconSkull",
+    "triggerDependencies": [],
+    "triggerDependenciesAnyOf": 0,
+    "triggersToEnableOnEnter": [],
+    "triggersToEnableOnFirstSpawn": [],
+    "triggersToEnableOnWin": [],
+    "triggersToEnableOnLeave": [],
+    "triggerPosition": "8260.223633, 465.719482, 9078.674805",
+    "triggerDebugColor": "blue",
+    "triggerRadius": "2",
+    "triggerHeight": "0",
+    "triggerWidthX": "0",
+    "triggerWidthY": "0",
+    "triggerFirstDelay": "3-7",
+    "triggerCooldown": "1800-2000",
+    "triggerSafeDistance": 5.0,
+    "triggerEnterDelay": 0,
+    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLunchTime": 1,
+    "triggerCleanupDelay": 600,
+    "triggerWorkingTime": "0-24",
+    "triggerDisableOnWin": 0,
+    "triggerDisableOnLeave": 0,
+    "spawnPositions": [
+    ],
+    "spawnRadius": 0,
+    "spawnMin": 1,
+    "spawnMax": 1,
+    "spawnCountLimit": 30,
+    "spawnLoopInside": 1,
+    "spawnList": [
+    ],
+    "clearDeathAnimals": 0,
+    "clearDeathZombies": 0,
+    "mappingData": [
+      {
+        "addOnStartup": 0,
+        "addOnEnter": 0,
+        "addOnFirstSpawn": 0,
+        "addOnWin": 0,
+        "addDelay": 0.0,
+        "removeOnEnter": 1,
+        "removeOnFirstSpawn": 0,
+        "removeOnWin": 0,
+        "removeDelay": 0.0,
+        "mappingObjects": [
+          {
+            "name": "Land_Sawmill_Illuminanttower",
+            "pos": [
+              8266.000000, 473.000000, 9077.000000
+            ],
+            "ypr": [
+              -110.997864, 0.000000, -0.000000
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+          }
+        ]
+      }
+    ]
+}
+  
+]

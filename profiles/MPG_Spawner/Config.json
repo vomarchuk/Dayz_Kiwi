@@ -1,0 +1,14 @@
+{
+    "configVersion": 3,
+    "isModDisabled": 0,
+    "isDebugEnabled": 0,
+    "pointsConfigs": [
+        "Evil_Castle",
+        "Gnomov_Castle",
+        "Krona_Castle",
+        "Zolotar_Castle",
+        "Rog_Castle",
+        "Zub_Castle",
+        "Bunker_Kozlowa"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 2,
+    "StorageID": 1,
+    "ClassName": "ExpansionPersonalStorageChest",
+    "DisplayName": "Персональний схрон",
+    "DisplayIcon": "Backpack",
+    "Position": [
+    ],
+    "Orientation": [
+    ],
+    "Faction": "",
+    "IsGlobalStorage": 0
+}

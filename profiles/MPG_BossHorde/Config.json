@@ -1,0 +1,42 @@
+{
+    "configVersion": 1,
+    "isModDisabled": 1,
+    "isDebugEnabled": 1,
+    "masters": [
+        {
+            "master": "Animal_UrsusArctos",
+            "masterAggressiveLevel": 3,
+            "spawnIfMasterSilent": 0,
+            "spawnRadius": "10-20",
+            "spawnFirstDelay": "5-10",
+            "spawnCountLimit": 0,
+            "spawnCount": "1-2",
+            "spawnCountFirstTime": "3-5",
+            "spawnCoolDown": "10-15",
+            "cleanDeadSlaves": 2,
+            "cleanSlavesOnWin": 3,
+            "cleanSlavesOnFocusLoss": 0,
+            "slaves": [
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "master": "BRDK_Am_Soldier_01_zmb",
+            "masterAggressiveLevel": 1,
+            "spawnIfMasterSilent": 0,
+            "spawnRadius": "10-20",
+            "spawnFirstDelay": "5-10",
+            "spawnCountLimit": 10,
+            "spawnCount": "5-10",
+            "spawnCountFirstTime": "3",
+            "spawnCoolDown": "3-5",
+            "cleanDeadSlaves": 0,
+            "cleanSlavesOnWin": 1,
+            "cleanSlavesOnFocusLoss": 1,
+            "slaves": [
+                "ZmbM_NBC_Yellow"
+            ]
+        }
+    ]
+}

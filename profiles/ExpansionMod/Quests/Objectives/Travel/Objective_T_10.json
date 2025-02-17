@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Знайти Альошу",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6639.566895, 
+        7.740392, 
+        2586.499268
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Знайти Альошу",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,27 @@
+{
+    "ConfigVersion": 28,
+    "ID": 205,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Вбий 5 мутантів у бункері",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8783.813477, 163.113220, 2897.728271
+    ],
+    "MaxDistance": 250.0,
+    "MinDistance": -1.0,
+    "Amount": 5,
+    "ClassNames": [
+        "BRDK_Am_Soldier_03_zmb",
+        "BRDK_Am_Soldier_04_zmb",
+        "BRDK_Am_Soldier_02_zmb",
+        "BRDK_Am_Soldier_01_zmb"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
+

@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 11,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Альоша підслухав у бандитів, що тут є ще якась секретна кімната",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8783.813477, 163.113220, 2897.728271
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Знайти секретну кімнату",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

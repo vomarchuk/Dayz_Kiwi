@@ -1,0 +1,22 @@
+{
+    "HeliChance": 0.80,
+    "countOfItems": 1,
+    "ItemHealthMin": 1,
+    "ItemHealthMax": 1,
+    "HeliItems": [
+        "TD_GRN2014_money20",
+        "TD_GRN2014_money20",
+        "TD_GRN2014_money20",
+        "TD_GRN2014_money50",
+        "TD_GRN2014_money50",
+        "TD_GRN2014_money50",
+        "TD_GRN2014_money100",
+        "TerjeFirstAidKitAdvance_Camo",
+        "TerjeFirstAidKitIndividual_Brown",
+        "KIWI_WeaponCleaningKit",
+        "RIP_CleaningKitPlastic",
+        "RIP_WD40",
+        "RIP_WD40S",
+        "RIP_OilPlastic"
+    ]
+}

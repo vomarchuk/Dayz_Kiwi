@@ -1,0 +1,37 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "TraderPlus_Money_Euro1",
+        "TraderPlus_Money_Euro2",
+        "TraderPlus_Money_Euro5",
+        "TraderPlus_Money_Euro10",
+        "TraderPlus_Money_Euro20",
+        "TraderPlus_Money_Euro50",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro500"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Cars",
+        "Car_Jeep_Gladiator_F9",
+        "Car_DodgeRam",
+        "Car_Tahoes",
+        "Car_ToyotaRunner",
+        "Car_GMC",
+        "Car_80k",
+        "Car_65k",
+        "Car_NissanGTRs",
+        "Car_DodgeChargerHellcat",
+        "Vehicle_Parts_Mod:3",
+        "Batteries:3",
+        "Vehicle_CarLock"
+    ],
+    "Items": {}
+}
