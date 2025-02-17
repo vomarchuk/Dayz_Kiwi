@@ -138,6 +138,34 @@
       ]
     },
     {
+      "VehicleName": "CivilianSedan_Black",
+      "Height": 0,
+      "SpawnOnPurchase": true,
+      "SpawnLocation": {
+        "x": 8222.597656,
+        "y": 470.9,
+        "z": 9073.458008
+      },
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CivSedanDoors_Driver_Black",
+        "CivSedanDoors_CoDriver_Black",
+        "CivSedanDoors_BackLeft_Black",
+        "CivSedanDoors_BackRight_Black",
+        "CivSedanHood_Black",
+        "CivSedanTrunk_Black",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel"
+      ]
+    },
+    {
       "VehicleName": "Truck_01_Covered",
       "Height": 0,
       "SpawnOnPurchase": true,

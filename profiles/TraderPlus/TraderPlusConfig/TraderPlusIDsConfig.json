@@ -111,7 +111,8 @@
         "Clothes attachment",
         "Accessories",
         "Ghillie",
-        "Bags"
+        "Bags",
+        "Vests"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
@@ -153,6 +154,7 @@
         "Dodge Ram",
         "Tahoe",
         "Bronco",
+        "GMC",
         "UAZ",
         "Honda Civic",
         "Chevrolet NapalmNova",
