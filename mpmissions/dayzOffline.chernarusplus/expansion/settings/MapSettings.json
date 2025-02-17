@@ -77,6 +77,19 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Toxic",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Зона 113",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                2124.696045, 92.631042, 3360.525391         
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
         }
     ],
     "EnableHUDCompass": 1,
