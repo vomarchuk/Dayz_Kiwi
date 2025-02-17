@@ -1,0 +1,353 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-10_23-33-37
+====================================================================================
+23:33:37 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:33:37 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:33:37 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:33:37 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:33:37 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:33:37 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:33:37 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:33:37 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:33:37 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:33:37 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:33:37 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:33:37 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:33:37 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:33:37 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:33:37 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:33:37 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:33:37 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:33:37 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:33:37 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+23:33:37 | [PermissionManager] Adding Super Admin (76561198104182080)
+23:33:37 | [PermissionManager] Loaded UserGroups.json
+23:33:37 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:33:37 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:33:37 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:33:37 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:33:37 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:33:37 | Building Sets Loaded: 1
+23:33:37 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:39:4 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+23:41:9 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+23:48:29 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) connected to server!
+23:49:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Tachi)
+23:49:45 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Ninjato)
+23:49:46 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Katana)
+23:49:47 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Wakazashi)
+23:50:0 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (Custom_ProtectorCase_600_Toxic)
+23:50:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled godmode
+23:51:28 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled godmode
+23:51:29 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled godmode
+23:51:49 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<4763.470215, 169.629929, 12922.599609>)
+23:51:49 | "[BERSERKY] VoMa": (steamid=76561198104182080) teleported to (pos=4763.47,0,12922.6)
+23:51:55 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4776.629883, 169.321228, 12905.196289>)
+23:51:56 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4798.324219, 168.721024, 12899.510742>)
+23:51:56 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4819.234863, 168.272232, 12895.509766>)
+23:51:57 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4844.454102, 167.492538, 12890.916992>)
+23:51:58 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4865.365723, 167.303528, 12887.061523>)
+23:51:58 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4888.518066, 166.694839, 12882.957031>)
+23:51:59 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4905.828125, 166.727295, 12882.014648>)
+23:52:0 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4920.901855, 166.653320, 12888.831055>)
+23:52:0 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4930.333984, 166.983490, 12898.041992>)
+23:52:1 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4933.322266, 167.770233, 12909.728516>)
+23:52:2 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4934.383301, 168.445190, 12924.204102>)
+23:52:3 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4931.423340, 169.109634, 12938.801758>)
+23:53:17 | "[BERSERKY] VoMa" (steamid=76561198104182080) /heal used on: "[BERSERKY] VoMa" (steamid=76561198104182080)
+23:55:24 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4927.569824, 168.738525, 12936.846680>)
+23:55:54 | [WeatherManager] Send Data Count is 0
+23:55:59 | [Time Manager] Setting Date to 2025/9/21 4:56
+23:56:46 | "[BERSERKY] VoMa" (steamid=76561198104182080) /heal used on: "[BERSERKY] VoMa" (steamid=76561198104182080)
+23:56:50 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4992.676758, 166.501373, 12891.642578>)
+23:56:50 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4997.229004, 165.792648, 12878.906250>)
+23:56:51 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5000.748535, 165.552704, 12868.784180>)
+23:56:52 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5007.574707, 164.771683, 12852.205078>)
+23:58:33 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4998.264160, 164.784088, 12825.499023>)
+23:58:34 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4995.452637, 166.730392, 12815.849609>)
+23:58:35 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4991.970215, 166.973236, 12799.219727>)
+23:58:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4986.242676, 167.736023, 12790.819336>)
+23:58:37 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4984.955566, 168.417847, 12781.451172>)
+23:58:38 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4997.035156, 167.880615, 12776.130859>)
+23:59:2 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5032.987305, 166.071701, 12737.626953>)
+23:59:3 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5042.958008, 166.138702, 12730.756836>)
+23:59:3 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5053.164063, 166.119339, 12724.158203>)
+23:59:25 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5090.468262, 165.315079, 12766.480469>)
+23:59:27 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5114.613770, 163.962738, 12809.794922>)
+23:59:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5087.519531, 164.431381, 12834.716797>)
+23:59:46 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5076.250488, 164.562912, 12836.674805>)
+23:59:46 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5070.443359, 164.598923, 12836.992188>)
+23:59:47 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5066.050293, 164.573532, 12835.678711>)
+23:59:48 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5062.727051, 164.530746, 12834.104492>)
+0:1:2 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5009.343750, 164.481171, 12847.505859>)
+0:1:2 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4992.100586, 165.265091, 12853.458008>)
+0:1:3 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4971.782715, 165.519165, 12860.354492>)
+0:1:3 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4953.799316, 165.895813, 12867.675781>)
+0:1:4 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4935.825684, 166.197617, 12874.565430>)
+0:1:4 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4918.661621, 166.662094, 12880.452148>)
+0:1:8 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4935.738770, 166.213333, 12873.838867>)
+0:1:9 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4976.110840, 165.453613, 12858.518555>)
+0:1:9 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5021.613770, 164.406631, 12846.132813>)
+0:1:10 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5078.413574, 164.238342, 12824.594727>)
+0:1:10 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5130.987305, 164.080643, 12804.495117>)
+0:1:12 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5181.741699, 163.096359, 12771.985352>)
+0:1:13 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5223.524414, 162.220169, 12736.298828>)
+0:1:14 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5245.971680, 162.040466, 12717.013672>)
+0:1:14 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5286.370117, 161.241806, 12687.333984>)
+0:1:17 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5324.208984, 160.869980, 12659.407227>)
+0:1:18 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5364.060547, 160.044052, 12633.068359>)
+0:1:19 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5395.722656, 159.722107, 12614.736328>)
+0:1:19 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5417.431152, 160.138397, 12607.074219>)
+0:1:21 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5449.095215, 160.488113, 12598.012695>)
+0:1:23 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5493.594238, 159.797058, 12590.875977>)
+0:1:24 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5520.856445, 159.541168, 12591.154297>)
+0:1:25 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5560.837891, 158.396652, 12591.174805>)
+0:1:25 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5590.396973, 158.084976, 12591.458008>)
+0:1:25 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5617.740234, 158.205963, 12592.724609>)
+0:1:27 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5706.015137, 157.267242, 12620.127930>)
+0:1:27 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5742.332520, 158.013901, 12631.652344>)
+0:1:28 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5792.519043, 158.196075, 12648.124023>)
+0:1:28 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5821.777344, 159.102570, 12657.601563>)
+0:1:29 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5857.487793, 158.276337, 12664.577148>)
+0:1:30 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5884.826660, 157.396591, 12665.799805>)
+0:1:31 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5908.529785, 156.666794, 12667.129883>)
+0:1:32 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6002.466309, 155.823074, 12674.991211>)
+0:1:32 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6056.280273, 156.568741, 12677.554688>)
+0:1:33 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6130.128418, 156.520874, 12679.702148>)
+0:1:33 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6163.902832, 156.361237, 12683.399414>)
+0:1:34 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6191.232422, 156.575043, 12686.588867>)
+0:1:34 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6223.832031, 156.430252, 12690.675781>)
+0:1:34 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6266.405762, 155.760712, 12696.364258>)
+0:1:35 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6305.832031, 155.277542, 12701.622070>)
+0:1:35 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6344.100098, 154.266602, 12705.833008>)
+0:1:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6377.855957, 152.241913, 12707.945313>)
+0:1:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6401.538086, 151.427368, 12709.271484>)
+0:1:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6427.917480, 150.269974, 12710.780273>)
+0:1:37 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6454.724609, 149.084000, 12712.318359>)
+0:1:37 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6483.944336, 147.686798, 12714.257813>)
+0:1:38 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6555.251465, 141.690125, 12719.631836>)
+0:1:39 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6627.134277, 139.399353, 12699.555664>)
+0:1:40 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6750.150391, 136.379593, 12652.665039>)
+0:1:41 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6824.022949, 135.792816, 12638.962891>)
+0:1:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled freecam
+0:1:48 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7107.755859, 130.541946, 12700.498047>)
+0:1:48 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled freecam
+0:2:29 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7147.404297, 130.162598, 12712.543945>)
+0:2:30 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7163.378906, 129.164032, 12715.265625>)
+0:2:30 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7177.577148, 128.394852, 12717.648438>)
+0:2:31 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7184.283691, 128.052856, 12717.926758>)
+0:2:35 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7226.038574, 127.094162, 12715.529297>)
+0:2:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7279.518555, 126.855934, 12700.571289>)
+0:2:37 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7315.386230, 126.480736, 12683.775391>)
+0:2:37 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7362.851563, 125.126465, 12661.232422>)
+0:2:38 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7434.997559, 122.453362, 12638.484375>)
+0:2:39 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7486.639648, 121.177818, 12634.828125>)
+0:2:40 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7507.641113, 121.120415, 12635.628906>)
+0:2:41 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7528.104004, 120.958969, 12635.407227>)
+0:2:41 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7548.252930, 120.720009, 12634.856445>)
+0:2:42 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7571.273926, 120.569801, 12631.617188>)
+0:2:42 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7585.676270, 120.445755, 12624.204102>)
+0:2:43 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7595.368164, 120.476494, 12615.161133>)
+0:2:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7611.782227, 120.469284, 12618.078125>)
+0:2:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7642.016602, 119.608025, 12625.441406>)
+0:2:45 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7666.541504, 119.493011, 12632.618164>)
+0:2:45 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7697.461426, 118.728607, 12642.322266>)
+0:2:46 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7718.606934, 118.440750, 12645.863281>)
+0:2:46 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7738.266602, 118.410866, 12648.949219>)
+0:3:29 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled freecam
+0:3:49 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8019.292480, 124.644196, 12748.867188>)
+0:4:16 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8032.295898, 113.786644, 12760.086914>)
+0:4:16 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled freecam
+0:5:37 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (BRDK_Am_Soldier_01_zmb)
+0:6:23 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8070.175293, 112.622971, 12723.117188>)
+0:6:23 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8062.836426, 113.002693, 12722.441406>)
+0:6:24 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8052.497070, 113.292641, 12722.409180>)
+0:6:32 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8014.029297, 114.214424, 12718.540039>)
+0:6:33 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7997.006348, 114.333298, 12715.532227>)
+0:6:34 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7978.636230, 114.515953, 12696.462891>)
+0:6:38 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7966.655762, 115.517723, 12686.330078>)
+0:6:40 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7962.879395, 115.540260, 12678.173828>)
+0:6:42 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7964.265625, 115.557602, 12658.174805>)
+0:6:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7965.112305, 116.021431, 12636.936523>)
+0:6:48 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7979.929688, 116.988670, 12595.341797>)
+0:6:56 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8046.743652, 117.816345, 12582.325195>)
+0:7:1 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8076.439941, 120.213760, 12605.852539>)
+0:7:2 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8079.539063, 118.654816, 12625.876953>)
+0:7:2 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8082.190430, 117.625496, 12642.177734>)
+0:7:3 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8085.016113, 116.344589, 12656.061523>)
+0:7:51 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (TerjeExpressTestRabiesPack)
+0:7:52 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (TerjeExpressTestSepsisPack)
+0:7:54 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (TerjeExpressTestVirusZPack)
+0:7:57 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (TerjeExpressTestVirusZ)
+0:7:58 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (TerjeExpressTestSepsis)
+0:7:59 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (TerjeExpressTestRabies)
+0:9:43 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<8188.259766, 471.279083, 9051.040039>)
+0:9:43 | "[BERSERKY] VoMa": (steamid=76561198104182080) teleported to (pos=8188.26,0,9051.04)
+0:9:49 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8210.453125, 470.205017, 9031.111328>)
+0:10:5 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8210.470703, 470.198486, 9029.069336>)
+0:10:7 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8204.633789, 469.749817, 9040.206055>)
+0:10:42 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8204.830078, 469.227356, 9000.790039>)
+0:10:42 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8204.83,0,9000.79)
+0:20:59 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) initiated disconnect process...
+0:21:2 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) aborted logout process [canceledLogout]
+0:27:2 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) initiated disconnect process...
+0:27:4 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+0:27:7 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) disconnected from server.
+0:29:20 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<13403.500000, 67.646637, 12100.500000>)
+0:29:20 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=13403.5,0,12100.5)
+0:32:6 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+0:32:11 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+0:33:51 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+0:33:52 | Player "PieceDuck" (steamId=76561198161108074) disconnected early from server (EXIT NOW).
+0:33:56 | Player "PieceDuck" (steamId=76561198161108074) disconnected from server.
+0:37:5 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+0:37:23 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+0:37:24 | "PieceDuck" (steamid=76561198161108074) gave unlimited ammo to (steamid=76561198161108074)
+0:37:37 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<11865.299805, 140.000000, 12619.599609>)
+0:37:37 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=11865.3,0,12619.6)
+0:38:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AKS74U_Bttstck)
+0:38:12 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK_WoodHndgrd_Black)
+0:38:16 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK74_Hndgrd)
+0:38:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK74_Hndgrd)
+0:38:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK_RailHndgrd)
+0:38:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AKS74U_Bttstck)
+0:38:44 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AKS74U)
+0:38:44 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AKS74U)
+0:38:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_AKM_30Rnd)
+0:38:59 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_AK74_30Rnd_Black)
+0:39:12 | "PieceDuck" (steamid=76561198161108074) deleted object "AKS74U" (pos=<11895.094727, 140.097321, 12601.453125>)
+0:39:13 | "PieceDuck" (steamid=76561198161108074) deleted object "Mag_AKM_30Rnd" (pos=<11895.094727, 140.058304, 12601.453125>)
+0:39:14 | "PieceDuck" (steamid=76561198161108074) deleted object "AK74_Hndgrd" (pos=<11895.094727, 140.083206, 12601.453125>)
+0:39:16 | "PieceDuck" (steamid=76561198161108074) deleted object "AK_RailHndgrd" (pos=<11895.094727, 140.103073, 12601.453125>)
+0:39:21 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11917.307617, 139.999985, 12592.596680>)
+0:39:21 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11936.905273, 140.000015, 12582.437500>)
+0:39:21 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11957.272461, 139.999985, 12572.020508>)
+0:39:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11977.614258, 140.000000, 12561.724609>)
+0:39:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11995.840820, 139.999985, 12552.272461>)
+0:39:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<12011.465820, 140.000015, 12543.648438>)
+0:39:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<12026.712891, 140.000015, 12534.994141>)
+0:40:17 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<12020.531250, 140.000000, 12537.072266>)
+0:40:17 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11986.986328, 140.000000, 12552.244141>)
+0:40:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11950.076172, 140.000015, 12570.346680>)
+0:40:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11913.550781, 139.999985, 12589.217773>)
+0:40:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11861.694336, 140.000015, 12617.141602>)
+0:40:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11780.111328, 140.049210, 12659.873047>)
+0:40:20 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11771.420898, 143.653900, 12658.973633>)
+0:40:40 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (BRDK_Am_Soldier_01_zmb)
+0:40:40 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (BRDK_Am_Soldier_01_zmb)
+0:41:47 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11771.140625, 143.646545, 12659.956055>)
+0:42:51 | [WeatherManager] Send Data Count is 0
+0:42:56 | [Time Manager] Setting Date to 20254/9/21 7:8
+0:43:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FC_Zmb_Worker_1)
+0:44:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FC_Zmb_Worker_1)
+0:45:9 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11693.671875, 141.884842, 12707.915039>)
+0:45:11 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11684.510742, 142.692352, 12717.170898>)
+0:45:13 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11083.597656, 655.825928, 11953.961914>)
+0:45:15 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11246.949219, 193.975922, 12003.149414>)
+0:45:17 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11243.750977, 195.289764, 12008.147461>)
+0:45:17 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11237.168945, 196.979767, 12011.875977>)
+0:45:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11229.107422, 198.600739, 12014.618164>)
+0:45:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11217.212891, 199.806763, 12014.072266>)
+0:45:19 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11208.846680, 199.793625, 12008.824219>)
+0:45:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11167.060547, 199.156708, 11991.062500>)
+0:45:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11139.662109, 203.865768, 11974.443359>)
+0:45:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FC_Zmb_Worker_2)
+0:45:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FC_Zmb_Worker_2)
+0:45:32 | "PieceDuck" (steamid=76561198161108074) deleted object "FC_Zmb_Worker_2" (pos=<11139.999023, 201.297302, 11980.536133>)
+0:46:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FC_Zmb_Worker_2)
+0:46:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11127.148438, 207.760132, 11978.843750>)
+0:47:3 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11139.997070, 203.577835, 11975.519531>)
+0:47:47 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<11127.565430, 207.331161, 11976.698242>)
+0:48:0 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8221.860352, 469.685852, 9060.530273>)
+0:48:0 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8221.86,0,9060.53)
+0:48:13 | "PieceDuck" (steamid=76561198161108074) deleted object "MetalPlate" (pos=<8200.468750, 471.295532, 9061.097656>)
+0:48:15 | "PieceDuck" (steamid=76561198161108074) deleted object "WoodenPlank" (pos=<8200.468750, 471.339722, 9061.097656>)
+0:48:16 | "PieceDuck" (steamid=76561198161108074) deleted object "WoodenLog" (pos=<8200.468750, 471.270782, 9061.097656>)
+0:48:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Offroad_02)
+0:49:6 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+0:49:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Offroad_02)
+0:49:31 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+0:49:47 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Offroad_02)
+0:49:57 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+0:50:12 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Offroad_02)
+0:50:26 | "PieceDuck" (steamid=76561198161108074) deleted object "AKS74U" (pos=<8198.456055, 471.710052, 9002.771484>)
+0:50:59 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+0:51:27 | "PieceDuck" (steamid=76561198161108074) deleted object "GlowPlug" (pos=<8210.036133, 470.672485, 9010.235352>)
+0:51:48 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+0:57:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_CZ)
+0:58:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+1:5:28 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+1:5:28 | Player "PieceDuck" (steamId=76561198161108074) disconnected early from server (EXIT NOW).
+1:5:33 | Player "PieceDuck" (steamId=76561198161108074) disconnected from server.

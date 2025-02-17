@@ -1,0 +1,259 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-27_18-1-11
+====================================================================================
+18:1:11 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:1:11 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:1:11 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:1:11 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:1:11 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:1:11 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:1:11 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:1:11 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:1:11 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:1:11 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:1:11 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:1:11 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:1:11 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:1:11 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:1:11 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:1:11 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:1:11 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:1:11 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:1:11 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+18:1:11 | [PermissionManager] Adding Super Admin (76561198104182080)
+18:1:11 | [PermissionManager] Loaded UserGroups.json
+18:1:11 | [PermissionManager] Perm (RZ_AdminCarForm_VPP) has been registered!
+18:1:11 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:1:11 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:1:11 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:1:11 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:1:11 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:1:11 | Building Sets Loaded: 3
+18:1:11 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:2:14 | Player "Harpy" (steamId=76561199319603335) connected to server!
+18:3:26 | Player "HvaRan" (steamId=76561199768403272) connected to server!
+18:4:51 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+18:6:11 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+18:15:55 | Player "HvaRan" (steamId=76561199768403272) initiated disconnect process...
+18:16:0 | Player "Harpy" (steamId=76561199319603335) initiated disconnect process...
+18:16:0 | Player "HvaRan" (steamId=76561199768403272) disconnected from server.
+18:16:5 | Player "Harpy" (steamId=76561199319603335) disconnected from server.
+18:22:44 | Player "Potapycz" (steamId=76561199050258395) connected to server!
+18:43:16 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+18:45:58 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<3727.969971, 401.539734, 6013.390137>)
+18:45:58 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=3727.97,0,6013.39)
+18:47:20 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+18:47:45 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Sedan_02_Red)
+18:48:5 | "PieceDuck" (steamid=76561198161108074) deleted object "Sedan_02_Red" (pos=<6561.160156, 335.900482, 9331.379883>)
+18:49:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (rag_baseitems_wallpicture_unpainted)
+18:50:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionSpraycanCivilian)
+18:50:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionSpraycanCivilian)
+18:50:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionSpraycanBlueline)
+18:50:55 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CivilianSedan_Wine)
+18:51:2 | "PieceDuck" (steamid=76561198161108074) deleted object "CivSedanTrunk_Wine" (pos=<6564.874512, 336.899750, 9333.920898>)
+18:51:4 | "PieceDuck" (steamid=76561198161108074) deleted object "CivilianSedan_Wine" (pos=<6564.832031, 336.105591, 9336.158203>)
+18:51:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionUh1h)
+18:51:31 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionUh1h" (pos=<6566.514648, 336.452179, 9339.211914>)
+18:51:37 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionMh6)
+18:51:57 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionMh6" (pos=<6567.158203, 336.493500, 9340.654297>)
+18:52:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionUh1h)
+18:52:35 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionUh1h" (pos=<6567.430664, 336.548523, 9341.041992>)
+18:52:39 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionSpraycanCivilian" (pos=<6564.326660, 336.195984, 9336.417969>)
+18:52:41 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionSpraycanBlueline" (pos=<6564.236328, 336.129059, 9335.540039>)
+18:52:43 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionSpraycanCivilian" (pos=<6563.539063, 336.126526, 9334.510742>)
+18:53:53 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8216.049805, 469.995697, 9056.830078>)
+18:53:53 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8216.05,0,9056.83)
+18:56:37 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionParkingMeterKit)
+18:56:45 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6540.290039, 335.839600, 9278.255859>)
+18:56:46 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6543.274414, 335.218323, 9305.748047>)
+18:56:47 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6541.440918, 334.831635, 9321.155273>)
+18:57:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionCircuitBoard_MK3)
+18:57:40 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarBattery)
+18:58:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Hatchback_02)
+18:59:36 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionParkingMeter" (pos=<6541.382324, 334.921265, 9328.060547>)
+18:59:39 | "PieceDuck" (steamid=76561198161108074) deleted object "Hatchback_02" (pos=<6537.719727, 334.777191, 9324.067383>)
+19:1:4 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8219.629883, 469.686005, 9053.500000>)
+19:1:4 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8219.63,0,9053.5)
+19:5:47 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeSleepingBag_Blue)
+19:6:22 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+19:6:24 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+19:8:13 | "PieceDuck" (steamid=76561198161108074) deleted object "TerjeSleepingBag_Blue" (pos=<6558.937988, 345.056549, 9186.708008>)
+19:9:17 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8222.799805, 469.824158, 9066.190430>)
+19:9:17 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8222.8,0,9066.19)
+19:9:35 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<4541.049805, 479.259399, 15050.500000>)
+19:9:35 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=4541.05,0,15050.5)
+19:9:37 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:9:55 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4412.732422, 473.174255, 15066.271484>)
+19:9:57 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:10:12 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:11:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/DoorLock.vpp
+19:11:10 | [BuildingSetManager] Saving & Reloading Building Set:DoorLock
+19:11:10 | "PieceDuck" (steamid=76561198161108074) updated building set (DoorLock)
+19:11:10 | [BuildingSetManager] Deleted file: DoorLock
+19:11:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/DoorLock.vpp
+19:11:21 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:11:40 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8584.940430, 11.651060, 2701.879883>)
+19:11:40 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8584.94,0,2701.88)
+19:11:45 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8630.370117, 6.209229, 2648.060059>)
+19:11:45 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8630.37,0,2648.06)
+19:11:47 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:12:4 | "PieceDuck" (steamid=76561198161108074) deleted object "DNA_LockoutSteel_Yellow" (pos=<8809.370117, 207.845993, 2917.949951>)
+19:12:8 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:12:19 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8227.679688, 469.190887, 9045.129883>)
+19:12:19 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8227.68,0,9045.13)
+19:12:26 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:12:27 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:12:59 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:17:20 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:17:21 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:17:39 | Player "Potapycz" (steamId=76561199050258395) initiated disconnect process...
+19:17:42 | Player "Potapycz" (steamId=76561199050258395) disconnected early from server (EXIT NOW).
+19:17:44 | Player "Potapycz" (steamId=76561199050258395) disconnected from server.
+19:18:31 | Player "Potapycz" (steamId=76561199050258395) connected to server!
+19:22:41 | Player "[BERSERKY]BarakObama" (steamId=76561199335652483) connected to server!
+19:27:49 | "PieceDuck" (steamid=76561198161108074) deleted object "rag_baseitems_workbench" (pos=<9671.253906, 298.809998, 8838.647461>)
+19:51:28 | Player "Moon" (steamId=76561199485344583) connected to server!
+20:4:13 | Player "RocketMan" (steamId=76561199678772558) connected to server!
+20:10:59 | "PieceDuck" (steamid=76561198161108074) deleted object "Expansion_BenelliM4" (pos=<1279.372070, 150.480652, 6298.410156>)
+20:12:31 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+20:13:19 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+20:13:37 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+20:14:19 | Player "RocketMan" (steamId=76561199678772558) initiated disconnect process...
+20:14:24 | Player "RocketMan" (steamId=76561199678772558) disconnected from server.
+20:17:13 | "PieceDuck" (steamid=76561198161108074) deleted object "TrafficCone" (pos=<9117.827148, 256.019470, 4094.046387>)
+20:18:46 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8987.127930, 268.337646, 4123.258789>)
+20:21:3 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+20:21:8 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+20:21:13 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+20:21:18 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+20:21:41 | Player "Moon" (steamId=76561199485344583) connected to server!
+20:22:13 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+20:22:14 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<1271.290039, 150.072021, 6308.589844>)
+20:22:14 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=1271.29,0,6308.59)
+20:22:30 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+20:25:58 | Player "RocketMan" (steamId=76561199678772558) connected to server!
+20:33:42 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+20:33:55 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+20:33:57 | "PieceDuck" (steamid=76561198161108074) just updated a health stat on (steamid=76561198161108074)
+20:33:58 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+20:34:4 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<2011.831787, 162.879425, 7299.390137>)
+20:34:5 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<2011.864014, 129.827347, 7298.704590>)
+20:34:12 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<2004.890015, 248.127136, 7285.930176>)
+20:34:12 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=2004.89,0,7285.93)
+20:34:14 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<2007.150024, 247.565277, 7279.140137>)
+20:34:14 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=2007.15,0,7279.14)
+20:34:20 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1995.728516, 252.660034, 7284.966797>)
+20:36:18 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+20:36:55 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+20:36:57 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1999.596802, 249.348984, 7304.353027>)
+20:37:7 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1992.118896, 251.866821, 7292.621582>)
+20:37:10 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+20:48:1 | Player "[BERSERKY]BarakObama" (steamId=76561199335652483) initiated disconnect process...
+20:52:21 | Player "[BERSERKY]BarakObama" (steamId=76561199335652483) connected to server!
+20:52:37 | Player "Potapycz" (steamId=76561199050258395) initiated disconnect process...
+20:52:42 | Player "Potapycz" (steamId=76561199050258395) disconnected from server.
+20:53:2 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<3732.449951, 401.752625, 6012.750000>)
+20:53:2 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=3732.45,0,6012.75)
+21:4:29 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+21:4:34 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+21:16:0 | Player "jaimepasmaurice" (steamId=76561199636469316) connected to server!
+21:16:3 | Player "JN" (steamId=76561198046025798) connected to server!
+21:17:15 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+21:18:6 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<1755.189941, 172.876144, 5261.740234>)
+21:18:6 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=1755.19,0,5261.74)
+21:18:11 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1690.475220, 169.507050, 5228.317383>)
+21:18:19 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+21:23:42 | Player "jaimepasmaurice" (steamId=76561199636469316) initiated disconnect process...
+21:23:43 | Player "jaimepasmaurice" (steamId=76561199636469316) disconnected early from server (EXIT NOW).
+21:23:47 | Player "jaimepasmaurice" (steamId=76561199636469316) disconnected from server.
+21:27:43 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+21:27:45 | Player "ZhEkAn" (steamId=76561198300337064) disconnected early from server (EXIT NOW).
+21:27:48 | Player "ZhEkAn" (steamId=76561198300337064) disconnected from server.
+21:28:33 | Player "LONELY" (steamId=76561198162532055) connected to server!
+21:29:46 | Player "LONELY" (steamId=76561198162532055) initiated disconnect process...
+21:29:48 | Player "LONELY" (steamId=76561198162532055) disconnected early from server (EXIT NOW).
+21:29:51 | Player "LONELY" (steamId=76561198162532055) disconnected from server.
+21:30:3 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+21:43:25 | "PieceDuck" (steamid=76561198161108074) gave unlimited ammo to (steamid=76561198161108074)
+21:43:39 | Player "GordonFreeman" (steamId=76561197994755038) connected to server!
+21:43:48 | "PieceDuck" (steamid=76561198161108074) gave unlimited ammo to (steamid=76561198161108074)
+21:57:50 | Player "GordonFreeman" (steamId=76561197994755038) initiated disconnect process...
+21:57:51 | Player "GordonFreeman" (steamId=76561197994755038) disconnected early from server (EXIT NOW).
+21:57:55 | Player "GordonFreeman" (steamId=76561197994755038) disconnected from server.
+21:58:0 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+21:58:0 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+21:58:0 | Player "[BERSERKY]BarakObama" (steamId=76561199335652483) initiated disconnect process...
+21:58:0 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+21:58:0 | Player "JN" (steamId=76561198046025798) initiated disconnect process...

@@ -1,0 +1,185 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-23_22-2-7
+====================================================================================
+22:2:7 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+22:2:7 | [PermissionManager] Perm (FreeCamera) has been registered!
+22:2:7 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuItemManager) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuServerManager) has been registered!
+22:2:7 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+22:2:7 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+22:2:7 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+22:2:7 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+22:2:7 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+22:2:7 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+22:2:7 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+22:2:7 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+22:2:7 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+22:2:7 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuBansManager) has been registered!
+22:2:7 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+22:2:7 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+22:2:7 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+22:2:7 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+22:2:7 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+22:2:7 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+22:2:8 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+22:2:8 | [PermissionManager] Adding Super Admin (76561198104182080)
+22:2:8 | [PermissionManager] Loaded UserGroups.json
+22:2:8 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+22:2:8 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+22:2:8 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+22:2:8 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+22:2:8 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+22:2:8 | Building Sets Loaded: 3
+22:2:8 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+22:3:21 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+22:3:21 | Player "JN" (steamId=76561198046025798) connected to server!
+22:3:24 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+22:3:28 | Player "BodyaBo" (steamId=76561199339736526) connected to server!
+22:3:31 | Player "VoMa" (steamId=76561198104182080) connected to server!
+22:3:49 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+22:4:4 | "VoMa" (steamid=76561198104182080) Spawned Item: (Hatchback_02)
+22:4:19 | "VoMa" (steamid=76561198104182080) Spawned Item: (MPG_AdminBook_01)
+22:5:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (MPG_AdminBook_01)
+22:5:5 | "VoMa" (steamid=76561198104182080) Spawned Item: (OffroadHatchback)
+22:5:15 | "PieceDuck" (steamid=76561198161108074) deleted object "Hatchback_02" (pos=<1920.451782, 247.624466, 11028.725586>)
+22:5:40 | "VoMa" (steamid=76561198104182080) deleted object "CarRadiator" (pos=<1924.117920, 248.165039, 11030.926758>)
+22:5:46 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1924.427124, 247.636124, 11031.304688>)
+22:5:47 | "PieceDuck" (steamid=76561198161108074) deleted object "MPG_AdminBook_01" (pos=<1921.701050, 247.645416, 11033.248047>)
+22:5:52 | Player "Potapycz" (steamId=76561199050258395) connected to server!
+22:5:59 | "PieceDuck" (steamid=76561198161108074) deleted object "HatchbackWheel" (pos=<1923.218994, 247.763840, 11030.998047>)
+22:6:14 | "VoMa" (steamid=76561198104182080) deleted object "CanisterGasoline" (pos=<1923.446533, 247.878342, 11024.395508>)
+22:6:15 | "VoMa" (steamid=76561198104182080) deleted object "CanisterGasoline" (pos=<1923.446533, 247.878342, 11024.395508>)
+22:6:16 | "VoMa" (steamid=76561198104182080) deleted object "CarBattery" (pos=<1923.458740, 247.685562, 11024.427734>)
+22:6:17 | "VoMa" (steamid=76561198104182080) deleted object "LargeGasCanister" (pos=<1923.562988, 247.849442, 11024.367188>)
+22:6:18 | "VoMa" (steamid=76561198104182080) deleted object "" (pos=<1929.072021, 247.116074, 11041.451172>)
+22:6:22 | "VoMa" (steamid=76561198104182080) deleted object "" (pos=<1929.072021, 247.116074, 11041.451172>)
+22:6:23 | "VoMa" (steamid=76561198104182080) deleted object "" (pos=<1929.072021, 247.116074, 11041.451172>)
+22:6:24 | "VoMa" (steamid=76561198104182080) deleted object "" (pos=<1929.072021, 247.116074, 11041.451172>)
+22:6:25 | "VoMa" (steamid=76561198104182080) deleted object "" (pos=<1929.072021, 247.116074, 11041.451172>)
+22:6:32 | "VoMa" (steamid=76561198104182080) toggled godmode
+22:6:34 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_MP7A1)
+22:6:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_MP7A1_DualMagazine)
+22:6:45 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<4350.620117, 6.000000, 2327.120117>)
+22:6:45 | "VoMa": (steamid=76561198104182080) teleported to (pos=4350.62,0,2327.12)
+22:7:32 | "VoMa" (steamid=76561198104182080) Spawned Item: (Jeep_GladiatorF9_BOSS_White)
+22:7:39 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CP_CannabisBrickFuture)
+22:7:47 | "VoMa" (steamid=76561198104182080) deleted object "Barrel_Green" (pos=<4380.494629, 6.333244, 2329.914307>)
+22:7:48 | "VoMa" (steamid=76561198104182080) deleted object "Barrel_Green" (pos=<4380.505371, 6.422970, 2329.283447>)
+22:7:54 | "VoMa" (steamid=76561198104182080) deleted object "Barrel_Green" (pos=<4380.270996, 6.295939, 2329.379883>)
+22:7:55 | "VoMa" (steamid=76561198104182080) deleted object "Barrel_Green" (pos=<4380.512207, 6.390011, 2328.807861>)
+22:8:7 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (HP_Vise)
+22:8:11 | "VoMa" (steamid=76561198104182080) Spawned Item: (CarLock)
+22:8:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (HP_Grinde)
+22:8:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (KIWI_Battery9V)
+22:9:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CodeLock)
+22:9:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarLock)
+22:11:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FOG_BoltCutters)
+22:11:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_CZ_Magazine)
+22:11:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_CZ_Magazine)
+22:17:21 | "PieceDuck" (steamid=76561198161108074) /refuel used on self.
+22:17:40 | "PieceDuck" (steamid=76561198161108074) deleted object "HatchbackWheel" (pos=<3391.150391, 220.434158, 12509.951172>)
+22:58:38 | "VoMa" (steamid=76561198104182080) deleted object "Paper" (pos=<8224.458984, 469.325867, 9016.005859>)
+23:2:24 | "VoMa" (steamid=76561198104182080) Spawned Item: (MPG_AdminBook_01)
+23:5:4 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<1273.619995, 150.052750, 6310.509766>)
+23:5:4 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=1273.62,0,6310.51)
+23:5:30 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8212.280273, 470.082336, 9055.160156>)
+23:5:30 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8212.28,0,9055.16)
+23:6:7 | "VoMa" (steamid=76561198104182080) toggled freecam
+23:6:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<6555.533203, 339.183044, 9354.579102>)
+23:6:10 | "VoMa" (steamid=76561198104182080) toggled freecam
+23:6:49 | "VoMa" (steamid=76561198104182080) deleted object "MPG_AdminBook_01" (pos=<6557.153809, 336.495392, 9356.322266>)
+23:31:16 | "VoMa" (steamid=76561198104182080) toggled godmode
+23:44:21 | Player "Potapycz" (steamId=76561199050258395) initiated disconnect process...
+23:44:26 | Player "Potapycz" (steamId=76561199050258395) disconnected from server.
+23:46:29 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+23:46:54 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+0:3:46 | Player "BodyaBo" (steamId=76561199339736526) initiated disconnect process...
+0:3:48 | Player "BodyaBo" (steamId=76561199339736526) disconnected early from server (EXIT NOW).
+0:3:51 | Player "BodyaBo" (steamId=76561199339736526) disconnected from server.
+0:19:52 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<12154.718750, 140.038162, 12553.648438>)
+0:48:50 | "VoMa" (steamid=76561198104182080) deleted object "HM_Bag" (pos=<10544.116211, 273.146881, 12403.683594>)
+0:48:51 | "VoMa" (steamid=76561198104182080) deleted object "HM_Bag" (pos=<10544.116211, 273.146881, 12403.683594>)
+0:49:41 | Player "JN" (steamId=76561198046025798) initiated disconnect process...
+0:50:45 | Player "JN" (steamId=76561198046025798) connected to server!
+1:17:16 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
+1:17:17 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+1:17:18 | Player "VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+1:17:19 | Player "PieceDuck" (steamId=76561198161108074) disconnected early from server (EXIT NOW).
+1:17:21 | Player "VoMa" (steamId=76561198104182080) disconnected from server.
+1:17:22 | Player "PieceDuck" (steamId=76561198161108074) disconnected from server.
+1:27:53 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+1:27:58 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+1:30:16 | Player "JN" (steamId=76561198046025798) initiated disconnect process...
+1:30:21 | Player "JN" (steamId=76561198046025798) disconnected from server.
+1:33:11 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+1:33:16 | Player "ZhEkAn" (steamId=76561198300337064) disconnected from server.

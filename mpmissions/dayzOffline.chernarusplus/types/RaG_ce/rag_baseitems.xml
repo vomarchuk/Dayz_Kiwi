@@ -2236,10 +2236,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_sewing_machine_kit">
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2248,7 +2248,9 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
         <usage name="Town"/>
-        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="rag_baseitems_sewing_machine">
         <lifetime>1209600</lifetime>
@@ -2275,10 +2277,10 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_oil_bottle">
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2287,12 +2289,15 @@
         <usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="rag_baseitems_sewing_thread">
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2301,6 +2306,9 @@
         <usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="rag_baseitems_sewing_case">
         <nominal>1</nominal>
@@ -2813,10 +2821,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_weapon_solvent">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2824,12 +2832,14 @@
         <category name="tools"/>
         <usage name="Hunting"/>
         <usage name="Military"/>
+        <value name="Tier4" />
+
     </type>
     <type name="rag_baseitems_cleaning_patches">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2837,6 +2847,7 @@
         <category name="tools"/>
         <usage name="Hunting"/>
         <usage name="Military"/>
+        <value name="Tier4" />
     </type>
     <type name="rag_baseitems_trashcan_static_kit">
         <lifetime>3</lifetime>

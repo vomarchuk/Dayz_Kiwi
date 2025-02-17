@@ -1,0 +1,325 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-5_1-32-8
+====================================================================================
+1:32:8 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+1:32:8 | [PermissionManager] Perm (FreeCamera) has been registered!
+1:32:8 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuItemManager) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuServerManager) has been registered!
+1:32:8 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+1:32:8 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+1:32:8 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+1:32:8 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+1:32:8 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+1:32:8 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+1:32:8 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+1:32:8 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+1:32:8 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+1:32:8 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuBansManager) has been registered!
+1:32:8 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+1:32:8 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+1:32:8 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+1:32:8 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+1:32:8 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+1:32:8 | [PermissionManager] Adding Super Admin (76561198104182080)
+1:32:8 | [PermissionManager] Loaded UserGroups.json
+1:32:8 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+1:32:8 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+1:32:8 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+1:32:8 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+1:32:8 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+1:32:8 | Building Sets Loaded: 0
+1:32:8 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+1:32:8 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+1:33:11 | Player "VoMa" (steamId=76561198104182080) connected to server!
+1:35:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:35:25 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:35:40 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_manikin" (pos=<8233.535156, 469.321655, 9019.916992>)
+1:35:41 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_manikin" (pos=<8232.838867, 469.347534, 9018.651367>)
+1:35:47 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin_kit)
+1:35:47 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin_kit)
+1:35:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin_kit)
+1:35:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin_kit)
+1:36:7 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:36:11 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:36:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:36:23 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:36:29 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_manikin)
+1:36:32 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_manikin" (pos=<8242.217773, 469.342407, 9018.405273>)
+1:36:33 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_manikin" (pos=<8242.660156, 469.342407, 9017.656250>)
+1:36:35 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_manikin" (pos=<8242.846680, 469.343140, 9017.343750>)
+1:37:2 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_UFP_Pants_MCB)
+1:37:13 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Gorka_Pants_Black)
+1:37:20 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Pants_Crye_G3_RTGR)
+1:37:21 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Pants_Crye_G3_RG_BlackTrim)
+1:38:39 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_BDU_Pants_RG)
+1:38:40 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_BDU_Pants_Black)
+1:38:55 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_CB_NoSocks)
+1:38:57 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_RG_NoSocks)
+1:38:58 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_Black_NoSocks)
+1:38:59 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_Tan_NoSocks)
+1:39:0 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_CB_Socks)
+1:39:1 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_RG_Socks)
+1:39:2 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_Black_Socks)
+1:39:3 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_Tan_Socks)
+1:39:7 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_DEFCONVans_Shoes_MC)
+1:39:12 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Hooded_Cloak_Black)
+1:39:19 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Red_Gold)
+1:39:20 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Red)
+1:39:21 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Tan)
+1:39:22 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_RG)
+1:39:23 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Black_Gold)
+1:39:24 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Black_White)
+1:39:25 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Black)
+1:39:26 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_New)
+1:39:26 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_New)
+1:39:27 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_AVONM53_Clear)
+1:39:27 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_AVONM53_Clear)
+1:39:30 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_AVONM53_Black)
+1:39:31 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_AVONM53_Red)
+1:42:56 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Knight_Mask_Black)
+1:44:52 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Headset_Tan)
+1:46:1 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_G99_Pants_Black)
+1:46:12 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Pants_Crye_G3_Black)
+1:47:25 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Crye_G3_Shirt_Black)
+1:47:49 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Hoodie_Jacket_Rolled_Black)
+1:47:52 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Hoodie_Jacket_Rolled_FOG)
+1:47:54 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Hoodie_Jacket_Rolled_Black)
+1:48:0 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Shirt_ISOF_Jacket_Black)
+1:48:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_UFJ_Shirt_Black)
+1:48:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_G3_Hoodie_Blue)
+1:48:22 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Hooded_Parka_Black)
+1:50:25 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Bag_DrawBridge_Black)
+1:50:56 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+1:50:58 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+1:51:2 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+1:51:4 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+1:51:32 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_FerroGloves_Black)
+1:51:50 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_GunGloves_Black)
+1:52:0 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Watchcap_Black)
+1:52:1 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Watchcap_Black)
+1:52:1 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Watchcap_Black)
+1:52:58 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_SniperHood_Black)
+1:53:7 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_DEFCONVans_Shoes_Black)
+1:53:36 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Black)
+1:53:43 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Ghost_Mask_Black_Gold)
+1:54:47 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8228.636719, 470.636261, 9014.251953>)
+1:54:50 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8219.595703, 470.186646, 9013.938477>)
+1:55:9 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Panel_MapPackMed_Black)
+1:55:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Brights)
+1:55:47 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Belt_RTGFB_Black)
+1:55:56 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_MRB_Belt_Black)
+1:57:4 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_FlagRoll_Pirate)
+1:57:28 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_JPC_Black)
+1:57:32 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_AVS_Black)
+1:58:9 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Bergen_Rucksack_Black)
+1:58:31 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_SSMK4_Black)
+1:58:33 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_D3CRX_Black)
+1:58:37 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_MMAC_Black)
+1:58:43 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_LBT6094_Black)
+1:58:50 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_Gen4_Black)
+1:58:57 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_FCPC_Black)
+1:59:2 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Vest_CPC_Black)
+2:1:28 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_Black_NoSocks)
+2:1:30 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Zypher_Boots_Black_Socks)
+2:1:50 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8222.798828, 469.488464, 9049.485352>)
+2:1:51 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8209.794922, 470.490845, 9060.119141>)
+2:1:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8197.893555, 472.021698, 9065.753906>)
+2:1:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8185.448242, 473.803192, 9073.703125>)
+2:1:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8171.620605, 474.040039, 9085.476563>)
+2:1:53 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8158.203613, 474.040009, 9097.211914>)
+2:1:53 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8144.828125, 474.056915, 9108.925781>)
+2:1:54 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8138.997559, 474.988037, 9117.024414>)
+2:1:54 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8131.207031, 475.440674, 9128.555664>)
+2:1:58 | [WeatherManager] Send Data Count is 0
+2:2:4 | [Time Manager] Setting Date to 2025/9/30 6:22
+2:3:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8145.702637, 474.300751, 9122.642578>)
+2:3:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8156.477539, 474.040039, 9105.847656>)
+2:3:24 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8167.072754, 474.040009, 9088.698242>)
+2:3:24 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8178.979004, 474.040009, 9075.090820>)
+2:3:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8220.278320, 469.305450, 9025.586914>)
+2:3:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8233.059570, 469.305450, 9021.652344>)
+2:3:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8240.952148, 469.325470, 9019.409180>)
+2:3:38 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8234.911133, 469.305450, 9029.168945>)
+2:3:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8225.761719, 469.339355, 9046.023438>)
+2:3:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8214.835938, 470.128906, 9059.275391>)
+2:3:40 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8200.649414, 471.822510, 9066.280273>)
+2:3:40 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8193.157227, 473.288788, 9071.808594>)
+2:3:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8183.288086, 474.039978, 9080.788086>)
+2:3:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8175.310547, 474.040039, 9091.536133>)
+2:3:42 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8169.358887, 474.040009, 9102.859375>)
+2:3:42 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8163.654785, 474.040009, 9114.516602>)
+2:3:43 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8157.728027, 474.120697, 9120.945313>)
+2:4:35 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8158.824707, 474.040009, 9112.805664>)
+2:4:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8159.236816, 474.040009, 9102.417969>)
+2:4:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8164.708008, 474.040039, 9091.446289>)
+2:4:37 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8171.848633, 474.040009, 9081.761719>)
+2:4:37 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8183.410156, 472.776825, 9067.443359>)
+2:4:38 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8202.647461, 471.058777, 9060.753906>)
+2:4:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8220.451172, 469.709259, 9056.478516>)
+2:4:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8226.605469, 469.286591, 9044.376953>)
+2:4:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8230.606445, 469.304718, 9032.095703>)
+2:4:42 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8236.086914, 469.179993, 9022.291016>)
+2:5:32 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_M50_Gasmask_Black)
+2:9:32 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_FastMT_Mandable_Black)
+2:9:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_FAST_Bump_ERDL)
+2:9:43 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_FAST_Bump_Black)
+2:9:49 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_Airframe_Black)
+2:9:59 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_FAST_SF_Black)
+2:10:7 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_MICH2000_Black)
+2:10:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_Exfil_Black)
+2:10:24 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_AVONM53_Red)
+2:10:27 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_AVONM53_Black)
+2:11:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Panel_Spiritus_Black)
+2:12:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Airframe_Cover_Black)
+2:12:40 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_FASTMT_Cover_Black)
+2:12:55 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_FC_Torus_BattPack_Black)
+2:13:1 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_SF_BatteryPack_Black)
+2:13:9 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_SF_Cover_Black)
+2:13:12 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_Airframe_Black)
+2:13:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_FAST_Bump_Black)
+2:13:19 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_FASTMT_Black)
+2:13:29 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_FAST_SF_Black)
+2:13:39 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_Exfil_Black)
+2:13:41 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Helmet_MICH2000_M81)
+2:15:41 | "VoMa" (steamid=76561198104182080) Spawned Item: (SkiGoggles_WhiteDark)
+2:16:11 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Big_Patch_MeltyBoys)
+2:16:11 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Big_Patch_MeltyBoys)
+2:16:46 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_FastMT_RAC_Black)
+2:17:9 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Arcteryx_Balaclava_Black)
+2:17:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_OpsCore_SOTR)
+2:17:39 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_ESS_Black)
+2:17:40 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_ESS_FDE)
+2:20:13 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Red)
+2:20:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Yellow)
+2:20:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Tropics)
+2:20:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Brights)
+2:20:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Murica)
+2:20:17 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_Gold)
+2:20:17 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOG_Glasses_PitViper_SunKist)
+2:22:7 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8223.857422, 469.304718, 9038.647461>)
+2:22:7 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8222.458984, 469.455353, 9048.497070>)
+2:22:8 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8214.529297, 470.081848, 9057.145508>)
+2:22:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8206.816406, 470.845825, 9061.896484>)
+2:22:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8199.986328, 471.932373, 9066.713867>)
+2:22:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8195.214844, 473.022827, 9070.689453>)
+2:22:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8191.015137, 473.865875, 9074.262695>)
+2:22:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8185.855469, 474.040009, 9078.581055>)
+2:22:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8180.038086, 474.040009, 9083.652344>)
+2:22:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8176.290039, 474.040039, 9089.304688>)
+2:22:11 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8172.678711, 474.040009, 9095.596680>)
+2:23:51 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeHeadgearPsiHelm)
+2:24:59 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8185.643066, 474.040009, 9083.276367>)
+2:25:0 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8192.689453, 473.718353, 9073.636719>)
+2:25:0 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8201.995117, 471.673004, 9066.231445>)
+2:25:0 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8214.573242, 470.118073, 9057.953125>)
+2:25:1 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8224.235352, 469.451843, 9049.425781>)
+2:25:2 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8229.768555, 469.304718, 9037.447266>)
+2:25:40 | "VoMa" (steamid=76561198104182080) Spawned Item: (Custom_ProtectorCase_1000)
+2:27:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predator_01_Boots)
+2:27:39 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predator_01_Helmet)
+2:27:40 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predator_01_Torso)
+2:27:41 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predator_01_Pants)
+2:27:41 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predator_01_Gloves)
+2:27:42 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predator_01_Backpack)
+2:27:43 | "VoMa" (steamid=76561198104182080) Spawned Item: (Predatorkatana)
+2:27:54 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8212.627930, 470.861267, 9068.406250>)
+2:27:55 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8206.506836, 472.243652, 9072.563477>)
+2:27:55 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8201.267578, 473.427338, 9077.187500>)
+2:27:55 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8196.278320, 474.040009, 9081.544922>)
+2:27:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8189.963379, 474.039978, 9086.757813>)
+2:27:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8183.702148, 474.040009, 9093.009766>)
+2:27:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8177.265625, 474.040009, 9099.881836>)
+2:27:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8171.061035, 474.039978, 9106.589844>)
+2:27:57 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8164.776855, 474.040009, 9113.146484>)
+2:27:57 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8160.854980, 474.039917, 9117.280273>)
+2:27:58 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8153.605957, 474.575775, 9126.278320>)
+2:27:58 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8146.263672, 475.262939, 9136.016602>)
+2:27:58 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8143.004395, 475.566772, 9142.832031>)
+2:27:58 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8139.788086, 475.790344, 9150.119141>)
+2:27:59 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8137.785645, 475.953064, 9156.401367>)
+2:27:59 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8135.722168, 475.856842, 9162.730469>)
+2:28:0 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:28:25 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:28:34 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:29:0 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:29:11 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:30:12 | [WeatherManager] Send Data Count is 0
+2:30:19 | [Time Manager] Setting Date to 2025/9/30 6:36
+2:30:26 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:30:34 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:30:41 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:30:43 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:35:13 | "VoMa" (steamid=76561198104182080) toggled freecam
+2:37:5 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
+2:37:6 | Player "VoMa" (steamId=76561198104182080) disconnected from server.

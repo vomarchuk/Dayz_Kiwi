@@ -1,0 +1,177 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-18_18-1-6
+====================================================================================
+18:1:6 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:1:6 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:1:6 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:1:6 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:1:6 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:1:6 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:1:6 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:1:6 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:1:6 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:1:6 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:1:6 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:1:6 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:1:6 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:1:6 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:1:6 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:1:6 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:1:6 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:1:6 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:1:6 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+18:1:6 | [PermissionManager] Adding Super Admin (76561198104182080)
+18:1:6 | [PermissionManager] Loaded UserGroups.json
+18:1:6 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:1:6 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:1:6 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:1:6 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:1:6 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:1:6 | Building Sets Loaded: 1
+18:1:6 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:2:14 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+18:2:15 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) connected to server!
+18:2:17 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+18:2:23 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+18:2:33 | Player "[BERSERKY]Taras" (steamId=76561198309039860) connected to server!
+18:5:26 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (Fireplace)
+18:5:33 | "[BERSERKY] VoMa" (steamid=76561198104182080) Spawned Item: (FOREVER_FIREWOOD)
+18:6:10 | Player "Moon" (steamId=76561199485344583) connected to server!
+18:27:37 | Player "Misha1120" (steamId=76561198278889068) connected to server!
+18:39:48 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+18:40:8 | Player "Moon" (steamId=76561199485344583) connected to server!
+19:3:16 | Player "BodyaBo" (steamId=76561199339736526) connected to server!
+19:12:54 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) initiated disconnect process...
+19:12:56 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+19:12:59 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) disconnected from server.
+19:16:14 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) connected to server!
+19:30:3 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+19:30:8 | Player "ZhEkAn" (steamId=76561198300337064) disconnected from server.
+19:30:29 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+19:35:47 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10828.930664, 168.403198, 9012.497070>)
+19:35:48 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10824.704102, 172.035400, 8985.045898>)
+19:35:51 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10806.419922, 178.573563, 8955.423828>)
+19:36:28 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+19:36:33 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+19:41:40 | Player "Moon" (steamId=76561199485344583) connected to server!
+19:43:36 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9928.272461, 275.614960, 8617.449219>)
+19:43:38 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9915.898438, 274.490204, 8612.677734>)
+19:43:44 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9888.443359, 271.401093, 8606.940430>)
+19:43:45 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9851.751953, 267.633911, 8594.982422>)
+19:43:48 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9808.287109, 262.888092, 8586.493164>)
+19:43:51 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9791.101563, 263.031860, 8588.011719>)
+19:43:54 | "[BERSERKY] VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9752.653320, 258.454315, 8576.855469>)
+19:47:29 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled godmode
+20:19:32 | "[BERSERKY] VoMa" (steamid=76561198104182080) toggled godmode
+20:28:23 | Player "Misha1120" (steamId=76561198278889068) initiated disconnect process...
+20:28:24 | Player "Misha1120" (steamId=76561198278889068) aborted logout process [canceledLogout]
+20:31:13 | Player "Misha1120" (steamId=76561198278889068) initiated disconnect process...
+20:31:15 | Player "Misha1120" (steamId=76561198278889068) disconnected early from server (EXIT NOW).
+20:31:18 | Player "Misha1120" (steamId=76561198278889068) disconnected from server.
+20:34:48 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) initiated disconnect process...
+20:34:50 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+20:34:53 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) disconnected from server.
+20:35:40 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+20:35:45 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+20:40:16 | Player "Moon" (steamId=76561199485344583) connected to server!
+20:42:50 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) connected to server!
+20:48:59 | Player "Survivor" (steamId=76561198172082902) connected to server!
+20:58:53 | Player "Survivor" (steamId=76561198172082902) initiated disconnect process...
+20:58:58 | Player "Survivor" (steamId=76561198172082902) disconnected from server.
+21:21:59 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+21:22:4 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+21:22:35 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+21:26:10 | Player "Survivor" (steamId=76561198352660315) connected to server!
+21:28:46 | Player "Survivor" (steamId=76561198352660315) initiated disconnect process...
+21:28:48 | Player "Survivor" (steamId=76561198352660315) disconnected early from server (EXIT NOW).
+21:28:51 | Player "Survivor" (steamId=76561198352660315) disconnected from server.
+21:29:2 | Player "Creek" (steamId=76561199140738583) connected to server!
+21:33:4 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+21:33:9 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+21:41:56 | Player "Moon" (steamId=76561199485344583) connected to server!
+21:44:44 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+21:44:49 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+21:45:15 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+21:45:31 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+21:45:54 | Player "Moon" (steamId=76561199485344583) connected to server!
+21:54:36 | Player "Creek" (steamId=76561199140738583) disconnected from server.
+21:54:36 | Player "Creek" (steamId=76561199140738583) initiated disconnect process...
+21:57:0 | Player "BodyaBo" (steamId=76561199339736526) initiated disconnect process...
+21:57:0 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+21:57:0 | Player "[BERSERKY]Taras" (steamId=76561198309039860) initiated disconnect process...
+21:57:0 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+21:57:0 | Player "[BERSERKY] VoMa" (steamId=76561198104182080) initiated disconnect process...
+21:57:0 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+21:57:0 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...

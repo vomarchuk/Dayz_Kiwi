@@ -1900,8 +1900,10 @@
     {
       "CategoryName": "Toxic tools",
       "Products": [
-        "TerjeCaseRadMilitary,1,-1,0,10000,1000",
-        "TerjeCaseRadSpecial,1,-1,0,10000,1000"
+        "TerjeCaseRadMilitary,1,-1,0,-1,1000",
+        "TerjeCaseRadSpecial,1,-1,0,-1,1000",
+        "TerjePump,1,-1,0,-1,1000",
+        "TerjeDosimetrPripyat,1,-1,0,-1,500"
       ]
     },
     {

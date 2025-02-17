@@ -1,0 +1,803 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-24_18-37-31
+====================================================================================
+18:37:31 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:37:31 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:37:31 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:37:31 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:37:31 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:37:31 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:37:31 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:37:31 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:37:31 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:37:31 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:37:31 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:37:31 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:37:31 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:37:31 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:37:31 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:37:31 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:37:31 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:37:31 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:37:31 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+18:37:31 | [PermissionManager] Adding Super Admin (76561198104182080)
+18:37:31 | [PermissionManager] Loaded UserGroups.json
+18:37:31 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:37:31 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:37:31 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:37:31 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:37:31 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:37:31 | Building Sets Loaded: 3
+18:37:31 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:38:40 | Player "VoMa" (steamId=76561198104182080) connected to server!
+18:38:46 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:38:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8223.196289, 469.595306, 9055.598633>)
+18:39:10 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<172.470993, -53.132446, 45.981400>)
+18:39:10 | "VoMa": (steamid=76561198104182080) teleported to (pos=172.471,0,45.9814)
+18:39:12 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:39:14 | "VoMa" (steamid=76561198104182080) toggled godmode
+18:39:14 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:39:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<50.980087, 0.696857, 141.645172>)
+18:39:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<118.199272, 0.508612, 82.588127>)
+18:39:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<22.485405, 0.563634, 35.296501>)
+18:39:28 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<12.837326, 0.691056, 19.442604>)
+18:39:30 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-2.625200, 0.938696, 6.140862>)
+18:39:45 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<101.469971, 5.831093, 1518.029297>)
+18:40:25 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+18:44:59 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<6621.549805, 338.342712, 9311.000000>)
+18:44:59 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=6621.55,0,9311)
+18:45:5 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6601.773926, 337.738495, 9333.501953>)
+18:45:5 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6592.149414, 337.737427, 9341.404297>)
+18:45:6 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6579.099609, 337.366394, 9349.527344>)
+18:45:7 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6566.279297, 336.949829, 9356.206055>)
+18:46:58 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:47:0 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
+18:47:2 | Player "VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+18:47:5 | Player "VoMa" (steamId=76561198104182080) disconnected from server.
+18:48:34 | Player "Moon" (steamId=76561199485344583) connected to server!
+18:51:23 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+18:51:26 | Player "VoMa" (steamId=76561198104182080) connected to server!
+18:51:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Sedan_02)
+18:52:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (OffroadHatchback)
+18:52:32 | Player "BodyaBo" (steamId=76561199339736526) connected to server!
+18:52:53 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:52:54 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M4A1)
+18:53:2 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M14)
+18:53:7 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_Expansion_M14_20Rnd)
+18:53:7 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_Expansion_M14_20Rnd)
+18:53:13 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-431.933350, 2.126816, 478.846710>)
+18:53:14 | Player "DeDAnGeL" (steamId=76561198019222339) connected to server!
+18:53:16 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FAMAS)
+18:53:37 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<221.558533, 5.848869, 1569.538940>)
+18:53:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_M14_20Rnd)
+18:53:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_M14_20Rnd)
+18:54:14 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_AWMScope)
+18:54:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_HAMROptic)
+18:54:34 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_46v2x)
+18:54:48 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<567.478333, 6.000000, 1737.489014>)
+18:54:54 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+18:55:17 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitAdvance_Black)
+18:55:17 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitAdvance_Black)
+18:55:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitIndividual_Black)
+18:55:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitIndividual_Black)
+18:55:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitIndividual_Black)
+18:55:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+18:55:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+18:55:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+18:55:37 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+18:55:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+18:55:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+18:55:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+18:55:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+18:55:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+18:55:45 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+18:55:46 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+18:55:46 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+18:55:55 | Player "Potapycz" (steamId=76561199050258395) connected to server!
+18:56:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<112.776688, 5.234558, 1547.302856>)
+18:56:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjePillsNoopept)
+18:56:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeSyringeNew)
+18:56:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeSyringeNew)
+18:56:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+18:56:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+18:56:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+18:56:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+18:56:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+18:56:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+18:56:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeAmpouleErythropoetin)
+18:56:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeAmpouleErythropoetin)
+18:57:4 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorErytromixelin)
+18:57:5 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorErytromixelin)
+18:57:6 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:57:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+18:57:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+18:57:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+18:57:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+18:57:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarLock)
+18:57:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarLock)
+18:57:50 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:57:58 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:58:10 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<7849.770020, 6.019235, 3434.790039>)
+18:58:10 | "VoMa": (steamid=76561198104182080) teleported to (pos=7849.77,0,3434.79)
+18:58:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (Jeep_GladiatorF9_BOSS_camo_blue)
+18:58:44 | "VoMa" (steamid=76561198104182080) deleted object "Jeep_GladiatorF9_BOSS_camo_blue" (pos=<7860.158203, 6.062130, 3453.688965>)
+18:58:55 | "VoMa" (steamid=76561198104182080) Spawned Item: (Jeep_GladiatorF9_BOSS_DarkBlue)
+18:59:6 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Tachi)
+18:59:25 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLCTachiSheath)
+18:59:41 | "VoMa" (steamid=76561198104182080) Spawned Item: (AKS74U)
+19:0:2 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<3647.008545, 5.999997, 2186.771484>)
+19:0:11 | "VoMa" (steamid=76561198104182080) Spawned Item: (Mag_AK74_30Rnd)
+19:0:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (Mag_AK74_30Rnd)
+19:0:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (Mag_AK74_30Rnd)
+19:0:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (Mag_AK74_30Rnd)
+19:0:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DodgeRam_BOSS_camonuke)
+19:0:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<3644.101807, 6.000000, 2177.866455>)
+19:0:32 | "PieceDuck" (steamid=76561198161108074) /refuel used on self.
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:48 | "PieceDuck" (steamid=76561198161108074) deleted object "TerjeCaseRadMilitary" (pos=<3651.487305, 8.279671, 2179.081787>)
+19:0:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:49 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:49 | "VoMa" (steamid=76561198104182080) Spawned Item: (BakedBeansCan)
+19:0:51 | "PieceDuck" (steamid=76561198161108074) deleted object "TerjeCaseRadMilitary" (pos=<3651.492676, 8.278193, 2178.353516>)
+19:0:52 | Player "[BERSERKY]Taras" (steamId=76561198309039860) connected to server!
+19:1:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WoodenCrate)
+19:1:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WoodenCrate)
+19:1:53 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjePillsParacetamol)
+19:1:53 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjePillsParacetamol)
+19:1:53 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjePillsParacetamol)
+19:2:4 | "VoMa" (steamid=76561198104182080) Spawned Item: (TetracyclineAntibiotics)
+19:2:11 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeAmpouleZivirol)
+19:2:13 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeAmpouleZivirol)
+19:2:23 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeInjectorZivirol)
+19:2:24 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeInjectorZivirol)
+19:2:32 | "PieceDuck" (steamid=76561198161108074) deleted object "TerjeAmpouleZivirol" (pos=<3655.820557, 5.979578, 2173.947021>)
+19:2:33 | "PieceDuck" (steamid=76561198161108074) deleted object "TerjeAmpouleZivirol" (pos=<3655.820557, 5.979359, 2173.947021>)
+19:2:37 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:40 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:40 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:41 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:41 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:41 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:41 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:41 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:2:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:44 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:44 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:2:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:2:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorReanimatal)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:7 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Morphine)
+19:3:27 | "VoMa" (steamid=76561198104182080) Spawned Item: (Shovel)
+19:3:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+19:3:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+19:3:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+19:3:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+19:3:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeDrinkMadBull)
+19:3:34 | "VoMa" (steamid=76561198104182080) Spawned Item: (WoodAxe)
+19:4:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitAdvance_Camo)
+19:4:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitIndividual_Brown)
+19:5:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WeaponCleaningKit)
+19:5:2 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WeaponCleaningKit)
+19:5:2 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WeaponCleaningKit)
+19:5:4 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WeaponCleaningKit)
+19:5:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DuctTape)
+19:5:23 | "VoMa" (steamid=76561198104182080) Spawned Item: (TraderPlus_Money_Euro100)
+19:5:29 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:5:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:5:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:5:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:5:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:5:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (EpoxyPutty)
+19:5:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (EpoxyPutty)
+19:5:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (EpoxyPutty)
+19:5:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (CarLock)
+19:5:46 | "VoMa" (steamid=76561198104182080) Spawned Item: (CodeLock)
+19:5:51 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (LeatherSewingKit)
+19:5:52 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (LeatherSewingKit)
+19:6:46 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:6:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7072.336914, 211.710541, 4162.962402>)
+19:6:57 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:8:19 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PP19)
+19:8:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK74)
+19:8:34 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK74_Hndgrd)
+19:8:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK74_WoodBttstck)
+19:9:10 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:9:10 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:9:10 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:10:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:2 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:2 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:10:4 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:4 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:4 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:5 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:5 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:5 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x19_25rnd)
+19:10:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x54_20Rnd)
+19:10:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:35 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:10:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:50 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:50 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_545x39_20Rnd)
+19:10:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:10:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_9x39_20Rnd)
+19:11:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:11:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:11:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:11:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:11:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:11:19 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_556x45_20Rnd)
+19:11:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:11:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:11:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:11:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_308Win_20Rnd)
+19:11:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x39_20Rnd)
+19:11:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x39_20Rnd)
+19:11:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x39_20Rnd)
+19:11:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x39_20Rnd)
+19:11:32 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AmmoBox_762x39_20Rnd)
+19:12:17 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GP5GasMask)
+19:12:17 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GP5GasMask)
+19:12:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GP5GasMask)
+19:12:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GasMask_Filter)
+19:12:29 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GasMask_Filter)
+19:12:29 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GasMask_Filter)
+19:12:29 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GasMask_Filter)
+19:12:29 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GasMask_Filter)
+19:13:47 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FOG_Bag_6ShBagT_White)
+19:15:5 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M4_Suppressor)
+19:15:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FirefighterJacket_Black)
+19:15:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FirefightersPants_Black)
+19:15:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FirefightersHelmet_Red)
+19:16:11 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (StarlightOptic)
+19:16:25 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (KazuarOptic)
+19:16:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (KazuarOptic)
+19:18:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_45ACP)
+19:18:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_45ACP)
+19:18:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_45ACP)
+19:18:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_45ACP)
+19:18:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_45ACP)
+19:18:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_45ACP)
+19:18:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:18:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:18:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:18:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:18:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:18:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:18:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_762x39)
+19:19:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_AKM_Drum75Rnd)
+19:19:50 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_9x19)
+19:19:51 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_9x19)
+19:19:51 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_9x19)
+19:19:52 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Ammo_9x19)
+19:20:2 | "VoMa" (steamid=76561198104182080) toggled godmode
+19:20:5 | "VoMa" (steamid=76561198104182080) /heal used on: "VoMa" (steamid=76561198104182080)
+19:20:20 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<295.308990, 10.930432, 1660.540039>)
+19:20:20 | "VoMa": (steamid=76561198104182080) teleported to (pos=295.309,0,1660.54)
+19:20:23 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<252.559998, 5.314188, 1615.359985>)
+19:20:23 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=252.56,0,1615.36)
+19:20:28 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<271.155701, 5.738343, 1640.664429>)
+19:20:29 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<263.395844, 5.685866, 1632.863281>)
+19:20:30 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<251.245728, 5.420012, 1628.525391>)
+19:20:30 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<233.846375, 5.140770, 1624.409424>)
+19:20:30 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<219.011383, 5.313840, 1620.979370>)
+19:20:31 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<207.961594, 5.500456, 1616.995728>)
+19:20:31 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<198.716797, 5.706313, 1613.373535>)
+19:20:31 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<191.227341, 5.908543, 1611.140869>)
+19:20:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<183.868805, 5.992563, 1610.025757>)
+19:20:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<174.821838, 6.000001, 1608.835449>)
+19:20:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<166.786835, 5.999999, 1607.802368>)
+19:20:35 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:20:48 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:20:51 | "VoMa" (steamid=76561198104182080) toggled godmode
+19:20:52 | "VoMa" (steamid=76561198104182080) toggled godmode
+19:20:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-24719.832031, 14271369.000000, -922711.687500>)
+19:20:54 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8353.863281, 17186112.000000, -878225.312500>)
+19:21:26 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+19:22:3 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:22:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:22:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:22:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:22:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:22:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:22:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8523.933594, 17185030.000000, -878235.937500>)
+19:22:30 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:22:37 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8488.850586, 17183036.000000, -878209.312500>)
+19:22:44 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:22:47 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<585.413025, 8.160491, 1866.369995>)
+19:22:47 | "VoMa": (steamid=76561198104182080) teleported to (pos=585.413,0,1866.37)
+19:22:55 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<619.850098, 5.696213, 1849.916260>)
+19:22:55 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<631.727234, 4.930118, 1844.654175>)
+19:22:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<640.786499, 4.938954, 1840.582764>)
+19:22:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<652.664001, 5.153003, 1838.163574>)
+19:22:57 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<662.410645, 5.793607, 1836.668701>)
+19:23:5 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<253.511993, 5.387065, 1618.750000>)
+19:23:5 | "VoMa": (steamid=76561198104182080) teleported to (pos=253.512,0,1618.75)
+19:23:8 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<227.554764, 5.164011, 1619.167358>)
+19:23:8 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<210.466019, 5.470316, 1619.261475>)
+19:23:8 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<175.343979, 6.000000, 1615.140137>)
+19:23:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-73.808945, 7.172597, 1520.799072>)
+19:23:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-93.183922, 8.852817, 1512.059570>)
+19:23:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-159.196060, 14.092201, 1475.750854>)
+19:23:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-263.223328, 24.862326, 1403.017822>)
+19:23:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-288.076691, 27.865196, 1383.619019>)
+19:23:11 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-305.922791, 30.216354, 1370.029785>)
+19:23:11 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-320.074524, 32.043724, 1359.755859>)
+19:23:11 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-337.946411, 33.749809, 1346.480713>)
+19:23:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-347.315613, 34.365253, 1339.378418>)
+19:23:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-356.103638, 35.016342, 1333.541626>)
+19:23:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-364.551941, 35.752090, 1328.083984>)
+19:23:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-371.834503, 36.523117, 1323.357178>)
+19:23:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-380.060028, 37.417751, 1317.657227>)
+19:23:13 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-388.706451, 38.343216, 1311.545288>)
+19:23:13 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-396.164063, 39.015678, 1306.133057>)
+19:23:13 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-406.475220, 39.666260, 1298.212158>)
+19:23:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-421.878571, 40.094780, 1286.237305>)
+19:23:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-435.048340, 40.088558, 1275.162720>)
+19:23:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-443.847137, 39.838905, 1265.256470>)
+19:23:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-451.472656, 39.675419, 1255.983521>)
+19:23:14 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-455.736969, 39.628517, 1250.747559>)
+19:23:14 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-462.438324, 39.595318, 1242.389526>)
+19:23:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-469.094604, 39.598324, 1233.983276>)
+19:23:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-474.042908, 39.591965, 1227.480469>)
+19:23:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-479.931519, 39.541477, 1219.657227>)
+19:23:15 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Battery9V)
+19:23:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-486.550262, 38.890488, 1210.119019>)
+19:23:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-491.720764, 38.298843, 1202.537598>)
+19:23:16 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-496.529297, 37.629608, 1194.809326>)
+19:23:16 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-501.094727, 36.847389, 1186.496948>)
+19:23:16 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-504.288452, 36.116528, 1179.227295>)
+19:23:16 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-506.373199, 35.223930, 1170.963013>)
+19:23:17 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-516.421021, 34.694588, 1166.652222>)
+19:23:18 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-516.567932, 35.725723, 1175.453613>)
+19:23:18 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-509.420105, 36.379646, 1181.336670>)
+19:23:18 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-501.595856, 36.985996, 1187.731323>)
+19:23:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-487.694702, 37.347916, 1194.112549>)
+19:23:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-473.696564, 37.657207, 1206.618652>)
+19:23:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-445.329681, 36.213638, 1231.456055>)
+19:23:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-421.088715, 35.199013, 1252.312744>)
+19:23:20 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-396.580414, 34.161552, 1273.195923>)
+19:23:20 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-374.140015, 32.870392, 1293.323364>)
+19:23:20 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-354.332214, 31.442419, 1311.564453>)
+19:23:20 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-339.669403, 30.698864, 1325.034790>)
+19:23:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-325.564819, 30.053791, 1337.979004>)
+19:23:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-311.849457, 28.940140, 1350.133789>)
+19:23:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-292.369781, 26.192976, 1362.434570>)
+19:23:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-273.064270, 23.439598, 1374.475952>)
+19:23:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-255.657257, 21.145248, 1385.231689>)
+19:23:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-242.594330, 19.635447, 1393.645386>)
+19:23:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-231.063095, 18.528290, 1401.032471>)
+19:23:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<32.018372, 6.000005, 1563.264404>)
+19:23:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<47.081848, 6.000000, 1565.215332>)
+19:23:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-25.023712, 3.049114, 1510.311279>)
+19:23:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-190.550415, 14.447937, 1424.102173>)
+19:23:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-169.164047, 12.382700, 1438.022827>)
+19:23:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-132.475677, 9.844826, 1459.576416>)
+19:23:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-91.008743, 6.947643, 1483.852661>)
+19:23:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-59.419518, 5.132653, 1502.126099>)
+19:23:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4.309177, 2.539837, 1537.263428>)
+19:23:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<24.234219, 4.328699, 1549.206177>)
+19:23:30 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:23:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<59.509552, 5.994115, 1589.154663>)
+19:23:36 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:23:39 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:23:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<56.120117, -1079.152222, 1671.225708>)
+19:24:5 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<49.560173, -1275.214478, 1670.060303>)
+19:24:14 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<268.438995, 6.367731, 1645.619995>)
+19:24:14 | "VoMa": (steamid=76561198104182080) teleported to (pos=268.439,0,1645.62)
+19:24:17 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:28:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CodeLock)
+19:28:34 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarLock)
+19:28:55 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+19:29:6 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+19:29:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DodgeRam_BOSS_camonuke)
+19:29:57 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:30:3 | "PieceDuck" (steamid=76561198161108074) healed player (steamid=76561198161108074)
+19:30:16 | "PieceDuck" (steamid=76561198161108074) /refuel used on self.
+19:30:21 | "PieceDuck" (steamid=76561198161108074) deleted object "DodgeRam_Cargo1_CamoNuke" (pos=<8218.292969, 471.483612, 9020.403320>)
+19:30:23 | "PieceDuck" (steamid=76561198161108074) deleted object "DodgeRam_Driver_Door_CamoNuke" (pos=<8218.516602, 471.228912, 9021.517578>)
+19:30:25 | "PieceDuck" (steamid=76561198161108074) deleted object "DodgeRam_BOSS_camonuke" (pos=<8219.043945, 469.884369, 9020.198242>)
+19:30:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (DodgeRam_BOSS_camonuke)
+19:31:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WoodenCrate)
+19:31:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WoodenCrate)
+19:31:28 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WoodenCrate)
+19:31:29 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (WoodenCrate)
+19:31:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FOG_Bag_F4Terminator_OD)
+19:33:51 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CanisterGasoline)
+19:34:12 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ElectronicRepairKit)
+19:34:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:34:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:34:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:34:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SewingKit)
+19:34:39 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Screwdriver)
+19:34:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:34:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:34:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Whetstone)
+19:35:12 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (HP_Payalnik)
+19:35:56 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RIP_rivets)
+19:36:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RIP_Plastik)
+19:36:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RIP_sovCap)
+19:36:54 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GardenLime)
+19:37:47 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Pot)
+19:37:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Pot)
+19:38:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M14)
+19:39:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_AWMScope)
+19:39:33 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_uhScope)
+19:39:39 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SCWS_46v2x)
+19:40:6 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_M14_20Rnd)
+19:40:7 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_M14_20Rnd)
+19:40:17 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M4A1)
+19:40:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M4_OEBttstck)
+19:40:33 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (M4_RISHndgrd)
+19:40:39 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ACOGOptic)
+19:40:54 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_CMAG_30Rnd)
+19:40:55 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_CMAG_30Rnd)
+19:40:55 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_CMAG_30Rnd)
+19:41:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<367.349304, 5.999999, 1619.657104>)
+19:41:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<407.277893, 6.000000, 1625.160522>)
+19:41:11 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<435.441711, 6.000000, 1626.726074>)
+19:41:11 | "PieceDuck" (steamid=76561198161108074) deleted object "Mag_CMAG_30Rnd" (pos=<8220.566406, 469.388580, 9022.759766>)
+19:41:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<452.259094, 6.612516, 1627.704224>)
+19:41:13 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<465.529877, 6.000000, 1629.406738>)
+19:41:13 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<474.814545, 6.597135, 1630.666016>)
+19:41:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<490.430695, 6.000000, 1631.604858>)
+19:41:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<506.760986, 5.789577, 1632.045776>)
+19:41:14 | "PieceDuck" (steamid=76561198161108074) deleted object "Mag_CMAG_30Rnd" (pos=<8220.610352, 469.388580, 9022.732422>)
+19:41:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<521.992798, 5.867413, 1632.320068>)
+19:41:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<538.786438, 5.948281, 1632.316162>)
+19:41:15 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<558.143188, 5.440598, 1632.556519>)
+19:41:16 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<582.272583, 2.687819, 1635.006592>)
+19:41:17 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<597.321167, 1.925649, 1640.261963>)
+19:41:17 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<609.768555, 1.804430, 1647.509644>)
+19:41:17 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<622.725220, 1.531015, 1655.719482>)
+19:41:18 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<635.865967, 1.440289, 1663.399414>)
+19:41:18 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<654.166565, 1.327376, 1671.663330>)
+19:41:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<672.203125, 1.254713, 1678.146484>)
+19:41:20 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<700.684448, 1.610109, 1684.832397>)
+19:41:20 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<737.194275, 1.429071, 1691.637329>)
+19:41:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<770.850403, 1.424567, 1697.779663>)
+19:41:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<803.714844, 1.425386, 1703.754395>)
+19:41:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<821.075134, 1.345937, 1708.844238>)
+19:41:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<839.009705, 0.581826, 1716.399414>)
+19:41:26 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:41:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<876.155273, 3.567108, 1770.314453>)
+19:41:42 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PP19)
+19:41:54 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+19:41:55 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Mag_PP19_64Rnd)
+19:42:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<59.403587, 3.809155, 1518.341187>)
+19:42:11 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:42:12 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (KobraOptic)
+19:42:17 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:42:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<51.246212, -2846.535645, 1576.058472>)
+19:42:49 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:42:58 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AK_FoldingBttstck)
+19:43:1 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<198.929001, 5.712267, 1612.030029>)
+19:43:1 | "VoMa": (steamid=76561198104182080) teleported to (pos=198.929,0,1612.03)
+19:43:3 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (AKS74U_Bttstck)
+19:43:26 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PP19_Bttstck)
+19:43:37 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:43:37 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:43:37 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:43:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (PistolSuppressor)
+19:43:52 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FOG_DR_Tomahawk_Standard)
+19:44:19 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitAdvance_Black)
+19:44:22 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitAdvance_Black)
+19:44:24 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitIndividual_Black)
+19:44:24 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeFirstAidKitIndividual_Black)
+19:45:21 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<173.788147, 6.467042, 1591.301147>)
+19:45:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<155.932327, 6.000000, 1580.702637>)
+19:45:22 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<145.002121, 6.409752, 1574.774902>)
+19:45:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<143.989456, 7.816429, 1574.532959>)
+19:45:23 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<117.554169, 5.540460, 1563.133057>)
+19:45:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeAmpouleErythropoetin)
+19:45:24 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<98.201759, 5.235717, 1556.899780>)
+19:45:24 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<88.159431, 5.205379, 1551.435913>)
+19:45:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<77.803383, 5.036284, 1544.955200>)
+19:45:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<69.194397, 5.076388, 1538.446045>)
+19:45:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<62.914085, 5.361981, 1531.315674>)
+19:45:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<56.863865, 4.400714, 1522.248413>)
+19:45:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<50.394554, 2.520820, 1511.543091>)
+19:45:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<43.392288, 2.096982, 1506.242310>)
+19:45:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<35.783764, 1.872190, 1501.825684>)
+19:45:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<28.087948, 1.534361, 1497.379272>)
+19:45:28 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<17.362606, 1.129484, 1493.513916>)
+19:45:32 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<12.467700, -50.627365, 37.983398>)
+19:45:32 | "VoMa": (steamid=76561198104182080) teleported to (pos=12.4677,0,37.9834)
+19:45:39 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:45:46 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-0.159566, 2.047666, 0.206334>)
+19:45:48 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:45:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorZivirol)
+19:45:54 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+19:46:8 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:46:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarLock)
+19:46:29 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-0.633680, -25.941755, 0.022537>)
+19:46:33 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-0.493230, -36.435406, -0.075792>)
+19:46:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1.748898, -50.552269, 0.353172>)
+19:46:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-7.940941, -49.238560, -6.876738>)
+19:46:46 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-16.040178, -49.132458, -7.911919>)
+19:46:48 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-16.100359, -49.124245, -1.105078>)
+19:46:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<-15.892623, -49.113667, 3.755394>)
+19:47:5 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TraderPlus_Money_Euro500)
+19:47:55 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+19:48:26 | Player "LETHALKILLER" (steamId=76561199163482669) connected to server!
+19:49:59 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (SV98)
+19:50:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FishingRod)
+19:50:14 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Jig)
+19:50:30 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Jig)
+19:50:39 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Pipe)
+19:50:40 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Pipe)
+19:50:48 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (GPSReceiver)
+19:51:44 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RIP_insulatingtape)
+19:51:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (HP_Tester)
+19:52:13 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FOG_Strongarm_Knife)
+19:52:14 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<103.979942, 14.327282, 1586.712280>)
+19:52:16 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:52:34 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
+19:52:36 | Player "VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+19:52:39 | Player "VoMa" (steamId=76561198104182080) disconnected from server.
+19:54:1 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<1274.800049, 150.119003, 6306.770020>)
+19:54:1 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=1274.8,0,6306.77)
+19:54:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RIP_WD40S)
+19:56:51 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+19:57:51 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (EpoxyPutty)
+19:58:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (LeatherSewingKit)
+20:2:55 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+20:3:23 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Animal_GallusGallusDomesticus)
+20:3:24 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Animal_GallusGallusDomesticus)
+20:3:45 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (FishingRod)
+20:4:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorErytromixelin)
+20:4:18 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorErytromixelin)
+20:4:20 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorErytromixelin)
+20:4:31 | Player "Potapycz" (steamId=76561199050258395) initiated disconnect process...
+20:6:11 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8128.729980, 471.426361, 9044.040039>)
+20:6:11 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8128.73,0,9044.04)
+20:7:23 | Player "Potapycz" (steamId=76561199050258395) connected to server!
+20:10:13 | "PieceDuck" (steamid=76561198161108074) healed player (steamid=76561198161108074)
+20:10:21 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+20:10:23 | "PieceDuck" (steamid=76561198161108074) just updated a health stat on (steamid=76561198161108074)
+20:13:41 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+20:13:46 | Player "ZhEkAn" (steamId=76561198300337064) disconnected from server.
+20:16:24 | Player "LETHALKILLER" (steamId=76561199163482669) initiated disconnect process...
+20:16:26 | Player "LETHALKILLER" (steamId=76561199163482669) disconnected early from server (EXIT NOW).
+20:16:30 | Player "LETHALKILLER" (steamId=76561199163482669) disconnected from server.
+20:22:55 | Player "Potapycz" (steamId=76561199050258395) initiated disconnect process...
+20:22:57 | Player "Potapycz" (steamId=76561199050258395) aborted logout process [canceledLogout]
+20:23:5 | Player "Potapycz" (steamId=76561199050258395) initiated disconnect process...
+20:23:7 | Player "Potapycz" (steamId=76561199050258395) disconnected early from server (EXIT NOW).
+20:23:10 | Player "Potapycz" (steamId=76561199050258395) disconnected from server.
+20:24:31 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+20:30:34 | Player "JN" (steamId=76561198046025798) connected to server!
+20:33:4 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+20:33:9 | Player "ZhEkAn" (steamId=76561198300337064) disconnected from server.
+20:34:16 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Jeep_GladiatorF9_BOSS_White)
+20:35:1 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CarLock)
+20:37:31 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TraderPlus_Money_Euro500)
+20:37:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TacticalBaconCan_Opened)
+20:37:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TacticalBaconCan_Opened)
+20:37:53 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TacticalBaconCan_Opened)
+20:37:59 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TacticalBaconCan_Opened)
+20:37:59 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TacticalBaconCan_Opened)
+20:38:4 | "PieceDuck" (steamid=76561198161108074) deleted object "TacticalBaconCan_Opened" (pos=<1894.511108, 173.980316, 4313.644531>)
+20:38:5 | "PieceDuck" (steamid=76561198161108074) deleted object "TacticalBaconCan_Opened" (pos=<1894.503906, 173.980957, 4313.675781>)
+20:38:6 | "PieceDuck" (steamid=76561198161108074) deleted object "TacticalBaconCan_Opened" (pos=<1894.496338, 173.982010, 4313.709473>)
+20:38:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TacticalBaconCan_Opened)
+20:39:3 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (HuntingOptic)
+20:40:47 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+20:41:6 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8220.969727, 469.745270, 9059.049805>)
+20:41:6 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8220.97,0,9059.05)
+20:54:54 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6228.454590, 6.329935, 2223.200195>)
+20:54:55 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6197.164551, 6.626517, 2212.164795>)
+20:54:56 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6169.864746, 7.448843, 2203.594727>)
+20:54:56 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6149.717285, 8.202719, 2204.745361>)
+20:54:57 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6132.840332, 9.163478, 2206.855469>)
+20:54:57 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6116.504883, 10.145063, 2208.546143>)
+20:54:57 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6098.157227, 10.922775, 2209.395508>)
+20:54:58 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6067.053223, 11.054662, 2209.771729>)
+20:54:59 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<6021.118652, 10.395018, 2209.555176>)
+20:54:59 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<5993.637695, 10.346510, 2205.828857>)
+20:55:0 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<5946.545898, 9.250916, 2192.452148>)
+20:55:0 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<5913.670898, 9.166853, 2182.813721>)
+20:55:1 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<5874.056641, 9.034166, 2174.999756>)
+20:56:19 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8168.240234, 473.566711, 9066.059570>)
+20:56:19 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8168.24,0,9066.06)
+20:57:43 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (NailBox)
+20:57:55 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (HM_Mystery_Crate_Key)
+20:59:1 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8227.959961, 469.312836, 9050.089844>)
+20:59:1 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8227.96,0,9050.09)
+21:21:17 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionBus_Weeb)
+21:21:50 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionBus_Weeb" (pos=<8224.447266, 469.340729, 9028.956055>)
+21:22:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionTractor)
+21:22:58 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionTractor" (pos=<8225.483398, 469.351624, 9022.469727>)
+21:23:27 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionUAZ)
+21:24:14 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionUAZ" (pos=<8227.115234, 469.349976, 9023.399414>)
+21:24:46 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionTractor_Blue)
+21:25:33 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<7171.930176, 268.930298, 7396.339844>)
+21:25:33 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=7171.93,0,7396.34)
+21:27:32 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8206.200195, 472.626770, 9075.139648>)
+21:27:32 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8206.2,0,9075.14)
+21:28:41 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionTractor_Blue" (pos=<8074.406738, 467.556854, 9113.043945>)
+21:31:21 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ExpansionBus_Weeb)
+21:33:46 | "PieceDuck" (steamid=76561198161108074) deleted object "ExpansionBus_Weeb" (pos=<8233.733398, 469.352478, 9024.237305>)
+21:33:53 | "PieceDuck" (steamid=76561198161108074) deleted object "DodgeRam_Wheel_Destroyed" (pos=<8231.690430, 469.416412, 9021.655273>)
+21:34:43 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+21:35:38 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+21:35:40 | "PieceDuck" (steamid=76561198161108074) gave godmode to (steamid=76561198161108074)
+21:39:19 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+21:39:20 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+21:48:33 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<3721.850098, 401.783203, 6003.959961>)
+21:48:33 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=3721.85,0,6003.96)
+21:49:13 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8213.809570, 470.086304, 9056.639648>)
+21:49:13 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8213.81,0,9056.64)
+21:50:10 | Player "[BERSERKY]Taras" (steamId=76561198309039860) initiated disconnect process...
+21:50:12 | Player "[BERSERKY]Taras" (steamId=76561198309039860) disconnected early from server (EXIT NOW).
+21:50:15 | Player "[BERSERKY]Taras" (steamId=76561198309039860) disconnected from server.
+21:54:7 | "PieceDuck" (steamid=76561198161108074) deleted object "rag_baseitems_celtic_shelter" (pos=<6326.643066, 27.454500, 3300.805664>)
+21:54:43 | Player "Reed" (steamId=76561198419347424) connected to server!
+21:56:2 | Player "JN" (steamId=76561198046025798) initiated disconnect process...
+21:56:7 | Player "JN" (steamId=76561198046025798) disconnected from server.
+21:57:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RIP_CleaningKitPlastic)
+21:57:56 | Player "Reed" (steamId=76561198419347424) initiated disconnect process...
+21:57:56 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+21:57:56 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+21:57:56 | Player "BodyaBo" (steamId=76561199339736526) initiated disconnect process...
+21:57:56 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+21:57:56 | Player "DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...

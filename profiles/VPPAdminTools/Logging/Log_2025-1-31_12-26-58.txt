@@ -1,0 +1,268 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-31_12-26-58
+====================================================================================
+12:26:58 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+12:26:58 | [PermissionManager] Perm (FreeCamera) has been registered!
+12:26:58 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuItemManager) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuServerManager) has been registered!
+12:26:58 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+12:26:58 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+12:26:58 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+12:26:58 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+12:26:58 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+12:26:58 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+12:26:58 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+12:26:58 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+12:26:58 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+12:26:58 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuBansManager) has been registered!
+12:26:58 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+12:26:58 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+12:26:58 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+12:26:58 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+12:26:58 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+12:26:58 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+12:26:58 | [PermissionManager] Adding Super Admin (76561198104182080)
+12:26:58 | [PermissionManager] Loaded UserGroups.json
+12:26:58 | [PermissionManager] Perm (RZ_AdminCarForm_VPP) has been registered!
+12:26:58 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+12:26:58 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+12:26:58 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+12:26:58 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+12:26:58 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+12:26:58 | Building Sets Loaded: 6
+12:26:59 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:31:33 | Player "BodyaBo" (steamId=76561199339736526) connected to server!
+12:32:6 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+12:34:15 | Player "VoMa" (steamId=76561198104182080) connected to server!
+12:34:31 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:34:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<3713.720703, 402.000000, 6004.051270>)
+12:34:51 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:34:51 | "VoMa" (steamid=76561198104182080) toggled godmode
+12:36:30 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:36:34 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<3520.972656, 346.049011, 6673.640625>)
+12:36:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<3493.679688, 344.006744, 6879.286621>)
+12:36:37 | "VoMa" (steamid=76561198104182080) toggled godmode
+12:36:37 | "VoMa" (steamid=76561198104182080) toggled godmode
+12:36:42 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<3610.174316, 307.238159, 7595.469238>)
+12:36:45 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<3787.568115, 304.768921, 8070.411621>)
+12:36:48 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4095.500732, 309.841980, 8481.460938>)
+12:36:51 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4406.350586, 325.396606, 8986.618164>)
+12:36:53 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4590.214844, 333.201538, 9178.448242>)
+12:37:1 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<4006.202148, 354.037811, 9618.573242>)
+12:37:57 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<1200.239990, 168.714767, 5276.419922>)
+12:37:57 | "VoMa": (steamid=76561198104182080) teleported to (pos=1200.24,0,5276.42)
+12:38:0 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:38:23 | "VoMa" (steamid=76561198104182080) deleted object "FOG_GhillieSuit_Tan" (pos=<1208.126099, 168.709229, 5276.800293>)
+12:38:25 | "VoMa" (steamid=76561198104182080) deleted object "RIP_WD40" (pos=<1207.513428, 168.383514, 5277.791016>)
+12:38:26 | "VoMa" (steamid=76561198104182080) deleted object "Wreck_UH1Y" (pos=<1207.258301, 170.109665, 5281.123535>)
+12:38:28 | "VoMa" (steamid=76561198104182080) deleted object "BRDK_IT_Soldier_01_zmb" (pos=<1207.757446, 168.395782, 5277.098145>)
+12:38:40 | "VoMa" (steamid=76561198104182080) deleted object "PlateCarrierVest_Winter" (pos=<1204.434692, 168.410278, 5280.726074>)
+12:38:42 | "VoMa" (steamid=76561198104182080) deleted object "FOG_Pouch_Mag_AVS_MC" (pos=<1205.014771, 168.379562, 5280.138672>)
+12:38:49 | "VoMa" (steamid=76561198104182080) deleted object "FOG_M50_Gasmask_Black" (pos=<1200.614380, 168.625793, 5280.534668>)
+12:38:55 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<1160.000000, 5.535362, 2610.379883>)
+12:38:55 | "VoMa": (steamid=76561198104182080) teleported to (pos=1160,0,2610.38)
+12:39:0 | "VoMa" (steamid=76561198104182080) deleted object "FOG_Lerch_Boots_CB" (pos=<1162.915405, 5.689312, 2610.491943>)
+12:39:2 | "VoMa" (steamid=76561198104182080) deleted object "GhillieBushrag_Mossy" (pos=<1164.005127, 5.888611, 2608.902100>)
+12:39:6 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_big_safe_kit" (pos=<1157.714600, 5.444391, 2612.199951>)
+12:39:19 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<2768.000000, 107.432747, 2410.379883>)
+12:39:19 | "VoMa": (steamid=76561198104182080) teleported to (pos=2768,0,2410.38)
+12:39:26 | "VoMa" (steamid=76561198104182080) deleted object "NBCPantsGray" (pos=<2762.341797, 107.845779, 2403.854492>)
+12:39:32 | "VoMa" (steamid=76561198104182080) deleted object "KIWI_WeaponCleaningKit" (pos=<2753.516602, 108.327103, 2400.159668>)
+12:39:39 | "VoMa" (steamid=76561198104182080) deleted object "Mag_UMP_25Rnd" (pos=<2755.144775, 108.203331, 2403.338867>)
+12:39:44 | "VoMa" (steamid=76561198104182080) deleted object "FOG_Boonie_Grey" (pos=<2759.510986, 107.893181, 2408.284668>)
+12:40:6 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:40:7 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:41:2 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<6591.339844, 339.275726, 9371.759766>)
+12:41:2 | "VoMa": (steamid=76561198104182080) teleported to (pos=6591.34,0,9371.76)
+12:42:36 | "VoMa" (steamid=76561198104182080) Spawned Item: (KIWI_Battery9V)
+12:45:19 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<5340.000000, 318.319946, 7630.319824>)
+12:45:19 | "VoMa": (steamid=76561198104182080) teleported to (pos=5340,0,7630.32)
+12:46:0 | "VoMa" (steamid=76561198104182080) Spawned Item: (MPG_AdminBook_01)
+12:46:43 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<8225.990234, 469.180206, 9037.580078>)
+12:46:43 | "VoMa": (steamid=76561198104182080) teleported to (pos=8225.99,0,9037.58)
+12:47:27 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<5354.200195, 316.881714, 7635.600098>)
+12:47:27 | "VoMa": (steamid=76561198104182080) teleported to (pos=5354.2,0,7635.6)
+12:48:0 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:48:13 | "VoMa" (steamid=76561198104182080) deleted building set (test)
+12:48:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+12:48:36 | "VoMa" (steamid=76561198104182080) created new building set (Base_BodyaBo)
+12:50:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+12:50:41 | [BuildingSetManager] Saving & Reloading Building Set:Base_BodyaBo
+12:50:41 | "VoMa" (steamid=76561198104182080) updated building set (Base_BodyaBo)
+12:50:41 | [BuildingSetManager] Deleted file: Base_BodyaBo
+12:50:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+12:50:44 | "VoMa" (steamid=76561198104182080) toggled freecam
+12:51:58 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_GateKit)
+12:52:26 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_frame at position: <5349.998535, 319.248779, 7637.194336>
+12:52:29 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_1 at position: <5349.998535, 319.248779, 7637.194336>
+12:52:32 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_2 at position: <5349.998535, 319.248779, 7637.194336>
+12:52:54 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_GateKit)
+12:53:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_Admin_Hatchet)
+12:53:56 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_WallKit)
+12:54:25 | Admin "VoMa" (steamId=76561198104182080) built part simple_wall at position: <5350.001953, 319.248779, 7636.959473>
+12:55:43 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_WoodStorageKit)
+12:56:5 | Admin "VoMa" (steamId=76561198104182080) built part floor at position: <5354.821777, 316.877197, 7643.885742>
+12:56:6 | Admin "VoMa" (steamId=76561198104182080) built part frame at position: <5354.821777, 316.877197, 7643.885742>
+12:56:8 | Admin "VoMa" (steamId=76561198104182080) built part roof at position: <5354.821777, 316.877197, 7643.885742>
+12:56:18 | "VoMa" (steamid=76561198104182080) deleted object "RaG_BB_WoodStorage" (pos=<5354.821777, 316.877197, 7643.885742>)
+12:57:32 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_frame at position: <5350.021973, 319.248779, 7637.187012>
+12:57:43 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_2 at position: <5350.021973, 319.248779, 7637.187012>
+12:57:45 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_1 at position: <5350.021973, 319.248779, 7637.187012>
+12:57:58 | "VoMa" (steamid=76561198104182080) Spawned Item: (CodeLock)
+12:58:21 | Player "BodyaBo" (steamId=76561199339736526) initiated disconnect process...
+12:58:26 | Player "BodyaBo" (steamId=76561199339736526) disconnected from server.
+12:58:51 | Player "BodyaBo" (steamId=76561199339736526) connected to server!
+12:59:34 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:1:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:1:6 | [BuildingSetManager] Saving & Reloading Building Set:Base_BodyaBo
+13:1:6 | "VoMa" (steamid=76561198104182080) updated building set (Base_BodyaBo)
+13:1:6 | [BuildingSetManager] Deleted file: Base_BodyaBo
+13:1:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:1:11 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:1:39 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:5:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:5:21 | [BuildingSetManager] Saving & Reloading Building Set:Base_BodyaBo
+13:5:21 | "VoMa" (steamid=76561198104182080) updated building set (Base_BodyaBo)
+13:5:21 | [BuildingSetManager] Deleted file: Base_BodyaBo
+13:5:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:12:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:12:35 | [BuildingSetManager] Saving & Reloading Building Set:Base_BodyaBo
+13:12:35 | "VoMa" (steamid=76561198104182080) updated building set (Base_BodyaBo)
+13:12:35 | [BuildingSetManager] Deleted file: Base_BodyaBo
+13:12:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:12:40 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:13:2 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:13:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:13:23 | [BuildingSetManager] Saving & Reloading Building Set:Base_BodyaBo
+13:13:23 | "VoMa" (steamid=76561198104182080) updated building set (Base_BodyaBo)
+13:13:23 | [BuildingSetManager] Deleted file: Base_BodyaBo
+13:13:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:19:47 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:19:47 | [BuildingSetManager] Saving & Reloading Building Set:Base_BodyaBo
+13:19:47 | "VoMa" (steamid=76561198104182080) updated building set (Base_BodyaBo)
+13:19:47 | [BuildingSetManager] Deleted file: Base_BodyaBo
+13:19:47 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_BodyaBo.vpp
+13:19:50 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:20:25 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:21:52 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:22:34 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:24:34 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:28:8 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:33:2 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5356.984375, 316.529083, 7631.505371>)
+13:33:38 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5735.872070, 323.170227, 7020.008301>)
+13:34:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_№2.vpp
+13:34:5 | "VoMa" (steamid=76561198104182080) created new building set (Base_№2)
+13:35:56 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:36:10 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:37:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_№2.vpp
+13:37:5 | [BuildingSetManager] Saving & Reloading Building Set:Base_№2
+13:37:5 | "VoMa" (steamid=76561198104182080) updated building set (Base_№2)
+13:37:5 | [BuildingSetManager] Deleted file: Base_№2
+13:37:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Base_№2.vpp
+13:37:8 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:37:19 | [WeatherManager] Send Data Count is 0
+13:37:28 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_GateKit)
+13:37:51 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_frame at position: <5722.224609, 326.037567, 7011.350098>
+13:37:52 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_1 at position: <5722.224609, 326.037567, 7011.350098>
+13:37:54 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_2 at position: <5722.224609, 326.037567, 7011.350098>
+13:38:29 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:38:38 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:38:40 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5729.397461, 323.674164, 7019.520508>)
+13:38:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5728.792480, 323.760834, 7019.340820>)
+13:38:44 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:38:52 | [WeatherManager] Send Data Count is 0
+13:38:56 | [Time Manager] Setting Date to 2024/10/1 6:21
+13:39:16 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:39:21 | "VoMa" (steamid=76561198104182080) deleted object "BIM_house_two_stove_garage" (pos=<5722.279785, 323.000000, 7011.399902>)
+13:39:48 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_Admin_Hatchet)
+13:40:32 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<5344.000000, 317.906982, 7633.850098>)
+13:40:32 | "VoMa": (steamid=76561198104182080) teleported to (pos=5344,0,7633.85)
+13:40:49 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<5344.970215, 317.838196, 7636.819824>)
+13:40:49 | "VoMa": (steamid=76561198104182080) teleported to (pos=5344.97,0,7636.82)
+13:41:5 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:41:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<5345.178711, 322.412506, 7636.158203>)
+13:41:9 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:46:55 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:47:7 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<8235.969727, 469.179993, 9028.969727>)
+13:47:7 | "VoMa": (steamid=76561198104182080) teleported to (pos=8235.97,0,9028.97)
+13:47:10 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:47:14 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:47:22 | "VoMa" (steamid=76561198104182080) toggled freecam
+13:48:56 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
+13:48:57 | Player "VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+13:49:1 | Player "VoMa" (steamId=76561198104182080) disconnected from server.
+13:50:42 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+13:50:47 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+13:57:5 | Player "BodyaBo" (steamId=76561199339736526) initiated disconnect process...
+13:57:10 | Player "BodyaBo" (steamId=76561199339736526) disconnected from server.

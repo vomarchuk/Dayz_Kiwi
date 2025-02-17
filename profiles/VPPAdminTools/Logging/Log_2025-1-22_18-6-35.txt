@@ -1,0 +1,334 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-22_18-6-35
+====================================================================================
+18:6:35 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:6:35 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:6:35 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:6:35 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:6:35 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:6:35 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:6:35 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:6:35 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:6:35 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:6:35 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:6:35 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:6:35 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:6:35 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:6:35 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:6:35 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:6:35 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:6:35 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:6:35 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:6:35 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+18:6:35 | [PermissionManager] Adding Super Admin (76561198104182080)
+18:6:35 | [PermissionManager] Loaded UserGroups.json
+18:6:35 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:6:35 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:6:35 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:6:35 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:6:35 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:6:35 | Building Sets Loaded: 2
+18:6:35 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:7:30 | Player "BodyaBo" (steamId=76561199339736526) connected to server!
+18:8:21 | Player "ZhEkAn" (steamId=76561198300337064) connected to server!
+18:8:38 | Player "Moon" (steamId=76561199485344583) connected to server!
+18:10:14 | Player "[BERSERKY]Taras" (steamId=76561198309039860) connected to server!
+18:21:2 | Player "VoMa" (steamId=76561198104182080) connected to server!
+18:36:13 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+18:38:9 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+18:49:33 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:49:37 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9069.274414, 304.557953, 9585.966797>)
+18:49:47 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:49:54 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:49:58 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9065.564453, 306.883942, 9593.670898>)
+18:50:0 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:50:28 | "VoMa" (steamid=76561198104182080) toggled freecam
+18:50:33 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<9052.032227, 354.714233, 9449.276367>)
+18:50:35 | "VoMa" (steamid=76561198104182080) toggled freecam
+19:1:16 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+19:1:21 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) disconnected from server.
+19:11:47 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) connected to server!
+19:59:20 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerritoryFlag)
+19:59:29 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerritoryFlag)
+20:0:53 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+20:12:13 | Player "Karlikos ckk" (steamId=76561199405230471) connected to server!
+20:15:24 | Player "Karlikos ckk" (steamId=76561199405230471) initiated disconnect process...
+20:15:26 | Player "Karlikos ckk" (steamId=76561199405230471) disconnected early from server (EXIT NOW).
+20:15:29 | Player "Karlikos ckk" (steamId=76561199405230471) disconnected from server.
+20:17:41 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+20:17:46 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+21:9:11 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<1059.930054, 152.861420, 6634.390137>)
+21:9:11 | "VoMa": (steamid=76561198104182080) teleported to (pos=1059.93,0,6634.39)
+21:9:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (MPG_AdminBook_01)
+21:10:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1096.131226, 149.542358, 6613.982422>)
+21:10:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1101.142334, 149.259995, 6602.329102>)
+21:10:50 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_single_locker_green_kit)
+21:11:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (Custom_ProtectorCase_600_Toxic)
+21:11:26 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_single_locker_green_kit)
+21:11:26 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_single_locker_green_kit)
+21:11:26 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_single_locker_green_kit)
+21:11:34 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_single_locker_green_kit" (pos=<1105.034302, 149.275116, 6606.025879>)
+21:11:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1107.906982, 149.369995, 6583.330566>)
+21:12:10 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1096.042603, 149.945419, 6635.227051>)
+21:12:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1086.201660, 151.042511, 6639.259766>)
+21:12:37 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_old_fridge_Kit)
+21:12:39 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_old_fridge_Kit)
+21:12:39 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_old_fridge_Kit)
+21:12:51 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_barrel_Kit)
+21:12:51 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_barrel_Kit)
+21:12:52 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_barrel_Kit)
+21:12:52 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_barrel_Kit)
+21:12:58 | "VoMa" (steamid=76561198104182080) deleted object "bl_stove_barrel_Kit" (pos=<1068.446045, 153.153976, 6646.508789>)
+21:12:59 | "VoMa" (steamid=76561198104182080) deleted object "bl_stove_barrel_Kit" (pos=<1068.091309, 153.153976, 6647.076172>)
+21:13:0 | "VoMa" (steamid=76561198104182080) deleted object "bl_stove_barrel_Kit" (pos=<1069.035645, 153.153976, 6646.841309>)
+21:13:2 | "VoMa" (steamid=76561198104182080) deleted object "bl_stove_barrel_Kit" (pos=<1069.346680, 153.153976, 6646.248047>)
+21:13:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_prefab_Kit)
+21:13:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_prefab_Kit)
+21:13:15 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_prefab_Kit)
+21:13:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_prefab_Kit)
+21:13:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_stove_prefab_Kit)
+21:13:24 | "VoMa" (steamid=76561198104182080) deleted object "bl_stove_prefab_Kit" (pos=<1067.089600, 153.167389, 6646.515137>)
+21:13:25 | "VoMa" (steamid=76561198104182080) deleted object "bl_stove_prefab_Kit" (pos=<1067.089600, 153.167389, 6646.515137>)
+21:13:36 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_magpump_kit)
+21:13:37 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_magpump_kit)
+21:13:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_magpump_kit)
+21:13:38 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_magpump_kit)
+21:13:43 | "VoMa" (steamid=76561198104182080) deleted object "rag_baseitems_magpump_kit" (pos=<1067.561646, 153.182495, 6645.964355>)
+21:13:48 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1080.197266, 151.801834, 6637.902832>)
+21:13:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1088.765381, 150.484283, 6638.796387>)
+21:13:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1095.482178, 149.826447, 6640.821289>)
+21:14:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOREVER_FIREWOOD)
+21:14:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOREVER_FIREWOOD)
+21:14:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOREVER_FIREWOOD)
+21:14:35 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOREVER_FIREWOOD)
+21:14:36 | "VoMa" (steamid=76561198104182080) Spawned Item: (FOREVER_FIREWOOD)
+21:14:43 | "VoMa" (steamid=76561198104182080) deleted object "FOREVER_FIREWOOD" (pos=<1090.662354, 150.323425, 6646.393066>)
+21:14:44 | "VoMa" (steamid=76561198104182080) deleted object "FOREVER_FIREWOOD" (pos=<1090.662354, 150.323425, 6646.393066>)
+21:14:51 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1093.988525, 150.074753, 6633.514648>)
+21:14:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1094.144165, 149.908508, 6620.727051>)
+21:14:52 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1098.302979, 149.452072, 6612.094238>)
+21:14:53 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1101.576294, 149.260025, 6603.542480>)
+21:16:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1105.314087, 149.292114, 6593.978027>)
+21:16:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1101.543823, 149.259979, 6602.362305>)
+21:16:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1097.814575, 149.376541, 6610.148926>)
+21:16:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1094.526123, 149.697128, 6617.017578>)
+21:16:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1091.085693, 150.110184, 6624.132813>)
+21:16:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1086.372314, 150.829727, 6630.537598>)
+21:16:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1081.333130, 151.578766, 6635.339355>)
+21:16:28 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1077.489380, 152.079010, 6640.641602>)
+21:16:43 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_Single_DoorKit)
+21:16:44 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_Single_DoorKit)
+21:16:44 | "VoMa" (steamid=76561198104182080) Spawned Item: (RaG_BB_Single_DoorKit)
+21:16:58 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_lantern_wall_kit)
+21:16:59 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_lantern_wall_kit)
+21:16:59 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_lantern_wall_kit)
+21:17:8 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:17:9 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1070.941528, 157.065933, 6645.417969>)
+21:17:10 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:17:21 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_solar_panel_Kit)
+21:17:22 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_solar_panel_Kit)
+21:17:22 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_solar_panel_Kit)
+21:17:33 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_extension_cable_reel)
+21:17:34 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_extension_cable_reel)
+21:17:34 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_extension_cable_reel)
+21:17:34 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_extension_cable_reel)
+21:17:34 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_extension_cable_reel)
+21:18:11 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1096.662842, 149.632782, 6647.705566>)
+21:18:17 | [WeatherManager] Send Data Count is 0
+21:18:21 | [Time Manager] Setting Date to 2024/10/22 5:39
+21:19:10 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:19:12 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1093.457031, 154.071014, 6646.392578>)
+21:19:12 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:19:44 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:19:46 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1092.075684, 154.469315, 6647.446289>)
+21:19:46 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:19:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjePillsAmoxiclav)
+21:20:17 | "VoMa" (steamid=76561198104182080) Spawned Item: (TruckBattery)
+21:20:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (TruckBattery)
+21:20:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (TruckBattery)
+21:20:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (TruckBattery)
+21:20:24 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjePillsAmoxiclav)
+21:20:29 | "VoMa" (steamid=76561198104182080) deleted object "TruckBattery" (pos=<1091.869873, 154.549149, 6646.538086>)
+21:20:34 | "PieceDuck" (steamid=76561198161108074) deleted object "TerjePillsAmoxiclav" (pos=<8225.569336, 470.721710, 9004.422852>)
+21:20:36 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (TerjeInjectorAmoxiclav)
+21:21:38 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:21:40 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1094.092529, 153.887924, 6645.802734>)
+21:21:40 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:22:0 | "VoMa" (steamid=76561198104182080) deleted object "bl_old_fridge" (pos=<1087.797607, 150.242355, 6648.922852>)
+21:22:39 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_frame at position: <1092.891602, 150.242355, 6647.504395>
+21:22:46 | Admin "VoMa" (steamId=76561198104182080) built part simple_door at position: <1092.891602, 150.242355, 6647.504395>
+21:22:57 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1107.129517, 149.304001, 6611.022949>)
+21:22:58 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1105.952637, 149.259995, 6602.697754>)
+21:23:1 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1103.657837, 149.295868, 6593.276855>)
+21:23:6 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1101.549316, 149.889862, 6595.346191>)
+21:23:43 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_frame at position: <1100.310181, 149.889862, 6595.345215>
+21:23:45 | Admin "VoMa" (steamId=76561198104182080) built part simple_door at position: <1100.310181, 149.889862, 6595.345215>
+21:24:6 | Admin "VoMa" (steamId=76561198104182080) built part simple_door_frame at position: <1104.733521, 149.980804, 6580.842285>
+21:24:7 | Admin "VoMa" (steamId=76561198104182080) built part simple_door at position: <1104.733521, 149.980804, 6580.842285>
+21:24:33 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:24:35 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1100.879639, 153.656631, 6596.182617>)
+21:24:36 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:24:39 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.325073, 152.933350, 6582.622070>)
+21:25:16 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+21:25:17 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:25:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1101.385132, 153.538818, 6595.855469>)
+21:25:20 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:25:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.313965, 152.941071, 6582.660156>)
+21:25:49 | Player "[BERSERKY]Taras" (steamId=76561198309039860) initiated disconnect process...
+21:25:51 | Player "[BERSERKY]Taras" (steamId=76561198309039860) disconnected early from server (EXIT NOW).
+21:25:54 | Player "[BERSERKY]Taras" (steamId=76561198309039860) disconnected from server.
+21:26:0 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.843750, 152.814972, 6580.855957>)
+21:26:26 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CableReel)
+21:26:55 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1099.242920, 149.259995, 6607.113281>)
+21:26:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1095.365112, 149.639206, 6615.974609>)
+21:26:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1091.132446, 150.256561, 6625.411621>)
+21:26:57 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1084.087158, 151.163925, 6632.339844>)
+21:26:57 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1077.629761, 152.022049, 6640.022461>)
+21:27:3 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.775757, 152.953796, 6581.087402>)
+21:27:17 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1083.012695, 151.328415, 6633.689941>)
+21:27:17 | "PieceDuck" (steamid=76561198161108074) deleted object "bl_extension_cable_reel" (pos=<1106.176025, 153.636749, 6580.229492>)
+21:27:17 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1092.228027, 149.942017, 6622.222168>)
+21:27:18 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1099.172607, 149.441544, 6612.708984>)
+21:27:19 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1102.584961, 149.259995, 6601.185059>)
+21:27:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1093.862915, 149.634109, 6615.640625>)
+21:27:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1090.809082, 150.133423, 6624.409180>)
+21:27:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1084.828247, 151.067810, 6632.592773>)
+21:27:28 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1079.654663, 151.881836, 6638.499023>)
+21:27:29 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1073.481812, 152.790512, 6646.027344>)
+21:28:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (rag_baseitems_fridge_twodoor_old)
+21:28:1 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_fridge_twodoor_old_kit)
+21:28:21 | "VoMa" (steamid=76561198104182080) deleted object "bl_old_fridge" (pos=<1065.424438, 153.158646, 6647.266602>)
+21:28:25 | "PieceDuck" (steamid=76561198161108074) deleted object "rag_baseitems_fridge_twodoor_old" (pos=<1111.641357, 149.433777, 6582.634277>)
+21:28:38 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (rag_baseitems_retro_fridge)
+21:28:46 | "PieceDuck" (steamid=76561198161108074) deleted object "rag_baseitems_retro_fridge" (pos=<1099.800415, 150.297714, 6580.196289>)
+21:28:47 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:28:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1070.137573, 157.298813, 6645.181641>)
+21:28:49 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:28:59 | "PieceDuck" (steamid=76561198161108074) deleted object "bl_old_fridge" (pos=<1099.240234, 149.980804, 6581.002441>)
+21:29:7 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (rag_baseitems_fridge_twodoor_old_kit)
+21:29:30 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.425659, 152.864868, 6582.279785>)
+21:29:37 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:29:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1070.383911, 157.226456, 6646.013672>)
+21:29:40 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:29:44 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.466919, 152.934464, 6582.139160>)
+21:30:6 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:30:7 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1070.434692, 157.212433, 6645.499512>)
+21:30:8 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:30:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.449219, 153.020325, 6582.199219>)
+21:30:34 | "VoMa" (steamid=76561198104182080) Spawned Item: (CodeLock)
+21:31:13 | "VoMa" (steamid=76561198104182080) Spawned Item: (CodeLock)
+21:31:14 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.050781, 152.924316, 6583.556152>)
+21:31:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.490601, 152.929031, 6582.058594>)
+21:32:2 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (CableReel)
+21:32:8 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.501465, 152.910355, 6582.021484>)
+21:32:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.255737, 152.995178, 6582.858398>)
+21:32:25 | "VoMa" (steamid=76561198104182080) Spawned Item: (CodeLock)
+21:32:32 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_fridge_twodoor_old_kit)
+21:32:35 | "PieceDuck" (steamid=76561198161108074) deleted object "bl_extension_cable_reel" (pos=<1110.143433, 149.365479, 6581.596680>)
+21:32:39 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1097.036621, 149.633102, 6647.584473>)
+21:32:40 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1092.589844, 150.242355, 6647.695801>)
+21:32:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1107.322754, 152.801666, 6582.442383>)
+21:32:53 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:32:54 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1093.273804, 154.124130, 6646.304199>)
+21:32:55 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:33:24 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:33:25 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1093.607178, 154.026031, 6647.691406>)
+21:33:26 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:34:29 | "VoMa" (steamid=76561198104182080) Spawned Item: (CodeLock)
+21:34:45 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1103.928101, 152.940018, 6593.220215>)
+21:35:21 | "VoMa" (steamid=76561198104182080) Spawned Item: (rag_baseitems_fridge_twodoor_old_kit)
+21:35:25 | "VoMa" (steamid=76561198104182080) deleted object "bl_old_fridge" (pos=<1094.818604, 149.889862, 6595.750000>)
+21:35:51 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:35:53 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1099.880249, 154.035156, 6594.822754>)
+21:35:53 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:36:5 | "VoMa" (steamid=76561198104182080) Spawned Item: (bl_extension_cable_reel)
+21:36:25 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:36:27 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<1100.797485, 153.758881, 6595.090332>)
+21:36:27 | "VoMa" (steamid=76561198104182080) toggled freecam
+21:37:20 | "VoMa" (steamid=76561198104182080) deleted object "Custom_ProtectorCase_600_Toxic" (pos=<1104.408691, 149.320343, 6602.134277>)
+21:37:22 | "PieceDuck" (steamid=76561198161108074) deleted object "rag_baseitems_lantern_wall" (pos=<1104.999390, 149.980804, 6582.041992>)
+21:39:0 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (rag_baseitems_lantern_wall)
+21:39:3 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (rag_baseitems_lantern_wall_kit)
+21:39:8 | "PieceDuck" (steamid=76561198161108074) deleted object "rag_baseitems_lantern_wall" (pos=<1107.158813, 147.539673, 6581.024902>)
+21:39:41 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8214.599609, 470.522095, 9065.599609>)
+21:39:41 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8214.6,0,9065.6)
+21:39:44 | "76561198104182080" (steamid=76561198104182080) teleported to (pos=<8214.040039, 470.186401, 9059.490234>)
+21:39:44 | "VoMa": (steamid=76561198104182080) teleported to (pos=8214.04,0,9059.49)
+21:39:45 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+21:58:0 | Player "ZhEkAn" (steamId=76561198300337064) initiated disconnect process...
+21:58:0 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+21:58:0 | Player "BodyaBo" (steamId=76561199339736526) initiated disconnect process...
+21:58:0 | Player "[BERSERKY]DeDAnGeL" (steamId=76561198019222339) initiated disconnect process...
+21:58:0 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
