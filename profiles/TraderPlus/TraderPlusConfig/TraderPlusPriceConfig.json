@@ -1591,6 +1591,40 @@
       ]
     },
     {
+      "CategoryName": "GMC",
+      "Products": [
+        "GMC_driverdoor,1,-1,1,1000,100",
+        "GMC_driverdoor_Black,1,-1,1,1000,100",
+        "GMC_driverdoor_White,1,-1,1,1000,100",
+        "GMC_driverdoor_Blue,1,-1,1,1000,100",
+        "GMC_Codrvier,1,-1,1,1000,100",
+        "GMC_Codrvier_Black,1,-1,1,1000,100",
+        "GMC_Codrvier_White,1,-1,1,1000,100",
+        "GMC_Codrvier_Blue,1,-1,1,1000,100",
+        "GMC_Cargo1,1,-1,1,1000,100",
+        "GMC_Cargo1_Black,1,-1,1,1000,100",
+        "GMC_Cargo1_White,1,-1,1,1000,100",
+        "GMC_Cargo1_Blue,1,-1,1,1000,100",
+        "GMC_Cargo2,1,-1,1,1000,100",
+        "GMC_Cargo2_Black,1,-1,1,1000,100",
+        "GMC_Cargo2_White,1,-1,1,1000,100",
+        "GMC_Cargo2_Blue,1,-1,1,1000,100",
+        "GMC_Hood,1,-1,1,1000,100",
+        "GMC_Hood_Black,1,-1,1,1000,100",
+        "GMC_Hood_White,1,-1,1,1000,100",
+        "GMC_Hood_Blue,1,-1,1,1000,100",
+        "GMC_Trunk_1,1,-1,1,1000,100",
+        "GMC_Trunk_1_Black,1,-1,1,1000,100",
+        "GMC_Trunk_1_White,1,-1,1,1000,100",
+        "GMC_Trunk_1_Blue,1,-1,1,1000,100",
+        "GMC_Trunk_2,1,-1,1,1000,100",
+        "GMC_Trunk_2_Black,1,-1,1,1000,100",
+        "GMC_Trunk_2_White,1,-1,1,1000,100",
+        "GMC_Trunk_2_Blue,1,-1,1,1000,100",
+        "GMC_Wheel,1,-1,1,200,20"
+      ]
+    },
+    {
       "CategoryName": "Tahoe",
       "Products": [
         "Tahoe_driverdoor,1,-1,1,1000,100",
