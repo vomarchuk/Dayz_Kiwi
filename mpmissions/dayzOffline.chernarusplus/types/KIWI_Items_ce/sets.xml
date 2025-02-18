@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+    <!-- Ghost -->
     <type name="VM_Ghost_Boots">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -9,9 +10,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Helmet">
         <nominal>0</nominal>
@@ -22,9 +20,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Top_V1">
         <nominal>0</nominal>
@@ -35,9 +30,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Top_V2">
         <nominal>0</nominal>
@@ -48,9 +40,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Top_V3">
         <nominal>0</nominal>
@@ -61,9 +50,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Top_V4">
         <nominal>0</nominal>
@@ -74,9 +60,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Pants_V1">
         <nominal>0</nominal>
@@ -87,9 +70,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Pants_V2">
         <nominal>0</nominal>
@@ -100,9 +80,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Pants_V3">
         <nominal>0</nominal>
@@ -113,9 +90,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Pants_V4">
         <nominal>0</nominal>
@@ -126,9 +100,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Vest_V1">
         <nominal>0</nominal>
@@ -139,9 +110,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Vest_V2">
         <nominal>0</nominal>
@@ -152,9 +120,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Vest_V3">
         <nominal>0</nominal>
@@ -165,9 +130,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Vest_V4">
         <nominal>0</nominal>
@@ -178,9 +140,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Gloves">
         <nominal>0</nominal>
@@ -191,9 +150,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Helmet_NBC">
         <nominal>0</nominal>
@@ -204,9 +160,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Filter_NBC_MAX">
         <nominal>0</nominal>
@@ -217,9 +170,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Ghost_Filter_NBC_LOW">
         <nominal>0</nominal>
@@ -230,9 +180,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
     </type>
     <type name="VM_Nano_Pouch">
         <nominal>0</nominal>
@@ -243,8 +190,86 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <category name="clothes"/>
-        <value name="Tier4"/>
+    </type>
+    <!-- Blackout Ops -->
+    <type name="VM_Blackout_Ops_Pants_01_V1">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Pants_01_V2">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Pants_01_V3">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Pants_01_V4">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Jacket_01_V1">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Jacket_01_V2">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Jacket_01_V3">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="VM_Blackout_Ops_Jacket_01_V4">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 </types>
