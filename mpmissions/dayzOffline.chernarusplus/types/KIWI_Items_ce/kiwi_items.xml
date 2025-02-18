@@ -302,7 +302,7 @@
         <tag name="shelves"/>
     </type>
     <type name="KIWI_SALT">
-        <nominal>43</nominal>
+        <nominal>46</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>35</min>
