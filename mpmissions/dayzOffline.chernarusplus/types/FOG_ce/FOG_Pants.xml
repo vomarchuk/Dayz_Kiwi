@@ -41,10 +41,10 @@
         <value name="Tier4" />
     </type>
     <type name="FOG_Gorka_Pants_White">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1016,10 +1016,10 @@
         <value name="Tier4" />
     </type>
     <type name="FOG_Gorka_Pants_Khaki">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>3200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1030,10 +1030,10 @@
         <value name="Tier4" />
     </type>
     <type name="FOG_Gorka_Pants_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>3200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
