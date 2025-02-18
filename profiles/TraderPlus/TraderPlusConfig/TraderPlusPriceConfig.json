@@ -3042,6 +3042,13 @@
         "Audi_RS6_ABT_MidNightBlue,1,-1,1,500000,8000",
         "Audi_RS6_ABT_Black,1,-1,1,500000,8000"
       ]
+    },
+    {
+      "CategoryName": "Покращений одяг",
+      "Products": [
+        "VM_Blackout_Ops_Pants_01_V1,1,-1,1,50000,5000",
+        "VM_Blackout_Ops_Jacket_01_V1,1,-1,1,40000,4000"
+      ]
     }
   ]
 }
