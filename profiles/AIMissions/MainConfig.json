@@ -44,15 +44,17 @@
             "Debug_Disable_Notifications": 0,
             "Debug_Disable_Markers": 0,
             "Debug_Force_Win": 0,
-            "Debug_QuickMode": 0, 
-            "Debug_Ignore_Player_Radius": 0  
+            "Debug_QuickMode": 0,
+            "Debug_Ignore_Player_Radius": 0
         }
     ],
     "Missions": [
         {
             "Name": "[HARD] Засада",
             "Position": [
-                9995.498047, 284.391266, 15280.158203
+                9995.498047,
+                284.391266,
+                15280.158203
             ],
             "Bots_Count_Minimum": 3,
             "Bots_Count_Maximum": 5,
@@ -73,40 +75,56 @@
                     "ClassName": "StaticObj_Wreck_Uaz_DE",
                     "Scale": 1.0,
                     "Position": [
-                        9987.709961, 282.591003, 15259.799805
+                        9987.709961,
+                        282.591003,
+                        15259.799805
                     ],
                     "Rotation": [
-                        37.000000, 7.000000, 2.000000
+                        37.000000,
+                        7.000000,
+                        2.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_HMMWV_DE",
                     "Scale": 1.0,
                     "Position": [
-                        9995.120117, 284.623993, 15271.799805
+                        9995.120117,
+                        284.623993,
+                        15271.799805
                     ],
                     "Rotation": [
-                        32.940098, 4.000000, 0.000000
+                        32.940098,
+                        4.000000,
+                        0.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
-                        10007.299805, 285.346008, 15284.500000
+                        10007.299805,
+                        285.346008,
+                        15284.500000
                     ],
                     "Rotation": [
-                        58.000004, 5.000000, 6.000000
+                        58.000004,
+                        5.000000,
+                        6.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BMP2",
                     "Scale": 1.0,
                     "Position": [
-                        9975.820313, 289.319000, 15286.099609
+                        9975.820313,
+                        289.319000,
+                        15286.099609
                     ],
                     "Rotation": [
-                        -72.000008, 9.999999, 8.000000
+                        -72.000008,
+                        9.999999,
+                        8.000000
                     ]
                 }
             ]
@@ -114,8 +132,8 @@
         {
             "Name": "[HARD] Втеча із Алькатраса",
             "Position": [
-                2772.781738, 
-                26.012482, 
+                2772.781738,
+                26.012482,
                 1193.869873
             ],
             "Bots_Count_Minimum": 3,
@@ -137,8 +155,8 @@
                     "ClassName": "StaticObj_Wreck_UH1Y",
                     "Scale": 1.0,
                     "Position": [
-                        2780.000000, 
-                        27.766701, 
+                        2780.000000,
+                        27.766701,
                         1202.000000
                     ],
                     "Rotation": [
@@ -152,7 +170,9 @@
         {
             "Name": "[HARD] Колона",
             "Position": [
-                2439.916016, 440.338715, 15002.429688
+                2439.916016,
+                440.338715,
+                15002.429688
             ],
             "Bots_Count_Minimum": 3,
             "Bots_Count_Maximum": 5,
@@ -173,40 +193,56 @@
                     "ClassName": "StaticObj_Wreck_BMP2",
                     "Scale": 1.0,
                     "Position": [
-                        2431.000000, 441.213989, 15011.299805
+                        2431.000000,
+                        441.213989,
+                        15011.299805
                     ],
                     "Rotation": [
-                        -25.999304, -1.000209, 7.008643
+                        -25.999304,
+                        -1.000209,
+                        7.008643
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BMP1",
                     "Scale": 1.0,
                     "Position": [
-                        2448.000000, 441.864014, 14997.000000
+                        2448.000000,
+                        441.864014,
+                        14997.000000
                     ],
                     "Rotation": [
-                        -67.000847, -2.998345, -0.149372
+                        -67.000847,
+                        -2.998345,
+                        -0.149372
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_T72_Turret",
                     "Scale": 1.0,
                     "Position": [
-                        2462.000000, 442.131012, 14993.000000
+                        2462.000000,
+                        442.131012,
+                        14993.000000
                     ],
                     "Rotation": [
-                        -2.001198, -6.001424, -0.000397
+                        -2.001198,
+                        -6.001424,
+                        -0.000397
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_T72_Chassis",
                     "Scale": 1.0,
                     "Position": [
-                        2461.830078, 442.881989, 14981.000000
+                        2461.830078,
+                        442.881989,
+                        14981.000000
                     ],
                     "Rotation": [
-                        -42.000233, -6.001425, 0.982754
+                        -42.000233,
+                        -6.001425,
+                        0.982754
                     ]
                 }
             ]
@@ -214,7 +250,9 @@
         {
             "Name": "[EASY] Колона",
             "Position": [
-                12298.496094, 188.490372, 6991.335449
+                12298.496094,
+                188.490372,
+                6991.335449
             ],
             "Bots_Count_Minimum": 1,
             "Bots_Count_Maximum": 2,
@@ -235,40 +273,56 @@
                     "ClassName": "StaticObj_Wreck_Uaz_DE",
                     "Scale": 1.0,
                     "Position": [
-                        12309.200195, 188.770996, 6974.129883
+                        12309.200195,
+                        188.770996,
+                        6974.129883
                     ],
                     "Rotation": [
-                        -61.560780, 5.000141, 0.118973
+                        -61.560780,
+                        5.000141,
+                        0.118973
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Ural",
                     "Scale": 1.0,
                     "Position": [
-                        12302.200195, 189.684006, 6984.529785
+                        12302.200195,
+                        189.684006,
+                        6984.529785
                     ],
                     "Rotation": [
-                        -35.640083, -2.000722, 0.002150
+                        -35.640083,
+                        -2.000722,
+                        0.002150
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_HMMWV_DE",
                     "Scale": 1.0,
                     "Position": [
-                        12295.099609, 189.233994, 6998.439941
+                        12295.099609,
+                        189.233994,
+                        6998.439941
                     ],
                     "Rotation": [
-                        -36.719547, -2.000723, 0.000912
+                        -36.719547,
+                        -2.000723,
+                        0.000912
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Ural",
                     "Scale": 1.0,
                     "Position": [
-                        12290.299805, 188.692001, 7011.000000
+                        12290.299805,
+                        188.692001,
+                        7011.000000
                     ],
                     "Rotation": [
-                        -18.900494, -5.000141, -0.006396
+                        -18.900494,
+                        -5.000141,
+                        -0.006396
                     ]
                 }
             ]
@@ -276,7 +330,9 @@
         {
             "Name": "[EASY] Колона",
             "Position": [
-                543.710999, 46.908680, 3544.109863
+                543.710999,
+                46.908680,
+                3544.109863
             ],
             "Bots_Count_Minimum": 1,
             "Bots_Count_Maximum": 2,
@@ -297,30 +353,42 @@
                     "ClassName": "StaticObj_Wreck_BRDM_DE",
                     "Scale": 1.0,
                     "Position": [
-                        542.130981, 48.490101, 3537.610107
+                        542.130981,
+                        48.490101,
+                        3537.610107
                     ],
                     "Rotation": [
-                        -156.999527, 11.998476, -12.006021
+                        -156.999527,
+                        11.998476,
+                        -12.006021
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
-                        548.361023, 47.662998, 3546.060059
+                        548.361023,
+                        47.662998,
+                        3546.060059
                     ],
                     "Rotation": [
-                        159.299255, 2.000722, -6.009191
+                        159.299255,
+                        2.000722,
+                        -6.009191
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_HMMWV",
                     "Scale": 1.0,
                     "Position": [
-                        545.643005, 46.845100, 3550.719971
+                        545.643005,
+                        46.845100,
+                        3550.719971
                     ],
                     "Rotation": [
-                        6.001745, -8.999920, -0.000616
+                        6.001745,
+                        -8.999920,
+                        -0.000616
                     ]
                 }
             ]
@@ -328,7 +396,9 @@
         {
             "Name": "[MEDIUM] Колона",
             "Position": [
-                9617.914063, 236.102005, 9784.658203
+                9617.914063,
+                236.102005,
+                9784.658203
             ],
             "Bots_Count_Minimum": 2,
             "Bots_Count_Maximum": 3,
@@ -349,30 +419,42 @@
                     "ClassName": "StaticObj_Wreck_BRDM_DE",
                     "Scale": 1.0,
                     "Position": [
-                        9606.780273, 237.983002, 9779.959961
+                        9606.780273,
+                        237.983002,
+                        9779.959961
                     ],
                     "Rotation": [
-                        -119.996742, 2.998345, -9.002758
+                        -119.996742,
+                        2.998345,
+                        -9.002758
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
-                        9622.950195, 237.235001, 9791.049805
+                        9622.950195,
+                        237.235001,
+                        9791.049805
                     ],
                     "Rotation": [
-                        -140.937927, -1.000209, 0.024752
+                        -140.937927,
+                        -1.000209,
+                        0.024752
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
-                        9637.280273, 237.981995, 9797.750000
+                        9637.280273,
+                        237.981995,
+                        9797.750000
                     ],
                     "Rotation": [
-                        -134.998703, -6.001425, 9.068539
+                        -134.998703,
+                        -6.001425,
+                        9.068539
                     ]
                 }
             ]
@@ -380,7 +462,9 @@
         {
             "Name": "[MEDIUM] Колона",
             "Position": [
-                2708.818604, 301.093994, 10599.605469
+                2708.818604,
+                301.093994,
+                10599.605469
             ],
             "Bots_Count_Minimum": 2,
             "Bots_Count_Maximum": 3,
@@ -401,40 +485,56 @@
                     "ClassName": "StaticObj_Wreck_BMP1",
                     "Scale": 1.0,
                     "Position": [
-                        2684.030029, 298.506012, 10587.400391
+                        2684.030029,
+                        298.506012,
+                        10587.400391
                     ],
                     "Rotation": [
-                        30.240152, 5.000140, -7.028989
+                        30.240152,
+                        5.000140,
+                        -7.028989
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_T72_Chassis_DE",
                     "Scale": 1.0,
                     "Position": [
-                        2698.679932, 300.234009, 10595.200195
+                        2698.679932,
+                        300.234009,
+                        10595.200195
                     ],
                     "Rotation": [
-                        57.777798, 8.999919, 0.011852
+                        57.777798,
+                        8.999919,
+                        0.011852
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_T72_Chassis_DE",
                     "Scale": 1.0,
                     "Position": [
-                        2722.340088, 304.710999, 10572.200195
+                        2722.340088,
+                        304.710999,
+                        10572.200195
                     ],
                     "Rotation": [
-                        0.000000, 5.000141, 0.000000
+                        0.000000,
+                        5.000141,
+                        0.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_T72_Turret_DE",
                     "Scale": 1.0,
                     "Position": [
-                        2721.330078, 303.842987, 10600.299805
+                        2721.330078,
+                        303.842987,
+                        10600.299805
                     ],
                     "Rotation": [
-                        0.000000, -5.000141, -0.000000
+                        0.000000,
+                        -5.000141,
+                        -0.000000
                     ]
                 }
             ]
@@ -442,7 +542,9 @@
         {
             "Name": "[MEDIUM] Аварія",
             "Position": [
-                10212.898438, 83.614304, 13949.666016
+                10212.898438,
+                83.614304,
+                13949.666016
             ],
             "Bots_Count_Minimum": 2,
             "Bots_Count_Maximum": 3,
@@ -463,50 +565,70 @@
                     "ClassName": "StaticObj_Wreck_Train_742_Red",
                     "Scale": 1.0,
                     "Position": [
-                        10222.900391, 85.670898, 13962.400391
+                        10222.900391,
+                        85.670898,
+                        13962.400391
                     ],
                     "Rotation": [
-                        -165.780746, 2.000723, 4.002805
+                        -165.780746,
+                        2.000723,
+                        4.002805
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Train_Wagon_Flat",
                     "Scale": 1.0,
                     "Position": [
-                        10216.500000, 84.339996, 13948.500000
+                        10216.500000,
+                        84.339996,
+                        13948.500000
                     ],
                     "Rotation": [
-                        32.400055, 0.000000, -0.000000
+                        32.400055,
+                        0.000000,
+                        -0.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BMP2",
                     "Scale": 1.0,
                     "Position": [
-                        10217.200195, 85.193604, 13954.900391
+                        10217.200195,
+                        85.193604,
+                        13954.900391
                     ],
                     "Rotation": [
-                        31.859087, 0.000000, -23.995943
+                        31.859087,
+                        0.000000,
+                        -23.995943
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BMP2",
                     "Scale": 1.0,
                     "Position": [
-                        10215.599609, 85.654800, 13943.700195
+                        10215.599609,
+                        85.654800,
+                        13943.700195
                     ],
                     "Rotation": [
-                        64.799561, -18.999594, 20.014565
+                        64.799561,
+                        -18.999594,
+                        20.014565
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_HMMWV",
                     "Scale": 1.0,
                     "Position": [
-                        10233.500000, 84.040199, 13966.500000
+                        10233.500000,
+                        84.040199,
+                        13966.500000
                     ],
                     "Rotation": [
-                        3.779562, 0.000000, -0.000000
+                        3.779562,
+                        0.000000,
+                        -0.000000
                     ]
                 }
             ]
@@ -514,10 +636,12 @@
         {
             "Name": "[HARD] Крадіжка",
             "Position": [
-                14029.967773, 5.350428, 11450.395508
+                14029.967773,
+                5.350428,
+                11450.395508
             ],
-            "Bots_Count_Minimum": 2,
-            "Bots_Count_Maximum": 3,
+            "Bots_Count_Minimum": 3,
+            "Bots_Count_Maximum": 5,
             "Bots_Expansion_Loadout": "PatrolLoadout3",
             "Bots_Loadout_ID": 1,
             "Bots_Range": 400,
@@ -535,30 +659,42 @@
                     "ClassName": "StaticObj_Wreck_Ship_Medium_Front",
                     "Scale": 1.0,
                     "Position": [
-                        14065.200195, 12.832800, 11462.799805
+                        14065.200195,
+                        12.832800,
+                        11462.799805
                     ],
                     "Rotation": [
-                        51.302391, 0.000000, -0.000000
+                        51.302391,
+                        0.000000,
+                        -0.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Trailer_Cistern",
                     "Scale": 1.0,
                     "Position": [
-                        14036.599609, 3.122130, 11459.000000
+                        14036.599609,
+                        3.122130,
+                        11459.000000
                     ],
                     "Rotation": [
-                        -142.560287, 7.001029, -5.988313
+                        -142.560287,
+                        7.001029,
+                        -5.988313
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Ural",
                     "Scale": 1.0,
                     "Position": [
-                        14031.099609, 4.303870, 11463.700195
+                        14031.099609,
+                        4.303870,
+                        11463.700195
                     ],
                     "Rotation": [
-                        131.038589, -2.998345, -13.991785
+                        131.038589,
+                        -2.998345,
+                        -13.991785
                     ]
                 }
             ]
@@ -566,7 +702,9 @@
         {
             "Name": "[MEDIUM] Підкріплення",
             "Position": [
-                59.605648, 306.802063, 8829.688477
+                59.605648,
+                306.802063,
+                8829.688477
             ],
             "Bots_Count_Minimum": 2,
             "Bots_Count_Maximum": 3,
@@ -587,50 +725,70 @@
                     "ClassName": "StaticObj_Wreck_Ural",
                     "Scale": 1.0,
                     "Position": [
-                        68.106201, 308.410004, 8841.639648
+                        68.106201,
+                        308.410004,
+                        8841.639648
                     ],
                     "Rotation": [
-                        -169.018570, 0.000000, -0.000000
+                        -169.018570,
+                        0.000000,
+                        -0.000000
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Trailer_Cistern",
                     "Scale": 1.0,
                     "Position": [
-                        64.671898, 307.019989, 8836.049805
+                        64.671898,
+                        307.019989,
+                        8836.049805
                     ],
                     "Rotation": [
-                        -23.760197, -8.999919, -4.000812
+                        -23.760197,
+                        -8.999919,
+                        -4.000812
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Ural",
                     "Scale": 1.0,
                     "Position": [
-                        53.566299, 307.575012, 8824.690430
+                        53.566299,
+                        307.575012,
+                        8824.690430
                     ],
                     "Rotation": [
-                        -123.119041, -6.001424, 1.929914
+                        -123.119041,
+                        -6.001424,
+                        1.929914
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Trailer_Flat",
                     "Scale": 1.0,
                     "Position": [
-                        47.386700, 307.046997, 8820.360352
+                        47.386700,
+                        307.046997,
+                        8820.360352
                     ],
                     "Rotation": [
-                        -120.188759, -5.000141, 0.071341
+                        -120.188759,
+                        -5.000141,
+                        0.071341
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_BRDM",
                     "Scale": 1.0,
                     "Position": [
-                        46.349098, 307.462006, 8819.639648
+                        46.349098,
+                        307.462006,
+                        8819.639648
                     ],
                     "Rotation": [
-                        -114.481476, 0.000000, -21.999815
+                        -114.481476,
+                        0.000000,
+                        -21.999815
                     ]
                 }
             ]
@@ -638,7 +796,9 @@
         {
             "Name": "[EASY] Падіння",
             "Position": [
-                6642.984375, 221.373016, 4614.536133
+                6642.984375,
+                221.373016,
+                4614.536133
             ],
             "Bots_Count_Minimum": 1,
             "Bots_Count_Maximum": 2,
@@ -659,25 +819,32 @@
                     "ClassName": "StaticObj_Wreck_UH1Y",
                     "Scale": 1.0,
                     "Position": [
-                        6648.529785, 222.917007, 4617.890137
+                        6648.529785,
+                        222.917007,
+                        4617.890137
                     ],
                     "Rotation": [
-                        0.000000, 2.998345, 2.000723
+                        0.000000,
+                        2.998345,
+                        2.000723
                     ]
                 },
                 {
                     "ClassName": "StaticObj_Wreck_Digger",
                     "Scale": 1.0,
                     "Position": [
-                        6643.819824, 224.686005, 4620.709961
+                        6643.819824,
+                        224.686005,
+                        4620.709961
                     ],
                     "Rotation": [
-                        72.908005, 1.000209, 3.003192
+                        72.908005,
+                        1.000209,
+                        3.003192
                     ]
                 }
             ]
         }
-        
     ],
     "Loadouts": [
         {
@@ -728,20 +895,20 @@
                 "GasMask"
             ],
             "AI_Loot_Misc": [
-                "CP_EmptyBag",   
-                "CP_TobaccoSeedsPack",  
-                "CP_CannabisSeedsPackFuture",  
-                "CP_CannabisSeedsPackStardawg",  
-                "CP_CannabisSeedsPackNomad",  
-                "CP_CannabisSeedsPackBlackFrost",  
-                "CP_CannabisSeedsPackS1",   
-                "CP_CannabisSeedsPackBlue",  
-                "CP_CannabisSeedsPackKush",  
+                "CP_EmptyBag",
+                "CP_TobaccoSeedsPack",
+                "CP_CannabisSeedsPackFuture",
+                "CP_CannabisSeedsPackStardawg",
+                "CP_CannabisSeedsPackNomad",
+                "CP_CannabisSeedsPackBlackFrost",
+                "CP_CannabisSeedsPackS1",
+                "CP_CannabisSeedsPackBlue",
+                "CP_CannabisSeedsPackKush",
                 "CP_CannabisSeedsPackSkunk",
-                "TerjeDrink6Energy",  
-                "TerjeDrinkGang",  
-                "TerjeDrinkPrayboy",  
-                "TerjeDrinkYaguar"    
+                "TerjeDrink6Energy",
+                "TerjeDrinkGang",
+                "TerjeDrinkPrayboy",
+                "TerjeDrinkYaguar"
             ],
             "AI_Loot_Special": [
                 "NailBox",
@@ -860,7 +1027,6 @@
                         "AmmoBox_556x45_20Rnd",
                         "TerjeInjectorErytromixelin",
                         "Morphine"
-                        
                     ]
                 },
                 {
@@ -883,7 +1049,6 @@
                         "AmmoBox_762x54_20Rnd",
                         "TerjeInjectorErytromixelin",
                         "Morphine"
-                        
                     ]
                 },
                 {
@@ -906,7 +1071,6 @@
                         "AmmoBox_9x39_20Rnd",
                         "TerjeInjectorErytromixelin",
                         "Morphine"
-
                     ]
                 },
                 {
@@ -936,8 +1100,7 @@
                 {
                     "ClassName": "Expansion_BenelliM4",
                     "Magazine_ClassName": "",
-                    "Attach": [
-                    ],
+                    "Attach": [],
                     "Loot": [
                         "Ammo_12gaPellets",
                         "Ammo_12gaPellets",
@@ -951,8 +1114,7 @@
                 {
                     "ClassName": "SCWS_P90_Fall",
                     "Magazine_ClassName": "SCWS_P90_Magazine",
-                    "Attach": [
-                    ],
+                    "Attach": [],
                     "Loot": [
                         "SCWS_P90_Magazine",
                         "AmmoBox_9x39_20Rnd",
@@ -972,8 +1134,7 @@
                 {
                     "ClassName": "SCWS_CZ_Red",
                     "Magazine_ClassName": "SCWS_CZ_Magazine",
-                    "Attach": [
-                    ],
+                    "Attach": [],
                     "Loot": [
                         "SCWS_CZ_Magazine",
                         "AmmoBox_9x19_25rnd",
@@ -1005,7 +1166,8 @@
                         "AmmoBox_556x45_20Rnd",
                         "AmmoBox_556x45_20Rnd",
                         "AmmoBox_556x45_20Rnd",
-                        "AmmoBox_556x45_20Rnd"]
+                        "AmmoBox_556x45_20Rnd"
+                    ]
                 },
                 {
                     "ClassName": "AmmoBox",
@@ -1015,7 +1177,8 @@
                         "AmmoBox_308Win_20Rnd",
                         "AmmoBox_308Win_20Rnd",
                         "AmmoBox_308Win_20Rnd",
-                        "AmmoBox_308Win_20Rnd"]
+                        "AmmoBox_308Win_20Rnd"
+                    ]
                 },
                 {
                     "ClassName": "AmmoBox",
@@ -1025,7 +1188,8 @@
                         "AmmoBox_762x39_20Rnd",
                         "AmmoBox_762x39_20Rnd",
                         "AmmoBox_762x39_20Rnd",
-                        "AmmoBox_762x39_20Rnd"]
+                        "AmmoBox_762x39_20Rnd"
+                    ]
                 },
                 {
                     "ClassName": "AmmoBox",
@@ -1035,16 +1199,65 @@
                         "AmmoBox_762x54_20Rnd",
                         "AmmoBox_762x54_20Rnd",
                         "AmmoBox_762x54_20Rnd",
-                        "AmmoBox_762x54_20Rnd"]
+                        "AmmoBox_762x54_20Rnd"
+                    ]
+                },
+                {
+                    "ClassName": "AmmoBox",
+                    "Attach": [],
+                    "Contents": [
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd"
+                    ]
+                },
+                {
+                    "ClassName": "AmmoBox",
+                    "Attach": [],
+                    "Contents": [
+                        "AmmoBox_308Win_20Rnd",
+                        "AmmoBox_308Win_20Rnd",
+                        "AmmoBox_308Win_20Rnd",
+                        "AmmoBox_308Win_20Rnd",
+                        "AmmoBox_308Win_20Rnd"
+                    ]
+                },
+                {
+                    "ClassName": "AmmoBox",
+                    "Attach": [],
+                    "Contents": [
+                        "AmmoBox_762x39_20Rnd",
+                        "AmmoBox_762x39_20Rnd",
+                        "AmmoBox_762x39_20Rnd",
+                        "AmmoBox_762x39_20Rnd",
+                        "AmmoBox_762x39_20Rnd"
+                    ]
+                },
+                {
+                    "ClassName": "AmmoBox",
+                    "Attach": [],
+                    "Contents": [
+                        "AmmoBox_762x54_20Rnd",
+                        "AmmoBox_762x54_20Rnd",
+                        "AmmoBox_762x54_20Rnd",
+                        "AmmoBox_762x54_20Rnd",
+                        "AmmoBox_762x54_20Rnd"
+                    ]
                 },
                 {
                     "ClassName": "FOG_Vest_CPC_MCB",
-                    "Attach": [""],
+                    "Attach": [
+                        ""
+                    ],
                     "Contents": []
                 },
                 {
                     "ClassName": "FOG_Vest_CPC_MCB",
-                    "Attach": [""],
+                    "Attach": [
+                        ""
+                    ],
                     "Contents": []
                 },
                 {
