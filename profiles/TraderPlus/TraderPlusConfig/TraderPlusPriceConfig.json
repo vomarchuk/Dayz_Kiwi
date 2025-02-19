@@ -101,18 +101,20 @@
       "Products": [
         "PowderedMilk,1,-1,200,-1,10",
         "BoxCerealCrunchin,1,-1,250,-1,20",
-        "Rice,1,-1,500,-1,20",
+        "Rice,1,-1,500,-1,50",
         "Marmalade,1,-1,400,-1,20",
         "PeachesCan,1,-1,0,-1,30",
         "SardinesCan,1,-1,0,-1,30",
         "TunaCan,1,-1,0,-1,30",
-        "SpaghettiCan,1,-1,0,-1,30",
-        "BakedBeansCan,1,-1,0,-1,30",
-        "TacticalBaconCan,1,-1,0,-1,40",
+        "SpaghettiCan,1,-1,0,-1,100",
+        "BakedBeansCan,1,-1,0,-1,150",
+        "TacticalBaconCan,1,-1,0,-1,200",
         "KIWI_Can_MeatRabbit,1,-1,0,-1,300",
         "KIWI_Can_MeatChicken,1,-1,0,-1,300",
         "KIWI_Can_MeatFox,1,-1,0,-1,350",
-        "KIWI_Can_MeatPig,1,-1,0,-1,500"
+        "KIWI_Can_MeatPig,1,-1,0,-1,500",
+        "KIWI_Can_MeatSheep,1,-1,0,-1,650",
+        "KIWI_Can_MeatGoat,1,-1,0,-1,650"
       ]
     },
     {
