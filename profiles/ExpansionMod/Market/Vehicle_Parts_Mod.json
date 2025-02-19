@@ -1084,13 +1084,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_driverdoor",
-                "dodgecharger_driverdoor_blue",
-                "dodgecharger_driverdoor_green",
-                "dodgecharger_driverdoor_red",
-                "dodgecharger_driverdoor_pink",
-                "dodgecharger_driverdoor_lightblue",
-                "dodgecharger_driverdoor_white"
+                "dodgecharger_codriver",
+                "dodgecharger_codriver_blue",
+                "dodgecharger_codriver_green",
+                "dodgecharger_codriver_red",
+                "dodgecharger_codriver_pink",
+                "dodgecharger_codriver_lightblue",
+                "dodgecharger_codriver_white"
             ]
         },
         {
