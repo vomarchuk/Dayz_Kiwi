@@ -772,10 +772,10 @@
         <value name="Tier4" />
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -783,6 +783,8 @@
         <category name="weapons" />
         <usage name="Military" />
         <usage name="Police" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
         <nominal>5</nominal>
@@ -1150,10 +1152,10 @@
         <value name="Tier4" />
     </type>
     <type name="Ammo_9x19">
-        <nominal>100</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>75</min>
+        <min>45</min>
         <quantmin>10</quantmin>
         <quantmax>25</quantmax>
         <cost>100</cost>
@@ -1162,6 +1164,8 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="Ammo_9x39">
         <nominal>22</nominal>
