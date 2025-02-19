@@ -1020,7 +1020,7 @@
         <value name="Tier4"/>
     </type>    
     <type name="CP_EmptyBag">
-        <nominal>15</nominal>
+        <nominal>25</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>10</min>
@@ -1035,12 +1035,12 @@
         <usage name="School"/>
     </type>
     <type name="CP_PlasticRoll">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
+        <quantmax>60</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
