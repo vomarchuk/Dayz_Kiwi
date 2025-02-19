@@ -12,7 +12,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -39,7 +39,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -66,7 +66,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -93,7 +93,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -120,7 +120,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -147,7 +147,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -174,7 +174,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -201,7 +201,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
@@ -228,7 +228,7 @@
             "MinPriceThreshold": 700000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 60.0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "CarBattery",
