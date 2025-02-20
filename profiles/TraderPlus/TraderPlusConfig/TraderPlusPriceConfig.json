@@ -1974,6 +1974,16 @@
       ]
     },
     {
+      "CategoryName": "Сет Залізний мрець",
+      "Products": [
+        "VM_Iron_Revenant_Helmet_01_V1,1,-1,0,30000,3000",
+        "VM_Iron_Revenan_Top_01_V1,1,-1,0,50000,5000",
+        "VM_Iron_Revenan_Pants_01_V1,1,-1,0,40000,4000",
+        "VM_Iron_Revenan_Boots_01_V1,1,-1,0,25000,2500",
+        "VM_Iron_Revenan_Gloves_01_V1,1,-1,0,25000,2500"
+      ]
+    },
+    {
       "CategoryName": "Сет Привида",
       "Products": [
         "VM_Ghost_Helmet,1,-1,0,100000,10000",
