@@ -19,7 +19,8 @@ class TransportMission extends SurvivorMissions
 	ref array<string> InfectedTypes = new array<string>;
 	
 	//Mission variables 
-	string SurvivorName;	
+	string SurvivorName;
+	string fstPlayerName;	
 	
 	bool IsExtended() return true;
 	
@@ -233,19 +234,8 @@ class TransportMission extends SurvivorMissions
 		//new MissionObject after deleting protector case
 		MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition ));
 		
-		ref array<string> randomItems = {
-			"HuntingKnife", "BakedBeansCan", "WeaponCleaningKit", "Canteen", "CP_EmptyBag", "GardenLime", 
-			"TerjeDrink6Energy", "PeachesCan", "CP_TobaccoSeedsPack", "CP_CannabisSeedsPackFuture", "KitchenKnife", 
-			"SardinesCan", "CP_CannabisSeedsPackStardawg", "CP_CannabisSeedsPackNomad", "WaterBottle", "MilitaryBelt", 
-			"TacticalBaconCan", "SteakKnife", "NailBox", "Hammer", "TerjeDrinkYaguar", 
-			"Hacksaw", "RDG5Grenade", "CP_CannabisSeedsPackS1", "CP_CannabisSeedsPackBlackFrost", "GP5GasMask", 
-			"NBCGlovesGray", "SpaghettiCan", "Pipewrench", "NBCBootsGray", "RIP_CleaningKitPlastic", 
-			"RIP_OilPlastic", "M67Grenade", "Matchbox", "PortableGasStove", "SmallGasCanister", 
-			"RIP_WD40S", "FishingRod", "Hook", "HP_napilnik", "FieldShovel", 
-			"RIP_WeaponCleaningSpray", "RIP_WD40", "RIP_WeaponCleaningSpray_2", "RIP_Glue", "Screwdriver", 
-			"MediumGasCanister", "LargeGasCanister", "Blowtorch", "SmallProtectorCase", "GPSReceiver", 
-			"ElectronicRepairKit", "WeaponCleaningKit"
-		};
+		ref array<string> randomItems = RandomItemsList.GetItems();
+		int m_rewards = 3;
 
 
 		//Get random loadout 			
@@ -414,7 +404,7 @@ class TransportMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
 
-		for (int j = 0; j < 3; j++)
+		for (int j = 0; j < m_rewards; j++)
 		{
 			int randomIndex = Math.RandomInt(0, randomItems.Count()); 
 			string randomItem = randomItems.Get(randomIndex);       
@@ -445,7 +435,6 @@ class TransportMission extends SurvivorMissions
 		{
 			Print("[SMM] Ошибка добавления предмета: " + randomMedItem);
 		}
-
 
 	}
 	
@@ -482,14 +471,6 @@ class TransportMission extends SurvivorMissions
 			//Spawn mission vehicle related stuff
 			Object CarStuff;
 			
-			CarStuff = GetGame().CreateObject("EngineOil", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) ));
-			CarStuff.SetOrientation( MissionBuilding.GetOrientation() + "-90 0 0");
-			m_MissionObjects.InsertAt( CarStuff, 2 );
-			CarStuff = GetGame().CreateObject("EngineOil", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) + "0.2 0 0" ));
-			CarStuff.SetOrientation( MissionBuilding.GetOrientation() + "-90 0 0");
-			m_MissionObjects.InsertAt( CarStuff, 3 );			
-			CarStuff = GetGame().CreateObject("EngineOil", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) + "0.4 0 0" ));
-			CarStuff.SetOrientation( MissionBuilding.GetOrientation() + "-90 0 0");
 			m_MissionObjects.InsertAt( CarStuff, 4 );			
 			m_MissionObjects.Insert( GetGame().CreateObject("CanisterGasoline", MissionBuilding.ModelToWorld( Spawnpoints.Get(3) )));
 			m_MissionObjects.Insert( GetGame().CreateObject("SparkPlug", MissionBuilding.ModelToWorld( Spawnpoints.Get(4) )));		
@@ -563,13 +544,9 @@ class TransportMission extends SurvivorMissions
 			//Delete Object
 			GetGame().ObjectDelete( m_MissionObjects.Get(i) );
 			m_MissionObjects.Remove(i);
-			
-			Building Garage = Building.Cast( MissionBuilding );
-			for ( int j = 0; j < 3; j++ ) 
-			{
-				if ( Garage.IsDoorLocked(j) ) Garage.UnlockDoor(j); // Відчиняє замок, якщо зачинено
-			}	
+
 		}
+		
 	}
 	
 	void ExtendMission()
@@ -580,7 +557,7 @@ class TransportMission extends SurvivorMissions
 		// m_MissionMessage2 = "Drive to the  ** "+ m_MissionDescription[3] +" Gas Station **\nand bring the Ganjabag to cash desk. "+ SurvivorName +"'s ganja has the highest priority. Please don't steal or smoke any of it by your own because it could be very dangerous.";
 		// m_MissionMessage3 = "I have some things for you at the gas station. Be carefull, there might be bandits on the way to "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck and drive carefully!";
 		
-		m_MissionMessage1 = "Добре, отже, ви знайшли машину. "+ SurvivorName +", ймовірно, злиd все пальне та масло, тож підготуйте машину перед цією довгою поїздкою. Перевірте, чи є каннабіс десь у гаражах, візьміть мішок і покладіть в нього всі 25 шт.";
+		m_MissionMessage1 = fstPlayerName +" Добре, отже, ви знайшли машину. "+ SurvivorName +", ймовірно, злиd все пальне та масло, тож підготуйте машину перед цією довгою поїздкою. Перевірте, чи є каннабіс десь у гаражах, візьміть мішок і покладіть в нього всі 25 шт.";
 		m_MissionMessage2 = "Їдьте до ** "+ m_MissionDescription[3] +" АЗС **\nі принесіть мішок з канабісом до каси. Ганджа "+ SurvivorName +" має найвищий пріоритет. Будь ласка, не крадіть і не куріть самостійно, тому що це може бути дуже небезпечно.";
 		m_MissionMessage3 = "У мене є для вас винагорода на заправці. Будьте обережні, на шляху до "+ m_MissionDescription[3] +" можуть бути бандити. Вони можуть перехопити нашу маленьку радіорозмову. Успіхів тобі!" ;
 
@@ -610,6 +587,11 @@ class TransportMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
+		if ( !fstPlayerName )
+		{
+			fstPlayerName = player.GetIdentity().GetName();
+		}
+		
 		//Check if MissionObject is brought to MissionPosition 
 		if ( MissionObject && MissionObject.ClassName() == "CourierBag" && !m_MissionExtended )
 		{		
@@ -635,7 +617,7 @@ class TransportMission extends SurvivorMissions
 							//When requested amount of Ganja is present, despawn MissionObject & spawn rewards
 							if ( FoundObjects >= ReqWeedAmount )
 							{
-								Print("[SMM] Player with SteamID64: "+ player.GetIdentity().GetPlainId() +" has successfully stored the requested amount of "+ ReqWeedAmount +" MissionObjects in the container.");
+								Print("[SMM] Player with SteamID64: "+ player.GetIdentity().GetPlainId() + player.GetIdentity().GetName()+" has successfully stored the requested amount of "+ ReqWeedAmount +" MissionObjects in the container.");
 								//delete container first
 								GetGame().ObjectDelete( MissionObject );
 								//spawn rewards 

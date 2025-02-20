@@ -13,6 +13,7 @@ class GraveyardMission extends SurvivorMissions
 
 	//Mission variables 
 	string SurvivorName;		
+	string fstPlayerName;	
 	
 	bool IsExtended() return false;
 	
@@ -145,20 +146,9 @@ class GraveyardMission extends SurvivorMissions
 		MissionObject = ItemBase.Cast( stash.GetInventory().CreateInInventory("SeaChest"));		
 		
 		
-		ref array<string> randomItems = {
-			"HuntingKnife", "BakedBeansCan", "WeaponCleaningKit", "Canteen", "CP_EmptyBag", "GardenLime", 
-			"TerjeDrink6Energy", "PeachesCan", "CP_TobaccoSeedsPack", "CP_CannabisSeedsPackFuture", "KitchenKnife", 
-			"SardinesCan", "CP_CannabisSeedsPackStardawg", "CP_CannabisSeedsPackNomad", "WaterBottle", "MilitaryBelt", 
-			"TacticalBaconCan", "SteakKnife", "NailBox", "Hammer", "TerjeDrinkYaguar", 
-			"Hacksaw", "RDG5Grenade", "CP_CannabisSeedsPackS1", "CP_CannabisSeedsPackBlackFrost", "GP5GasMask", 
-			"NBCGlovesGray", "SpaghettiCan", "Pipewrench", "NBCBootsGray", "RIP_CleaningKitPlastic", 
-			"RIP_OilPlastic", "M67Grenade", "Matchbox", "PortableGasStove", "SmallGasCanister", 
-			"RIP_WD40S", "FishingRod", "Hook", "HP_napilnik", "FieldShovel", 
-			"RIP_WeaponCleaningSpray", "RIP_WD40", "RIP_WeaponCleaningSpray_2", "RIP_Glue", "Screwdriver", 
-			"MediumGasCanister", "LargeGasCanister", "Blowtorch", "SmallProtectorCase", "GPSReceiver", 
-			"ElectronicRepairKit", "TerjeAmpouleZivirol", "TerjeAmpouleFlemoclav", "TerjeSyringeNew", "TerjeInjectorNeirox", 
-			"TerjeSurgicalKit", "TerjePillsAmoxiclav", "TerjePillsPiperacylin", "WeaponCleaningKit"
-		};
+		ref array<string> randomItems = RandomItemsList.GetItems();
+		int m_rewards = 3;
+
 
 
 		//Get random loadout 			
@@ -331,7 +321,7 @@ class GraveyardMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
 
-		for (int j = 0; j < 4; j++)
+		for (int j = 0; j < m_rewards; j++)
 		{
 			int randomIndex = Math.RandomInt(0, randomItems.Count()); 
 			string randomItem = randomItems.Get(randomIndex);       
@@ -392,6 +382,10 @@ class GraveyardMission extends SurvivorMissions
 		
 	void PlayerChecks( PlayerBase player )
 	{
+		if ( !fstPlayerName )
+		{
+			fstPlayerName = player.GetIdentity().GetName();
+		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway )
 		{

@@ -203,21 +203,10 @@ class PlaneCrashMission extends SurvivorMissions
 		
 		//Spawn containers 
 		int selectedLoadout;
-		int randomIndex;
 
-		ref array<string> randomItems = {
-			"HuntingKnife", "BakedBeansCan", "WeaponCleaningKit", "Canteen", "CP_EmptyBag", "GardenLime", 
-			"TerjeDrink6Energy", "PeachesCan", "CP_TobaccoSeedsPack", "CP_CannabisSeedsPackFuture", "KitchenKnife", 
-			"SardinesCan", "CP_CannabisSeedsPackStardawg", "CP_CannabisSeedsPackNomad", "WaterBottle", "MilitaryBelt", 
-			"TacticalBaconCan", "SteakKnife", "NailBox", "Hammer", "TerjeDrinkYaguar", 
-			"Hacksaw", "RDG5Grenade", "CP_CannabisSeedsPackS1", "CP_CannabisSeedsPackBlackFrost", "GP5GasMask", 
-			"NBCGlovesGray", "SpaghettiCan", "Pipewrench", "NBCBootsGray", "RIP_CleaningKitPlastic", 
-			"RIP_OilPlastic", "M67Grenade", "Matchbox", "PortableGasStove", "SmallGasCanister", 
-			"RIP_WD40S", "FishingRod", "Hook", "HP_napilnik", "FieldShovel", 
-			"RIP_WeaponCleaningSpray", "RIP_WD40", "RIP_WeaponCleaningSpray_2", "RIP_Glue", "Screwdriver", 
-			"MediumGasCanister", "LargeGasCanister", "Blowtorch", "SmallProtectorCase", "GPSReceiver", 
-			"ElectronicRepairKit", "WeaponCleaningKit"
-		};
+		ref array<string> randomItems = RandomItemsList.GetItems();
+		int m_rewards = 4;
+
 		
 		for (int i=0; i < ContainerSpawns.Count(); i++)
 		{	
@@ -407,9 +396,9 @@ class PlaneCrashMission extends SurvivorMissions
 				MissionObject.GetInventory().CreateInInventory("Battery9V");				
 			}
 
-			for (int j = 0; j < 5; j++)
+			for (int j = 0; j < m_rewards; j++)
 			{
-				randomIndex = Math.RandomInt(0, randomItems.Count()); 
+				int randomIndex = Math.RandomInt(0, randomItems.Count()); 
 				string randomItem = randomItems.Get(randomIndex);       
 				if (MissionObject.GetInventory().CreateInInventory(randomItem))
 				{
