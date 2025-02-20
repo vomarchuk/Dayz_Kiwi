@@ -586,6 +586,8 @@
         "SeaChest,1,-1,0,2000,400",
         "PowerGenerator,1,-1,0,-1,350",
         "MediumTent,1,-1,0,2000,200",
+        "MediumTent_Green,1,-1,0,2000,200",
+        "MediumTent_Orange,1,-1,0,2000,200",
         "CarTent,1,-1,0,3500,350",
         "LargeTent,1,-1,0,5000,500"
       ]
