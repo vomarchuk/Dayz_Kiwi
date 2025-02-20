@@ -28,6 +28,7 @@ class CityStoreMission extends SurvivorMissions
 	vector TargetPosition = "-5.3 -1.2 1.9";
 	vector RewardsPosition = "-3.46 -5.72 6.63";
 	string SurvivorName;	
+	string fstPlayerName;	
 	
 	bool IsExtended() return true;
 	
@@ -315,20 +316,9 @@ class CityStoreMission extends SurvivorMissions
 		MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition ));
 		
 		
-		ref array<string> randomItems = {
-			"HuntingKnife", "BakedBeansCan", "WeaponCleaningKit", "Canteen", "CP_EmptyBag", "GardenLime", 
-			"TerjeDrink6Energy", "PeachesCan", "CP_TobaccoSeedsPack", "CP_CannabisSeedsPackFuture", "KitchenKnife", 
-			"SardinesCan", "CP_CannabisSeedsPackStardawg", "CP_CannabisSeedsPackNomad", "WaterBottle", "MilitaryBelt", 
-			"TacticalBaconCan", "SteakKnife", "NailBox", "Hammer", "TerjeDrinkYaguar", 
-			"Hacksaw", "RDG5Grenade", "CP_CannabisSeedsPackS1", "CP_CannabisSeedsPackBlackFrost", "GP5GasMask", 
-			"NBCGlovesGray", "SpaghettiCan", "Pipewrench", "NBCBootsGray", "RIP_CleaningKitPlastic", 
-			"RIP_OilPlastic", "M67Grenade", "Matchbox", "PortableGasStove", "SmallGasCanister", 
-			"RIP_WD40S", "FishingRod", "Hook", "HP_napilnik", "FieldShovel", 
-			"RIP_WeaponCleaningSpray", "RIP_WD40", "RIP_WeaponCleaningSpray_2", "RIP_Glue", "Screwdriver", 
-			"MediumGasCanister", "LargeGasCanister", "Blowtorch", "SmallProtectorCase", "GPSReceiver", 
-			"ElectronicRepairKit", "TerjeAmpouleZivirol", "TerjeAmpouleFlemoclav", "TerjeSyringeNew", "TerjeInjectorNeirox", 
-			"TerjeSurgicalKit", "TerjePillsAmoxiclav", "TerjePillsPiperacylin", "WeaponCleaningKit"
-		};
+		ref array<string> randomItems = RandomItemsList.GetItems();
+		int m_rewards = 3;
+
 
 
 		//Get random loadout 			
@@ -491,7 +481,7 @@ class CityStoreMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
 
-		for (int j = 0; j < 3; j++)
+		for (int j = 0; j < m_rewards; j++)
 		{
 			int randomIndex = Math.RandomInt(0, randomItems.Count()); 
 			string randomItem = randomItems.Get(randomIndex);       
@@ -669,7 +659,7 @@ class CityStoreMission extends SurvivorMissions
 		// m_MissionMessage3 = "I have some things for you at the small police station. Be careful, there might be bandits around "+ m_MissionSecondaryLoc +". They could intercepted our little radio talk here. Good luck!";
 		
 
-		m_MissionMessage1 = "Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
+		m_MissionMessage1 = fstPlayerName +" Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
 		m_MissionMessage2 = "Я думаю, що найкраще буде, якби ви могли залишити припаси у поліцейському відділу\n** "+ m_MissionSecondaryLoc +" ** і покласти все в помаранчевий рюкзак, який я там залишив. Я перевірю це через годину і спробую зв'язатися з нею по радіо.";
 		m_MissionMessage3 = "У мене є для вас деякі речі в невеликій поліцейській дільниці. Будь обережний, навколо можуть бути бандити "+ m_MissionSecondaryLoc +". Вони можуть перехопити нашу розмову по радіо. Удачі!";
 
@@ -722,6 +712,10 @@ class CityStoreMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
+		if ( !fstPlayerName )
+		{
+			fstPlayerName = player.GetIdentity().GetName();
+		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{

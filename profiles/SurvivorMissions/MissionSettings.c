@@ -1,6 +1,7 @@
 //This file was created to make a "Multi Server" setup possible. Change mission and map for this server if needed. 
 //Modify between "$CurrentDir:\\mpmissions\\      and 		\\SurvivorMissionModule\\...
 #include "$CurrentDir:\\mpmissions\\dayzOffline.chernarusplus\\SurvivorMissionModule\\EventsWorldData.c"
+#include "$CurrentDir:\\mpmissions\\dayzOffline.chernarusplus\\SurvivorMissionModule\\Missions\\RandomItemsList.c"
 #include "$CurrentDir:\\mpmissions\\dayzOffline.chernarusplus\\SurvivorMissionModule\\Missions\\Missions.h"
 
 class MissionSettings

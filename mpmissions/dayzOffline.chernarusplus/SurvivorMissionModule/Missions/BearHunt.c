@@ -17,6 +17,7 @@ class BearHuntMission extends SurvivorMissions
 	
 	//Mission variables 
 	string SurvivorName;		
+	string fstPlayerName;	
 	
 	bool IsExtended() return true;
 	
@@ -142,20 +143,8 @@ class BearHuntMission extends SurvivorMissions
 		//new MissionObject after deleting protector case
 		MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition ));
 		
-		ref array<string> randomItems = {
-			"HuntingKnife", "BakedBeansCan", "WeaponCleaningKit", "Canteen", "CP_EmptyBag", "GardenLime", 
-			"TerjeDrink6Energy", "PeachesCan", "CP_TobaccoSeedsPack", "CP_CannabisSeedsPackFuture", "KitchenKnife", 
-			"SardinesCan", "CP_CannabisSeedsPackStardawg", "CP_CannabisSeedsPackNomad", "WaterBottle", "MilitaryBelt", 
-			"TacticalBaconCan", "SteakKnife", "NailBox", "Hammer", "TerjeDrinkYaguar", 
-			"Hacksaw", "RDG5Grenade", "CP_CannabisSeedsPackS1", "CP_CannabisSeedsPackBlackFrost", "GP5GasMask", 
-			"NBCGlovesGray", "SpaghettiCan", "Pipewrench", "NBCBootsGray", "RIP_CleaningKitPlastic", 
-			"RIP_OilPlastic", "M67Grenade", "Matchbox", "PortableGasStove", "SmallGasCanister", 
-			"RIP_WD40S", "FishingRod", "Hook", "HP_napilnik", "FieldShovel", 
-			"RIP_WeaponCleaningSpray", "RIP_WD40", "RIP_WeaponCleaningSpray_2", "RIP_Glue", "Screwdriver", 
-			"MediumGasCanister", "LargeGasCanister", "Blowtorch", "SmallProtectorCase", "GPSReceiver", 
-			"ElectronicRepairKit", "WeaponCleaningKit"
-		};
-
+		ref array<string> randomItems = RandomItemsList.GetItems();
+		int m_rewards = 4;
 
 		//Get random loadout 			
 		int selectedLoadout = Math.RandomIntInclusive(0,11);	//!Change randomization limit after adding new loadouts!
@@ -339,8 +328,8 @@ class BearHuntMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		
-		for (int j = 0; j < 4; j++)
+
+		for (int j = 0; j < m_rewards; j++)
 		{
 			int randomIndex = Math.RandomInt(0, randomItems.Count()); 
 			string randomItem = randomItems.Get(randomIndex);       
@@ -441,7 +430,7 @@ class BearHuntMission extends SurvivorMissions
 		// m_MissionMessage3 = "Put atleast "+ ReqMeatAmount +" bear steaks and the pelt in there. Be carefull, there might be bandits around which could intercepted our little radio talk here. Good luck!";
 		
 
-		m_MissionMessage1 = "Добре, мисливець, ти знайшов місцезнаходження ведмедя. Спробуй вбити його, поціливши йому в голову або серце. Ведмідь - сильна тварина, тому знадобиться кілька пострілів, щоб вбити його.";
+		m_MissionMessage1 = "Добре,"+ fstPlayerName +", ти знайшов місцезнаходження ведмедя. Спробуй вбити його, поціливши йому в голову або серце. Ведмідь - сильна тварина, тому знадобиться кілька пострілів, щоб вбити його.";
 		m_MissionMessage2 = "Вийми свій ніж і випотроши його. Принеси шкіру та м'ясо до\n** "+ m_MissionDescription[3] +" класної кімнати шкільної лабораторії **\n(ліве крило, верхній поверх), тому що я хочу оглянути ведмеже м'ясо, я залишив скриню на робочому столі.";
 		m_MissionMessage3 = "Покладіть туди щонайменше "+ ReqMeatAmount +" ведмежі стейки та шкіру. Будьте обережні, навколо можуть бути бандити, які можуть перехопити нашу невелику радіорозмову. Удачі!";
 
@@ -496,6 +485,10 @@ class BearHuntMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
+		if ( !fstPlayerName )
+		{
+			fstPlayerName = player.GetIdentity().GetName();
+		}
 		//Update Bear position 
 		if ( m_MissionExtended )
 		{
