@@ -355,31 +355,6 @@
                 "HeadlightH7"
             ],
             "Variants": []
-        },
-        {
-            "ClassName": "Civic_RedCustom",
-            "MaxPriceThreshold": 73000,
-            "MinPriceThreshold": 73000,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SellPricePercent": 60.0,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "CarBattery",
-                "CarRadiator",
-                "SparkPlug",
-                "Honda_Civic_DriverDoor_RedCustom",
-                "Honda_Civic_CoDriver_RedCustom",
-                "Honda_Civic_Trunk_RedCustom",
-                "Honda_Civic_Hood_RedCustom",
-                "Honda_Civic_Wheel",
-                "Honda_Civic_Wheel",
-                "Honda_Civic_Wheel",
-                "Honda_Civic_Wheel",
-                "HeadlightH7",
-                "HeadlightH7"
-            ],
-            "Variants": []
         }
     ]
 }

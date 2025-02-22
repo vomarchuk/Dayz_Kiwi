@@ -305,9 +305,9 @@
             "Sets": []
         },
         {
-            "ClassName": "HM_Mystery_Crate_Key",
+            "ClassName": "CJ_Key1",
             "Include": "",
-            "Chance": 0.2,
+            "Chance": 0.1,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0

@@ -110,14 +110,12 @@
         "RIP_WeaponCleaningSpray",
         "KIWI_WeaponCleaningKit",
         "RIP_WD40S",
-        "NailBox",
         "NVGoggles"
     ],
     "dna_SpawnLootSet2": 1,
     "dna_RandomizeLootSet2": 1,
     "dna_LootSet2Count": 8,
     "dna_LootSetY2": [
-        "AmmoBox_9x19_25rnd",
         "AmmoBox_9x39_20Rnd",
         "AmmoBox_556x45_20Rnd",
         "AmmoBox_762x54_20Rnd",
