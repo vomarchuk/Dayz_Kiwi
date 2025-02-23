@@ -52,7 +52,7 @@
     "weedRadBlurXPower": 2,
     "weedRadBlurYPower": 2,
     "weedRotBlurPow": 10,
-    "spoiltime": 10,
+    "spoiltime": 15,
     "cannabis_drytime": 300,
     "RequireBattery": 1,
     "WorkBench_PowerUsed": 1.0,

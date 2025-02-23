@@ -221,9 +221,9 @@
         "spawnLoopInside": 1,
         "spawnList": [
             "ZmbM_SoldierNormal",
+            "ZmbM_SoldierNormal",
             "ZmbM_usSoldier_normal_Desert",
-            "BRDK_Am_Soldier_03_zmb|0.25",
-            "BRDK_Am_Soldier_04_zmb|0.25"
+            "ZmbM_usSoldier_normal_Desert"
         ],
         "clearDeathAnimals": 0,
         "clearDeathZombies": 0,

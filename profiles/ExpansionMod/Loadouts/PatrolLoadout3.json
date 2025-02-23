@@ -291,7 +291,7 @@
     ],
     "InventoryCargo": [
         {
-            "ClassName": "CP_CannabisBrickNomad",
+            "ClassName": "CP_CannabisSeedsPackNomad",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -305,7 +305,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickSkunk",
+            "ClassName": "CP_CannabisSeedsPackSkunk",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -319,7 +319,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickBlackFrost",
+            "ClassName": "CP_CannabisSeedsPackBlackFrost",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -333,7 +333,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickBlue",
+            "ClassName": "CP_CannabisSeedsPackBlue",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -347,7 +347,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickFuture",
+            "ClassName": "CP_CannabisSeedsPackFuture",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -361,7 +361,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickS1",
+            "ClassName": "CP_CannabisSeedsPackS1",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -375,7 +375,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickStardawg",
+            "ClassName": "CP_CannabisSeedsPackStardawg",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {
@@ -389,7 +389,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisBrickKush",
+            "ClassName": "CP_CannabisSeedsPackKush",
             "Include": "",
             "Chance": 0.010,
             "Quantity": {

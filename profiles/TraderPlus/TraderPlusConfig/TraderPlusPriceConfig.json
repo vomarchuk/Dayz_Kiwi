@@ -2023,8 +2023,9 @@
         "BRDK_MedievalMan2_hand,1,-1,0,-1,50",
         "BRDK_Hurlock_hand,1,-1,0,-1,50",
         "BRDK_FamDoctor_Leg,1,-1,0,-1,50",
-        "BRDK_MedievalMan_Leg,1,-1,0,-1,50",
-        "BRDK_MedievalMan_hand,1,-1,0,-1,50"
+        "BRDK_MedievalMan_Leg,1,-1,0,-1,250",
+        "BRDK_MedievalMan_hand ,1,-1,0,-1,250",
+        "BRDK_MedievalMan_head,1,-1,0,-1,2500"
       ]
     },
     {
