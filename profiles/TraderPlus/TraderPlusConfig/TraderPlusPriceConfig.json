@@ -106,6 +106,7 @@
         "PeachesCan,1,-1,0,-1,30",
         "SardinesCan,1,-1,0,-1,30",
         "TunaCan,1,-1,0,-1,30",
+        "Honey,1,-1,0,-1,80",
         "SpaghettiCan,1,-1,0,-1,100",
         "BakedBeansCan,1,-1,0,-1,150",
         "TacticalBaconCan,1,-1,0,-1,200",
@@ -173,9 +174,9 @@
         "SurgicalGloves_Blue,1,-1,0,350,35",
         "SurgicalGloves_White,1,-1,0,350,35",
         "SurgicalGloves_Green,1,-1,0,350,35",
-        "BandageDressing,1,-1,2,-1,15",
-        "TerjeSalveCapsicum,1,-1,2,-1,35",
-        "TerjeSalveViprosal,1,-1,2,-1,35",
+        "BandageDressing,1,-1,4,-1,15",
+        "TerjeSalveCapsicum,1,-1,5,-1,35",
+        "TerjeSalveViprosal,1,-1,4,-1,35",
         "BloodTestKit,1,-1,0,-1,15",
         "Thermometer,1,-1,0,-1,10",
         "DisinfectantSpray,1,-1,500,-1,50",
@@ -185,6 +186,7 @@
         "BloodBagEmpty,1,-1,0,-1,25",
         "TerjeSurgicalTool_Ceramic,1,-1,0,-1,125",
         "TerjeSurgicalTool_White,1,-1,0,-1,125",
+        "TerjeSurgicalKit,1,-1,10,-1,250",
         "FirstAidKit,1,-1,0,-1,300"
       ]
     },
@@ -218,8 +220,8 @@
         "CharcoalTablets,1,-1,1,-1,8",
         "DisinfectantAlcohol,1,-1,200,-1,8",
         "VitaminBottle,1,-1,50,-1,8",
-        "TetracyclineAntibiotics,1,-1,12,-1,8",
-        "PainkillerTablets,1,-1,12,-1,8",
+        "TetracyclineAntibiotics,1,-1,1,-1,8",
+        "PainkillerTablets,1,-1,1,-1,8",
         "Epinephrine,1,-1,0,-1,150",
         "Morphine,1,-1,0,-1,150"
       ]
@@ -344,6 +346,7 @@
         "BatteryCharger,1,-1,0,-1,60",
         "Rangefinder,1,-1,0,-1,60",
         "NVGoggles,1,-1,0,-1,1500",
+        "GPSReceiver,1,-1,0,-1,85",
         "ExpansionGPS,1,-1,0,-1,320"
       ]
     },
@@ -585,6 +588,10 @@
         "Barrel_Yellow,1,-1,0,1500,350",
         "SeaChest,1,-1,0,2000,400",
         "PowerGenerator,1,-1,0,-1,350",
+        "PartyTent,1,-1,0,1000,100",
+        "PartyTent_Blue,1,-1,0,1000,100",
+        "PartyTent_Brown,1,-1,0,1000,100",
+        "PartyTent_Lunapark,1,-1,0,1000,100",
         "MediumTent,1,-1,0,2000,200",
         "MediumTent_Green,1,-1,0,2000,200",
         "MediumTent_Orange,1,-1,0,2000,200",
@@ -2024,7 +2031,7 @@
         "BRDK_Hurlock_hand,1,-1,0,-1,50",
         "BRDK_FamDoctor_Leg,1,-1,0,-1,50",
         "BRDK_MedievalMan_Leg,1,-1,0,-1,250",
-        "BRDK_MedievalMan_hand ,1,-1,0,-1,250",
+        "BRDK_MedievalMan_hand,1,-1,0,-1,250",
         "BRDK_MedievalMan_head,1,-1,0,-1,2500"
       ]
     },
