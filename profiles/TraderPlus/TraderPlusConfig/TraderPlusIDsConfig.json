@@ -24,6 +24,7 @@
       "Categories": [
         "Сет Хімера",
         "Сет Привида",
+        "Сет Залізний мрець",
         "Toxic clothes",
         "Best items",
         "Toxic tools",
@@ -112,7 +113,8 @@
         "Accessories",
         "Ghillie",
         "Bags",
-        "Vests"
+        "Vests",
+        "Покращений одяг"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
@@ -158,6 +160,7 @@
         "UAZ",
         "Honda Civic",
         "Chevrolet NapalmNova",
+        "Dodge Charger Hellcat",
         "Vehicle Parts"
       ],
       "LicencesRequired": [],

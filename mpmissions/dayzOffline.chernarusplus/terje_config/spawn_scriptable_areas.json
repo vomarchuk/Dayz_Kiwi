@@ -13,8 +13,8 @@
                 "HeightMin": -100.0,
                 "HeightMax": 150.0,
                 "OuterRadius": 350.0,
-                "InnerRadius": 150.0,
-                "Power": 8.0
+                "InnerRadius": 200.0,
+                "Power": 6.0
             }
         },
         {
@@ -31,7 +31,7 @@
                 "HeightMax": 150.0,
                 "OuterRadius": 250.0,
                 "InnerRadius": 100.0,
-                "Power": 8.0
+                "Power": 6.0
             }
         },
         {
@@ -47,8 +47,8 @@
                 "HeightMin": -100.0,
                 "HeightMax": 150.0,
                 "OuterRadius": 350.0,
-                "InnerRadius": 150.0,
-                "Power": 8.0
+                "InnerRadius": 200.0,
+                "Power": 6.0
             }
         }
     ]

@@ -637,7 +637,7 @@
         <usage name="Police" />
     </type>
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -647,6 +647,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="AmmoBox_545x39Tracer_20Rnd">
         <nominal>10</nominal>
@@ -772,10 +774,10 @@
         <value name="Tier4" />
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -783,6 +785,8 @@
         <category name="weapons" />
         <usage name="Military" />
         <usage name="Police" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
         <nominal>5</nominal>
@@ -1010,10 +1014,10 @@
         <usage name="Military" />
     </type>
     <type name="Ammo_45ACP">
-        <nominal>75</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>180</restock>
-        <min>50</min>
+        <min>30</min>
         <quantmin>10</quantmin>
         <quantmax>25</quantmax>
         <cost>100</cost>
@@ -1021,6 +1025,9 @@
         <category name="weapons" />
         <tag name="shelves" />
         <usage name="Military" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+
     </type>
     <type name="Ammo_545x39">
         <nominal>25</nominal>
@@ -1150,10 +1157,10 @@
         <value name="Tier4" />
     </type>
     <type name="Ammo_9x19">
-        <nominal>100</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>75</min>
+        <min>30</min>
         <quantmin>10</quantmin>
         <quantmax>25</quantmax>
         <cost>100</cost>
@@ -1162,6 +1169,8 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="Ammo_9x39">
         <nominal>22</nominal>
@@ -11927,10 +11936,10 @@
         <category name="clothes" />
     </type>
     <type name="Lockpick">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

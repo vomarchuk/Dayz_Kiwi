@@ -50,6 +50,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="kiwi_items.xml" type="types" />
 		<file name="sets.xml" type="types" />
 	</ce>
+	<!-- CJ Chests -->
+	<!-- <ce folder="types/CJ_Chests_ce">
+		<file name="Lootchest_types.xml" type="types" />
+	</ce> -->
 	<!-- FC Cars -->
 	<ce folder="types/FC_Cars_ce">
 		<file name="FcVeh_types.xml" type="types" />

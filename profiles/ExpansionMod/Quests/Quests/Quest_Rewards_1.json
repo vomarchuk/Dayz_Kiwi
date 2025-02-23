@@ -263,6 +263,33 @@
             "Chance": 1.0
         },
         {
+            "ClassName": "TD_GRN2014_money10",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TD_GRN2014_money20",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TD_GRN2014_money50",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
             "ClassName": "TerjeDrinkPrayboy",
             "Amount": 1,
             "Attachments": [],

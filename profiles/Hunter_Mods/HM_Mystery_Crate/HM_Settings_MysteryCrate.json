@@ -1,5 +1,5 @@
 {
-    "spawnChance": 0.60,
+    "spawnChance": 0,
     "respawnTimer": 2400,
     "enableRandomLoot": 1,
     "enableRandomTier": 0,

@@ -173,7 +173,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickNomad",
+            "ClassName": "CP_CannabisSeedsPackNomad",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -182,7 +182,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickSkunk",
+            "ClassName": "CP_CannabisSeedsPackSkunk",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -191,7 +191,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickBlackFrost",
+            "ClassName": "CP_CannabisSeedsPackBlackFrost",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -200,7 +200,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickBlue",
+            "ClassName": "CP_CannabisSeedsPackBlue",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -209,7 +209,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickFuture",
+            "ClassName": "CP_CannabisSeedsPackFuture",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -218,7 +218,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickS1",
+            "ClassName": "CP_CannabisSeedsPackS1",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -227,7 +227,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickStardawg",
+            "ClassName": "CP_CannabisSeedsPackStardawg",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -236,7 +236,34 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisBrickKush",
+            "ClassName": "CP_CannabisSeedsPackKush",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TD_GRN2014_money10",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TD_GRN2014_money20",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TD_GRN2014_money50",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,

@@ -7,72 +7,6 @@
     "dna_WeaponCount": 0,
     "weaponTypesYellow": [
         {
-            "dna_TheChosenOne": "SCWS_AK400",
-            "dna_Magazine": "Mag_AKM_Drum75Rnd",
-            "dna_SpareMagCount": 0,
-            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
-            "dna_SpareAmmoCount": 4,
-            "dna_OpticType": "",
-            "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
-            "dna_Wrap": ""
-        },
-        {
-            "dna_TheChosenOne": "SCWS_AK47G",
-            "dna_Magazine": "SCWS_AK47G_Magazine",
-            "dna_SpareMagCount": 0,
-            "dna_Ammunition": "AmmoBox_762x54_20Rnd",
-            "dna_SpareAmmoCount": 4,
-            "dna_OpticType": "",
-            "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
-            "dna_Wrap": ""
-        },
-        {
-            "dna_TheChosenOne": "M79",
-            "dna_Magazine": "",
-            "dna_SpareMagCount": 0,
-            "dna_Ammunition": "Ammo_40mm_Explosive",
-            "dna_SpareAmmoCount": 10,
-            "dna_OpticType": "",
-            "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
-            "dna_Wrap": ""
-        },
-        {
-            "dna_TheChosenOne": "SCWS_MP7A1_Fall",
-            "dna_Magazine": "SCWS_MP7A1_Magazine",
-            "dna_SpareMagCount": 0,
-            "dna_Ammunition": "AmmoBox_9x39_20Rnd",
-            "dna_SpareAmmoCount": 6,
-            "dna_OpticType": "",
-            "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
-            "dna_Wrap": ""
-        },
-        {
-            "dna_TheChosenOne": "SCWS_P90_Fall",
-            "dna_Magazine": "SCWS_P90_Magazine",
-            "dna_SpareMagCount": 0,
-            "dna_Ammunition": "AmmoBox_9x39_20Rnd",
-            "dna_SpareAmmoCount": 6,
-            "dna_OpticType": "",
-            "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
-            "dna_Wrap": ""
-        },
-
-        {
             "dna_TheChosenOne": "SCWS_APC9",
             "dna_Magazine": "SCWS_APC9_DualMagazine",
             "dna_SpareMagCount": 0,
@@ -110,14 +44,12 @@
         "RIP_WeaponCleaningSpray",
         "KIWI_WeaponCleaningKit",
         "RIP_WD40S",
-        "NailBox",
         "NVGoggles"
     ],
     "dna_SpawnLootSet2": 1,
     "dna_RandomizeLootSet2": 1,
     "dna_LootSet2Count": 8,
     "dna_LootSetY2": [
-        "AmmoBox_9x19_25rnd",
         "AmmoBox_9x39_20Rnd",
         "AmmoBox_556x45_20Rnd",
         "AmmoBox_762x54_20Rnd",
