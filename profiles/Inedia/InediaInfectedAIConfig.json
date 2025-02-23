@@ -137,6 +137,42 @@
       ],
       "fishermen": [
         "ZmbM_FishermanOld_Base"
+      ],
+      "mutants": [
+        "BRDK_Am_Soldier_01_zmb",
+        "BRDK_Am_Soldier_02_zmb",
+        "BRDK_Am_Soldier_03_zmb",
+        "BRDK_Am_Soldier_04_zmb",
+        "BRDK_FamDoctor_zmb",
+        "BRDK_Hurlock_zmb",
+        "BRDK_IT_Soldier_01_zmb",
+        "BRDK_IT_Soldier_02_zmb",
+        "BRDK_JetPilot_Ch",
+        "BRDK_JetPilot_Ch_nm",
+        "BRDK_JetPilot_Ru",
+        "BRDK_JetPilot_Ru_nm",
+        "BRDK_JetPilot_Us",
+        "BRDK_JetPilot_Us_nm",
+        "BRDK_Knight_zmb",
+        "BRDK_MedievalMan2_zmb",
+        "BRDK_MedievalMan_zmb",
+        "BRDK_Pilot_zmb",
+        "FC_Zmb_Toxic_Blue",
+        "FC_Zmb_Toxic_Orange",
+        "FC_Zmb_Toxic_White",
+        "FC_Zmb_Toxic_Yellow",
+        "FC_Zmb_Worker_1",
+        "FC_Zmb_Worker_1_Blood",
+        "FC_Zmb_Worker_2",
+        "FC_Zmb_Worker_2_Blood",
+        "FC_Zmb_Worker_3",
+        "FC_Zmb_Worker_3_Blood",
+        "FC_Zmb_Worker_Builder",
+        "FC_Zmb_Worker_Builder_Blood",
+        "FC_Zmb_Worker_Police",
+        "FC_Zmb_Worker_Police_Blood",
+        "FC_Zmb_Worker_Soldier",
+        "FC_Zmb_Worker_Soldier_Blood"
       ]
     },
     "CustomIrritants": {
@@ -1270,10 +1306,12 @@
       "all": 70.0
     },
     "DamageToZombieShockToStunThresholdMeleeHeavy": {
-      "all": 0.0
+      "all": 0.0,
+      "mutants": 150.0
     },
     "DamageToZombieShockToStunThresholdRange": {
-      "all": 0.0
+      "all": 0.0,
+      "mutants": 450.0
     },
     "DamageToZombieShockToStunFromButtstockHit": {
       "all": 2.0
@@ -1284,6 +1322,10 @@
     "DamageToZombieWeaponsMultipliers": {
       "all": {
         "all": 1.0
+      },
+      "mutants": {
+        "BRDK_TakticoolKnife_M2": 10.0,
+        "SCWS_CZ_Pink": 5.0
       }
     },
     "MeleeAttacksDodgeHandlerIsActive": {
