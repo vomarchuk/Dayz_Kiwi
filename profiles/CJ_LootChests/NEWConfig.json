@@ -287,8 +287,8 @@
                 "SCWS_AmmoBox_338|0.50",
                 "LC_Table_Money_Event_Low"
             ],
-            "respawn": 0,
-            "respawn_timer": 0,
+            "respawn": 1,
+            "respawn_timer": 30,
             "randomize_position": 0
         }
     ],
