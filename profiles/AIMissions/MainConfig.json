@@ -130,44 +130,6 @@
             ]
         },
         {
-            "Name": "[HARD] Втеча із Алькатраса",
-            "Position": [
-                2772.781738,
-                26.012482,
-                1193.869873
-            ],
-            "Bots_Count_Minimum": 3,
-            "Bots_Count_Maximum": 5,
-            "Bots_Expansion_Loadout": "PatrolLoadout3",
-            "Bots_Loadout_ID": 1,
-            "Bots_Range": 400,
-            "Bots_Accuracy": 0.75,
-            "Bots_Damage_Done_Multiplier": 0.60,
-            "Bots_Damage_Taken_Multiplier": 0.2,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
-            "Is_NBC_Mission": 0,
-            "Allow_Crate_Reward": 1,
-            "Allow_Vehicle_Reward": 0,
-            "Allow_Helicopter_Reward": 1,
-            "Static_Objects": [
-                {
-                    "ClassName": "StaticObj_Wreck_UH1Y",
-                    "Scale": 1.0,
-                    "Position": [
-                        2780.000000,
-                        27.766701,
-                        1202.000000
-                    ],
-                    "Rotation": [
-                        -44.998825,
-                        0.0,
-                        -0.0
-                    ]
-                }
-            ]
-        },
-        {
             "Name": "[HARD] Колона",
             "Position": [
                 2439.916016,

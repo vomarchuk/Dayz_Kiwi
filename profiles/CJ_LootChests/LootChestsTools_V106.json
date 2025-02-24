@@ -27,8 +27,8 @@
         {
             "name": "CJ_Key2",
             "time": 3,
-            "dmg": 10,
-            "desc": "Military Key|This key will open a military crate inside the Tisy Headquarters Building!"
+            "dmg": 100,
+            "desc": "Military Key|Старий потертий ключ, який відкриває таємничий ящик на Алькатрасі"
         },
         {
             "name": "CJ_Key3",
