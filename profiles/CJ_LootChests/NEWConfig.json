@@ -250,7 +250,7 @@
         },
         {
             "name": "Bunker Yar",
-            "number": 15,
+            "number": 3,
             "pos": [
                 "4316.791016 429.503235 15016.222656|0 0 0",
                 "4376.926758 429.624969 14995.193359|0 0 0",
@@ -278,6 +278,7 @@
             "loot": [
                 "CP_EmptyBag|0.70",
                 "LC_Table_Craft_Ingredients_1|0.50",
+                "LC_Table_Ammo_545_308_762",
                 "LC_Table_Ammo_545_308_762",
                 "LC_Table_Ammo_545_308_762",
                 "LC_Table_Ammo_545_308_762",
