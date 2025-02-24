@@ -262,31 +262,6 @@
                     "Sets": []
                 }
             ]
-        },
-        {
-            "SlotName": "Armband",
-            "Items": [
-                {
-                    "ClassName": "AI_Tag",
-                    "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.01,
-                            "Max": 0.01,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
         }
     ],
     "InventoryCargo": [],
