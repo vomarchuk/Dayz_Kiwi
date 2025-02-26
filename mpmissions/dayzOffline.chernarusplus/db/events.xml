@@ -889,7 +889,7 @@
         </children>
     </event>
     <event name="StaticTrain">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <min>1</min>
         <max>0</max>
         <lifetime>5400</lifetime>

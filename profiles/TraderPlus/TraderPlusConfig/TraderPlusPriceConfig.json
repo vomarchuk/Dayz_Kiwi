@@ -920,10 +920,7 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": [
-        "TLRLight,1,-1,0,200,40",
-        "Universallight,1,-1,0,250,45"
-      ]
+      "Products": ["TLRLight,1,-1,0,200,40", "Universallight,1,-1,0,250,45"]
     },
     {
       "CategoryName": "Окуляри",
@@ -3040,8 +3037,8 @@
       "Products": [
         "SCWS_Ammo_300BLK,1,-1,1,10,5",
         "SCWS_AmmoBox_300BLK,1,-1,1,200,100",
-        "SCWS_Ammo_338,1,-1,1,20,10",
-        "SCWS_AmmoBox_338,1,-1,1,400,200",
+        "SCWS_Ammo_338,1,-1,1,30,10",
+        "SCWS_AmmoBox_338,1,-1,1,600,200",
         "SCWS_Ammo_408Chey,1,-1,1,-1,40",
         "SCWS_Ammo_50Cal,1,-1,1,-1,50",
         "SCWS_AmmoBox_408Chey,1,-1,1,-1,800",
@@ -3050,9 +3047,7 @@
     },
     {
       "CategoryName": "TyphoonK",
-      "Products": [
-        "TyphoonK_CamoGreen,1,-1,1,500000,8000"
-      ]
+      "Products": ["TyphoonK_CamoGreen,1,-1,1,500000,8000"]
     },
     {
       "CategoryName": "MotorHomes",
