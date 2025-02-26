@@ -1,0 +1,56 @@
+ImageSetClass {
+ Name "KIWI_GUI"
+ RefSize 2048 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{8E3518044DBE2C07}CPlayer/gui/imagesets/KIWI_GUI.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass FirstAidKit {
+   Name "FirstAidKit"
+   Pos 0 0
+   Size 320 320
+   Flags 0
+  }
+  ImageSetDefClass Blood {
+   Name "Blood"
+   Pos 320 0
+   Size 310 320
+   Flags 0
+  }
+  ImageSetDefClass Case {
+   Name "Case"
+   Pos 630 0
+   Size 320 320
+   Flags 0
+  }
+  ImageSetDefClass Gps {
+   Name "Gps"
+   Pos 950 0
+   Size 356 320
+   Flags 0
+  }
+  ImageSetDefClass questBear {
+   Name "questBear"
+   Pos 1307 0
+   Size 276 320
+   Flags 0
+  }
+  ImageSetDefClass Injector {
+   Name "Injector"
+   Pos 1584 0
+   Size 246 320
+   Flags 0
+  }
+  ImageSetDefClass IFAC {
+   Name "IFAC"
+   Pos 19 323
+   Size 289 337
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}
