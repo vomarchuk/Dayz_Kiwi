@@ -1,9 +1,9 @@
 {
     "m_Version": 1,
     "Enabled": 1,
-    "Weight": 274.0,
+    "Weight": 277.0,
     "MissionMaxTime": 1800,
-    "MissionName": "Pavlovo",
+    "MissionName": "Random_Guglovo",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
@@ -13,9 +13,9 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 1350.0,
-        "z": 3600.0,
-        "Name": "Pavlovo",
+        "x": 8550.0,
+        "z": 6400.0,
+        "Name": "Guglovo",
         "Radius": 100.0
     },
     "Infected": [],
