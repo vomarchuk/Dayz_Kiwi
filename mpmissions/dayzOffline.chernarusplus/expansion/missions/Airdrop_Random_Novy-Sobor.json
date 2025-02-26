@@ -1,8 +1,8 @@
 {
     "m_Version": 1,
     "Enabled": 1,
-    "Weight": 934.0,
-    "MissionMaxTime": 1200,
+    "Weight": 135.0,
+    "MissionMaxTime": 1800,
     "MissionName": "Random_Novy Sobor",
     "Difficulty": 0,
     "Objective": 0,

@@ -1,9 +1,9 @@
 {
     "m_Version": 1,
     "Enabled": 1,
-    "Weight": 134.0,
+    "Weight": 283.0,
     "MissionMaxTime": 1800,
-    "MissionName": "Random_NEAF",
+    "MissionName": "Random_Kalinka",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
@@ -13,9 +13,9 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 12159.0,
-        "z": 12583.0,
-        "Name": "NEAF",
+        "x": 3450.0,
+        "z": 10800.0,
+        "Name": "Kalinka",
         "Radius": 100.0
     },
     "Infected": [],

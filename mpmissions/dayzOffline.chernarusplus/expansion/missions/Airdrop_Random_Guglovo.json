@@ -1,9 +1,9 @@
 {
     "m_Version": 1,
     "Enabled": 1,
-    "Weight": 134.0,
+    "Weight": 274.0,
     "MissionMaxTime": 1800,
-    "MissionName": "Random_NEAF",
+    "MissionName": "Pavlovo",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
@@ -13,9 +13,9 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 12159.0,
-        "z": 12583.0,
-        "Name": "NEAF",
+        "x": 1350.0,
+        "z": 3600.0,
+        "Name": "Pavlovo",
         "Radius": 100.0
     },
     "Infected": [],
