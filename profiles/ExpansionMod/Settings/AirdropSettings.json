@@ -409,7 +409,7 @@
                 "ZmbF_PatientOld",
                 "ZmbM_PatientSkinny"
             ],
-            "ItemCount": -15,
+            "ItemCount": 12,
             "InfectedCount": 25,
             "SpawnInfectedForPlayerCalledDrops": 25,
             "Loot": [
@@ -1133,7 +1133,7 @@
                 },
                 {
                     "Name":"TerjeStethoscope",
-                    "Chance": 0.4,
+                    "Chance": 0.1,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": 1,
@@ -1488,15 +1488,6 @@
                 },
                 {
                     "Name": "RIP_insulatingtape",
-                    "Chance": 0.2,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "RIP_CuttingDisk",
                     "Chance": 0.2,
                     "Attachments": [],
                     "QuantityPercent": -1,
