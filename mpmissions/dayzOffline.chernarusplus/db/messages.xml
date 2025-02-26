@@ -4,7 +4,6 @@
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 
 Example messages:
-
 1) following message will be displayed to every player in countdown manner
     and shuts down server in 10 hours from its start
 
