@@ -39,7 +39,12 @@
         0.131426,
         0.232946
       ],
-      "Clothes": []
+      "Clothes": [
+        "Skirt_White",
+        "MiniDress_BlueWithDots",
+        "Ballerinas_White",
+        "ChristmasHeadband_Antlers"
+      ]
     },
     {
       "ClassName": "SurvivorF_Linda",
@@ -63,7 +68,12 @@
         1.616234,
         2.900736
       ],
-      "Clothes": []
+      "Clothes": [
+        "Skirt_White",
+        "MiniDress_BlueWithDots",
+        "Ballerinas_White",
+        "ChristmasHeadband_Antlers"
+      ]
     },
     {
       "ClassName": "SurvivorM_Kaito",
