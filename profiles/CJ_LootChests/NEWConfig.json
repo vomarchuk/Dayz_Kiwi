@@ -327,7 +327,7 @@
       "light": 1,
       "loot": [
         "CP_EmptyBag|0.70",
-        "LC_Table_Craft_Ingredients_1|0.50",
+        "LC_Table_Craft_Random_Ingredients_1",
         "LC_Table_Ammo_545_308_762",
         "LC_Table_Ammo_545_308_762",
         "LC_Table_Ammo_545_308_762",
@@ -335,6 +335,8 @@
         "LC_Table_Ammo_545_308_762",
         "SCWS_AmmoBox_338",
         "SCWS_AmmoBox_338|0.50",
+        "SCWS_AmmoBox_338|0.50",
+        "LC_Table_Money_Event_Low",
         "LC_Table_Money_Event_Low"
       ],
       "respawn": 1,
@@ -548,6 +550,25 @@
         "RIP_WeaponCleaningSpray",
         "KIWI_WeaponCleaningKit",
         "RIP_WD40S"
+      ]
+    },
+    {
+      "name": "LC_Table_Craft_Random_Ingredients_1",
+      "Loot": [
+        "RIP_CleaningKitPlastic",
+        "RIP_OilPlastic",
+        "RIP_WeaponCleaningSpray_2",
+        "RIP_WD40",
+        "RIP_WeaponCleaningSpray",
+        "KIWI_WeaponCleaningKit",
+        "RIP_WD40S",
+        "TraderPlus_Money_Euro500",
+        "TraderPlus_Money_Euro200",
+        "TraderPlus_Money_Euro200",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro100"
       ]
     },
     {
