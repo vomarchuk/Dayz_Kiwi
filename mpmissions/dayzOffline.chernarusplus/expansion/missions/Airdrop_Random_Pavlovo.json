@@ -1,25 +1,25 @@
 {
-    "m_Version": 1,
-    "Enabled": 1,
-    "Weight": 274.0,
-    "MissionMaxTime": 1800,
-    "MissionName": "Random_Pavlovo",
-    "Difficulty": 0,
-    "Objective": 0,
-    "Reward": "",
-    "ShowNotification": 0,
-    "Height": 450.0,
-    "Speed": 25.0,
-    "Container": "Random",
-    "FallSpeed": 4.5,
-    "DropLocation": {
-        "x": 1350.0,
-        "z": 3600.0,
-        "Name": "Pavlovo",
-        "Radius": 100.0
-    },
-    "Infected": [],
-    "ItemCount": -1,
-    "InfectedCount": -1,
-    "Loot": []
+  "m_Version": 1,
+  "Enabled": 0,
+  "Weight": 274.0,
+  "MissionMaxTime": 1800,
+  "MissionName": "Random_Pavlovo",
+  "Difficulty": 0,
+  "Objective": 0,
+  "Reward": "",
+  "ShowNotification": 0,
+  "Height": 450.0,
+  "Speed": 25.0,
+  "Container": "Random",
+  "FallSpeed": 4.5,
+  "DropLocation": {
+    "x": 1350.0,
+    "z": 3600.0,
+    "Name": "Pavlovo",
+    "Radius": 100.0
+  },
+  "Infected": [],
+  "ItemCount": -1,
+  "InfectedCount": -1,
+  "Loot": []
 }

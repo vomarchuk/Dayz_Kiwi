@@ -1,25 +1,25 @@
 {
-    "m_Version": 1,
-    "Enabled": 1,
-    "Weight": 268.0,
-    "MissionMaxTime": 1800,
-    "MissionName": "Random_Novy_lug",
-    "Difficulty": 0,
-    "Objective": 0,
-    "Reward": "",
-    "ShowNotification": 0,
-    "Height": 450.0,
-    "Speed": 25.0,
-    "Container": "Random",
-    "FallSpeed": 4.5,
-    "DropLocation": {
-        "x": 9650.0,
-        "z": 11500.0,
-        "Name": "Novy_lug",
-        "Radius": 100.0
-    },
-    "Infected": [],
-    "ItemCount": -1,
-    "InfectedCount": -1,
-    "Loot": []
+  "m_Version": 1,
+  "Enabled": 0,
+  "Weight": 268.0,
+  "MissionMaxTime": 1800,
+  "MissionName": "Random_Novy_lug",
+  "Difficulty": 0,
+  "Objective": 0,
+  "Reward": "",
+  "ShowNotification": 0,
+  "Height": 450.0,
+  "Speed": 25.0,
+  "Container": "Random",
+  "FallSpeed": 4.5,
+  "DropLocation": {
+    "x": 9650.0,
+    "z": 11500.0,
+    "Name": "Novy_lug",
+    "Radius": 100.0
+  },
+  "Infected": [],
+  "ItemCount": -1,
+  "InfectedCount": -1,
+  "Loot": []
 }
