@@ -827,6 +827,7 @@
         "Mag_STANAG_30Rnd,1,-1,0,-1,110",
         "Mag_AK74_45Rnd,1,-1,0,-1,110",
         "Mag_STANAGCoupled_30Rnd,1,-1,0,-1,220",
+        "Mag_STANAG_60Rnd,1,-1,0,-1,220",
         "Mag_CMAG_10Rnd,1,-1,0,-1,60",
         "Mag_CMAG_20Rnd,1,-1,0,-1,80",
         "Mag_CMAG_30Rnd,1,-1,0,-1,110",
@@ -891,7 +892,8 @@
         "HuntingOptic,1,-1,0,500,50",
         "PSO1Optic,1,-1,0,500,50",
         "PSO11Optic,1,-1,0,500,50",
-        "KazuarOptic,1,-1,0,-1,300"
+        "KazuarOptic,1,-1,0,-1,300",
+        "StarlightOptic,1,-1,0,-1,600"
       ]
     },
     {
