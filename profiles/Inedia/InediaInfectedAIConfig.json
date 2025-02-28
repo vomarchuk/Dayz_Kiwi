@@ -173,6 +173,17 @@
         "FC_Zmb_Worker_Police_Blood",
         "FC_Zmb_Worker_Soldier",
         "FC_Zmb_Worker_Soldier_Blood"
+      ],
+      "bosses": [
+        "BRDK_Am_Soldier_01_zmb",
+        "BRDK_Am_Soldier_02_zmb",
+        "BRDK_Am_Soldier_03_zmb",
+        "BRDK_Am_Soldier_04_zmb",
+        "BRDK_FamDoctor_zmb",
+        "BRDK_Hurlock_zmb",
+        "BRDK_Knight_zmb",
+        "BRDK_MedievalMan2_zmb",
+        "BRDK_MedievalMan_zmb"
       ]
     },
     "CustomIrritants": {
@@ -293,9 +304,10 @@
         ],
         "Parameters": {
           "DestroyProjectileAfterSeconds": -1.0,
-          "ThrowConditionAmountOfProjectiles": 1.0,
-          "ActivateGrenadeAfterSeconds": 0.0,
-          "ThrowConditionAllowThrowingForCrawlers": 0.0
+          "ThrowConditionAmountOfProjectiles": -1.0,
+          "ActivateGrenadeAfterSeconds": 0.5,
+          "ThrowConditionAllowThrowingForCrawlers": 0.0,
+          "ThrowConditionCooldownSeconds": 30.0
         }
       },
       "GasGrenade": {
@@ -304,9 +316,10 @@
         ],
         "Parameters": {
           "DestroyProjectileAfterSeconds": -1.0,
-          "ThrowConditionAmountOfProjectiles": 1.0,
+          "ThrowConditionAmountOfProjectiles": -1.0,
           "ActivateGrenadeAfterSeconds": 0.0,
-          "ThrowConditionAllowThrowingForCrawlers": 0.0
+          "ThrowConditionAllowThrowingForCrawlers": 0.0,
+          "ThrowConditionCooldownSeconds": 30.0
         }
       },
       "VillagersProjectile": {
@@ -621,10 +634,11 @@
       "all": 0.0
     },
     "UpJumpHandlerIsActive": {
-      "all": 1
+      "all": 0,
+      "mutants": 1
     },
     "UpJumpHeightMax": {
-      "all": 2
+      "all": 2.0
     },
     "UpJumpImpulseDamageChancePercent": {
       "all": 50.0
@@ -1326,6 +1340,9 @@
       "mutants": {
         "BRDK_TakticoolKnife_M2": 10.0,
         "SCWS_CZ_Pink": 5.0
+      },
+      "bosses": {
+        "all": 0.80
       }
     },
     "MeleeAttacksDodgeHandlerIsActive": {
@@ -1514,13 +1531,14 @@
       "all": 0.800000011920929
     },
     "SizeHandlerIsActive": {
-      "all": 0
+      "all": 0,
+      "bosses": 1
     },
     "SizeFromMultiplier": {
-      "all": 0.8999999761581421
+      "all": 1.4
     },
     "SizeToMultiplier": {
-      "all": 1.100000023841858
+      "all": 1.5
     },
     "SizeDamageScalingIsActive": {
       "all": 0
@@ -1532,7 +1550,9 @@
       "all": 1
     },
     "ThrowingProjectilesHandlerIsActive": {
-      "all": 0
+      "all": 0,
+      "BRDK_Am_Soldier_03_zmb": 1,
+      "BRDK_FamDoctor_zmb": 1
     },
     "ThrowingProjectilesHandlerDamageMultiplier": {
       "all": 0.8999999761581421,
@@ -1549,6 +1569,12 @@
       "lowstr": 1.7999999523162842
     },
     "ThrowingProjectilesHandlerProjectilesList": {
+      "BRDK_Am_Soldier_03_zmb": [
+        "FlashGrenade"
+      ],
+      "BRDK_FamDoctor_zmb": [
+        "GasGrenade"
+      ],
       "police": [
         "GarbageIfPlayerOnObstacle",
         "PoliceProjectile"
@@ -1596,10 +1622,10 @@
       ]
     },
     "RangeAttacksHandlerIsActive": {
-      "all": 0
+      "all": 1
     },
     "RangeAttacksHandlerZombiePlayerDistance": {
-      "all": 2.0
+      "all": 2.1
     },
     "RangeAttacksHandlerPlayerOnObstacleHeight": {
       "all": 0.5

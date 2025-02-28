@@ -1,0 +1,51 @@
+[
+  {
+    "pointId": 99,
+    "isDebugEnabled": 1,
+    "isDisabled": 0,
+    "showVisualisation": 1,
+    "notificationTitle": "Boss",
+    "notificationTextEnter": "",
+    "notificationTextExit": "",
+    "notificationTextSpawn": "",
+    "notificationTextWin": "",
+    "notificationTime": 4,
+    "notificationIcon": "set:dayz_gui image:iconSkull",
+    "triggerDependencies": [],
+    "triggerDependenciesAnyOf": 0,
+    "triggersToEnableOnEnter": [],
+    "triggersToEnableOnFirstSpawn": [],
+    "triggersToEnableOnWin": [],
+    "triggersToEnableOnLeave": [],
+    "triggerPosition": "2808.361816, 26.011955, 1240.312744",
+    "triggerDebugColor": "red",
+    "triggerRadius": "2",
+    "triggerHeight": "",
+    "triggerWidthX": "",
+    "triggerWidthY": "",
+    "triggerFirstDelay": "2-3",
+    "triggerCooldown": "2700",
+    "triggerSafeDistance": 5.0,
+    "triggerEnterDelay": 0,
+    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLunchTime": 0,
+    "triggerCleanupDelay": 0,
+    "triggerWorkingTime": "0-24",
+    "triggerDisableOnWin": 0,
+    "triggerDisableOnLeave": 1,
+    "spawnPositions": [
+      "2779.014160, 25.986759, 1190.782471"
+    ],
+    "spawnRadius": 0,
+    "spawnMin": 1,
+    "spawnMax": 1,
+    "spawnCountLimit": 30,
+    "spawnLoopInside": 1,
+    "spawnList": [
+      "BRDK_Am_Soldier_03_zmb"
+    ],
+    "clearDeathAnimals": 0,
+    "clearDeathZombies": 0,
+    "mappingData": []
+  }
+]
