@@ -107,12 +107,6 @@
       ],
       "fishermen": ["ZmbM_FishermanOld_Base"],
       "mutants": [
-        "BRDK_Am_Soldier_01_zmb",
-        "BRDK_Am_Soldier_02_zmb",
-        "BRDK_Am_Soldier_03_zmb",
-        "BRDK_Am_Soldier_04_zmb",
-        "BRDK_FamDoctor_zmb",
-        "BRDK_Hurlock_zmb",
         "BRDK_IT_Soldier_01_zmb",
         "BRDK_IT_Soldier_02_zmb",
         "BRDK_JetPilot_Ch",
@@ -121,9 +115,6 @@
         "BRDK_JetPilot_Ru_nm",
         "BRDK_JetPilot_Us",
         "BRDK_JetPilot_Us_nm",
-        "BRDK_Knight_zmb",
-        "BRDK_MedievalMan2_zmb",
-        "BRDK_MedievalMan_zmb",
         "BRDK_Pilot_zmb",
         "FC_Zmb_Toxic_Blue",
         "FC_Zmb_Toxic_Orange",
@@ -141,6 +132,17 @@
         "FC_Zmb_Worker_Police_Blood",
         "FC_Zmb_Worker_Soldier",
         "FC_Zmb_Worker_Soldier_Blood"
+      ],
+      "bosses": [
+        "BRDK_Am_Soldier_01_zmb",
+        "BRDK_Am_Soldier_02_zmb",
+        "BRDK_Am_Soldier_03_zmb",
+        "BRDK_Am_Soldier_04_zmb",
+        "BRDK_FamDoctor_zmb",
+        "BRDK_Hurlock_zmb",
+        "BRDK_Knight_zmb",
+        "BRDK_MedievalMan2_zmb",
+        "BRDK_MedievalMan_zmb"
       ]
     },
     "CustomIrritants": {
@@ -256,18 +258,20 @@
         "ItemClasses": ["FlashGrenade"],
         "Parameters": {
           "DestroyProjectileAfterSeconds": -1.0,
-          "ThrowConditionAmountOfProjectiles": 1.0,
-          "ActivateGrenadeAfterSeconds": 0.0,
-          "ThrowConditionAllowThrowingForCrawlers": 0.0
+          "ThrowConditionAmountOfProjectiles": -1.0,
+          "ActivateGrenadeAfterSeconds": 0.5,
+          "ThrowConditionAllowThrowingForCrawlers": 0.0,
+          "ThrowConditionCooldownSeconds": 30.0
         }
       },
       "GasGrenade": {
         "ItemClasses": ["Grenade_ChemGas"],
         "Parameters": {
           "DestroyProjectileAfterSeconds": -1.0,
-          "ThrowConditionAmountOfProjectiles": 1.0,
-          "ActivateGrenadeAfterSeconds": 0.0,
-          "ThrowConditionAllowThrowingForCrawlers": 0.0
+          "ThrowConditionAmountOfProjectiles": -1.0,
+          "ActivateGrenadeAfterSeconds": 0.8,
+          "ThrowConditionAllowThrowingForCrawlers": 0.0,
+          "ThrowConditionCooldownSeconds": 30.0
         }
       },
       "VillagersProjectile": {
@@ -573,10 +577,13 @@
       "all": 0.0
     },
     "UpJumpHandlerIsActive": {
-      "all": 1
+      "all": 0,
+      "mutants": 1,
+      "bosses": 1
     },
     "UpJumpHeightMax": {
-      "all": 2
+      "all": 2.0,
+      "bosses": 2.5
     },
     "UpJumpImpulseDamageChancePercent": {
       "all": 50.0
@@ -1259,11 +1266,13 @@
     },
     "DamageToZombieShockToStunThresholdMeleeHeavy": {
       "all": 0.0,
-      "mutants": 150.0
+      "mutants": 150.0,
+      "bosses": 150.0
     },
     "DamageToZombieShockToStunThresholdRange": {
       "all": 0.0,
-      "mutants": 450.0
+      "mutants": 450.0,
+      "bosses": 450.0
     },
     "DamageToZombieShockToStunFromButtstockHit": {
       "all": 2.0
@@ -1278,6 +1287,9 @@
       "mutants": {
         "BRDK_TakticoolKnife_M2": 10.0,
         "SCWS_CZ_Pink": 5.0
+      },
+      "bosses": {
+        "all": 0.40
       }
     },
     "MeleeAttacksDodgeHandlerIsActive": {
@@ -1336,7 +1348,9 @@
       "ZmbM_NBC_Grey": 1,
       "SurvivorBase": 0,
       "ZmbM_Mummy": 1,
-      "ZmbM_NBC_Yellow": 1
+      "ZmbM_NBC_Yellow": 1,
+      "bosses": 1,
+      "mutants": 1
     },
     "AllowCrawling": {
       "all": 1
@@ -1462,13 +1476,14 @@
       "all": 0.800000011920929
     },
     "SizeHandlerIsActive": {
-      "all": 0
+      "all": 0,
+      "bosses": 1
     },
     "SizeFromMultiplier": {
-      "all": 0.8999999761581421
+      "all": 1.4
     },
     "SizeToMultiplier": {
-      "all": 1.100000023841858
+      "all": 1.5
     },
     "SizeDamageScalingIsActive": {
       "all": 0
@@ -1480,7 +1495,9 @@
       "all": 1
     },
     "ThrowingProjectilesHandlerIsActive": {
-      "all": 0
+      "all": 0,
+      "BRDK_Am_Soldier_03_zmb": 1,
+      "BRDK_FamDoctor_zmb": 1
     },
     "ThrowingProjectilesHandlerDamageMultiplier": {
       "all": 0.8999999761581421,
@@ -1497,7 +1514,16 @@
       "lowstr": 1.7999999523162842
     },
     "ThrowingProjectilesHandlerProjectilesList": {
-      "police": ["GarbageIfPlayerOnObstacle", "PoliceProjectile"],
+      "BRDK_Am_Soldier_03_zmb": [
+        "FlashGrenade"
+      ],
+      "BRDK_FamDoctor_zmb": [
+        "GasGrenade"
+      ],
+      "police": [
+        "GarbageIfPlayerOnObstacle",
+        "PoliceProjectile"
+      ],
       "all": [],
       "priests": ["GarbageIfPlayerOnObstacle", "GarbageIfPlayerNonObstacle"],
       "industrial": ["GarbageIfPlayerOnObstacle", "IndustrialProjectile"],
@@ -1514,7 +1540,9 @@
       "all": 1
     },
     "RangeAttacksHandlerZombiePlayerDistance": {
-      "all": 2.0
+      "all": 2.1,
+      "mutants": 2.3,
+      "bosses": 3.0
     },
     "RangeAttacksHandlerPlayerOnObstacleHeight": {
       "all": 0.5
