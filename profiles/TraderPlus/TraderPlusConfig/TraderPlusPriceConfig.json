@@ -3037,10 +3037,10 @@
     {
       "CategoryName": "Ammo",
       "Products": [
-        "SCWS_Ammo_300BLK,1,-1,1,10,5",
-        "SCWS_AmmoBox_300BLK,1,-1,1,200,100",
-        "SCWS_Ammo_338,1,-1,1,30,10",
-        "SCWS_AmmoBox_338,1,-1,1,600,200",
+        "SCWS_Ammo_300BLK,1,-1,1,-1,5",
+        "SCWS_AmmoBox_300BLK,1,-1,1,-1,100",
+        "SCWS_Ammo_338,1,-1,1,50,10",
+        "SCWS_AmmoBox_338,1,-1,1,1000,200",
         "SCWS_Ammo_408Chey,1,-1,1,-1,40",
         "SCWS_Ammo_50Cal,1,-1,1,-1,50",
         "SCWS_AmmoBox_408Chey,1,-1,1,-1,800",

@@ -5,39 +5,5 @@
   "Color": "FBFCFEFF",
   "IsExchange": 0,
   "InitStockPercent": 75.0,
-  "Items": [
-    {
-      "ClassName": "SCWS_AmmoBox_338",
-      "MaxPriceThreshold": 1,
-      "MinPriceThreshold": 1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SellPricePercent": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "SCWS_AmmoBox_408Chey",
-      "MaxPriceThreshold": 1,
-      "MinPriceThreshold": 1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SellPricePercent": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "SCWS_AmmoBox_50Cal",
-      "MaxPriceThreshold": 2,
-      "MinPriceThreshold": 2,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SellPricePercent": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }
-  ]
+  "Items": []
 }
