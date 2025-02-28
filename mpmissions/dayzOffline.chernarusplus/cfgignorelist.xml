@@ -18,5 +18,6 @@
 	<type name="WolfMask"></type>
 	<type name="Spear"></type>
 	<type name="Wreck_Mi8"></type>
+	<type name="Wreck_UH1Y"></type>
 	<type name="HM_Bag"></type>
 </ignore>
