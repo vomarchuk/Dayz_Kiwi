@@ -265,7 +265,7 @@
         "4379.680664 464.624847 15041.517578|0 0 0"
       ],
       "keyclass": "CJ_Key3",
-      "openable": 3,
+      "openable": 2,
       "chest": ["CJ_LootChest_Wood_Green_Small"],
       "lootrandomize": 0.0,
       "light": 1,
@@ -285,6 +285,23 @@
       "respawn": 1,
       "respawn_timer": 45,
       "randomize_position": 1
+    },
+    {
+      "name": "Bunker Yar Craft ingredients",
+      "number": 1,
+      "pos": ["4386.440918 455.124084 15028.009766|0 0 0"],
+      "keyclass": "CJ_Key3",
+      "openable": 2,
+      "chest": ["CJ_LootChest_Wood_Green_Small"],
+      "lootrandomize": 0.0,
+      "light": 1,
+      "loot": [
+        "LC_Table_Craft_Random_Ingredients_2",
+        "LC_Table_Money_Event_Low"
+      ],
+      "respawn": 1,
+      "respawn_timer": 45,
+      "randomize_position": 0
     },
     {
       "name": "Alkatras",
@@ -573,6 +590,18 @@
         "TraderPlus_Money_Euro100",
         "TraderPlus_Money_Euro100",
         "TraderPlus_Money_Euro100"
+      ]
+    },
+    {
+      "name": "LC_Table_Craft_Random_Ingredients_2",
+      "Loot": [
+        "RIP_CleaningKitPlastic",
+        "RIP_OilPlastic",
+        "RIP_WeaponCleaningSpray_2",
+        "RIP_WD40",
+        "RIP_WeaponCleaningSpray",
+        "KIWI_WeaponCleaningKit",
+        "RIP_WD40S"
       ]
     },
     {
