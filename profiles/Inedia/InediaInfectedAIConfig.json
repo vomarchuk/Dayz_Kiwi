@@ -139,12 +139,6 @@
         "ZmbM_FishermanOld_Base"
       ],
       "mutants": [
-        "BRDK_Am_Soldier_01_zmb",
-        "BRDK_Am_Soldier_02_zmb",
-        "BRDK_Am_Soldier_03_zmb",
-        "BRDK_Am_Soldier_04_zmb",
-        "BRDK_FamDoctor_zmb",
-        "BRDK_Hurlock_zmb",
         "BRDK_IT_Soldier_01_zmb",
         "BRDK_IT_Soldier_02_zmb",
         "BRDK_JetPilot_Ch",
@@ -153,9 +147,6 @@
         "BRDK_JetPilot_Ru_nm",
         "BRDK_JetPilot_Us",
         "BRDK_JetPilot_Us_nm",
-        "BRDK_Knight_zmb",
-        "BRDK_MedievalMan2_zmb",
-        "BRDK_MedievalMan_zmb",
         "BRDK_Pilot_zmb",
         "FC_Zmb_Toxic_Blue",
         "FC_Zmb_Toxic_Orange",
@@ -317,7 +308,7 @@
         "Parameters": {
           "DestroyProjectileAfterSeconds": -1.0,
           "ThrowConditionAmountOfProjectiles": -1.0,
-          "ActivateGrenadeAfterSeconds": 0.0,
+          "ActivateGrenadeAfterSeconds": 0.8,
           "ThrowConditionAllowThrowingForCrawlers": 0.0,
           "ThrowConditionCooldownSeconds": 30.0
         }
@@ -635,10 +626,12 @@
     },
     "UpJumpHandlerIsActive": {
       "all": 0,
-      "mutants": 1
+      "mutants": 1,
+      "bosses": 1
     },
     "UpJumpHeightMax": {
-      "all": 2.0
+      "all": 2.0,
+      "bosses": 2.5
     },
     "UpJumpImpulseDamageChancePercent": {
       "all": 50.0
@@ -1321,11 +1314,13 @@
     },
     "DamageToZombieShockToStunThresholdMeleeHeavy": {
       "all": 0.0,
-      "mutants": 150.0
+      "mutants": 150.0,
+      "bosses": 150.0
     },
     "DamageToZombieShockToStunThresholdRange": {
       "all": 0.0,
-      "mutants": 450.0
+      "mutants": 450.0,
+      "bosses": 450.0
     },
     "DamageToZombieShockToStunFromButtstockHit": {
       "all": 2.0
@@ -1342,7 +1337,7 @@
         "SCWS_CZ_Pink": 5.0
       },
       "bosses": {
-        "all": 0.80
+        "all": 0.40
       }
     },
     "MeleeAttacksDodgeHandlerIsActive": {
@@ -1401,7 +1396,9 @@
       "ZmbM_NBC_Grey": 1,
       "SurvivorBase": 0,
       "ZmbM_Mummy": 1,
-      "ZmbM_NBC_Yellow": 1
+      "ZmbM_NBC_Yellow": 1,
+      "bosses": 1,
+      "mutants": 1
     },
     "AllowCrawling": {
       "all": 1
@@ -1625,7 +1622,9 @@
       "all": 1
     },
     "RangeAttacksHandlerZombiePlayerDistance": {
-      "all": 2.1
+      "all": 2.1,
+      "mutants": 2.3,
+      "bosses": 3.0
     },
     "RangeAttacksHandlerPlayerOnObstacleHeight": {
       "all": 0.5

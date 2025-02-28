@@ -39,8 +39,8 @@
     "spawnRadius": 0,
     "spawnMin": 1,
     "spawnMax": 1,
-    "spawnCountLimit": 30,
-    "spawnLoopInside": 1,
+    "spawnCountLimit": 1,
+    "spawnLoopInside": 0,
     "spawnList": [
       "BRDK_Am_Soldier_03_zmb"
     ],
