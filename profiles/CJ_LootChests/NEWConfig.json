@@ -42,7 +42,7 @@
       ],
       "respawn": 1,
       "respawn_timer": 30,
-      "randomize_position": 0
+      "randomize_position": 1
     },
     {
       "name": "Shop",
@@ -242,7 +242,7 @@
       ],
       "respawn": 1,
       "respawn_timer": 20,
-      "randomize_position": 0
+      "randomize_position": 1
     },
     {
       "name": "Bunker Yar",
@@ -281,9 +281,9 @@
         "SCWS_AmmoBox_338|0.50",
         "LC_Table_Money_Event_Low"
       ],
-      "respawn": 0,
-      "respawn_timer": 0,
-      "randomize_position": 0
+      "respawn": 1,
+      "respawn_timer": 45,
+      "randomize_position": 1
     },
     {
       "name": "Alkatras",
@@ -341,7 +341,7 @@
       ],
       "respawn": 1,
       "respawn_timer": 30,
-      "randomize_position": 0
+      "randomize_position": 1
     }
   ],
   "LCPredefinedWeapons": [
@@ -555,6 +555,10 @@
     {
       "name": "LC_Table_Craft_Random_Ingredients_1",
       "Loot": [
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
         "RIP_CleaningKitPlastic",
         "RIP_OilPlastic",
         "RIP_WeaponCleaningSpray_2",
