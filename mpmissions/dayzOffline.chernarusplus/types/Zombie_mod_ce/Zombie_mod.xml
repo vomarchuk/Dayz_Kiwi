@@ -92,6 +92,36 @@
         <lifetime>7900</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+    <type name="BRDK_FamDoctor_hand">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_FamDoctor_head">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_FamDoctor_Leg">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_MedievalMan_Leg">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_MedievalMan_hand">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="BRDK_MedievalMan_head">
+        <nominal>0</nominal>
+        <lifetime>7900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
     <!-- FC -->
     <type name="FC_Zmb_Toxic_Blue">
 		<lifetime>7200</lifetime> 
