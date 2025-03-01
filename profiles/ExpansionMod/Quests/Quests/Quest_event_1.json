@@ -19,11 +19,11 @@
     "ObjectSetFileName": "",
     "QuestItems": [
         {
-            "ClassName": "Mp133Shotgun",
+            "ClassName": "SKS",
             "Amount": 1
         },
         {
-            "ClassName": "Ammo_12gaPellets",
+            "ClassName": "Ammo_762x39",
             "Amount": 200
         }
     ],
