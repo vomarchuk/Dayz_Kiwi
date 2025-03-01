@@ -14372,7 +14372,7 @@
         <category name="tools" />
     </type>
     <type name="NailBox">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
