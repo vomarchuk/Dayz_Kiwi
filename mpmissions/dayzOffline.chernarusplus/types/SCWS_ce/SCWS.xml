@@ -1267,10 +1267,10 @@
         <value name="Tier4" />
     </type>
     <type name="SCWS_AmmoBox_338">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1289,7 +1289,7 @@
         <category name="RadiationZone" />
     </type>
     <type name="SCWS_Ammo_408Chey">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -1300,10 +1300,32 @@
         <category name="RadiationZone" />
     </type>
     <type name="SCWS_AmmoBox_408Chey">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>15</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="RadiationZone" />
+    </type>
+    <type name="SCWS_AmmoBox_50Cal">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>15</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="RadiationZone" />
+    </type>
+    <type name="SCWS_Ammo_50Cal">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>5</quantmin>
         <quantmax>15</quantmax>
         <cost>100</cost>
