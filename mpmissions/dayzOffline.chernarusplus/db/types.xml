@@ -14372,7 +14372,7 @@
         <category name="tools" />
     </type>
     <type name="NailBox">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14384,9 +14384,9 @@
         <tag name="shelves" />
         <usage name="Industrial" />
         <usage name="Farm" />
-        <value name="Tier1" />
         <value name="Tier2" />
-
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="NailedBaseballBat">
         <nominal>0</nominal>
