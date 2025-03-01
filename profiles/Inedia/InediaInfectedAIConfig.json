@@ -1283,7 +1283,8 @@
     },
     "DamageToZombieWeaponsMultipliers": {
       "all": {
-        "all": 1.0
+        "all": 1.0,
+        "Bullet_12GaugePellets" : 10.0
       },
       "mutants": {
         "BRDK_TakticoolKnife_M2": 10.0,
