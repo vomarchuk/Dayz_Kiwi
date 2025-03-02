@@ -11512,7 +11512,7 @@
         <category name="food" />
     </type>
     <type name="LargeGasCanister">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -11523,6 +11523,7 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier4" />
     </type>
     <type name="LargeTent">
         <nominal>6</nominal>
@@ -13426,7 +13427,7 @@
         <usage name="Historical" />
     </type>
     <type name="MediumGasCanister">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -13437,6 +13438,8 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="MediumTent">
         <nominal>8</nominal>
@@ -18314,7 +18317,7 @@
         <category name="tools" />
     </type>
     <type name="SmallGasCanister">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -18325,6 +18328,8 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="SmallGuts">
         <nominal>0</nominal>
@@ -19742,7 +19747,7 @@
         <usage name="Village" />
     </type>
     <type name="TireRepairKit">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -19753,6 +19758,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <value name="Tier4" />
     </type>
     <type name="Tomato">
         <nominal>20</nominal>
