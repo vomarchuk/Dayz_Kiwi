@@ -115,7 +115,10 @@
         "KIWI_Can_MeatFox,1,-1,0,-1,350",
         "KIWI_Can_MeatPig,1,-1,0,-1,500",
         "KIWI_Can_MeatSheep,1,-1,0,-1,650",
-        "KIWI_Can_MeatGoat,1,-1,0,-1,650"
+        "KIWI_Can_MeatGoat,1,-1,0,-1,650",
+        "KIWI_Can_MeatDeer,1,-1,0,-1,700",
+        "KIWI_Can_MeatWolf,1,-1,0,-1,750",
+        "KIWI_Can_MeatBear,1,-1,0,-1,900"
       ]
     },
     {
