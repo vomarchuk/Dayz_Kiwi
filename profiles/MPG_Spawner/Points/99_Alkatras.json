@@ -25,7 +25,7 @@
     "triggerWidthY": "",
     "triggerFirstDelay": "2-3",
     "triggerCooldown": "2700",
-    "triggerSafeDistance": 5.0,
+    "triggerSafeDistance": 1.0,
     "triggerEnterDelay": 0,
     "triggerCleanupOnLeave": 1,
     "triggerCleanupOnLunchTime": 0,
@@ -34,13 +34,13 @@
     "triggerDisableOnWin": 0,
     "triggerDisableOnLeave": 1,
     "spawnPositions": [
-      "2779.014160, 25.986759, 1190.782471"
+      "2779.014160, 26.0, 1190.782471"
     ],
     "spawnRadius": 0,
     "spawnMin": 1,
     "spawnMax": 1,
-    "spawnCountLimit": 1,
-    "spawnLoopInside": 0,
+    "spawnCountLimit": 30,
+    "spawnLoopInside": 1,
     "spawnList": [
       "BRDK_Am_Soldier_03_zmb"
     ],
