@@ -1005,15 +1005,15 @@
     },
     "DamageToPlayerHealthMultiplier": {
       "all": 0.9,
-      "highstr": 1.19,
+      "highstr": 1.1,
       "mediumstr": 1.0,
       "lowstr": 0.8
     },
     "DamageToPlayerShockMultiplier": {
-      "all": 0.7,
-      "highstr": 1.0,
-      "mediumstr": 0.9,
-      "lowstr": 0.7
+      "all": 0.5,
+      "highstr": 0.8,
+      "mediumstr": 0.7,
+      "lowstr": 0.6
     },
     "DamageToPlayerStaminaPercent": {
       "all": 6.0,
@@ -1266,8 +1266,8 @@
     },
     "DamageToZombieShockToStunThresholdMeleeHeavy": {
       "all": 0.0,
-      "mutants": 150.0,
-      "bosses": 150.0
+      "mutants": 30.0,
+      "bosses": 50.0
     },
     "DamageToZombieShockToStunThresholdRange": {
       "all": 0.0,
@@ -1278,7 +1278,8 @@
       "all": 2.0
     },
     "DamageToZombieShockToStunCumulativeDamage": {
-      "all": 0
+      "all": 0,
+      "mutants": 1
     },
     "DamageToZombieWeaponsMultipliers": {
       "all": {
@@ -1286,7 +1287,11 @@
       },
       "mutants": {
         "BRDK_TakticoolKnife_M2": 10.0,
-        "SCWS_CZ_Pink": 5.0
+        "SCWS_CZ_Pink": 5.0,
+        "SLC_Ninjato": 2.0,
+        "SLC_Tachi": 2.0,
+        "SLC_Katana": 2.0,
+        "Bullet_12GaugePellets" : 2.0
       },
       "bosses": {
         "all": 0.40
@@ -1540,8 +1545,8 @@
       "all": 1
     },
     "RangeAttacksHandlerZombiePlayerDistance": {
-      "all": 2.1,
-      "mutants": 2.3,
+      "all": 1.8,
+      "mutants": 2.2,
       "bosses": 3.0
     },
     "RangeAttacksHandlerPlayerOnObstacleHeight": {

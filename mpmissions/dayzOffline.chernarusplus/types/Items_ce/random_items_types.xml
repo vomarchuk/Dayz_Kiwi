@@ -1212,7 +1212,7 @@
         <usage name="Village" />
     </type>
     <type name="RIP_MetalRods">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>4500</restock>
         <min>5</min>
@@ -1224,6 +1224,8 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
