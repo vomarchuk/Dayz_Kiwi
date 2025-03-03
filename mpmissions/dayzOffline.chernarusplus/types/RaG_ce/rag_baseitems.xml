@@ -2692,12 +2692,12 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_pack">
-        <nominal>1</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -2709,6 +2709,7 @@
         <usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier4" />
     </type>
     <type name="rag_baseitems_portafilter">
         <nominal>1</nominal>
