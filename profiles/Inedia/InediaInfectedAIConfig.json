@@ -257,11 +257,13 @@
       "FlashGrenade": {
         "ItemClasses": ["FlashGrenade"],
         "Parameters": {
+          "TargetHealthDamage": 5.0,
           "DestroyProjectileAfterSeconds": -1.0,
           "ThrowConditionAmountOfProjectiles": -1.0,
           "ActivateGrenadeAfterSeconds": 0.5,
           "ThrowConditionAllowThrowingForCrawlers": 0.0,
-          "ThrowConditionCooldownSeconds": 30.0
+          "ThrowConditionCooldownSeconds": 30.0,
+          "ThrowConditionZombieTargetDistanceMax": 50.0
         }
       },
       "GasGrenade": {
@@ -619,7 +621,8 @@
       "all": 20.0
     },
     "InjuryHandlerIsActive": {
-      "all": 1
+      "all": 1,
+      "bosses": 0
     },
     "InjuryHandlerInjuryOnExplosiveDamageChancePercent": {
       "all": 100.0
@@ -1361,7 +1364,8 @@
       "all": 1
     },
     "RespawnInCrawlingChancePercent": {
-      "all": 10.0
+      "all": 10.0,
+      "bosses": 0
     },
     "ScreamHandlerIsActive": {
       "all": 1
@@ -1505,11 +1509,11 @@
       "BRDK_FamDoctor_zmb": 1
     },
     "ThrowingProjectilesHandlerDamageMultiplier": {
-      "all": 0.8999999761581421,
-      "SurvivorBase": 1.100000023841858,
-      "highstr": 1.100000023841858,
-      "mediumstr": 1.0,
-      "lowstr": 0.8999999761581421
+      "all": 0.1,
+      "SurvivorBase": 0.100000023841858,
+      "highstr": 0.100000023841858,
+      "mediumstr": 0.10,
+      "lowstr": 0.1
     },
     "ThrowingProjectilesHandlerVehiclesDamageMultiplier": {
       "all": 1.7999999523162842,
