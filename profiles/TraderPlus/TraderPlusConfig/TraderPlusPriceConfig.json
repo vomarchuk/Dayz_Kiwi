@@ -241,6 +241,7 @@
         "TerjeInjectorStomaproxidal,1,-1,1,1000,200",
         "TerjeInjectorRabinucoline,1,-1,1,1000,200",
         "TerjeInjectorAmfitalicyne,1,-1,1,1000,200",
+        "TerjeAntiradInjector,1,-1,1,1000,200",
         "TerjeInjectorReanimatal,1,-1,1,1000,100",
         "TerjeInjectorNeirox,1,-1,1,1000,200",
         "TerjeInjectorErythropoietin,1,-1,1,1000,200",
