@@ -117,6 +117,7 @@
         "KIWI_Can_MeatSheep,1,-1,0,-1,650",
         "KIWI_Can_MeatGoat,1,-1,0,-1,650",
         "KIWI_Can_MeatDeer,1,-1,0,-1,700",
+        "KIWI_Can_MeatCow,1,-1,0,-1,700",
         "KIWI_Can_MeatWolf,1,-1,0,-1,750",
         "KIWI_Can_MeatBear,1,-1,0,-1,900"
       ]
@@ -2010,7 +2011,11 @@
         "TerjeCaseRadMilitary,1,-1,0,-1,1000",
         "TerjeCaseRadSpecial,1,-1,0,-1,1000",
         "TerjePump,1,-1,0,-1,1000",
-        "TerjeDosimetrPripyat,1,-1,0,-1,500"
+        "TerjeShower,1,-1,0,-1,500",
+        "TerjeDosimetrCdv700,1,-1,0,-1,250",
+        "TerjeDosimetrDpg05,1,-1,0,-1,400",
+        "TerjeDosimetrPripyat,1,-1,0,-1,500",
+        "TerjeDosimetrMkc01A,1,-1,0,-1,600"
       ]
     },
     {
