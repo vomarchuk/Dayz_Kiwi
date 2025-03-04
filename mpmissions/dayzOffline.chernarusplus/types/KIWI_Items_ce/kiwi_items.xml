@@ -17,10 +17,10 @@
         <!-- <value name="Tier4" /> -->
     </type>
     <type name="KIWI_WeaponCleaningKit">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
