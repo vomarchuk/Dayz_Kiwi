@@ -41,8 +41,6 @@
         <category name="tools" />
         <category name="RadiationZone" />
         <usage name="Military" />
-        <usage name="Police" />
-        <usage name="Hunting" />
         <value name="Tier4" />
     </type>
     <type name="RIP_OilPlastic">
@@ -320,6 +318,7 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
 

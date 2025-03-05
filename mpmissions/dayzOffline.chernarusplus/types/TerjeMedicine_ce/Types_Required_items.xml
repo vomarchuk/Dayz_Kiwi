@@ -329,7 +329,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeInjectorNovichek">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
