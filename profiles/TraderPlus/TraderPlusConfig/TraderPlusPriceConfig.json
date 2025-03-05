@@ -93,7 +93,8 @@
         "PsilocybeMushroom,1,-1,50,-1,9",
         "AuriculariaMushroom,1,-1,150,-1,9",
         "BoletusMushroom,1,-1,150,-1,9",
-        "PleurotusMushroom,1,-1,150,-1,9"
+        "PleurotusMushroom,1,-1,150,-1,9",
+        "GardenLime,1,-1,0,-1,300"
       ]
     },
     {
@@ -244,6 +245,7 @@
         "TerjeInjectorNeirox,1,-1,1,1000,200",
         "TerjeInjectorErythropoietin,1,-1,1,1000,200",
         "TerjeInjectorNovichek,1,-1,1,1000,200",
+        "TerjeAntiradInjector,1,-1,1,1000,200",
         "TerjeFirstAidKitIndividual_Camo,1,-1,0,-1,300",
         "TerjeFirstAidKitIndividual_Green,1,-1,0,-1,300",
         "TerjeFirstAidKitIndividual_Brown,1,-1,0,-1,300",
