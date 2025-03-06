@@ -314,6 +314,55 @@
         ]
       },
       {
+        "CategoryName": "Потрібні речі",
+        "CraftItems": [
+          {
+            "Result": "KIWI_SewingKit_XL",
+            "ResultCount": 1000,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Великий набір кравця",
+            "CraftComponents": [
+              {
+                "Classname": "SewingKit",
+                "Amount": 1000,
+                "Destroy": 1000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "KIWI_DuctTape_XL",
+            "ResultCount": 1000,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Великий моток скотча",
+            "CraftComponents": [
+              {
+                "Classname": "DuctTape",
+                "Amount": 1000,
+                "Destroy": 1000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          }
+        ]
+      },
+      {
         "CategoryName": "Подвійні магазини",
         "CraftItems": [
           {
@@ -2136,8 +2185,8 @@
             "CraftComponents": [
               {
                 "Classname": "RIP_AP",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 1,
+                "Destroy": 1,
                 "Changehealth": 0
               },
               {
@@ -2160,8 +2209,8 @@
               },
               {
                 "Classname": "MetalPlate",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 12,
+                "Destroy": 12,
                 "Changehealth": 0
               },
               {
@@ -2172,8 +2221,8 @@
               },
               {
                 "Classname": "SmallGasCanister",
-                "Amount": 80,
-                "Destroy": 80,
+                "Amount": 100,
+                "Destroy": 100,
                 "Changehealth": 0
               }
             ],
@@ -2188,8 +2237,8 @@
             "CraftComponents": [
               {
                 "Classname": "RIP_AP2",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 1,
+                "Destroy": 1,
                 "Changehealth": 0
               },
               {
@@ -2224,8 +2273,8 @@
               },
               {
                 "Classname": "MediumGasCanister",
-                "Amount": 60,
-                "Destroy": 60,
+                "Amount": 80,
+                "Destroy": 80,
                 "Changehealth": 0
               }
             ],
@@ -2240,8 +2289,8 @@
             "CraftComponents": [
               {
                 "Classname": "RIP_AP3",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 1,
+                "Destroy": 1,
                 "Changehealth": 0
               },
               {
@@ -2276,8 +2325,8 @@
               },
               {
                 "Classname": "LargeGasCanister",
-                "Amount": 80,
-                "Destroy": 80,
+                "Amount": 100,
+                "Destroy": 100,
                 "Changehealth": 0
               }
             ],
@@ -2448,9 +2497,9 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "BearPelt",
-                "Amount": 5,
-                "Destroy": 5,
+                "Classname": "TannedLeather",
+                "Amount": 12,
+                "Destroy": 12,
                 "Changehealth": 0
               },
               {
@@ -2518,9 +2567,9 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "TannedLeather",
-                "Amount": 25,
-                "Destroy": 25,
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
                 "Changehealth": 0
               },
               {
@@ -2978,9 +3027,9 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "BearPelt",
-                "Amount": 5,
-                "Destroy": 5,
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
                 "Changehealth": 0
               },
               {
@@ -3019,6 +3068,265 @@
         ]
       },
       {
+        "CategoryName": "Сет Хімера",
+        "CraftItems": [
+          {
+            "Result": "VM_TOXIC_Jacket",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Куртка Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCJacketGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 8,
+                "Destroy": 8,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 450,
+                "Destroy": 450,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 750,
+                "Destroy": 750,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+          },
+          {
+            "Result": "VM_TOXIC_Pants",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Штани Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCPantsGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 8,
+                "Destroy": 8,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 450,
+                "Destroy": 450,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 750,
+                "Destroy": 750,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+          },
+          {
+            "Result": "VM_TOXIC_GasMask",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Газова маска Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "AirborneMask",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "NBCHoodGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DryBag_Black",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 12,
+                "Destroy": 12,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 180,
+                "Destroy": 180,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 550,
+                "Destroy": 550,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 1500,
+                "Destroy": 1500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+          },
+          {
+            "Result": "VM_TOXIC_Gloves",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Рукавиці Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCGlovesGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+          },
+          {
+            "Result": "VM_TOXIC_Boots",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Взуття Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCBootsGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+          }
+        ]
+      },
+      {
         "CategoryName": "Фурнітура",
         "CraftItems": [
           {
@@ -3030,8 +3338,8 @@
             "CraftComponents": [
               {
                 "Classname": "WoodenPlank",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 20,
+                "Destroy": 20,
                 "Changehealth": 0
               },
               {
@@ -3052,8 +3360,8 @@
             "CraftComponents": [
               {
                 "Classname": "WoodenPlank",
-                "Amount": 15,
-                "Destroy": 15,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
@@ -3074,8 +3382,8 @@
             "CraftComponents": [
               {
                 "Classname": "WoodenPlank",
-                "Amount": 20,
-                "Destroy": 20,
+                "Amount": 40,
+                "Destroy": 40,
                 "Changehealth": 0
               },
               {
@@ -3145,6 +3453,7 @@
           }
         ]
       }
+
     ]
   }
 }
