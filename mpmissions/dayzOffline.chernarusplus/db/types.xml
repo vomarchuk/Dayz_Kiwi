@@ -7354,7 +7354,7 @@
     </type>
     <type name="Firewood">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -11512,7 +11512,7 @@
         <category name="food" />
     </type>
     <type name="LargeGasCanister">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -11523,6 +11523,7 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier4" />
     </type>
     <type name="LargeTent">
         <nominal>6</nominal>
@@ -11959,7 +11960,7 @@
     </type>
     <type name="LongWoodenStick">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12541,7 +12542,7 @@
         <value name="Unique" />
     </type>
     <type name="Mag_AK101_30Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12553,7 +12554,7 @@
         <usage name="Military" />
     </type>
     <type name="Mag_AK74_30Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12567,7 +12568,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_AK74_45Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -12580,7 +12581,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_AKM_30Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12593,7 +12594,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_AKM_Drum75Rnd">
-        <nominal>2</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -12606,7 +12607,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_AKM_Palm30Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12644,7 +12645,7 @@
         <usage name="Military" />
     </type>
     <type name="Mag_CMAG_20Rnd">
-        <nominal>8</nominal>
+        <nominal>18</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -12656,7 +12657,7 @@
         <usage name="Military" />
     </type>
     <type name="Mag_CMAG_30Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12668,7 +12669,7 @@
         <usage name="ContaminatedArea" />
     </type>
     <type name="Mag_CMAG_40Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -12766,7 +12767,7 @@
         <usage name="ContaminatedArea" />
     </type>
     <type name="Mag_FAMAS_25Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -12964,7 +12965,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_STANAG_30Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12978,7 +12979,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_STANAG_60Rnd">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -13029,7 +13030,7 @@
         <value name="Tier3" />
     </type>
     <type name="Mag_Saiga_8Rnd">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -13043,7 +13044,7 @@
         <value name="Tier3" />
     </type>
     <type name="Mag_Saiga_Drum20Rnd">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -13096,7 +13097,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_VSS_10Rnd">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -13426,7 +13427,7 @@
         <usage name="Historical" />
     </type>
     <type name="MediumGasCanister">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -13437,6 +13438,8 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="MediumTent">
         <nominal>8</nominal>
@@ -14098,7 +14101,7 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_STANAGCoupled_30Rnd">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -14372,7 +14375,7 @@
         <category name="tools" />
     </type>
     <type name="NailBox">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14384,9 +14387,9 @@
         <tag name="shelves" />
         <usage name="Industrial" />
         <usage name="Farm" />
-        <value name="Tier1" />
         <value name="Tier2" />
-
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="NailedBaseballBat">
         <nominal>0</nominal>
@@ -15400,7 +15403,7 @@
     </type>
     <type name="PileOfWoodenPlanks">
         <nominal>15</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -18314,7 +18317,7 @@
         <category name="tools" />
     </type>
     <type name="SmallGasCanister">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -18325,6 +18328,8 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="SmallGuts">
         <nominal>0</nominal>
@@ -19742,7 +19747,7 @@
         <usage name="Village" />
     </type>
     <type name="TireRepairKit">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -19753,6 +19758,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <value name="Tier4" />
     </type>
     <type name="Tomato">
         <nominal>20</nominal>
@@ -20734,7 +20740,7 @@
         <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21146,7 +21152,7 @@
     </type>
     <type name="WoodenLog">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -21157,7 +21163,7 @@
     </type>
     <type name="WoodenPlank">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -21168,7 +21174,7 @@
     </type>
     <type name="WoodenStick">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

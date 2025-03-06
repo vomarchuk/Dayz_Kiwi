@@ -93,7 +93,8 @@
         "PsilocybeMushroom,1,-1,50,-1,9",
         "AuriculariaMushroom,1,-1,150,-1,9",
         "BoletusMushroom,1,-1,150,-1,9",
-        "PleurotusMushroom,1,-1,150,-1,9"
+        "PleurotusMushroom,1,-1,150,-1,9",
+        "GardenLime,1,-1,0,-1,300"
       ]
     },
     {
@@ -115,7 +116,11 @@
         "KIWI_Can_MeatFox,1,-1,0,-1,350",
         "KIWI_Can_MeatPig,1,-1,0,-1,500",
         "KIWI_Can_MeatSheep,1,-1,0,-1,650",
-        "KIWI_Can_MeatGoat,1,-1,0,-1,650"
+        "KIWI_Can_MeatGoat,1,-1,0,-1,650",
+        "KIWI_Can_MeatDeer,1,-1,0,-1,700",
+        "KIWI_Can_MeatCow,1,-1,0,-1,700",
+        "KIWI_Can_MeatWolf,1,-1,0,-1,750",
+        "KIWI_Can_MeatBear,1,-1,0,-1,900"
       ]
     },
     {
@@ -138,21 +143,21 @@
       "CategoryName": "Частини тварин",
       "Products": [
         "Bone,1,-1,1,-1,15",
-        "ChickenFeather,1,-1,1,-1,10",
+        "ChickenFeather,1,-1,1,-1,15",
         "Lard,1,-1,200,-1,55",
         "Guts,1,-1,500,-1,50",
-        "RabbitPelt,1,-1,1,-1,120",
-        "FoxPelt,1,-1,1,-1,120",
-        "SheepPelt,1,-1,1,-1,150",
-        "DeerPelt,1,-1,1,-1,170",
-        "PigPelt,1,-1,1,-1,170",
-        "GoatPelt,1,-1,1,-1,190",
-        "WildboarPelt,1,-1,1,-1,170",
-        "CowPelt,1,-1,1,-1,205",
-        "ReindeerPelt,1,-1,1,-1,205",
-        "WolfPelt,1,-1,1,-1,215",
-        "BearPelt,1,-1,1,-1,595",
-        "Headdress_Wolf,1,-1,1,-1,195"
+        "RabbitPelt,1,-1,1,-1,220",
+        "FoxPelt,1,-1,1,-1,220",
+        "SheepPelt,1,-1,1,-1,250",
+        "DeerPelt,1,-1,1,-1,270",
+        "PigPelt,1,-1,1,-1,270",
+        "GoatPelt,1,-1,1,-1,290",
+        "WildboarPelt,1,-1,1,-1,270",
+        "CowPelt,1,-1,1,-1,305",
+        "ReindeerPelt,1,-1,1,-1,305",
+        "WolfPelt,1,-1,1,-1,315",
+        "BearPelt,1,-1,1,-1,695",
+        "Headdress_Wolf,1,-1,1,-1,295"
       ]
     },
     {
@@ -193,35 +198,35 @@
     {
       "CategoryName": "Таблетки",
       "Products": [
-        "PurificationTablets,1,-1,1,80,8",
-        "TerjePillsAgteminol,1,-1,1,-1,8",
-        "TerjePillsParacetamol,1,-1,1,-1,8",
-        "TerjePillsNimesulid,1,-1,1,-1,8",
-        "TerjePillsMesalazin,1,-1,1,-1,8",
-        "TerjePillsNoopept,1,-1,1,-1,8",
-        "TerjePillsPolisorb,1,-1,1,-1,8",
-        "TerjePillsNurofen,1,-1,1,-1,8",
-        "TerjePillsMagnesiumSulfate,1,-1,1,-1,8",
-        "TerjePillsB190,1,-1,1,-1,8",
-        "TerjePillsIrovit,1,-1,1,-1,8",
-        "TerjePillsIbuprofen,1,-1,1,-1,8",
-        "TerjePillsVikasol,1,-1,1,-1,8",
-        "TerjePillsAmoxiclav,1,-1,1,-1,8",
-        "TerjePillsAnalgin,1,-1,1,-1,8",
-        "TerjePillsAmibaktam,1,-1,1,-1,8",
-        "TerjePillsFtalazol,1,-1,1,-1,8",
-        "TerjePillsHexacyanoferrate,1,-1,1,-1,8",
-        "TerjePillsRombiopental,1,-1,1,-1,8",
-        "TerjePillsPotassiumIodide,1,-1,1,-1,8",
-        "TerjePillsVenlafaxine,1,-1,1,-1,8",
-        "TerjePillsMexamine,1,-1,1,-1,8",
-        "TerjePillsPiperacylin,1,-1,1,-1,8",
-        "TerjePillsAdepress,1,-1,1,-1,8",
-        "CharcoalTablets,1,-1,1,-1,8",
-        "DisinfectantAlcohol,1,-1,200,-1,8",
-        "VitaminBottle,1,-1,50,-1,8",
-        "TetracyclineAntibiotics,1,-1,1,-1,8",
-        "PainkillerTablets,1,-1,1,-1,8",
+        "PurificationTablets,1,-1,1,80,10",
+        "TerjePillsAgteminol,1,-1,1,-1,10",
+        "TerjePillsParacetamol,1,-1,1,-1,10",
+        "TerjePillsNimesulid,1,-1,1,-1,10",
+        "TerjePillsMesalazin,1,-1,1,-1,10",
+        "TerjePillsNoopept,1,-1,1,-1,10",
+        "TerjePillsPolisorb,1,-1,1,-1,10",
+        "TerjePillsNurofen,1,-1,1,-1,10",
+        "TerjePillsMagnesiumSulfate,1,-1,1,-1,10",
+        "TerjePillsB190,1,-1,1,-1,10",
+        "TerjePillsIrovit,1,-1,1,-1,10",
+        "TerjePillsIbuprofen,1,-1,1,-1,10",
+        "TerjePillsVikasol,1,-1,1,-1,10",
+        "TerjePillsAmoxiclav,1,-1,1,-1,10",
+        "TerjePillsAnalgin,1,-1,1,-1,10",
+        "TerjePillsAmibaktam,1,-1,1,-1,10",
+        "TerjePillsFtalazol,1,-1,1,-1,10",
+        "TerjePillsHexacyanoferrate,1,-1,1,-1,10",
+        "TerjePillsRombiopental,1,-1,1,-1,10",
+        "TerjePillsPotassiumIodide,1,-1,1,-1,10",
+        "TerjePillsVenlafaxine,1,-1,1,-1,10",
+        "TerjePillsMexamine,1,-1,1,-1,10",
+        "TerjePillsPiperacylin,1,-1,1,-1,10",
+        "TerjePillsAdepress,1,-1,1,-1,10",
+        "CharcoalTablets,1,-1,1,-1,10",
+        "DisinfectantAlcohol,1,-1,200,-1,10",
+        "VitaminBottle,1,-1,50,-1,10",
+        "TetracyclineAntibiotics,1,-1,1,-1,10",
+        "PainkillerTablets,1,-1,1,-1,10",
         "Epinephrine,1,-1,0,-1,150",
         "Morphine,1,-1,0,-1,150"
       ]
@@ -231,16 +236,18 @@
       "Products": [
         "TerjeInjectorAmoxiclav,1,-1,1,1000,500",
         "TerjeInjectorZivirol,1,-1,1,1000,500",
-        "TerjeInjectorPromidol,1,-1,1,1000,80",
-        "TerjeInjectorTopoizomeraza,1,-1,1,800,80",
-        "TerjeInjectorErytromixelin,1,-1,1,800,80",
-        "TerjeInjectorStomaproxidal,1,-1,1,800,80",
-        "TerjeInjectorRabinucoline,1,-1,1,800,80",
-        "TerjeInjectorAmfitalicyne,1,-1,1,800,80",
+        "TerjeInjectorPromidol,1,-1,1,1000,200",
+        "TerjeInjectorTopoizomeraza,1,-1,1,1000,200",
+        "TerjeInjectorErytromixelin,1,-1,1,1000,200",
+        "TerjeInjectorStomaproxidal,1,-1,1,1000,200",
+        "TerjeInjectorRabinucoline,1,-1,1,1000,200",
+        "TerjeInjectorAmfitalicyne,1,-1,1,1000,200",
+        "TerjeAntiradInjector,1,-1,1,1000,200",
         "TerjeInjectorReanimatal,1,-1,1,1000,100",
-        "TerjeInjectorNeirox,1,-1,1,800,80",
-        "TerjeInjectorErythropoietin,1,-1,1,800,80",
-        "TerjeInjectorNovichek,1,-1,1,800,80",
+        "TerjeInjectorNeirox,1,-1,1,1000,200",
+        "TerjeInjectorErythropoietin,1,-1,1,1000,200",
+        "TerjeInjectorNovichek,1,-1,1,1000,200",
+        "TerjeAntiradInjector,1,-1,1,1000,200",
         "TerjeFirstAidKitIndividual_Camo,1,-1,0,-1,300",
         "TerjeFirstAidKitIndividual_Green,1,-1,0,-1,300",
         "TerjeFirstAidKitIndividual_Brown,1,-1,0,-1,300",
@@ -340,24 +347,24 @@
         "Battery9V,1,-1,50,150,15",
         "KIWI_Battery9V,1,-1,100,-1,200",
         "PersonalRadio,1,-1,0,-1,70",
-        "Megaphone,1,-1,0,-1,85",
+        "Megaphone,1,-1,0,-1,150",
         "ElectronicRepairKit,1,-1,100,-1,200",
         "CableReel,1,-1,0,-1,40",
         "BatteryCharger,1,-1,0,-1,60",
         "Rangefinder,1,-1,0,-1,60",
         "NVGoggles,1,-1,0,-1,1500",
-        "GPSReceiver,1,-1,0,-1,85",
-        "ExpansionGPS,1,-1,0,-1,320"
+        "GPSReceiver,1,-1,0,-1,120",
+        "ExpansionGPS,1,-1,0,-1,520"
       ]
     },
     {
       "CategoryName": "Fire & Lights",
       "Products": [
-        "Chemlight_Blue,1,-1,100,100,20",
-        "Chemlight_Green,1,-1,100,100,20",
-        "Chemlight_Red,1,-1,100,100,20",
-        "Chemlight_White,1,-1,100,100,20",
-        "Chemlight_Yellow,1,-1,100,100,20",
+        "Chemlight_Blue,1,-1,100,100,30",
+        "Chemlight_Green,1,-1,100,100,30",
+        "Chemlight_Red,1,-1,100,100,30",
+        "Chemlight_White,1,-1,100,100,30",
+        "Chemlight_Yellow,1,-1,100,100,30",
         "Roadflare,1,-1,20,-1,25",
         "Matchbox,1,-1,100,150,15",
         "Flashlight,1,-1,0,-1,30",
@@ -827,6 +834,7 @@
         "Mag_STANAG_30Rnd,1,-1,0,-1,110",
         "Mag_AK74_45Rnd,1,-1,0,-1,110",
         "Mag_STANAGCoupled_30Rnd,1,-1,0,-1,220",
+        "Mag_STANAG_60Rnd,1,-1,0,-1,220",
         "Mag_CMAG_10Rnd,1,-1,0,-1,60",
         "Mag_CMAG_20Rnd,1,-1,0,-1,80",
         "Mag_CMAG_30Rnd,1,-1,0,-1,110",
@@ -891,7 +899,8 @@
         "HuntingOptic,1,-1,0,500,50",
         "PSO1Optic,1,-1,0,500,50",
         "PSO11Optic,1,-1,0,500,50",
-        "KazuarOptic,1,-1,0,-1,300"
+        "KazuarOptic,1,-1,0,-1,300",
+        "StarlightOptic,1,-1,0,-1,600"
       ]
     },
     {
@@ -920,10 +929,7 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": [
-        "TLRLight,1,-1,0,200,40",
-        "Universallight,1,-1,0,250,45"
-      ]
+      "Products": ["TLRLight,1,-1,0,200,40", "Universallight,1,-1,0,250,45"]
     },
     {
       "CategoryName": "Окуляри",
@@ -1470,6 +1476,7 @@
         "CanvasBag_Olive,1,-1,0,-1,40",
         "CanvasBag_Medical,1,-1,0,-1,40",
         "ArmyPouch_Black,1,-1,0,-1,80",
+        "DuffelBagSmall_Medical,1,-1,0,-1,80",
         "ArmyPouch_Beige,1,-1,0,-1,80",
         "ArmyPouch_Camo,1,-1,0,-1,80",
         "ArmyPouch_Green,1,-1,0,-1,80",
@@ -2007,8 +2014,12 @@
         "TerjeCaseRadMilitary,1,-1,0,-1,1000",
         "TerjeCaseRadSpecial,1,-1,0,-1,1000",
         "TerjePump,1,-1,0,-1,1000",
+        "TerjeRadTent,1,-1,0,-1,1500",
+        "TerjeShower,1,-1,0,-1,500",
+        "TerjeDosimetrCdv700,1,-1,0,-1,250",
+        "TerjeDosimetrDpg05,1,-1,0,-1,400",
         "TerjeDosimetrPripyat,1,-1,0,-1,500",
-        "TerjeRadTent,1,-1,0,-1,500",
+        "TerjeDosimetrMkc01A,1,-1,0,-1,600"
       ]
     },
     {
@@ -2023,17 +2034,17 @@
         "BRDK_Pilot_head,1,-1,0,-1,180",
         "BRDK_Hurlock_head,1,-1,0,-1,180",
         "BRDK_Am_Soldier_04_head,1,-1,0,-1,180",
-        "BRDK_FamDoctor_head,1,-1,0,-1,180",
         "BRDK_IT_Soldier_02_head,1,-1,0,-1,180",
-        "BRDK_Am_Soldier_03_head,1,-1,0,-1,180",
+        "BRDK_Am_Soldier_03_head,1,-1,0,-1,2500",
         "BRDK_MedievalMan2_Leg,1,-1,0,-1,50",
-        "BRDK_FamDoctor_hand,1,-1,0,-1,50",
         "BRDK_MedievalMan2_hand,1,-1,0,-1,50",
         "BRDK_Hurlock_hand,1,-1,0,-1,50",
-        "BRDK_FamDoctor_Leg,1,-1,0,-1,50",
-        "BRDK_MedievalMan_Leg,1,-1,0,-1,250",
-        "BRDK_MedievalMan_hand,1,-1,0,-1,250",
-        "BRDK_MedievalMan_head,1,-1,0,-1,2500"
+        "BRDK_FamDoctor_hand,1,-1,0,-1,1000",
+        "BRDK_FamDoctor_head,1,-1,0,-1,1000",
+        "BRDK_FamDoctor_Leg,1,-1,0,-1,1000",
+        "BRDK_MedievalMan_Leg,1,-1,0,-1,1000",
+        "BRDK_MedievalMan_hand,1,-1,0,-1,1000",
+        "BRDK_MedievalMan_head,1,-1,0,-1,1000"
       ]
     },
     {
@@ -2494,28 +2505,28 @@
     {
       "CategoryName": "Belts",
       "Products": [
-        "FOG_BISON_Belt_CB,1,-1,0,-1,69",
-        "FOG_BISON_Belt_RG,1,-1,0,-1,69",
-        "FOG_BISON_Belt_Black,1,-1,0,-1,69",
-        "FOG_BISON_Belt_MC,1,-1,0,-1,69",
-        "FOG_BISON_Belt_MCB,1,-1,0,-1,69",
-        "FOG_Belt_RTGFB_CB,1,-1,0,-1,95",
-        "FOG_Belt_RTGFB_MC,1,-1,0,-1,95",
-        "FOG_Belt_RTGFB_RG,1,-1,0,-1,95",
-        "FOG_Belt_RTGFB_Black,1,-1,0,-1,95",
-        "FOG_Belt_RTGFB_AOR1,1,-1,0,-1,95",
-        "FOG_Belt_RTGFB_AOR2,1,-1,0,-1,95",
-        "FOG_Belt_RTGFB_ALP,1,-1,0,-1,95",
-        "FOG_MRB_Belt_CB,1,-1,0,-1,95",
-        "FOG_MRB_Belt_MC,1,-1,0,-1,95",
-        "FOG_MRB_Belt_MCB,1,-1,0,-1,95",
-        "FOG_MRB_Belt_RG,1,-1,0,-1,95",
-        "FOG_MRB_Belt_AOR1,1,-1,0,-1,95",
-        "FOG_MRB_Belt_AOR2,1,-1,0,-1,95",
-        "FOG_MRB_Belt_ATACSAU,1,-1,0,-1,95",
-        "FOG_MRB_Belt_Black,1,-1,0,-1,95",
-        "FOG_MRB_Belt_6CD,1,-1,0,-1,95",
-        "FOG_MRB_Belt_MCT,1,-1,0,-1,95"
+        "FOG_BISON_Belt_CB,1,-1,0,-1,169",
+        "FOG_BISON_Belt_RG,1,-1,0,-1,169",
+        "FOG_BISON_Belt_Black,1,-1,0,-1,169",
+        "FOG_BISON_Belt_MC,1,-1,0,-1,169",
+        "FOG_BISON_Belt_MCB,1,-1,0,-1,169",
+        "FOG_Belt_RTGFB_CB,1,-1,0,5000,250",
+        "FOG_Belt_RTGFB_MC,1,-1,0,5000,250",
+        "FOG_Belt_RTGFB_RG,1,-1,0,5000,250",
+        "FOG_Belt_RTGFB_Black,1,-1,0,5000,250",
+        "FOG_Belt_RTGFB_AOR1,1,-1,0,5000,250",
+        "FOG_Belt_RTGFB_AOR2,1,-1,0,5000,250",
+        "FOG_Belt_RTGFB_ALP,1,-1,0,5000,250",
+        "FOG_MRB_Belt_CB,1,-1,0,5000,250",
+        "FOG_MRB_Belt_MC,1,-1,0,5000,250",
+        "FOG_MRB_Belt_MCB,1,-1,0,5000,250",
+        "FOG_MRB_Belt_RG,1,-1,0,5000,250",
+        "FOG_MRB_Belt_AOR1,1,-1,0,5000,250",
+        "FOG_MRB_Belt_AOR2,1,-1,0,5000,250",
+        "FOG_MRB_Belt_ATACSAU,1,-1,0,5000,250",
+        "FOG_MRB_Belt_Black,1,-1,0,5000,250",
+        "FOG_MRB_Belt_6CD,1,-1,0,5000,250",
+        "FOG_MRB_Belt_MCT,1,-1,0,5000,250"
       ]
     },
     {
@@ -3039,10 +3050,10 @@
     {
       "CategoryName": "Ammo",
       "Products": [
-        "SCWS_Ammo_300BLK,1,-1,1,10,5",
-        "SCWS_AmmoBox_300BLK,1,-1,1,200,100",
-        "SCWS_Ammo_338,1,-1,1,20,10",
-        "SCWS_AmmoBox_338,1,-1,1,400,200",
+        "SCWS_Ammo_300BLK,1,-1,1,-1,5",
+        "SCWS_AmmoBox_300BLK,1,-1,1,-1,100",
+        "SCWS_Ammo_338,1,-1,1,50,10",
+        "SCWS_AmmoBox_338,1,-1,1,1000,200",
         "SCWS_Ammo_408Chey,1,-1,1,-1,40",
         "SCWS_Ammo_50Cal,1,-1,1,-1,50",
         "SCWS_AmmoBox_408Chey,1,-1,1,-1,800",
@@ -3051,9 +3062,7 @@
     },
     {
       "CategoryName": "TyphoonK",
-      "Products": [
-        "TyphoonK_CamoGreen,1,-1,1,500000,8000"
-      ]
+      "Products": ["TyphoonK_CamoGreen,1,-1,1,500000,8000"]
     },
     {
       "CategoryName": "MotorHomes",

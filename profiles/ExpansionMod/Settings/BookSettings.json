@@ -1,513 +1,506 @@
 {
-    "m_Version": 5,
-    "EnableStatusTab": 1,
-    "EnablePartyTab": 1,
-    "EnableServerInfoTab": 1,
-    "EnableServerRulesTab": 1,
-    "EnableTerritoryTab": 1,
-    "EnableBookMenu": 1,
-    "CreateBookmarks": 0,
-    "ShowHaBStats": 1,
-    "ShowPlayerFaction": 0,
-    "RuleCategories": [
+  "m_Version": 5,
+  "EnableStatusTab": 1,
+  "EnablePartyTab": 1,
+  "EnableServerInfoTab": 1,
+  "EnableServerRulesTab": 1,
+  "EnableTerritoryTab": 1,
+  "EnableBookMenu": 1,
+  "CreateBookmarks": 0,
+  "ShowHaBStats": 1,
+  "ShowPlayerFaction": 0,
+  "RuleCategories": [
+    {
+      "CategoryName": "Правила серверу",
+      "Rules": [
         {
-            "CategoryName": "Правила серверу",
-            "Rules": [
-                {
-                    "RuleParagraph": "1.1.",
-                    "RuleText": "Ігровий нік повинен бути повністю ідентичним з ніком в дискорді."
-                },
-                {
-                    "RuleParagraph": "1.2.",
-                    "RuleText": "Заборонено тривалий час перебувати на сервері з ніком Survivor. Заборонено використання нечитабельних ніків (нік повинен бути введений Латиницею), ніків нецензурного, образливого і рекламного характеру, а також ніків схожих з ніками адміністрації."
-                },
-                {
-                    "RuleParagraph": "1.3.",
-                    "RuleText": "Заборонені зображення, ніки і висловлювання непристойного змісту і екстремістські символіки, символіка ЛГБТ і т. п. Якщо ви не можете самостійно змінити ігровий нік - зверніться до адміністрації сервера."
-                },
-                {
-                    "RuleParagraph": "1.4.",
-                    "RuleText": "На сервері заборонено використання будь-якого стороннього програмного забезпечення. За використання такого ПЗ одним гравцем також будуть банитися всі гравці з ним в команді."
-                },
-                {
-                    "RuleParagraph": "1.5.",
-                    "RuleText": "Заборонено використання багів, помилок і недоліків гри: знаходження в текстурах, пролаз на бази через текстури, пролаз в замкнуті двері, підсадки об'єктами в повітрі, тощо."
-                },
-                {
-                    "RuleParagraph": "1.6.",
-                    "RuleText": "Заборонені будь-які чити, глітчинг, використання багів/економічних дірок та варіння луту для отримання власної вигоди. Якщо Ви знайшли якусь фінансову помилку, необхідно повідомити про це адміністрацію через тікет."
-                },
-                {
-                    "RuleParagraph": "1.7.",
-                    "RuleText": "Використання недоліків трейдерів, дюп, краш, прирівнюється до багоюзу. При виявленні недоліків і помилок програмного забезпечення гри, прохання до гравців повідомити про це адміністрацію. Якщо дюп стався ненавмисно або через баг, ви зобов'язані повідомити адміністратора."
-                },
-                {
-                    "RuleParagraph": "1.8.",
-                    "RuleText": "Заборонена реклама сторонніх ігрових сервісів і тематичних ресурсів без згоди адміністрації (пряма і прихована)."
-                },
-                {
-                    "RuleParagraph": "1.9.",
-                    "RuleText": "Заборонена реклама серверів на інших ресурсах без згоди адміністрації (пряма і прихована)."
-                },
-                {
-                    "RuleParagraph": "1.10.",
-                    "RuleText": "Заборонено підставляти і(або) лжесвідчення проти гравців, а також підробляти докази."
-                },
-                {
-                    "RuleParagraph": "1.11.",
-                    "RuleText": "Заборонено непокору і невиконання вимог ігрових адміністраторів сервера як в ігровому світі, так і в Дискорді."
-                },
-                {
-                    "RuleParagraph": "1.12.",
-                    "RuleText": "Заборонено що-небудь вимагати у адміністрації і(або) ставити їй умови, дискредитувати склад адміністрації проекту."
-                },
-                {
-                    "RuleParagraph": "1.13.",
-                    "RuleText": "Заборонена реєстрація мультиаккаунтів, якщо минулий аккаунт знаходиться в бані або під іншим обмеженням."
-                },
-                {
-                    "RuleParagraph": "1.14.",
-                    "RuleText": "Заборонено образу інших гравців і адміністрації сервера. (Особисті повідомлення нас не стосуються)."
-                },
-                {
-                    "RuleParagraph": "1.15.",
-                    "RuleText": "Заборонено влаштовувати розборки в загальному чаті гри, або текстових і голосових каналах Діскорда."
-                },
-                {
-                    "RuleParagraph": "1.16.",
-                    "RuleText": "У ігровому чаті і в групі Діскорда забороняється вживати лайку, нецензурні слова, образи, мат в будь-якому вигляді."
-                },
-                {
-                    "RuleParagraph": "1.17.",
-                    "RuleText": "Заборонені провокації будь-якого характеру."
-                },
-                {
-                    "RuleParagraph": "1.18.",
-                    "RuleText": "Адміністрація проекту залишає за собою право заблокувати користувача на власний розсуд без пояснення причини."
-                },
-                {
-                    "RuleParagraph": "1.19.",
-                    "RuleText": "Адміністрація проекту залишає за собою право заблокувати користувача як що буде вважати його загрозою проекту."
-                },
-                {
-                    "RuleParagraph": "1.20.",
-                    "RuleText": "Донат вважається добровільною пожертвою гравцем реальних коштів на розвиток та підтримку функціонування серверу та залежить виключно від особистої ініціативи гравця. Адміністрація серверу ніяким чином не спонукає гравців до пожертв. Добровільні пожертви не можуть бути повернуті."
-                },
-                {
-                    "RuleParagraph": "1.21.",
-                    "RuleText": "Торгівля між гравцями ігровими цінностями за реальні гроші - заборонена у будь-якому вигляді."
-                }
-
-            ]
+          "RuleParagraph": "1.1.",
+          "RuleText": "Ігровий нік повинен бути повністю ідентичним з ніком в дискорді."
         },
         {
-            "CategoryName": "Правила поведінки на сейф-трейд зонах",
-            "Rules": [
-                {
-                    "RuleParagraph": "2.1.",
-                    "RuleText": "Заборонено розкидати незатребуваний лут! Для цього встановлені смітники."
-                },
-                {
-                    "RuleParagraph": "2.2.",
-                    "RuleText": "Заборонено використовувати будь-який вплив на гравців і їх майна."
-                },
-                {
-                    "RuleParagraph": "2.3.",
-                    "RuleText": "Забороняється стрілянина, розкидання димових гранат, фаєрів і хімсвітла на території трейд зони."
-                },
-                {
-                    "RuleParagraph": "2.4.",
-                    "RuleText": "Бартер і угоди між гравцями не заборонені. Адміністрація не несе відповідальності за їх результат."
-                },
-                {
-                    "RuleParagraph": "2.5.",
-                    "RuleText": "Заборонено залишати автомобілі на трейд-зонах, а також в радіусі 500 метрів від них на термін більше 2 годин. Якщо Ви не можете прибрати авто з сейф-зони, повідомте адміністрацію. Транспорт, який порушує правила паркування, буде евакуйовано на штраф майданчик. Власник має право викупити свій транспорт за 30% собівартості протягом тижня. Не викуплений транспорт переходе у власність серверу."
-                },
-                {
-                    "RuleParagraph": "2.6.",
-                    "RuleText": "Заборонено використання Гучномовець для трансляції сторонніх звуків та музики."
-                },
-                {
-                    "RuleParagraph": "2.7.",
-                    "RuleText": "На трейд зонах заборонено будь-яка взаємодія з чужим транспортом без згоди її власника."
-                },
-                {
-                    "RuleParagraph": "2.8.",
-                    "RuleText": "Заборонено підбирати предмети 'з під ніг' гравця, який взаємодіє з торговим ботом, без згоди гравця."
-                }
-
-            ]
+          "RuleParagraph": "1.2.",
+          "RuleText": "Заборонено тривалий час перебувати на сервері з ніком Survivor. Заборонено використання нечитабельних ніків (нік повинен бути введений Латиницею), ніків нецензурного, образливого і рекламного характеру, а також ніків схожих з ніками адміністрації."
         },
         {
-            "CategoryName": "Правила транспорту",
-            "Rules": [
-                {
-                    "RuleParagraph": "3.1.",
-                    "RuleText": "Не залишайте свої речі в зруйнованій машині, щойно ви від неї відійдете, сервер її видалить як зруйновану річ."
-                },
-                {
-                    "RuleParagraph": "3.2.",
-                    "RuleText": "Кожен транспортний засіб повинен бути зареєстрований в каналі Діскорду 'Реєстрація авто'."
-                },
-                {
-                    "RuleParagraph": "3.3.",
-                    "RuleText": "Заборонено викрадення чужого транспорту, а також крадіжки з інвентаря, навіть якщо він відчинений."
-                },
-                {
-                    "RuleParagraph": "3.4.",
-                    "RuleText": "Заборонено навмисне переміщення транспорту або заволодіння шляхом обману."
-                },
-                {
-                    "RuleParagraph": "3.5.",
-                    "RuleText": "Заборонено сідати в чужий автомобіль без дозволу господаря."
-                },
-                {
-                    "RuleParagraph": "3.6.",
-                    "RuleText": "За збереження незачинених автомобілів, а також лута в них адміністрація проекту відповідальності не несе."
-                },
-                {
-                    "RuleParagraph": "3.7.",
-                    "RuleText": "Заборонено навмисно блокувати місце спавна автомобілів з віртуального гаража."
-                },
-                {
-                    "RuleParagraph": "3.8.",
-                    "RuleText": "Заборонено тримати на карті більше ніж 1 власний транспорт на 1 гравця, винятком вважається перекладання луту між транспортами."
-                },
-                {
-                    "RuleParagraph": "3.9.",
-                    "RuleText": "При виході з гри паркуйте власний транспортний засіб у віртуальний гараж."
-                },
-                {
-                    "RuleParagraph": "3.10.",
-                    "RuleText": "Заборонено викликати адміністрацію сервера для допомоги у витягуванні машин."
-                },
-                {
-                    "RuleParagraph": "3.11.",
-                    "RuleText": "Заборонено паркувати в гараж чужі авто без згоди власника."
-                },
-                {
-                    "RuleParagraph": "3.12.",
-                    "RuleText": "У разі якщо через баг авто зруйнувалося/втопилося, не можна від нього відходити більше ніж на 50 м, інакше воно зникне разом з лутом у ньому."
-                }
-
-            ]
+          "RuleParagraph": "1.3.",
+          "RuleText": "Заборонені зображення, ніки і висловлювання непристойного змісту і екстремістські символіки, символіка ЛГБТ і т. п. Якщо ви не можете самостійно змінити ігровий нік - зверніться до адміністрації сервера."
         },
         {
-            "CategoryName": "Правила будівництва баз",
-            "Rules": [
-                {
-                    "RuleParagraph": "4.1.1.",
-                    "RuleText": "Місце для будівництва має бути узгоджене з Адміністрацією в розділі 'Реєстрація бази'."
-                },
-                {
-                    "RuleParagraph": "4.1.2.",
-                    "RuleText": "Координатами бази вважається стяготримач."
-                },
-                {
-                    "RuleParagraph": "4.1.3.",
-                    "RuleText": "Палатка закрита на замок і встановлена з прапором вважається повноцінною базою."
-                },
-                {
-                    "RuleParagraph": "4.2.",
-                    "RuleText": "Заборонено заходити до палаток, недобудованих баз із прапором та зареєстрованих у відповідному розділі."
-                },
-                {
-                    "RuleParagraph": "4.3.",
-                    "RuleText": "Максимальний розмір бази на 1-2 гравця не більше 4х6 прольотів."
-                },
-                {
-                    "RuleParagraph": "4.4.",
-                    "RuleText": "Не більше 2-х грядок (теплиць) на 1 базу."
-                },
-                {
-                    "RuleParagraph": "4.5.",
-                    "RuleText": "База не має перешкоджати руху інших гравців або завдавати їм шкоди."
-                },
-                {
-                    "RuleParagraph": "4.6.",
-                    "RuleText": "Заборонено будівництво в місцях, що порушують ігрові правила або місцеві регуляції сервера."
-                },
-                {
-                    "RuleParagraph": "4.7.",
-                    "RuleText": "Заборонено будувати ближче 1000 м від сейв-трейд зон і великих військових баз."
-                },
-                {
-                    "RuleParagraph": "4.8.1.",
-                    "RuleText": "Заборонено будувати ближче 500 м до головних доріг та 300 м до асфальтних доріг."
-                },
-                {
-                    "RuleParagraph": "4.9.",
-                    "RuleText": "Будь-яка палатка, бочка, схрон без реєстрації та кодового замка вважається вільною."
-                },
-                {
-                    "RuleParagraph": "4.10.",
-                    "RuleText": "Будь-яка палатка, фурнітура, база із кодовим замком, але без реєстрації, буде видалена."
-                },
-                {
-                    "RuleParagraph": "4.11.",
-                    "RuleText": "Один гравець має право мати не більше однієї одиниці кожної фурнітури, що існує на сервері."
-                }
-
-            ]
+          "RuleParagraph": "1.4.",
+          "RuleText": "На сервері заборонено використання будь-якого стороннього програмного забезпечення. За використання такого ПЗ одним гравцем також будуть банитися всі гравці з ним в команді."
+        },
+        {
+          "RuleParagraph": "1.5.",
+          "RuleText": "Заборонено використання багів, помилок і недоліків гри: знаходження в текстурах, пролаз на бази через текстури, пролаз в замкнуті двері, підсадки об'єктами в повітрі, тощо."
+        },
+        {
+          "RuleParagraph": "1.6.",
+          "RuleText": "Заборонені будь-які чити, глітчинг, використання багів/економічних дірок та варіння луту для отримання власної вигоди. Якщо Ви знайшли якусь фінансову помилку, необхідно повідомити про це адміністрацію через тікет."
+        },
+        {
+          "RuleParagraph": "1.7.",
+          "RuleText": "Використання недоліків трейдерів, дюп, краш, прирівнюється до багоюзу. При виявленні недоліків і помилок програмного забезпечення гри, прохання до гравців повідомити про це адміністрацію. Якщо дюп стався ненавмисно або через баг, ви зобов'язані повідомити адміністратора."
+        },
+        {
+          "RuleParagraph": "1.8.",
+          "RuleText": "Заборонена реклама сторонніх ігрових сервісів і тематичних ресурсів без згоди адміністрації (пряма і прихована)."
+        },
+        {
+          "RuleParagraph": "1.9.",
+          "RuleText": "Заборонена реклама серверів на інших ресурсах без згоди адміністрації (пряма і прихована)."
+        },
+        {
+          "RuleParagraph": "1.10.",
+          "RuleText": "Заборонено підставляти і(або) лжесвідчення проти гравців, а також підробляти докази."
+        },
+        {
+          "RuleParagraph": "1.11.",
+          "RuleText": "Заборонено непокору і невиконання вимог ігрових адміністраторів сервера як в ігровому світі, так і в Дискорді."
+        },
+        {
+          "RuleParagraph": "1.12.",
+          "RuleText": "Заборонено що-небудь вимагати у адміністрації і(або) ставити їй умови, дискредитувати склад адміністрації проекту."
+        },
+        {
+          "RuleParagraph": "1.13.",
+          "RuleText": "Заборонена реєстрація мультиаккаунтів, якщо минулий аккаунт знаходиться в бані або під іншим обмеженням."
+        },
+        {
+          "RuleParagraph": "1.14.",
+          "RuleText": "Заборонено образу інших гравців і адміністрації сервера. (Особисті повідомлення нас не стосуються)."
+        },
+        {
+          "RuleParagraph": "1.15.",
+          "RuleText": "Заборонено влаштовувати розборки в загальному чаті гри, або текстових і голосових каналах Діскорда."
+        },
+        {
+          "RuleParagraph": "1.16.",
+          "RuleText": "У ігровому чаті і в групі Діскорда забороняється вживати лайку, нецензурні слова, образи, мат в будь-якому вигляді."
+        },
+        {
+          "RuleParagraph": "1.17.",
+          "RuleText": "Заборонені провокації будь-якого характеру."
+        },
+        {
+          "RuleParagraph": "1.18.",
+          "RuleText": "Адміністрація проекту залишає за собою право заблокувати користувача на власний розсуд без пояснення причини."
+        },
+        {
+          "RuleParagraph": "1.19.",
+          "RuleText": "Адміністрація проекту залишає за собою право заблокувати користувача як що буде вважати його загрозою проекту."
+        },
+        {
+          "RuleParagraph": "1.20.",
+          "RuleText": "Донат вважається добровільною пожертвою гравцем реальних коштів на розвиток та підтримку функціонування серверу та залежить виключно від особистої ініціативи гравця. Адміністрація серверу ніяким чином не спонукає гравців до пожертв. Добровільні пожертви не можуть бути повернуті."
+        },
+        {
+          "RuleParagraph": "1.21.",
+          "RuleText": "Торгівля між гравцями ігровими цінностями за реальні гроші - заборонена у будь-якому вигляді."
         }
-    ],
-    "DisplayServerSettingsInServerInfoTab": 0,
-    "SettingCategories": [
+      ]
+    },
+    {
+      "CategoryName": "Правила поведінки на сейф-трейд зонах",
+      "Rules": [
         {
-            "CategoryName": "Base-Building Settings",
-            "Settings": [
-                {
-                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
-                    "SettingText": "",
-                    "SettingValue": ""
-                }
-            ]
+          "RuleParagraph": "2.1.",
+          "RuleText": "Заборонено розкидати незатребуваний лут! Для цього встановлені смітники."
         },
         {
-            "CategoryName": "Raid Settings",
-            "Settings": [
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                }
-            ]
+          "RuleParagraph": "2.2.",
+          "RuleText": "Заборонено використовувати будь-який вплив на гравців і їх майна."
         },
         {
-            "CategoryName": "Territory Settings",
-            "Settings": [
-                {
-                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
-                    "SettingText": "",
-                    "SettingValue": ""
-                }
-            ]
+          "RuleParagraph": "2.3.",
+          "RuleText": "Забороняється стрілянина, розкидання димових гранат, фаєрів і хімсвітла на території трейд зони."
         },
         {
-            "CategoryName": "Party Settings",
-            "Settings": [
-                {
-                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
-                    "SettingText": "",
-                    "SettingValue": ""
-                }
-            ]
+          "RuleParagraph": "2.4.",
+          "RuleText": "Бартер і угоди між гравцями не заборонені. Адміністрація не несе відповідальності за їх результат."
+        },
+        {
+          "RuleParagraph": "2.5.",
+          "RuleText": "Заборонено залишати автомобілі на трейд-зонах, а також в радіусі 500 метрів від них на термін більше 2 годин. Якщо Ви не можете прибрати авто з сейф-зони, повідомте адміністрацію. Транспорт, який порушує правила паркування, буде евакуйовано на штраф майданчик. Власник має право викупити свій транспорт за 30% собівартості протягом тижня. Не викуплений транспорт переходе у власність серверу."
+        },
+        {
+          "RuleParagraph": "2.6.",
+          "RuleText": "Заборонено використання Гучномовець для трансляції сторонніх звуків та музики."
+        },
+        {
+          "RuleParagraph": "2.7.",
+          "RuleText": "На трейд зонах заборонено будь-яка взаємодія з чужим транспортом без згоди її власника."
+        },
+        {
+          "RuleParagraph": "2.8.",
+          "RuleText": "Заборонено підбирати предмети 'з під ніг' гравця, який взаємодіє з торговим ботом, без згоди гравця."
         }
-    ],
-    "Links": [
+      ]
+    },
+    {
+      "CategoryName": "Правила транспорту",
+      "Rules": [
         {
-            "Name": "Homepage",
-            "URL": "https://dayz-servers.org/server/168580/",
-            "IconName": "Homepage",
-            "IconColor": -14473430
+          "RuleParagraph": "3.1.",
+          "RuleText": "Не залишайте свої речі в зруйнованій машині, щойно ви від неї відійдете, сервер її видалить як зруйновану річ."
         },
         {
-            "Name": "Голосування",
-            "URL": "https://dayz-servers.org/server/168580/vote/",
-            "IconName": "Forums",
-            "IconColor": -14473430
+          "RuleParagraph": "3.2.",
+          "RuleText": "Кожен транспортний засіб повинен бути зареєстрований в каналі Діскорду 'Реєстрація авто'."
         },
         {
-            "Name": "Discord",
-            "URL": "https://discord.gg/NANSy2QN",
-            "IconName": "Discord",
-            "IconColor": -9270822
+          "RuleParagraph": "3.3.",
+          "RuleText": "Заборонено викрадення чужого транспорту, а також крадіжки з інвентаря, навіть якщо він відчинений."
         },
         {
-            "Name": "Patreon",
-            "URL": "https://discord.gg/2HZwPp3Q",
-            "IconName": "Patreon",
-            "IconColor": -432044
+          "RuleParagraph": "3.4.",
+          "RuleText": "Заборонено навмисне переміщення транспорту або заволодіння шляхом обману."
         },
         {
-            "Name": "Steam",
-            "URL": "https://steamcommunity.com/profiles/76561198104182080",
-            "IconName": "Steam",
-            "IconColor": -14006434
+          "RuleParagraph": "3.5.",
+          "RuleText": "Заборонено сідати в чужий автомобіль без дозволу господаря."
+        },
+        {
+          "RuleParagraph": "3.6.",
+          "RuleText": "За збереження незачинених автомобілів, а також лута в них адміністрація проекту відповідальності не несе."
+        },
+        {
+          "RuleParagraph": "3.7.",
+          "RuleText": "Заборонено навмисно блокувати місце спавна автомобілів з віртуального гаража."
+        },
+        {
+          "RuleParagraph": "3.8.",
+          "RuleText": "Заборонено тримати на карті більше ніж 1 власний транспорт на 1 гравця, винятком вважається перекладання луту між транспортами."
+        },
+        {
+          "RuleParagraph": "3.9.",
+          "RuleText": "При виході з гри паркуйте власний транспортний засіб у віртуальний гараж."
+        },
+        {
+          "RuleParagraph": "3.10.",
+          "RuleText": "Заборонено викликати адміністрацію сервера для допомоги у витягуванні машин."
+        },
+        {
+          "RuleParagraph": "3.11.",
+          "RuleText": "Заборонено паркувати в гараж чужі авто без згоди власника."
+        },
+        {
+          "RuleParagraph": "3.12.",
+          "RuleText": "У разі якщо через баг авто зруйнувалося/втопилося, не можна від нього відходити більше ніж на 50 м, інакше воно зникне разом з лутом у ньому."
         }
-    ],
-    "Descriptions": [
+      ]
+    },
+    {
+      "CategoryName": "Правила будівництва баз",
+      "Rules": [
         {
-            "CategoryName": "Mod Info",
-            "Descriptions": [
-                {
-                    "DescriptionText": "Посилені зомбі: ці хлопці не жартують – вони вибивають двері з розмаху і мають слух гостріший, ніж у мисливського собаки."
-                },
-                {
-                    "DescriptionText": "Система прокачки скілів: хочеш стати майстром виживання? Прокачуй свої вміння та отримуй перевагу над рештою."
-                },
-                {
-                    "DescriptionText": "Модова медицина та хвороби: рани, інфекції, отруєння – безліч загроз, які можна здолати тільки завдяки знанням і правильним лікам."
-                },
-                {
-                    "DescriptionText": "Мутанти: четвертий тір відкриває двері у світ жахливих створінь, протистояння з якими – справжнє випробування."
-                },
-                {
-                    "DescriptionText": "Хелікраші: не просто здобич, а справжнє пекло – там чатують не тільки мутанти, а й озброєні боти."
-                },
-                {
-                    "DescriptionText": "Боти: вони патрулюють поліцейські дільниці та великі військові бази, змушуючи ретельно планувати кожен рейд"
-                },
-                {
-                    "DescriptionText": "Замки: тут на вас чекають справжні боси – жирні мутанти та ящики з цінним лутом, які відкриваються лише ключ-картою."
-                },
-                {
-                    "DescriptionText": "Крафт модової зброї: збирай деталі та створи свій унікальний арсенал."
-                },
-                {
-                    "DescriptionText": "Трейдер-зони: якщо шукаєш обмін або купівлю спорядження – ванільна зона розташована на Вівтарі, а модові речі можна знайти у трейдерів на Зеленій Горі."
-                },
-                {
-                    "DescriptionText": "Унікальні квести, що дозволять збільшити кількість слотів у вашому інвентарі."
-                }
-            ]
+          "RuleParagraph": "4.1.1.",
+          "RuleText": "Місце для будівництва має бути узгоджене з Адміністрацією в розділі 'Реєстрація бази'."
+        },
+        {
+          "RuleParagraph": "4.1.2.",
+          "RuleText": "Координатами бази вважається стяготримач."
+        },
+        {
+          "RuleParagraph": "4.1.3.",
+          "RuleText": "Палатка закрита на замок і встановлена з прапором вважається повноцінною базою."
+        },
+        {
+          "RuleParagraph": "4.2.",
+          "RuleText": "Заборонено заходити до палаток, недобудованих баз із прапором та зареєстрованих у відповідному розділі."
+        },
+        {
+          "RuleParagraph": "4.3.",
+          "RuleText": "Максимальний розмір бази на 1-2 гравця не більше 4х6 прольотів."
+        },
+        {
+          "RuleParagraph": "4.4.",
+          "RuleText": "Не більше 2-х грядок (теплиць) на 1 базу."
+        },
+        {
+          "RuleParagraph": "4.5.",
+          "RuleText": "База не має перешкоджати руху інших гравців або завдавати їм шкоди."
+        },
+        {
+          "RuleParagraph": "4.6.",
+          "RuleText": "Заборонено будівництво в місцях, що порушують ігрові правила або місцеві регуляції сервера."
+        },
+        {
+          "RuleParagraph": "4.7.",
+          "RuleText": "Заборонено будувати ближче 1000 м від сейв-трейд зон і великих військових баз."
+        },
+        {
+          "RuleParagraph": "4.8.1.",
+          "RuleText": "Заборонено будувати ближче 500 м до головних доріг та 300 м до асфальтних доріг."
+        },
+        {
+          "RuleParagraph": "4.9.",
+          "RuleText": "Будь-яка палатка, бочка, схрон без реєстрації та кодового замка вважається вільною."
+        },
+        {
+          "RuleParagraph": "4.10.",
+          "RuleText": "Будь-яка палатка, фурнітура, база із кодовим замком, але без реєстрації, буде видалена."
+        },
+        {
+          "RuleParagraph": "4.11.",
+          "RuleText": "Один гравець має право мати не більше однієї одиниці кожної фурнітури, що існує на сервері."
         }
-    ],
-    "CraftingCategories": [
+      ]
+    }
+  ],
+  "DisplayServerSettingsInServerInfoTab": 0,
+  "SettingCategories": [
+    {
+      "CategoryName": "Base-Building Settings",
+      "Settings": [
         {
-            "CategoryName": "Base-Building",
-            "Results": [
-                "territoryflagkit",
-                "RaG_BB_PillarKit",
-                "RaG_BB_RoofKit",
-                "RaG_BB_FloorKit",
-                "RaG_BB_CeilingKit",
-                "RaG_BB_StaircaseKit",
-                "RaG_BB_Staircase_2Kit",
-                "RaG_BB_StairsKit",
-                "RaG_BB_WallKit",
-                "RaG_BB_DoorKit",
-                "RaG_BB_WindowKit",
-                "RaG_BB_Window_SmallKit",
-                "RaG_BB_Low_WallKit",
-                "RaG_BB_FoundationKit",
-                "RaG_BB_GateKit",
-                "RaG_BB_GateLeftKit",
-                "RaG_BB_GateRightKit",
-                "RaG_BB_WoodStorageKit",
-                "RaG_BB_RampKit",
-                "RaG_BB_StepLadderKit",
-                "RaG_BB_Floor_HatchKit",
-                "RaG_BB_Single_DoorKit"
-            ]
+          "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+          "SettingText": "",
+          "SettingValue": ""
         },
         {
-            "CategoryName": "Консерви",
-            "Results": [
-                "KIWI_Can_Empty",
-                "KIWI_Can_Salt",
-                "KIWI_Can_MeatBear",
-                "KIWI_Can_MeatBoar",
-                "KIWI_Can_MeatChicken",
-                "KIWI_Can_MeatCow",
-                "KIWI_Can_MeatDeer",
-                "KIWI_Can_MeatFox",
-                "KIWI_Can_MeatGoat",
-                "KIWI_Can_MeatPig",
-                "KIWI_Can_MeatRabbit",
-                "KIWI_Can_MeatSheep",
-                "KIWI_Can_MeatWolf"
-
-            ]
-        },
-        {
-            "CategoryName": "Fishing",
-            "Results": [
-                "SmallFishTrap",
-                "FishNetTrap",
-                "bonehook",
-                "WoodenHook",
-                "improvisedfishingrod"
-            ]
-        },
-        {
-            "CategoryName": "Supplies",
-            "Results": [
-                "nails",
-                "rag",
-                "rope",
-                "sharpwoodenstick",
-                "smallstone",
-                "tannedleather",
-                "woodenplank"
-            ]
-        },
-        {
-            "CategoryName": "Глушник",
-            "Results": [
-                "improvisedsuppressor"
-            ]
-        },
-        {
-            "CategoryName": "#STR_BLThings",
-            "Results": [
-              "bl_old_crate",
-              "bl_rain_collector_Kit",
-              "bl_stove_barrel_Kit",
-              "bl_special_item_Kit",
-              "bl_pallet_table_Kit",
-              "bl_pallet_sofa_Kit",
-              "bl_pallet_cabinet_Kit",
-              "bl_pallet_bed_Kit",
-              "bl_pallet_box_Kit",
-              "bl_pallet_frame_solo",
-              "bl_pallet"
-            ]
-        },
-        {
-            "CategoryName": "Розборка предметів",
-            "Results": [
-                "RIP_sovCap",
-                "RIP_rivets",
-                "RIP_Plastik",
-                "RIP_nuts",
-                "RIP_bolts",
-                "RIP_Carbon",
-                "RIP_rivets2",
-                "CP_EmptyBag",
-                "RIP_Carbon"
-            ]
+          "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+          "SettingText": "",
+          "SettingValue": ""
         }
-    ],
-    "EnableCraftingRecipesTab": 1
+      ]
+    },
+    {
+      "CategoryName": "Raid Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Territory Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Party Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    }
+  ],
+  "Links": [
+    {
+      "Name": "Homepage",
+      "URL": "https://dayz-servers.org/server/168580/",
+      "IconName": "Homepage",
+      "IconColor": -14473430
+    },
+    {
+      "Name": "Голосування",
+      "URL": "https://dayz-servers.org/server/168580/vote/",
+      "IconName": "Forums",
+      "IconColor": -14473430
+    },
+    {
+      "Name": "Discord",
+      "URL": "https://discord.gg/q3WY4cXh",
+      "IconName": "Discord",
+      "IconColor": -9270822
+    },
+    {
+      "Name": "Patreon",
+      "URL": "https://discord.gg/2HZwPp3Q",
+      "IconName": "Patreon",
+      "IconColor": -432044
+    },
+    {
+      "Name": "Steam",
+      "URL": "https://steamcommunity.com/profiles/76561198104182080",
+      "IconName": "Steam",
+      "IconColor": -14006434
+    }
+  ],
+  "Descriptions": [
+    {
+      "CategoryName": "Mod Info",
+      "Descriptions": [
+        {
+          "DescriptionText": "Посилені зомбі: ці хлопці не жартують – вони вибивають двері з розмаху і мають слух гостріший, ніж у мисливського собаки."
+        },
+        {
+          "DescriptionText": "Система прокачки скілів: хочеш стати майстром виживання? Прокачуй свої вміння та отримуй перевагу над рештою."
+        },
+        {
+          "DescriptionText": "Модова медицина та хвороби: рани, інфекції, отруєння – безліч загроз, які можна здолати тільки завдяки знанням і правильним лікам."
+        },
+        {
+          "DescriptionText": "Мутанти: четвертий тір відкриває двері у світ жахливих створінь, протистояння з якими – справжнє випробування."
+        },
+        {
+          "DescriptionText": "Хелікраші: не просто здобич, а справжнє пекло – там чатують не тільки мутанти, а й озброєні боти."
+        },
+        {
+          "DescriptionText": "Боти: вони патрулюють поліцейські дільниці та великі військові бази, змушуючи ретельно планувати кожен рейд"
+        },
+        {
+          "DescriptionText": "Замки: тут на вас чекають справжні боси – жирні мутанти та ящики з цінним лутом, які відкриваються лише ключ-картою."
+        },
+        {
+          "DescriptionText": "Крафт модової зброї: збирай деталі та створи свій унікальний арсенал."
+        },
+        {
+          "DescriptionText": "Трейдер-зони: якщо шукаєш обмін або купівлю спорядження – ванільна зона розташована на Вівтарі, а модові речі можна знайти у трейдерів на Зеленій Горі."
+        },
+        {
+          "DescriptionText": "Унікальні квести, що дозволять збільшити кількість слотів у вашому інвентарі."
+        }
+      ]
+    }
+  ],
+  "CraftingCategories": [
+    {
+      "CategoryName": "Base-Building",
+      "Results": [
+        "territoryflagkit",
+        "RaG_BB_PillarKit",
+        "RaG_BB_RoofKit",
+        "RaG_BB_FloorKit",
+        "RaG_BB_CeilingKit",
+        "RaG_BB_StaircaseKit",
+        "RaG_BB_Staircase_2Kit",
+        "RaG_BB_StairsKit",
+        "RaG_BB_WallKit",
+        "RaG_BB_DoorKit",
+        "RaG_BB_WindowKit",
+        "RaG_BB_Window_SmallKit",
+        "RaG_BB_Low_WallKit",
+        "RaG_BB_FoundationKit",
+        "RaG_BB_GateKit",
+        "RaG_BB_GateLeftKit",
+        "RaG_BB_GateRightKit",
+        "RaG_BB_WoodStorageKit",
+        "RaG_BB_RampKit",
+        "RaG_BB_StepLadderKit",
+        "RaG_BB_Floor_HatchKit",
+        "RaG_BB_Single_DoorKit"
+      ]
+    },
+    {
+      "CategoryName": "Консерви",
+      "Results": [
+        "KIWI_Can_Empty",
+        "KIWI_Can_Salt",
+        "KIWI_Can_MeatBear",
+        "KIWI_Can_MeatBoar",
+        "KIWI_Can_MeatChicken",
+        "KIWI_Can_MeatCow",
+        "KIWI_Can_MeatDeer",
+        "KIWI_Can_MeatFox",
+        "KIWI_Can_MeatGoat",
+        "KIWI_Can_MeatPig",
+        "KIWI_Can_MeatRabbit",
+        "KIWI_Can_MeatSheep",
+        "KIWI_Can_MeatWolf"
+      ]
+    },
+    {
+      "CategoryName": "Fishing",
+      "Results": [
+        "SmallFishTrap",
+        "FishNetTrap",
+        "bonehook",
+        "WoodenHook",
+        "improvisedfishingrod"
+      ]
+    },
+    {
+      "CategoryName": "Supplies",
+      "Results": [
+        "nails",
+        "rag",
+        "rope",
+        "sharpwoodenstick",
+        "smallstone",
+        "tannedleather",
+        "woodenplank"
+      ]
+    },
+    {
+      "CategoryName": "Глушник",
+      "Results": ["improvisedsuppressor"]
+    },
+    {
+      "CategoryName": "#STR_BLThings",
+      "Results": [
+        "bl_old_crate",
+        "bl_rain_collector_Kit",
+        "bl_stove_barrel_Kit",
+        "bl_special_item_Kit",
+        "bl_pallet_table_Kit",
+        "bl_pallet_sofa_Kit",
+        "bl_pallet_cabinet_Kit",
+        "bl_pallet_bed_Kit",
+        "bl_pallet_box_Kit",
+        "bl_pallet_frame_solo",
+        "bl_pallet"
+      ]
+    },
+    {
+      "CategoryName": "Розборка предметів",
+      "Results": [
+        "RIP_sovCap",
+        "RIP_rivets",
+        "RIP_Plastik",
+        "RIP_nuts",
+        "RIP_bolts",
+        "RIP_Carbon",
+        "RIP_rivets2",
+        "CP_EmptyBag",
+        "RIP_Carbon"
+      ]
+    }
+  ],
+  "EnableCraftingRecipesTab": 1
 }

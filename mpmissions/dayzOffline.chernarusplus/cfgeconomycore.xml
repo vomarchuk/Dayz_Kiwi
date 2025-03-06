@@ -51,9 +51,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="sets.xml" type="types" />
 	</ce>
 	<!-- CJ Chests -->
-	<!-- <ce folder="types/CJ_Chests_ce">
+	<ce folder="types/CJ_Chests_ce">
 		<file name="Lootchest_types.xml" type="types" />
-	</ce> -->
+	</ce>
 	<!-- FC Cars -->
 	<ce folder="types/FC_Cars_ce">
 		<file name="FcVeh_types.xml" type="types" />
@@ -92,9 +92,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="DNA_KeyCard.xml" type="types"/>
 	</ce>
 	<!-- RZ key doors -->
-	<ce folder="types/RZ_KeyCardDoors_ce">
+	<!-- <ce folder="types/RZ_KeyCardDoors_ce">
 		<file name="rz_keyCardDoors.xml" type="types"/>
-	</ce>
+	</ce> -->
 	<!-- Nomad_Backpack -->
 	<ce folder="types/Nomad_Backpack_ce">
 		<file name="Nomad_Backpack.xml" type="types"/>

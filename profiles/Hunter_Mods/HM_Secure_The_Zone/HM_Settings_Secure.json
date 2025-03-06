@@ -1,0 +1,158 @@
+{
+  "enablePVEZ": 0,
+  "pvezZoneRadius": 100.0,
+  "pvezZoneName": "Secure the Zone",
+  "pvezZoneShowZoneName": 1,
+  "pvezZoneShowZoneBorder": 1,
+  "enableMarkers": 1,
+  "enable3D": 1,
+  "markerName": "Secure ",
+  "markerIcon": "Cross",
+  "markerColor": -65536,
+  "enableNotifications": 1,
+  "titleNotification": "Захистіть зону",
+  "earlyNotification": "Місія незабаром буде доступна о ",
+  "spawnNotification": "Місія доступна о ",
+  "startMissionNotification": "Відкрийте сейф, перемігши всі наступаючі орди",
+  "discordWebhookUrl": "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_LINK_HERE",
+  "discordEarlyNotification": ":warning: Місія незабаром буде доступна о ",
+  "discordSpawnNotification": ":warning: Місія доступна о ",
+  "minPlayers": 50,
+  "numberOfSecureEventsToSpawn": 1,
+  "delayBetweenEarlyNotificationAndSpawn": 600,
+  "spawnDelay": 1800,
+  "deleteTimerNoCompletion": 1200,
+  "deleteAfterCompletion": 300,
+  "missionRadius": 45.0,
+  "zombieRadius": 25.0,
+  "enableRandomLoot": 1,
+  "secureZones": [
+    {
+      "zoneName": "Пункт зв'язку №1",
+      "zonePos": [9387.859375, 231.813522, 11809.560547],
+      "zoneOri": [89.999954, 2.514843, 1.602363]
+    },
+    {
+      "zoneName": "Пункт зв'язку №2",
+      "zonePos": [3819.010986, 339.812866, 11248.696289],
+      "zoneOri": [80.999954, 5.363485, 1.456041]
+    },
+    {
+      "zoneName": "Пункт зв'язку №3",
+      "zonePos": [1808.252075, 130.925568, 3453.284424],
+      "zoneOri": [-90.0, 0.0, -0.0]
+    }
+  ],
+  "mission1NumberOfWaves": 3,
+  "mission1ZombiesNumberEachWave": 7,
+  "mission1ZombiesList": [
+    "ZmbM_PolicemanFat",
+    "ZmbM_PolicemanSpecForce",
+    "ZmbM_PolicemanSpecForce_Heavy"
+  ],
+  "mission1LootNumber": 8,
+  "mission1LootList": [
+    {
+      "name": "TD_GRN2014_money50",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_308Win_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_545x39_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_545x39_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_545x39_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_556x45_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_762x39_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_762x54_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_9x39AP_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_9x39_20Rnd",
+      "attachments": []
+    },
+    {
+      "name": "AmmoBox_9x39_20Rnd",
+      "attachments": []
+    }
+  ],
+  "mission2NumberOfWaves": 6,
+  "mission2ZombiesNumberEachWave": 13,
+  "mission2ZombiesList": ["ZmbM_NBC_Yellow", "ZmbM_NBC_Grey"],
+  "mission2LootNumber": 8,
+  "mission2LootList": [
+    {
+      "name": "TD_GRN2014_money50",
+      "attachments": []
+    },
+    {
+      "name": "TD_GRN2014_money20",
+      "attachments": []
+    },
+    {
+      "name": "TD_GRN2014_money10",
+      "attachments": []
+    },
+    {
+      "name": "SCWS_AmmoBox_338",
+      "attachments": []
+    },
+    {
+      "name": "SCWS_AmmoBox_408Chey",
+      "attachments": []
+    }
+  ],
+  "mission3NumberOfWaves": 12,
+  "mission3ZombiesNumberEachWave": 15,
+  "mission3ZombiesList": [
+    "ZmbM_PatrolNormal_Autumn",
+    "ZmbM_PatrolNormal_Flat",
+    "ZmbM_PatrolNormal_PautRev",
+    "ZmbM_PatrolNormal_Summer"
+  ],
+  "mission3LootNumber": 12,
+  "mission3LootList": [
+    {
+      "name": "TD_GRN2014_money50",
+      "attachments": []
+    },
+    {
+      "name": "TD_GRN2014_money20",
+      "attachments": []
+    },
+    {
+      "name": "TD_GRN2014_money10",
+      "attachments": []
+    },
+    {
+      "name": "SCWS_AmmoBox_338",
+      "attachments": []
+    },
+    {
+      "name": "SCWS_AmmoBox_408Chey",
+      "attachments": []
+    }
+  ],
+  "g_SecureCount": 1
+}

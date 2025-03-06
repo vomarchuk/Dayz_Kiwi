@@ -329,7 +329,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeInjectorNovichek">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -343,10 +343,10 @@
     </type>
     <!-- TERJE FIRST AID KITS -->
     <type name="TerjeFirstAidKitAdvance_Black">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -356,10 +356,10 @@
         <usage name="Military" />
     </type>
     <type name="TerjeFirstAidKitAdvance_Brown">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -369,10 +369,10 @@
         <usage name="Military" />
     </type>
     <type name="TerjeFirstAidKitAdvance_Green">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -382,10 +382,10 @@
         <usage name="Military" />
     </type>
     <type name="TerjeFirstAidKitAdvance_Camo">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -395,10 +395,10 @@
         <usage name="Military" />
     </type>
     <type name="TerjeFirstAidKitIndividual_Black">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -408,10 +408,10 @@
         <usage name="Military" />
     </type>
     <type name="TerjeFirstAidKitIndividual_Brown">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

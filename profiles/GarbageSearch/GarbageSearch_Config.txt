@@ -49,7 +49,7 @@
 <ObjectArray>	Guts
 <ObjectArray>	BakedBeansCan_Opened
 <ObjectArray>	PeachesCan_Opened
-<ObjectArray>	TacticalBaconCan_Opened
+<ObjectArray>	KIWI_Can_Empty
 <ObjectArray>	SpaghettiCan_Opened
 <ObjectArray>	SardinesCan_Opened
 <ObjectArray>	TunaCan_Opened
