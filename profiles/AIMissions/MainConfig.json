@@ -7,7 +7,7 @@
             "Bots_Timeout_Time": 300,
             "Cleanup_Radius_Startup": 50,
             "Cleanup_Radius_Running": 100,
-            "Cleanup_Time_Running": 300,
+            "Cleanup_Time_Running": 600,
             "Missions_Max_Concurrent": 1,
             "Mission_Start_Delay": 300,
             "Mission_Starting_Failed_Retry_Delay": 120,
