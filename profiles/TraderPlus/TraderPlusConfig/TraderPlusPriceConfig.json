@@ -16,28 +16,28 @@
         "CP_CannabisSeedsPackBlue,1,-1,0,-1,150",
         "CP_CannabisSeedsPackKush,1,-1,0,-1,100",
         "CP_CannabisSeedsPackSkunk,1,-1,0,-1,100",
-        "CP_TobaccoSeeds,1,-1,0,-1,10",
-        "CP_CannabisSeedsFuture,1,-1,0,-1,20",
-        "CP_CannabisSeedsStardawg,1,-1,0,-1,15",
-        "CP_CannabisSeedsNomad,1,-1,0,-1,250",
-        "CP_CannabisSeedsBlackFrost,1,-1,0,-1,25",
-        "CP_CannabisSeedsS1,1,-1,0,-1,20",
-        "CP_CannabisSeedsBlue,1,-1,0,-1,15",
-        "CP_CannabisSeedsKush,1,-1,0,-1,10",
-        "CP_CannabisSeedsSkunk,1,-1,0,-1,10"
+        "CP_TobaccoSeeds,1,-1,1,-1,10",
+        "CP_CannabisSeedsFuture,1,-1,1,-1,20",
+        "CP_CannabisSeedsStardawg,1,-1,1,-1,15",
+        "CP_CannabisSeedsNomad,1,-1,1,-1,250",
+        "CP_CannabisSeedsBlackFrost,1,-1,1,-1,25",
+        "CP_CannabisSeedsS1,1,-1,1,-1,20",
+        "CP_CannabisSeedsBlue,1,-1,1,-1,15",
+        "CP_CannabisSeedsKush,1,-1,1,-1,10",
+        "CP_CannabisSeedsSkunk,1,-1,1,-1,10"
       ]
     },
     {
       "CategoryName": "Cannabis bricks",
       "Products": [
-        "CP_CannabisBrickFuture,1,-1,0,-1,2500",
-        "CP_CannabisBrickStardawg,1,-1,0,-1,2000",
-        "CP_CannabisBrickNomad,1,-1,0,-1,3000",
-        "CP_CannabisBrickBlackFrost,1,-1,0,-1,3000",
-        "CP_CannabisBrickS1,1,-1,0,-1,2500",
-        "CP_CannabisBrickBlue,1,-1,0,-1,2000",
-        "CP_CannabisBrickKush,1,-1,0,-1,1500",
-        "CP_CannabisBrickSkunk,1,-1,0,-1,1500"
+        "CP_CannabisBrickFuture,1,-1,0,-1,3000",
+        "CP_CannabisBrickStardawg,1,-1,0,-1,2500",
+        "CP_CannabisBrickNomad,1,-1,0,-1,3500",
+        "CP_CannabisBrickBlackFrost,1,-1,0,-1,3500",
+        "CP_CannabisBrickS1,1,-1,0,-1,3000",
+        "CP_CannabisBrickBlue,1,-1,0,-1,2500",
+        "CP_CannabisBrickKush,1,-1,0,-1,2000",
+        "CP_CannabisBrickSkunk,1,-1,0,-1,2000"
       ]
     },
     {
@@ -57,16 +57,16 @@
     {
       "CategoryName": "Other for Cannabis",
       "Products": [
-        "CP_RollingPapers_Green,1,-1,0,-1,10",
-        "CP_RollingPapers_Silver,1,-1,0,-1,10",
-        "CP_RollingPapers,1,-1,0,-1,10",
+        "CP_RollingPapers_Green,1,-1,0,-1,100",
+        "CP_RollingPapers_Silver,1,-1,0,-1,100",
+        "CP_RollingPapers,1,-1,0,-1,100",
         "CP_Bagger,1,-1,0,30000,3000",
-        "CP_EmptyBag,1,-1,0,-1,10",
-        "CP_CompostBin,1,-1,0,-1,10",
-        "CP_Relief_Balm,1,-1,0,-1,10",
+        "CP_EmptyBag,1,-1,1,-1,100",
+        "CP_CompostBin,1,-1,0,-1,1000",
+        "CP_Relief_Balm,1,-1,0,-1,100",
         "CP_PlasticWrapper,1,-1,0,30000,3000",
-        "CP_PlasticRoll,1,-1,0,-1,10",
-        "CP_Workbench_Kit,1,-1,0,-1,10",
+        "CP_PlasticRoll,1,-1,0,-1,500",
+        "CP_Workbench_Kit,1,-1,0,-1,1000",
         "CP_Pouch,1,-1,0,-1,10"
       ]
     },
