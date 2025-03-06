@@ -2816,55 +2816,6 @@
         ]
       },
       {
-        "CategoryName": "Потрібні речі",
-        "CraftItems": [
-          {
-            "Result": "KIWI_SewingKit_XL",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Великий набір кравця",
-            "CraftComponents": [
-              {
-                "Classname": "SewingKit",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "EpoxyPutty",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "KIWI_DuctTape_XL",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Великий моток скотча",
-            "CraftComponents": [
-              {
-                "Classname": "DuctTape",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "EpoxyPutty",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          }
-        ]
-      },
-      {
         "CategoryName": "Покращення сета Привида",
         "CraftItems": [
           {
@@ -3090,7 +3041,7 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hammer","Hacksaw"]
+            "AttachmentsNeed": ["Hammer", "Hacksaw"]
           },
           {
             "Result": "rag_baseitems_wardrobe_kit",
@@ -3112,7 +3063,7 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hammer","Hacksaw"]
+            "AttachmentsNeed": ["Hammer", "Hacksaw"]
           },
           {
             "Result": "rag_baseitems_woodenshelf_big_kit",
@@ -3134,7 +3085,7 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hammer","Hacksaw"]
+            "AttachmentsNeed": ["Hammer", "Hacksaw"]
           },
           {
             "Result": "rag_baseitems_lantern_kit",
@@ -3162,7 +3113,7 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["SledgeHammer","Handsaw"]
+            "AttachmentsNeed": ["SledgeHammer", "Handsaw"]
           },
           {
             "Result": "rag_baseitems_lantern_wall_kit",
@@ -3190,7 +3141,7 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["SledgeHammer","Hacksaw"]
+            "AttachmentsNeed": ["SledgeHammer", "Hacksaw"]
           }
         ]
       }
