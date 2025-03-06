@@ -7,22 +7,22 @@
     {
       "CategoryName": "Cannabis seeds",
       "Products": [
-        "CP_TobaccoSeedsPack,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackFuture,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackStardawg,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackNomad,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackBlackFrost,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackS1,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackBlue,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackKush,1,-1,0,-1,10",
-        "CP_CannabisSeedsPackSkunk,1,-1,0,-1,10",
+        "CP_TobaccoSeedsPack,1,-1,0,-1,100",
+        "CP_CannabisSeedsPackFuture,1,-1,0,-1,200",
+        "CP_CannabisSeedsPackStardawg,1,-1,0,-1,150",
+        "CP_CannabisSeedsPackNomad,1,-1,0,-1,250",
+        "CP_CannabisSeedsPackBlackFrost,1,-1,0,-1,250",
+        "CP_CannabisSeedsPackS1,1,-1,0,-1,200",
+        "CP_CannabisSeedsPackBlue,1,-1,0,-1,150",
+        "CP_CannabisSeedsPackKush,1,-1,0,-1,100",
+        "CP_CannabisSeedsPackSkunk,1,-1,0,-1,100",
         "CP_TobaccoSeeds,1,-1,0,-1,10",
-        "CP_CannabisSeedsFuture,1,-1,0,-1,10",
-        "CP_CannabisSeedsStardawg,1,-1,0,-1,10",
-        "CP_CannabisSeedsNomad,1,-1,0,-1,10",
-        "CP_CannabisSeedsBlackFrost,1,-1,0,-1,10",
-        "CP_CannabisSeedsS1,1,-1,0,-1,10",
-        "CP_CannabisSeedsBlue,1,-1,0,-1,10",
+        "CP_CannabisSeedsFuture,1,-1,0,-1,20",
+        "CP_CannabisSeedsStardawg,1,-1,0,-1,15",
+        "CP_CannabisSeedsNomad,1,-1,0,-1,250",
+        "CP_CannabisSeedsBlackFrost,1,-1,0,-1,25",
+        "CP_CannabisSeedsS1,1,-1,0,-1,20",
+        "CP_CannabisSeedsBlue,1,-1,0,-1,15",
         "CP_CannabisSeedsKush,1,-1,0,-1,10",
         "CP_CannabisSeedsSkunk,1,-1,0,-1,10"
       ]
@@ -30,14 +30,14 @@
     {
       "CategoryName": "Cannabis bricks",
       "Products": [
-        "CP_CannabisBrickFuture,1,-1,0,-1,2000",
+        "CP_CannabisBrickFuture,1,-1,0,-1,2500",
         "CP_CannabisBrickStardawg,1,-1,0,-1,2000",
-        "CP_CannabisBrickNomad,1,-1,0,-1,2000",
-        "CP_CannabisBrickBlackFrost,1,-1,0,-1,2000",
-        "CP_CannabisBrickS1,1,-1,0,-1,2000",
+        "CP_CannabisBrickNomad,1,-1,0,-1,3000",
+        "CP_CannabisBrickBlackFrost,1,-1,0,-1,3000",
+        "CP_CannabisBrickS1,1,-1,0,-1,2500",
         "CP_CannabisBrickBlue,1,-1,0,-1,2000",
-        "CP_CannabisBrickKush,1,-1,0,-1,2000",
-        "CP_CannabisBrickSkunk,1,-1,0,-1,2000"
+        "CP_CannabisBrickKush,1,-1,0,-1,1500",
+        "CP_CannabisBrickSkunk,1,-1,0,-1,1500"
       ]
     },
     {
