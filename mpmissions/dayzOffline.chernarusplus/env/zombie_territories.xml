@@ -188,7 +188,7 @@
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="4" x="11000.0" z="13373.7" r="20" />
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="3" x="10972" z="13381" r="30" />
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="4" x="10929" z="13375" r="20" />
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="10946" z="13402" r="15" />
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="4" x="10946" z="13402" r="15" />
         <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="11000" z="13387" r="25" />
         <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="10927" z="13403" r="25" />
     </territory>

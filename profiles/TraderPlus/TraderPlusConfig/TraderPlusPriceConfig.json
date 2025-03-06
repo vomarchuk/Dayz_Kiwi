@@ -2007,7 +2007,8 @@
         "TerjeCaseRadMilitary,1,-1,0,-1,1000",
         "TerjeCaseRadSpecial,1,-1,0,-1,1000",
         "TerjePump,1,-1,0,-1,1000",
-        "TerjeDosimetrPripyat,1,-1,0,-1,500"
+        "TerjeDosimetrPripyat,1,-1,0,-1,500",
+        "TerjeRadTent,1,-1,0,-1,500",
       ]
     },
     {
