@@ -24,6 +24,16 @@
         <!-- <zone name="InfectedZubCastle2" smin="6" smax="7" dmin="5" dmax="9" x="6550" z="5585.31" r="100" /> -->
     </territory>
 
+    <!-- Tisy TOXIC -->
+    <territory color="4278190022">
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="589.419800" z="13611.320313" r="20"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="593.336487" z="13635.253906" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="574.020996" z="13659.525391" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="546.752625" z="13666.268555" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="587.917908" z="13700.181641" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="626.617615" z="13667.716797" r="30"/>
+    </territory>
+
     <territory color="4278190080">
         <!-- Bolota -->
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="3" dmax="4" x="5146.91" z="2295.46" r="50"/>
@@ -63,7 +73,6 @@
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="4" dmax="6" x="1506.25" z="13622.5" r="140"/>
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="5" dmax="8" x="1813.13" z="13822.5" r="160"/>
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="5" dmax="8" x="1679.38" z="14257.5" r="160"/>
-        <zone name="Infected_Military_t4" smin="0" smax="0" dmin="4" dmax="6" x="618.75" z="13645.6" r="80"/>
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="2" dmax="5" x="1060" z="13893.8" r="80"/>
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="4" dmax="6" x="1425" z="14452.5" r="100"/>
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="4" dmax="6" x="1532.5" z="14037.5" r="100"/>

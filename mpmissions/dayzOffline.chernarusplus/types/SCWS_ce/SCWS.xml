@@ -1096,7 +1096,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
         <category name="RadiationZone" />
 
@@ -1188,8 +1187,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
+        <category name="RadiationZone" />
+
 
     </type>
     <type name="SCWS_Holosun">
@@ -1263,8 +1263,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
+        <category name="RadiationZone" />
+
     </type>
     <type name="SCWS_AmmoBox_338">
         <nominal>0</nominal>
@@ -1278,15 +1279,17 @@
         <category name="RadiationZone" />
     </type>
     <type name="SCWS_Ammo_338">
-        <nominal>15</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>15</min>
         <quantmin>5</quantmin>
         <quantmax>15</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="RadiationZone" />
+        <usage name="Military" />
+        <value name="Tier4" />
     </type>
     <type name="SCWS_Ammo_408Chey">
         <nominal>10</nominal>

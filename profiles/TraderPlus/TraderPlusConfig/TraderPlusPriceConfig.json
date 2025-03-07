@@ -929,7 +929,10 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": ["TLRLight,1,-1,0,200,40", "Universallight,1,-1,0,250,45"]
+      "Products": [
+        "TLRLight,1,-1,0,200,40",
+        "Universallight,1,-1,0,250,45"
+      ]
     },
     {
       "CategoryName": "Окуляри",
@@ -3032,18 +3035,18 @@
       "Products": [
         "SCWS_MRO,1,-1,1,-1,99",
         "SCWS_Bravo,1,-1,1,-1,99",
-        "SCWS_HAMROptic,1,-1,1,-1,99",
+        "SCWS_HAMROptic,1,-1,1,-1,1000",
         "SCWS_M14_scope,1,-1,1,-1,99",
         "SCWS_colimdot,1,-1,1,-1,99",
         "SCWS_UH1,1,-1,1,-1,99",
         "SCWS_uhScope,1,-1,1,-1,99",
         "SCWS_CS5Scope,1,-1,1,-1,99",
-        "SCWS_46v2x,1,-1,1,-1,99",
+        "SCWS_46v2x,1,-1,1,-1,1000",
         "SCWS_Holosun,1,-1,1,-1,99",
         "SCWS_EOTECH,1,-1,1,-1,99",
         "SCWS_DeltaReflex,1,-1,1,-1,99",
         "SCWS_BENDERScope,1,-1,1,-1,99",
-        "SCWS_AWMScope,1,-1,1,-1,99",
+        "SCWS_AWMScope,1,-1,1,-1,1000",
         "SCWS_ATACR,1,-1,1,-1,99"
       ]
     },
@@ -3062,7 +3065,9 @@
     },
     {
       "CategoryName": "TyphoonK",
-      "Products": ["TyphoonK_CamoGreen,1,-1,1,500000,8000"]
+      "Products": [
+        "TyphoonK_CamoGreen,1,-1,1,500000,8000"
+      ]
     },
     {
       "CategoryName": "MotorHomes",
