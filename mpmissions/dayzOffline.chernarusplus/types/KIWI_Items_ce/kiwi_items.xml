@@ -9,12 +9,33 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <tag name="shelves"/>
         <!-- <usage name="Industrial"/> -->
         <!-- <usage name="Military" /> -->
         <!-- <value name="Tier3" /> -->
         <!-- <value name="Tier4" /> -->
+    </type>
+    <type name="KIWI_CarBattery">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+
+    </type>
+    <type name="KIWI_CarRadiator">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="KIWI_WeaponCleaningKit">
         <nominal>5</nominal>
@@ -26,7 +47,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
@@ -42,7 +63,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
@@ -57,7 +78,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
@@ -312,14 +333,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <tag name="shelves" />
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School" />
         <usage name="Lunapark" />
     </type>
-        <type name="KIWI_Can_Empty">
+    <type name="KIWI_Can_Empty">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -599,7 +620,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves"/>
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
     </type>
     <type name="KIWI_Can_MeatFox_Opened">
         <nominal>0</nominal>
