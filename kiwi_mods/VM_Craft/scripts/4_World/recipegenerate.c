@@ -12,6 +12,7 @@ modded class PluginRecipesManager
     RegisterRecipe(new CraftDisassembleVanillaVests);
     RegisterRecipe(new RepairPliers);
     RegisterRecipe(new RepairWirecutter);
+    RegisterRecipe(new RepairCarParts);
     RegisterRecipe(new CraftEmptyBagCanabis);
     RegisterRecipe(new UpGradeVM_Blackout_Ops_Jacket_01_V2);
     RegisterRecipe(new UpGradeVM_Blackout_Ops_Jacket_01_V3);
