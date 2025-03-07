@@ -554,9 +554,10 @@
     {
       "CategoryName": "Cooking & Hunting Supplies",
       "Products": [
-        "Pot,1,-1,0,-1,30",
-        "Tripod,1,-1,0,-1,45",
-        "BearTrap,1,-1,0,-1,50"
+        "FryingPan,1,-1,0,-1,100",
+        "Pot,1,-1,0,-1,130",
+        "Tripod,1,-1,0,-1,145",
+        "BearTrap,1,-1,0,-1,150"
       ]
     },
     {
@@ -1145,7 +1146,9 @@
         "BalaclavaMask_Green,1,-1,0,800,80",
         "BalaclavaMask_Pig,1,-1,0,800,80",
         "BalaclavaMask_Pink,1,-1,0,800,80",
-        "BalaclavaMask_White,1,-1,0,800,80"
+        "BalaclavaMask_White,1,-1,0,800,80",
+        "EyeMask_Blue,1,-1,0,200,80",
+        "EyeMask_Red,1,-1,0,200,80"
       ]
     },
     {
