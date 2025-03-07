@@ -806,6 +806,308 @@
                     ]
                 }
             ]
+        },
+        {
+            "Name": "[MEDIUM] Підкріплення",
+            "Position": [
+                4545.438965,
+                317.987030,
+                8352.354492
+            ],
+            "Bots_Count_Minimum": 2,
+            "Bots_Count_Maximum": 3,
+            "Bots_Expansion_Loadout": "PatrolLoadout3",
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.8,
+            "Bots_Damage_Done_Multiplier": 0.60,
+            "Bots_Damage_Taken_Multiplier": 0.4,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Mi8_Crashed",
+                    "Scale": 1.0,
+                    "Position": [
+                        4548.759766,
+                        319.821991,
+                        8353.129883
+                    ],
+                    "Rotation": [
+                        -62.638260,
+                        0.000000,
+                        0.000000
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "[MEDIUM] Розкопки",
+            "Position": [
+                6926.415039,
+                403.798737,
+                11408.079102
+            ],
+            "Bots_Count_Minimum": 2,
+            "Bots_Count_Maximum": 3,
+            "Bots_Expansion_Loadout": "PatrolLoadout3",
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.8,
+            "Bots_Damage_Done_Multiplier": 0.60,
+            "Bots_Damage_Taken_Multiplier": 0.4,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Digger",
+                    "Scale": 1.0,
+                    "Position": [
+                        6935.450195,
+                        405.704987,
+                        11410.500000
+                    ],
+                    "Rotation": [
+                        -117.721046,
+                        6.001424,
+                        0.015787
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_Bulldozer",
+                    "Scale": 1.0,
+                    "Position": [
+                        6925.169922,
+                        405.864014,
+                        11418.200195
+                    ],
+                    "Rotation": [
+                        -3.600841,
+                        0.000000,
+                        0.000000
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_PowGen",
+                    "Scale": 1.0,
+                    "Position": [
+                        6942.629883,
+                        403.205994,
+                        11428.000000
+                    ],
+                    "Rotation": [
+                        -49.137917,
+                        0.000000,
+                        4.986093
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "[HARD] Колона",
+            "Position": [
+                6771.525391,
+                216.562424,
+                13275.636719
+            ],
+            "Bots_Count_Minimum": 3,
+            "Bots_Count_Maximum": 5,
+            "Bots_Expansion_Loadout": "PatrolLoadout3",
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.8,
+            "Bots_Damage_Done_Multiplier": 0.60,
+            "Bots_Damage_Taken_Multiplier": 0.2,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "Scale": 1.0,
+                    "Position": [
+                        6763.609863,
+                        217.895004,
+                        13268.500000
+                    ],
+                    "Rotation": [
+                        28.620365,
+                        0.000000,
+                        -0.000000
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "Scale": 1.0,
+                    "Position": [
+                        6784.560059,
+                        217.384995,
+                        13281.400391
+                    ],
+                    "Rotation": [
+                        64.257729,
+                        0.000000,
+                        -0.000000
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_BRDM",
+                    "Scale": 1.0,
+                    "Position": [
+                        6804.129883,
+                        216.876007,
+                        13289.099609
+                    ],
+                    "Rotation": [
+                        69.655968,
+                        0.000000,
+                        -14.004701
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "[MEDIUM] Пограбування",
+            "Position": [
+                5262.255371,
+                305.838287,
+                5492.199219
+            ],
+            "Bots_Count_Minimum": 2,
+            "Bots_Count_Maximum": 3,
+            "Bots_Expansion_Loadout": "PatrolLoadout3",
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.8,
+            "Bots_Damage_Done_Multiplier": 0.60,
+            "Bots_Damage_Taken_Multiplier": 0.4,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_PowGen",
+                    "Scale": 1.0,
+                    "Position": [
+                        5261.609863,
+                        306.737000,
+                        5488.290039
+                    ],
+                    "Rotation": [
+                        110.703110,
+                        0.000000,
+                        -0.000000
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_Trailer_Cistern",
+                    "Scale": 1.0,
+                    "Position": [
+                        5253.950195,
+                        305.911011,
+                        5494.740234
+                    ],
+                    "Rotation": [
+                        -124.199295,
+                        0.000000,
+                        -0.000000
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_Ural",
+                    "Scale": 1.0,
+                    "Position": [
+                        5247.540039,
+                        306.858002,
+                        5498.189941
+                    ],
+                    "Rotation": [
+                        98.825882,
+                        0.000000,
+                        -0.000000
+                    ]
+                },
+                {
+                    "ClassName": "Land_Wreck_Tractor",
+                    "Scale": 1.0,
+                    "Position": [
+                        5253.180176,
+                        306.977997,
+                        5504.270020
+                    ],
+                    "Rotation": [
+                        14.578664,
+                        0.000000,
+                        -0.000000
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "[HARD] Висадка на острів",
+            "Position": [
+                13442.499023,
+                82.690620,
+                3272.802246
+            ],
+            "Bots_Count_Minimum": 3,
+            "Bots_Count_Maximum": 5,
+            "Bots_Expansion_Loadout": "PatrolLoadout3",
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.8,
+            "Bots_Damage_Done_Multiplier": 0.60,
+            "Bots_Damage_Taken_Multiplier": 0.2,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Mi8_Crashed",
+                    "Scale": 1.0,
+                    "Position": [
+                        13443.000000,
+                        84.346497,
+                        3292.010010
+                    ],
+                    "Rotation": [
+                        -43.201820,
+                        0.000000,
+                        0.000000
+                    ]
+                },
+                {
+                    "ClassName": "StaticObj_Wreck_UH1Y",
+                    "Scale": 1.0,
+                    "Position": [
+                        13449.599609,
+                        83.482597,
+                        3261.709961
+                    ],
+                    "Rotation": [
+                        82.087105,
+                        0.000000,
+                        -0.000000
+                    ]
+                }
+            ]
         }
     ],
     "Loadouts": [
@@ -1295,11 +1597,6 @@
                     "Contents": []
                 },
                 {
-                    "ClassName": "GardenLime",
-                    "Attach": [],
-                    "Contents": []
-                },
-                {
                     "ClassName": "WeaponCleaningKit",
                     "Attach": [],
                     "Contents": []
@@ -1355,16 +1652,6 @@
                     "Contents": []
                 },
                 {
-                    "ClassName": "Wrench",
-                    "Attach": [],
-                    "Contents": []
-                },
-                {
-                    "ClassName": "Screwdriver",
-                    "Attach": [],
-                    "Contents": []
-                },
-                {
                     "ClassName": "Pipewrench",
                     "Attach": [],
                     "Contents": []
@@ -1381,6 +1668,11 @@
                 },
                 {
                     "ClassName": "Hammer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Crowbar",
                     "Attach": [],
                     "Contents": []
                 },
@@ -1411,11 +1703,6 @@
                 },
                 {
                     "ClassName": "Pipe",
-                    "Attach": [],
-                    "Contents": []
-                },
-                {
-                    "ClassName": "Hatchet",
                     "Attach": [],
                     "Contents": []
                 },
