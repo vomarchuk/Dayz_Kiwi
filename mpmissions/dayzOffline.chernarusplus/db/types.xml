@@ -2733,7 +2733,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <usage name="Military" />
     </type>
     <type name="BallisticHelmet_Winter">
@@ -17753,10 +17753,10 @@
         <category name="clothes" />
     </type>
     <type name="Shemag_Red">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>24</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17764,10 +17764,10 @@
         <category name="clothes" />
     </type>
     <type name="Shemag_White">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>24</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18542,7 +18542,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -18571,7 +18571,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -18614,7 +18614,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-		<category name="RadiationZone" />
+        <category name="RadiationZone" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />

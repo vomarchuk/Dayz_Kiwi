@@ -2,7 +2,7 @@
 <types>
     <type name="FOG_Bag_6ShBagT_White">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16,7 +16,7 @@
     </type>
     <type name="FOG_Bag_6ShBagT_EMR_White">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -30,7 +30,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_MC">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -44,7 +44,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_MCAL">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -57,7 +57,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_MCB">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -70,7 +70,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_White">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -83,7 +83,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_MCT">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -96,7 +96,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_MCAL">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -109,7 +109,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_OD">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -122,7 +122,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_KHK">
         <nominal>1</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -213,7 +213,7 @@
     </type>
     <type name="FOG_Bag_Trizip_DCU">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -225,7 +225,7 @@
     </type>
     <type name="FOG_Bag_Trizip_ERDL">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -237,7 +237,7 @@
     </type>
     <type name="FOG_Bag_Trizip_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -249,7 +249,7 @@
     </type>
     <type name="FOG_Bag_6ShBagT_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -261,7 +261,7 @@
     </type>
     <type name="FOG_Bag_6ShBagT_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -273,7 +273,7 @@
     </type>
     <type name="FOG_Bag_6ShBagT_RG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -285,7 +285,7 @@
     </type>
     <type name="FOG_Bag_6ShBagT_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -297,7 +297,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -309,7 +309,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_RG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -321,7 +321,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -333,7 +333,7 @@
     </type>
     <type name="FOG_Bag_DrawBridge_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -345,7 +345,7 @@
     </type>
     <type name="FOG_Bag_F4Terminator">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -357,7 +357,7 @@
     </type>
     <type name="FOG_Bag_F4Terminator_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -370,7 +370,7 @@
     </type>
     <type name="FOG_Bag_F4Terminator_RG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -382,7 +382,7 @@
     </type>
     <type name="FOG_Bag_F4Terminator_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -394,7 +394,7 @@
     </type>
     <type name="FOG_Bag_MRASAP_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -406,7 +406,7 @@
     </type>
     <type name="FOG_Bag_MRASAP_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -418,7 +418,7 @@
     </type>
     <type name="FOG_Bag_MRASAP_RG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -430,7 +430,7 @@
     </type>
     <type name="FOG_Bag_MRASAP_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -442,7 +442,7 @@
     </type>
     <type name="FOG_Bag_MRASAP_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -454,7 +454,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -466,7 +466,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_RG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -478,7 +478,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -490,7 +490,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_MCB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -502,7 +502,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_ERDL">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -514,7 +514,7 @@
     </type>
     <type name="FOG_Bag_BlackJack_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -526,7 +526,7 @@
     </type>
     <type name="FOG_Bag_SSO_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -538,7 +538,7 @@
     </type>
     <type name="FOG_Bag_SSO_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -550,7 +550,7 @@
     </type>
     <type name="FOG_Bag_SSO_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -562,7 +562,7 @@
     </type>
     <type name="FOG_Bag_SSO_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -574,7 +574,7 @@
     </type>
     <type name="FOG_Bag_SSO_MCB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -586,7 +586,7 @@
     </type>
     <type name="FOG_Bag_SSO_Toxic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -598,7 +598,7 @@
     </type>
     <type name="FOG_Bag_Trizip_Puke">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -610,7 +610,7 @@
     </type>
     <type name="FOG_Bag_Trizip_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -622,7 +622,7 @@
     </type>
     <type name="FOG_Bag_Trizip_RG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -634,7 +634,7 @@
     </type>
     <type name="FOG_Bag_Trizip_CB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -646,7 +646,7 @@
     </type>
     <type name="FOG_Bag_Trizip_RGCB">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -658,7 +658,7 @@
     </type>
     <type name="FOG_Bag_Trizip_MARPAT">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -670,7 +670,7 @@
     </type>
     <type name="FOG_Bag_Trizip_ATACSFG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
