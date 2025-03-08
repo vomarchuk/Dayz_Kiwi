@@ -179,7 +179,8 @@
         "SurgicalGloves_Blue,1,-1,0,350,35",
         "SurgicalGloves_White,1,-1,0,350,35",
         "SurgicalGloves_Green,1,-1,0,350,35",
-        "BandageDressing,1,-1,4,-1,15",
+        "BandageDressing,1,-1,1,-1,15",
+        "TerjePlaster,1,-1,1,-1,15",
         "TerjeSalveCapsicum,1,-1,5,-1,35",
         "TerjeSalveViprosal,1,-1,4,-1,35",
         "BloodTestKit,1,-1,0,-1,15",
@@ -322,7 +323,9 @@
         "Lockpick,1,-1,0,-1,10",
         "Binoculars,1,-1,0,-1,35",
         "FishingRod,1,-1,0,-1,200",
-        "AlarmClock_Green,1,-1,0,-1,35"
+        "AlarmClock_Green,1,-1,0,-1,35",
+        "AlarmClock_Blue,1,-1,0,-1,35",
+        "AlarmClock_Red,1,-1,0,-1,35"
       ]
     },
     {
@@ -1918,6 +1921,8 @@
       "Products": [
         "HeadlightH7_Box,1,-1,0,30,15",
         "SparkPlug,1,-1,0,60,40",
+        "GlowPlug,1,-1,0,60,40",
+        "HydraulicJack,1,-1,0,500,100",
         "CarBattery,1,-1,50,100,50",
         "KIWI_CarBattery,1,-1,500,10000,500",
         "TruckBattery,1,-1,50,180,100",
