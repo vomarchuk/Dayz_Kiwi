@@ -15388,7 +15388,7 @@
     <group name="bldr_plnt_ivy_M" pos="1051.439209 467.388947 14662.654297" rpy="0.534636 -86.999969 -65.008598" a="155.009" />
     <group name="bldr_plnt_ivy_roof_B" pos="956.396790 453.697052 14697.890625" rpy="-63.472351 -14.694815 -59.991905" a="149.992" />
     <group name="bldr_Rubble_Rocks1" pos="1059.519409 459.005310 14629.645508" rpy="0.000000 0.000000 0.000000" a="90" />
-    <!-- Bunker Bunker Nokey -->
+    <!-- Bunker Kozlova -->
     <!-- <group name="Land_Mil_Barracks_Round" pos="8801.561523 183.443710 2923.167725" rpy="0.000000 0.000000 -11.499995" a="101.5"/>
     <group name="Land_Underground_Stairs_Block_Terminator" pos="8784.209961 182.188934 2895.631592" rpy="0.000000 0.000000 166.999939" a="-76.9999"/>
     <group name="Land_Underground_Stairs_Start" pos="8784.208984 177.687073 2895.628418" rpy="0.000000 0.000000 166.999939" a="-76.9999"/>
