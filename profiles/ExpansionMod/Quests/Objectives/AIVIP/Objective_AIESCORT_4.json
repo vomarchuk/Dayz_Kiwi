@@ -10,7 +10,7 @@
         6.000000,
         1997.359375
     ],
-    "MaxDistance": 50.0,
+    "MaxDistance": 100.0,
     "MarkerName": "вихід",
     "ShowDistance": 1,
     "CanLootAI": 0,
