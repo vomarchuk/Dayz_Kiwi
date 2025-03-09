@@ -14,6 +14,7 @@
         "TraderPlus_Money_Euro20",
         "TraderPlus_Money_Euro50",
         "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro200",
         "TraderPlus_Money_Euro500"
     ],
     "DisplayCurrencyValue": 1,
