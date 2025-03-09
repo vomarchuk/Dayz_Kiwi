@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "NailBox",
-            "MaxPriceThreshold": 850,
-            "MinPriceThreshold": 850,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": 1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
