@@ -15389,7 +15389,7 @@
     <group name="bldr_plnt_ivy_roof_B" pos="956.396790 453.697052 14697.890625" rpy="-63.472351 -14.694815 -59.991905" a="149.992" />
     <group name="bldr_Rubble_Rocks1" pos="1059.519409 459.005310 14629.645508" rpy="0.000000 0.000000 0.000000" a="90" />
     <!-- Bunker Bunker Nokey -->
-    <group name="Land_Mil_Barracks_Round" pos="8801.561523 183.443710 2923.167725" rpy="0.000000 0.000000 -11.499995" a="101.5"/>
+    <!-- <group name="Land_Mil_Barracks_Round" pos="8801.561523 183.443710 2923.167725" rpy="0.000000 0.000000 -11.499995" a="101.5"/>
     <group name="Land_Underground_Stairs_Block_Terminator" pos="8784.209961 182.188934 2895.631592" rpy="0.000000 0.000000 166.999939" a="-76.9999"/>
     <group name="Land_Underground_Stairs_Start" pos="8784.208984 177.687073 2895.628418" rpy="0.000000 0.000000 166.999939" a="-76.9999"/>
     <group name="Land_Underground_Floor_Comms" pos="8792.464844 177.640854 2910.234863" rpy="0.000000 0.000000 167.799988" a="-77.8"/>
@@ -15414,7 +15414,6 @@
     <group name="Land_Underground_Stairs_Block_Terminator" pos="8778.869141 197.318878 2920.187256" rpy="0.000000 0.000000 -13.000000" a="103"/>
     <group name="Land_Underground_Stairs_Block" pos="8778.867188 192.327972 2920.174316" rpy="0.000000 0.000000 -13.000000" a="103"/>
     <group name="Land_Tisy_RadarPlatform_Top" pos="8808.259766 200.458298 2958.508545" rpy="0.000000 0.000000 -12.000000" a="102"/>
-    <!-- <group name="Land_Underground_Storage_Big" pos="8346.007813 11.839290 3070.842773" rpy="-0.000000 -0.000000 77.000000" a="13"/> -->
     <group name="Land_Underground_Storage_POX2" pos="8765.296875 142.412827 2905.879150" rpy="0.000000 0.000000 -101.829979" a="-168.17"/>
     <group name="Land_Underground_Stairs_Block" pos="8791.089844 192.268448 2913.799072" rpy="0.000000 0.000000 -102.999992" a="-167"/>
     <group name="Land_Underground_Stairs_Start" pos="8791.096680 187.733459 2913.801758" rpy="0.000000 0.000000 -102.999992" a="-167"/>
@@ -15422,7 +15421,7 @@
     <group name="Land_Underground_Stairs_Block" pos="8778.911133 187.310822 2920.168213" rpy="0.000000 0.000000 -12.999995" a="103"/>
     <group name="Land_Underground_Stairs_Start" pos="8778.905273 182.788788 2920.159180" rpy="0.000000 0.000000 -12.999995" a="103"/>
     <group name="Land_Underground_Floor_Comms" pos="8792.464844 182.634018 2910.234863" rpy="0.000000 0.000000 167.799988" a="-77.8"/>
-    <group name="DNA_Lockout_CardSignSpin_Yellow" pos="8809.990234 209.853516 2916.680176" rpy="-0.000000 0.000000 -106.200127" a="-163.8"/> 
+    <group name="DNA_Lockout_CardSignSpin_Yellow" pos="8809.990234 209.853516 2916.680176" rpy="-0.000000 0.000000 -106.200127" a="-163.8"/>  -->
 
     <!-- Underground Stary Yar  -->
     
