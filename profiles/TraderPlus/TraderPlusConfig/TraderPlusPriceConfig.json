@@ -567,7 +567,7 @@
       ]
     },
     {
-      "CategoryName": "Різне",
+      "CategoryName": "Others",
       "Products": [
         "rag_baseitems_electric_wires,1,-1,0,-1,100",
         "rag_baseitems_control_unit,1,-1,0,-1,100",
@@ -604,7 +604,6 @@
         "rag_baseitems_grammophone_3_disk,1,-1,0,-1,100",
         "rag_baseitems_grammophone_2_disk,1,-1,0,-1,100",
         "rag_baseitems_grammophone_disk,1,-1,0,-1,100"
-
       ]
     },
     {
