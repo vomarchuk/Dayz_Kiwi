@@ -303,7 +303,7 @@
         <value name="Tier4" />
     </type>
     <type name="TerjeInjectorNeirox">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
