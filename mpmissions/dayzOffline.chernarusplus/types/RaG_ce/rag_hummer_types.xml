@@ -95,7 +95,7 @@
 	
 	<!-- Black Parts Start -->
 	<type name="rag_hummer_door_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -107,7 +107,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -119,7 +119,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -131,7 +131,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -143,7 +143,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -155,7 +155,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -170,7 +170,7 @@
 	
 	<!-- Olive Parts Start -->
 	<type name="rag_hummer_door_olive_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -182,7 +182,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_olive_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -194,7 +194,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_olive_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -206,7 +206,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_olive_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -218,7 +218,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -230,7 +230,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -245,7 +245,7 @@
 	
 	<!-- Tan Parts Start -->
 	<type name="rag_hummer_door_tan_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -257,7 +257,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_tan_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -269,7 +269,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_tan_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -281,7 +281,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_tan_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -293,7 +293,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -305,7 +305,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -320,7 +320,7 @@
 	
 	<!-- Camo Parts Start -->
 	<type name="rag_hummer_door_camo_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -332,7 +332,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_camo_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -344,7 +344,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_camo_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -356,7 +356,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_camo_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -368,7 +368,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_camo">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -380,7 +380,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_camo">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -395,7 +395,7 @@
 	
 	<!-- Purple Parts Start -->
 	<type name="rag_hummer_door_purple_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -407,7 +407,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_purple_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -419,7 +419,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_purple_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -431,7 +431,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_purple_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -443,7 +443,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_purple">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -455,7 +455,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_purple">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -470,7 +470,7 @@
 	
 	<!-- Red Parts Start -->
 	<type name="rag_hummer_door_red_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -482,7 +482,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_red_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -494,7 +494,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_red_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -506,7 +506,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_red_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -518,7 +518,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -530,7 +530,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -545,7 +545,7 @@
 	
 	<!-- Winter Parts Start -->
 	<type name="rag_hummer_door_winter_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -557,7 +557,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_winter_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -569,7 +569,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_winter_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -581,7 +581,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_winter_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -593,7 +593,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_winter">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -605,7 +605,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_winter">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -620,7 +620,7 @@
 	
 	<!-- Anarchy Parts Start -->
 	<type name="rag_hummer_door_anarchy_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -632,7 +632,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_anarchy_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -644,7 +644,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_anarchy_3">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -656,7 +656,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_door_anarchy_4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -668,7 +668,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_hood_anarchy">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -680,7 +680,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="rag_hummer_trunk_anarchy">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -770,7 +770,7 @@
 	
 	<!-- Wheel -->
 	<type name="rag_hummer_wheel">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>0</min>
