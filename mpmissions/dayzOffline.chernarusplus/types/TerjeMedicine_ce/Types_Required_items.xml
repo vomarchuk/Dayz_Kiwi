@@ -10,7 +10,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -23,7 +23,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -36,7 +36,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0 " count_in_hoarder="0 " count_in_map="1 " count_in_player="0" crafted="0" deloot="0 " />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -51,7 +51,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0 " count_in_hoarder="0 " count_in_map="1 " count_in_player="0" crafted="0 " deloot="0 " />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic " />
     </type>
@@ -64,7 +64,7 @@
         <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -80,7 +80,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -96,7 +96,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -112,7 +112,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -127,7 +127,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -142,7 +142,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -157,7 +157,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -172,7 +172,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -187,7 +187,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -202,7 +202,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -218,7 +218,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -234,7 +234,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -250,7 +250,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -265,7 +265,7 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -283,7 +283,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier4" />
@@ -297,7 +297,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier4" />
@@ -311,7 +311,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -324,7 +324,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -337,7 +337,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -492,7 +492,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -505,7 +505,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
     </type>
@@ -518,7 +518,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <usage name="Military" />
@@ -532,7 +532,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Tier3" />
@@ -547,7 +547,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <usage name="Medic" />
     </type>
     <type name="TerjeSurgicalTool_Ceramic">
@@ -559,7 +559,7 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="MedicalTools" />
         <tag name="shelves" />
         <usage name="Medic"/>
     </type>

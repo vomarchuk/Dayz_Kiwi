@@ -8940,7 +8940,7 @@
 
 	</group>
 
-	
+
 	<group name="Zona_Land_Mil_Tower_Small" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="2">
@@ -9051,7 +9051,8 @@
 		</container>
 		<container name="lootweapons">
 			<category name="weapons" />
-			<category name="RadiationZone" />RadiationZone
+			<category name="RadiationZone" />
+RadiationZone
 			<point pos="-3.527124  1.599274  0.617291" range="0.203125" height="0.507813" />
 			<point pos="-1.728747  1.599274  -1.668881" range="0.203125" height="0.507813" />
 			<point pos="-1.856738  1.599274  1.911153" range="0.203125" height="0.507813" />
@@ -12284,12 +12285,13 @@
 			<point pos="0.130408  0.007614  -3.332648" range="0.935200" height="2.000000" />
 		</container>
 	</group>
-	<group name="Land_Village_HealthCare" lootmax="3">
+	<group name="Land_Village_HealthCare" lootmax="6">
 		<usage name="Medic" />
-		<container name="lootFloor" lootmax="1">
+		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
+			<category name="MedicalTools"/>
 			<tag name="floor" />
 			<point pos="-2.718501  -2.966034  0.936808" range="0.555908" height="1.389770" />
 			<point pos="-2.534188  -2.966034  3.796513" range="0.588379" height="1.470948" />
@@ -12308,7 +12310,8 @@
 			<point pos="-0.364102  -2.966034  1.167355" range="1.199951" height="2.000008" />
 			<point pos="1.586565  -2.966034  -3.563572" range="1.199951" height="2.000008" />
 		</container>
-		<container name="lootshelves" lootmax="1">
+		<container name="lootshelves" lootmax="3">
+			<category name="MedicalTools"/>
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -12348,9 +12351,10 @@
 			<point pos="1.641738  -2.198349  10.798181" range="0.340625" height="0.851563" />
 			<point pos="-2.348649  -2.262264  9.498160" range="0.340625" height="0.851563" />
 		</container>
-		<container name="lootweapons">
+		<container name="lootweapons" lootmax="1">
 			<category name="weapons" />
 			<category name="explosives" />
+			<category name="MedicalTools"/>
 			<point pos="4.123368  -1.727413  1.360874" range="0.100000" height="0.250000" />
 			<point pos="2.196056  -1.727413  1.344068" range="0.134375" height="0.259998" />
 			<point pos="-5.550748  -2.249952  8.881260" range="0.203125" height="0.507813" />
@@ -12360,9 +12364,10 @@
 			<point pos="4.661276  -2.966034  4.360758" range="0.520020" height="1.300050" />
 		</container>
 	</group>
-	<group name="Land_City_Hospital" lootmax="8">
+	<group name="Land_City_Hospital" lootmax="9">
 		<usage name="Medic" />
 		<container name="lootFloor" lootmax="3">
+			<category name="MedicalTools" />
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -12390,7 +12395,8 @@
 			<point pos="-2.480643  -7.353249  16.798704" range="1.200000" height="2.000000" />
 			<point pos="-3.589576  -7.353186  13.322013" range="1.200000" height="2.000000" />
 		</container>
-		<container name="lootshelves" lootmax="4">
+		<container name="lootshelves" lootmax="5">
+			<category name="MedicalTools" />
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
