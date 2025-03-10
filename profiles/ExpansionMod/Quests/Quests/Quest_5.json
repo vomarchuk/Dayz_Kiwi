@@ -4,8 +4,8 @@
     "Type": 1,
     "Title": "Вполювати ведмедів",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
+        "Вполювати ведмедів",
+        "Вполювати ведмедів",
         "PLACEHOLDER"
     ],
     "ObjectiveText": "Вполювати 3 ведмедя",
@@ -56,8 +56,8 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "TraderPlus_Money_Euro500",
-            "Amount": 5,
+            "ClassName": "KIWI_SALT",
+            "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

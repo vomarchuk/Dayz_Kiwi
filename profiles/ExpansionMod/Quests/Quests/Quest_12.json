@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 3,
+    "ID": 12,
     "Type": 1,
-    "Title": "Полювання на вовків",
+    "Title": "Полювання на лисиць",
     "Descriptions": [
-        "Полювання на вовків",
-        "Полювання на вовків",
+        "Вполювати лисиць",
+        "Вполювати лисиць",
         "PLACEHOLDER"
     ],
-    "ObjectiveText": "Вполювати 10 вовків",
+    "ObjectiveText": "Вполювати 15 лисиць",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -80,7 +80,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 7,
+            "ID": 14,
             "ObjectiveType": 2
         }
     ],
