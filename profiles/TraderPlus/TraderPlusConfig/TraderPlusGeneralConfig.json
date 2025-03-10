@@ -34,6 +34,10 @@
       "Value": 500
     },
     {
+      "ClassName": "TraderPlus_Money_Euro200",
+      "Value": 200
+    },
+    {
       "ClassName": "TraderPlus_Money_Euro100",
       "Value": 100
     },
@@ -94,12 +98,12 @@
       "GivenName": "Irena",
       "Role": "Медицина",
       "Position": [
-        3692.324463,
-        402.011993,
-        5970.174316
+        3712.570068,
+        402.721893,
+        5972.784668
       ],
       "Orientation": [
-        143.999893,
+        169.438370,
         0.000000,
         -0.000000
       ],
@@ -117,8 +121,8 @@
       "GivenName": "Lewis",
       "Role": "Хім захист",
       "Position": [
-        2119.427002, 
-        95.713745, 
+        2119.427002,
+        95.713745,
         3360.794189
       ],
       "Orientation": [
@@ -240,20 +244,20 @@
       "GivenName": "Jose",
       "Role": "Продавець модового одягу",
       "Position": [
-        3725.635,
-        402.0254,
-        5967.666
+        3687.716064,
+        402.941101,
+        5957.413086
       ],
       "Orientation": [
-        -85.25131,
-        0,
-        0
+        30.808481,
+        0.000000,
+        -0.000000
       ],
       "Clothes": [
         "FOG_Tactical_Fingerless_Gloves_MC",
         "FOG_Helmet_MICH2000_TanRattle",
-        "FOG_Vest_FCPC_AOR1",
-        "FOG_G3_Hoodie_AOR1SHndgrd",
+        "FOG_Vest_CPC_AOR1",
+        "FOG_G3_Hoodie_AOR1",
         "FOG_Pants_Crye_G3_AOR1",
         "FOG_Bag_SATL_KHK",
         "FOG_DEFCONVans_Shoes_MCB",
@@ -282,7 +286,7 @@
         "MedicalScrubsHat_Blue",
         "SlacksPants_White",
         "DressShoes_Black",
-        "LabCoatses_Black"
+        "LabCoat"
       ]
     },
     {
@@ -291,14 +295,14 @@
       "GivenName": "Maria",
       "Role": "Продавець модової зброї",
       "Position": [
-        3721.508057,
-        402.024536,
-        5960.038574
+        3681.450684,
+        402.651245,
+        5966.488281
       ],
       "Orientation": [
-        -80,
-        0,
-        0
+        33.432823,
+        0.000000,
+        -0.000000
       ],
       "Clothes": [
         "FOG_Knight_Mask_Black",
@@ -319,14 +323,14 @@
       "GivenName": "Mirek",
       "Role": "Охотник",
       "Position": [
-        3685.915039,
-        402.012451,
-        5963.381348
+        3702.868652,
+        402.651245,
+        5948.369141
       ],
       "Orientation": [
-        143.999893,
+        -16.787212,
         0.000000,
-        -0.000000
+        0.000000
       ],
       "Clothes": [
         "BoonieHat_Winter",
@@ -392,14 +396,14 @@
       "GivenName": "Василь",
       "Role": "Фермер",
       "Position": [
-        3689.206055,
-        402.302429,
-        5957.197266
+        3718.620361,
+        402.651123,
+        5953.166992
       ],
       "Orientation": [
-        143.999893,
+        -39.209656,
         0.000000,
-        -0.000000
+        0.000000
       ],
       "Clothes": [
         "WoolGlovesFingerless_ChristmasRed",
@@ -420,7 +424,7 @@
         5999.684082
       ],
       "Orientation": [
-        -35.999992,
+        111.202003,
         0.000000,
         -0.000000
       ],
@@ -438,10 +442,14 @@
       "GivenName": "Мясник",
       "Role": "Частини тіл",
       "Position": [
-        14124.838867, 140.338562, 13839.694336
+        14124.838867,
+        140.338562,
+        13839.694336
       ],
       "Orientation": [
-        0.000000, 0.000000, -0.000000
+        0.000000,
+        0.000000,
+        -0.000000
       ],
       "Clothes": [
         "PaydayMask_Hoxton",
