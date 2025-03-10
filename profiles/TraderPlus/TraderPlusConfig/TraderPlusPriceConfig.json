@@ -1984,6 +1984,7 @@
         "CarRadiator,1,-1,0,200,100",
         "KIWI_CarRadiator,1,-1,0,10000,500",
         "TireRepairKit,1,-1,100,-1,200",
+        "rag_willy_hood,1,-1,0,300,100",
         "HatchbackHood,1,-1,0,300,100",
         "HatchbackTrunk,1,-1,0,380,130",
         "HatchbackDoors_Driver,1,-1,0,450,160",
@@ -2021,7 +2022,8 @@
         "Truck_01_Door_2_1,1,-1,0,500,180",
         "Truck_01_Wheel,1,-1,0,200,30",
         "Truck_01_WheelDouble,1,-1,0,1300,30",
-        "rag_atv_wheel,1,-1,0,200,20"
+        "rag_atv_wheel,1,-1,0,200,20",
+        "rag_willy_wheel,1,-1,0,200,20"
       ]
     },
     {
