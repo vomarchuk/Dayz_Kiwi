@@ -220,7 +220,7 @@
       "keyclass": "CJ_Key103",
       "openable": 1,
       "chest": ["CJ_LootChest_CashRegister_New"],
-      "lootrandomize": 0.3,
+      "lootrandomize": 0.4,
       "light": 1,
       "loot": [
         "LC_Table_Money_veryHigh",
@@ -236,6 +236,7 @@
         "LC_Table_Money_medium",
         "LC_Table_Money_medium",
         "LC_Table_Money_medium",
+        "LC_Table_Money_Event",
         "LC_Table_Money_Event",
         "LC_Table_Money_Event"
       ],

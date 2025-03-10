@@ -355,6 +355,29 @@
                 "HeadlightH7"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "rag_jeep_willys",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 60.0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "rag_willy_hood",
+                "rag_willy_wheel",
+                "rag_willy_wheel",
+                "rag_willy_wheel",
+                "rag_willy_wheel",
+                "rag_willy_wheel",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
         }
     ]
 }

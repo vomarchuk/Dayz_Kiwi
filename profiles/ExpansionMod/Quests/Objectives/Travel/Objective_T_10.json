@@ -6,13 +6,13 @@
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        6639.566895, 
-        7.740392, 
-        2586.499268
+        3422.838623,
+        193.754089,
+        13020.113281
     ],
     "MaxDistance": 1.0,
-    "MarkerName": "Знайти Альошу",
-    "ShowDistance": 1,
+    "MarkerName": "",
+    "ShowDistance": 0,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0
 }

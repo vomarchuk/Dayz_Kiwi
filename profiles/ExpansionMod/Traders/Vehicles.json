@@ -14,6 +14,7 @@
         "TraderPlus_Money_Euro20",
         "TraderPlus_Money_Euro50",
         "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro200",
         "TraderPlus_Money_Euro500"
     ],
     "DisplayCurrencyValue": 1,
@@ -28,6 +29,7 @@
         "Car_80k",
         "Car_110k",
         "Car_NissanGTRs",
+        "Car_Armored",
         "Vehicle_Parts_Mod:3",
         "Batteries:3",
         "Vehicle_CarLock"

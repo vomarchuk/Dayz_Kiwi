@@ -2,11 +2,13 @@
     "ConfigVersion": 28,
     "ID": 2,
     "ObjectiveType": 9,
-    "ObjectiveText": "Покажи Альоші де знаходиться бункер",
+    "ObjectiveText": "Покажи Альоші де знаходиться бункер Старого Яру",
     "TimeLimit": 1800,
     "Active": 1,
     "Position": [
-        8813.914063, 207.839447, 2942.501465
+        4406.066895,
+        469.566315,
+        15059.131836
     ],
     "MaxDistance": 10.0,
     "MarkerName": "",
