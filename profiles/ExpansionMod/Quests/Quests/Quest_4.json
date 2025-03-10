@@ -4,8 +4,8 @@
     "Type": 1,
     "Title": "Вполювати кролів",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
+        "Вполювати кролів",
+        "Вполювати кролів",
         "PLACEHOLDER"
     ],
     "ObjectiveText": "Вполювати 10 кролів",
@@ -56,8 +56,8 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "TraderPlus_Money_Euro500",
-            "Amount": 5,
+            "ClassName": "KIWI_SALT",
+            "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
