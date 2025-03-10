@@ -108,6 +108,7 @@
         "SardinesCan,1,-1,0,-1,35",
         "TunaCan,1,-1,0,-1,35",
         "Honey,1,-1,0,-1,80",
+        "UnknownFoodCan,1,-1,0,-1,80",
         "SpaghettiCan,1,-1,0,-1,100",
         "BakedBeansCan,1,-1,0,-1,150",
         "TacticalBaconCan,1,-1,0,-1,200",
@@ -310,6 +311,7 @@
         "HP_Plata,1,-1,0,-1,100",
         "HP_Pipe,1,-1,0,-1,500",
         "Sickle,1,-1,0,-1,100",
+        "MeatTenderizer,1,-1,0,-1,100",
         "Blowtorch,1,-1,0,-1,100",
         "WeaponCleaningKit,1,-1,100,-1,200",
         "KIWI_WeaponCleaningKit,1,-1,100,-1,600",
@@ -603,7 +605,9 @@
         "rag_baseitems_grammophone_4_disk,1,-1,0,-1,100",
         "rag_baseitems_grammophone_3_disk,1,-1,0,-1,100",
         "rag_baseitems_grammophone_2_disk,1,-1,0,-1,100",
-        "rag_baseitems_grammophone_disk,1,-1,0,-1,100"
+        "rag_baseitems_grammophone_disk,1,-1,0,-1,100",
+        "TerjeSleepingBag_Blue,1,-1,0,-1,100",
+        "TerjeSleepingBag_Woodland,1,-1,0,-1,100"
       ]
     },
     {
@@ -1189,6 +1193,8 @@
         "NioshFaceMask,1,-1,0,200,40",
         "HockeyMask,1,-1,0,220,42",
         "WeldingMask,1,-1,0,450,55",
+        "MimeMask_Male,1,-1,0,450,55",
+        "MimeMask_Female,1,-1,0,450,55",
         "Shemag_White,1,-1,0,450,55",
         "Balaclava3Holes_Blue,1,-1,0,800,80",
         "Balaclava3Holes_Beige,1,-1,0,800,80",
