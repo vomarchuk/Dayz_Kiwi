@@ -2,14 +2,32 @@
   "m_Version": 8,
   "m_TraderID": 1,
   "m_ClassName": "ExpansionP2PTraderAIIrena",
-  "m_Position": [3697.77001953125, 402.0119934082031, 5971.1201171875],
-  "m_Orientation": [150.1320037841797, 0.0, 0.0],
+  "m_Position": [
+    3682.138916,
+    402.761047,
+    5977.789063
+  ],
+  "m_Orientation": [
+    -105.666405,
+    0.0,
+    0.0
+  ],
   "m_LoadoutFile": "YellowKingLoadout",
   "m_VehicleSpawnPosition": [
-    3728.43994140625, 401.6659851074219, 6011.509765625
+    3698.263184,
+    402.154962,
+    5986.754395
   ],
-  "m_WatercraftSpawnPosition": [0.0, 0.0, 0.0],
-  "m_AircraftSpawnPosition": [0.0, 0.0, 0.0],
+  "m_WatercraftSpawnPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "m_AircraftSpawnPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
   "m_DisplayName": "П2П",
   "m_DisplayIcon": "Deliver",
   "m_Faction": "InvincibleObservers",
