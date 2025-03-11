@@ -99,7 +99,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/Nomad_Backpack_ce">
 		<file name="Nomad_Backpack.xml" type="types"/>
 	</ce>
-
+	<!-- TOFU -->
+	<ce folder="types/Tofu_ce">
+		<file name="Tofu_Barrels.xml" type="types" />
+	</ce>
 	<!-- Items -->
 	<ce folder="types/Items_ce">
 		<file name="random_items_types.xml" type="types" />
@@ -137,4 +140,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="rag_hummer_types.xml" type="types" />
 		<file name="rag_landrover_types.xml" type="types" />
 	</ce>
+
 </economycore>
