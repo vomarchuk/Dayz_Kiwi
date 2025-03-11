@@ -7,12 +7,16 @@
         "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
         "DoorPosition": [
             [
-                5729.379883, 327.600006, 7002.430176
+                5729.379883,
+                327.600006,
+                7002.430176
             ]
         ],
         "DoorOrientation": [
             [
-                -159.999268, 1.000209, 1.000742
+                -159.999268,
+                1.000209,
+                1.000742
             ]
         ],
         "DoorScale": 1.0,
@@ -30,49 +34,51 @@
             "ItemQuantityDamage": 0.0
         },
         "WhiteListAllow": 1,
-        "WhiteList": ["76561198104182080"],
+        "WhiteList": [
+            "76561198104182080"
+        ],
         "BlackList": []
     },
-        {
-            "EnableSpawn": 1,
-            "Description": "VoMa_Base_Garage_Door",
-            "DoorClassName": "RZ_FireproofDoubleDoor",
-            "EnableAlarmSound": 0,
-            "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
-            "DoorPosition": [
-                [
-                    5711.32,
-                    305,
-                    7253.22
-                ]
-            ],
-            "DoorOrientation": [
-                [
-                    144,
-                    0,
-                    0
-                ]
-            ],
-            "DoorScale": 2.6,
-            "ActionName": "Відкрити ворота",
-            "TimeForOpen": 5.0,
-            "TimeForClose": 15.0,
-            "EnableNotificationForOpen": 0,
-            "NotificationForOpen": "",
-            "NotificationTitle": "",
-            "NotificationTime": 3.0,
-            "NeedItem": {
-                "Item": "RZ_KeycardDD_lvl5",
-                "ModeFlag": 0,
-                "ItemHealthDamage": 0.0,
-                "ItemQuantityDamage": 0.0
-            },
-            "WhiteListAllow": 1,
-            "WhiteList": [
-                "76561198104182080"
-            ],
-            "BlackList": []
+    {
+        "EnableSpawn": 1,
+        "Description": "VoMa_Base_Garage_Door",
+        "DoorClassName": "RZ_MetalGate",
+        "EnableAlarmSound": 0,
+        "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
+        "DoorPosition": [
+            [
+                5710.65,
+                306.7,
+                7253.88
+            ]
+        ],
+        "DoorOrientation": [
+            [
+                141,
+                0,
+                0
+            ]
+        ],
+        "DoorScale": 1.55,
+        "ActionName": "Відкрити ворота",
+        "TimeForOpen": 5.0,
+        "TimeForClose": 15.0,
+        "EnableNotificationForOpen": 0,
+        "NotificationForOpen": "",
+        "NotificationTitle": "",
+        "NotificationTime": 3.0,
+        "NeedItem": {
+            "Item": "RZ_KeycardDD_lvl5",
+            "ModeFlag": 0,
+            "ItemHealthDamage": 0.0,
+            "ItemQuantityDamage": 0.0
         },
+        "WhiteListAllow": 1,
+        "WhiteList": [
+            "76561198104182080"
+        ],
+        "BlackList": []
+    },
     {
         "EnableSpawn": 1,
         "Description": "VoMa_Base_House_Door",
@@ -81,12 +87,16 @@
         "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
         "DoorPosition": [
             [
-                5719.410156, 328.089996, 7007.419922
+                5719.410156,
+                328.089996,
+                7007.419922
             ]
         ],
         "DoorOrientation": [
             [
-                -159.998718, 0.000000, 0.884007
+                -159.998718,
+                0.000000,
+                0.884007
             ]
         ],
         "DoorScale": 1.0,
@@ -104,7 +114,9 @@
             "ItemQuantityDamage": 0.0
         },
         "WhiteListAllow": 1,
-        "WhiteList": ["76561198104182080"],
+        "WhiteList": [
+            "76561198104182080"
+        ],
         "BlackList": []
     }
 ]
