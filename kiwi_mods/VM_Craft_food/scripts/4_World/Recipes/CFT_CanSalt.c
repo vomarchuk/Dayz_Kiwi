@@ -50,7 +50,7 @@ class CFT_CanSalt extends RecipeBase
 		m_ResultInheritsColor[0] = -1; 
 		m_ResultToInventory[0] = -2;
 		m_ResultUseSoftSkills[0] = false;
-		m_ResultReplacesIngredient[0] = 0;	
+		m_ResultReplacesIngredient[0] = 1;	
 
 		//----------------------------------------------------------------------------------------------------------------------
 	}

@@ -74,6 +74,18 @@ class cfgWeapons
 		{
 			"SCWS_SPEAR_Magazine"
 		};
+		attachments[] = {"weaponWrap","SCWS338Suppressor","weaponOptics","weaponFlashlight"};
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints = 600;
+					healthLevels[] = {{1.0,{"DZ\weapons\firearms\aug\data\aug_barrel.rvmat","DZ\weapons\firearms\aug\data\aug_stock.rvmat","DZ\weapons\firearms\aug\data\rail.rvmat"}},{0.7,{"DZ\weapons\firearms\aug\data\aug_barrel.rvmat","DZ\weapons\firearms\aug\data\aug_stock.rvmat","DZ\weapons\firearms\aug\data\rail.rvmat"}},{0.5,{"DZ\weapons\firearms\aug\data\aug_barrel_damage.rvmat","DZ\weapons\firearms\aug\data\aug_stock_damage.rvmat","DZ\weapons\firearms\aug\data\rail_damage.rvmat"}},{0.3,{"DZ\weapons\firearms\aug\data\aug_barrel_damage.rvmat","DZ\weapons\firearms\aug\data\aug_stock_damage.rvmat","DZ\weapons\firearms\aug\data\rail_damage.rvmat"}},{0.0,{"DZ\weapons\firearms\aug\data\aug_barrel_destruct.rvmat","DZ\weapons\firearms\aug\data\aug_stock_destruct.rvmat","DZ\weapons\firearms\aug\data\rail_destruct.rvmat"}}};
+				};
+			};
+		};
 	};
 };
 class CfgVehicles

@@ -25,6 +25,7 @@ class CfgPatches
 class CfgVehicles
 {
 	class Inventory_Base;
+	class Container_Base;
 	class Battery9V: Inventory_Base
 	{
 	};
@@ -160,4 +161,16 @@ class CfgVehicles
 			"CPlayer\data\customItems\data\KIWI_sewingkit.paa"
 		};
 	};
+	class Barrel_ColorBase: Container_Base{};
+	class KIWI_Barrel_01: Barrel_ColorBase
+	{
+		scope = 2;
+		color = "Blue";
+		displayName = "Бочка";
+		descriptionShort = "Збільшена бочка";
+		hiddenSelectionsTextures[] = {"CPlayer\data\customItems\data\KIWI_barrel_01_co.paa"};
+		hologramMaterial = "barrel";
+		hologramMaterialPath = "dz\gear\containers\data";
+		itemSize[] = {10,30};
+	}
 };
