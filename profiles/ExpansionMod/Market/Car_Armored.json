@@ -31,7 +31,11 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "CrSk_Pitbull_VX_Khaki",
+                "CrSk_Pitbull_VX_Tan",
+                "CrSk_Pitbull_VX_Grey"
+            ]
         },
         {
             "ClassName": "CrSk_Pitbull_VX_Khaki",
@@ -140,7 +144,16 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "rag_hummer_olive_Armored",
+                "rag_hummer_tan_Armored",
+                "rag_hummer_camo_Armored",
+                "rag_hummer_purple_Armored",
+                "rag_hummer_red_Armored",
+                "rag_hummer_winter_Armored",
+                "rag_hummer_anarchy_Armored",
+                "rag_hummer_gold_Armored"
+            ]
         },
         {
             "ClassName": "rag_hummer_olive_Armored",

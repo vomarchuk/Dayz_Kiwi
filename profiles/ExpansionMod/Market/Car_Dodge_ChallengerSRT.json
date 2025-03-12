@@ -29,7 +29,14 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "Dodge_ChallengerSRT_DarkBlue",
+                "Dodge_ChallengerSRT_Black",
+                "Dodge_ChallengerSRT_Blue",
+                "Dodge_ChallengerSRT_Red",
+                "Dodge_ChallengerSRT_Green",
+                "Dodge_ChallengerSRT_Orange"
+            ]
         },
         {
             "ClassName": "Dodge_ChallengerSRT_DarkBlue",

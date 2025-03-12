@@ -29,7 +29,16 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "Chevrolet_NapalmNova_White",
+                "Chevrolet_NapalmNova_Red",
+                "Chevrolet_NapalmNova_Blue",
+                "Chevrolet_NapalmNova_Green",
+                "Chevrolet_NapalmNova_Yellow",
+                "Chevrolet_NapalmNova_Pink",
+                "Chevrolet_NapalmNova_Purple",
+                "Chevrolet_NapalmNova_Orange"
+            ]
         },
         {
             "ClassName": "Chevrolet_NapalmNova_White",
@@ -254,7 +263,12 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "Civic_Red",
+                "Civic_Blue",
+                "Civic_Green",
+                "Civic_Yellow"
+            ]
         },
         {
             "ClassName": "Civic_Red",

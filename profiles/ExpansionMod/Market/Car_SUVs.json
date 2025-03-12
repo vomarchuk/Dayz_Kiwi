@@ -31,7 +31,17 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "Jeep_GladiatorF9_BOSS_Black",
+                "Jeep_GladiatorF9_BOSS_Gold",
+                "Jeep_GladiatorF9_BOSS_Brown",
+                "Jeep_GladiatorF9_BOSS_DarkRed",
+                "Jeep_GladiatorF9_BOSS_DarkBlue",
+                "Jeep_GladiatorF9_BOSS_camo_green",
+                "Jeep_GladiatorF9_BOSS_camo_red",
+                "Jeep_GladiatorF9_BOSS_camo_blue",
+                "Jeep_GladiatorF9_BOSS_camo_black"
+            ]
         },
         {
             "ClassName": "Jeep_GladiatorF9_BOSS_Black",
@@ -303,7 +313,20 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "DodgeRam_BOSS_Green",
+                "DodgeRam_BOSS_White",
+                "DodgeRam_BOSS_Teal",
+                "DodgeRam_BOSS_Black",
+                "DodgeRam_BOSS_Red",
+                "DodgeRam_BOSS_Blue",
+                "DodgeRam_BOSS_camoblack",
+                "DodgeRam_BOSS_camoblue",
+                "DodgeRam_BOSS_camowhite",
+                "DodgeRam_BOSS_camored",
+                "DodgeRam_BOSS_camogreen",
+                "DodgeRam_BOSS_camonuke"
+            ]
         },
         {
             "ClassName": "DodgeRam_BOSS_Green",
@@ -678,7 +701,16 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "Tahoe_Black",
+                "Tahoe_LightBlue",
+                "Tahoe_Brown",
+                "Tahoe_DarkBlue",
+                "Tahoe_Green",
+                "Tahoe_Pink",
+                "Tahoe_Blue",
+                "Tahoe_Red"
+            ]
         },
         {
             "ClassName": "Tahoe_Black",
@@ -922,7 +954,21 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "ToyotaRunner_camoblack",
+                "ToyotaRunner_camowhite",
+                "ToyotaRunner_camogreen",
+                "ToyotaRunner_white",
+                "ToyotaRunner_red",
+                "ToyotaRunner_blue",
+                "ToyotaRunner_camored",
+                "ToyotaRunner_camopink",
+                "ToyotaRunner_pink",
+                "ToyotaRunner_yellow",
+                "ToyotaRunner_camoblue",
+                "ToyotaRunner_camopurple",
+                "ToyotaRunner_BOSS"
+            ]
         },
         {
             "ClassName": "ToyotaRunner_camoblack",
@@ -1313,7 +1359,14 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "rag_landrover_110_olive",
+                "rag_landrover_110_grey",
+                "rag_landrover_110_red",
+                "rag_landrover_110_un",
+                "rag_landrover_110_black",
+                "rag_landrover_110_pink"
+            ]
         },
         {
             "ClassName": "rag_landrover_110_olive",
