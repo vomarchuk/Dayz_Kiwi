@@ -2599,6 +2599,17 @@
         "FOG_SAS_Holster_M81,1,-1,0,2100,105",
         "FOG_Pouch_LBT_MC,1,-1,0,2100,105",
         "FOG_Pouch_LBT_MCB,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_AOR1,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_ALP,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_AOR2,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_Black,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_MC,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_RG,1,-1,0,2100,105",
+        "FOG_Pouch_Admin_Small_CB,1,-1,0,2100,105",
+        "FOG_Pouch_Belly_Black,1,-1,0,2100,105",
+        "FOG_Pouch_Belly_RG,1,-1,0,2100,105",
+        "FOG_Pouch_Belly_AOR2,1,-1,0,2100,105",
+        "FOG_Pouch_Belly_MC,1,-1,0,2100,105",
         "FOG_Pouch_Admin_Spiritus_M81,1,-1,0,2100,105",
         "FOG_Pouch_Belly_CB,1,-1,0,2100,105"
       ]
