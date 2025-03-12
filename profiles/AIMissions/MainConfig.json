@@ -14,7 +14,7 @@
             "Mission_Time_Between": 2700,
             "Mission_Time_Limit": 2700,
             "Mission_Time_Extension_Limit": 1200,
-            "Mission_Inner_Radius": 500,
+            "Mission_Inner_Radius": 600,
             "Mission_AI_Spawn_Radius": 800,
             "Reward_Loot_Weapons_Minimum": 0,
             "Reward_Loot_Weapons_Maximum": 1,
