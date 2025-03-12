@@ -29,7 +29,20 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "NissanGTRNismo_Red",
+                "NissanGTRNismo_Black",
+                "NissanGTRNismo_DarkPurple",
+                "NissanGTR_White",
+                "NissanGTR_Green",
+                "NissanGTR_Orange",
+                "NissanGTR_Pink",
+                "NissanGTR_Red",
+                "NissanGTRCustom_Black",
+                "NissanGTRCustom_Blood",
+                "NissanGTRCustom_LB",
+                "NissanGTRCustom_Pink"
+            ]
         },
         {
             "ClassName": "NissanGTRNismo_Red",

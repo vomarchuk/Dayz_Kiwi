@@ -32,7 +32,11 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "GMC_BOSS_Black",
+                "GMC_BOSS_White",
+                "GMC_BOSS_Blue"
+            ]
         },
         {
             "ClassName": "GMC_BOSS_Black",
@@ -144,7 +148,10 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "FC_Uaz_Pickup_Green",
+                "FC_Uaz_Pickup_Pink"
+            ]
         },
         {
             "ClassName": "FC_Uaz_Pickup_Green",
@@ -164,34 +171,6 @@
                 "FC_Uaz_Pickup_Door_Cargo2_Green",
                 "FC_Uaz_Pickup_Door_Hood_Green",	
                 "FC_Uaz_Pickup_Door_Trunk_Green",
-                "FC_Uaz_Pickup_Wheel",
-                "FC_Uaz_Pickup_Wheel",
-                "FC_Uaz_Pickup_Wheel",
-                "FC_Uaz_Pickup_Wheel",
-                "FC_Uaz_Pickup_Wheel",
-                "HeadlightH7",
-                "HeadlightH7"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "FC_Uaz_Pickup_Pink",
-            "MaxPriceThreshold": 110000,
-            "MinPriceThreshold": 110000,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SellPricePercent": 60.0,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "CarBattery",
-                "CarRadiator",
-                "SparkPlug",
-                "FC_Uaz_Pickup_Door_Driver_Pink",	
-                "FC_Uaz_Pickup_Door_CoDriver_Pink",
-                "FC_Uaz_Pickup_Door_Cargo1_Pink",	
-                "FC_Uaz_Pickup_Door_Cargo2_Pink",	
-                "FC_Uaz_Pickup_Door_Hood_Pink",	
-                "FC_Uaz_Pickup_Door_Trunk_Pink",
                 "FC_Uaz_Pickup_Wheel",
                 "FC_Uaz_Pickup_Wheel",
                 "FC_Uaz_Pickup_Wheel",
@@ -255,7 +234,14 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "dodgechargerhellcat_blue",
+                "dodgechargerhellcat_green",
+                "dodgechargerhellcat_red",
+                "dodgechargerhellcat_pink",
+                "dodgechargerhellcat_lightblue",
+                "dodgechargerhellcat_white"
+            ]
         },
         {
             "ClassName": "dodgechargerhellcat_blue",

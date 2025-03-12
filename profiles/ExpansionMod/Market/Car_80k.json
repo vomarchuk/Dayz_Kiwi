@@ -30,7 +30,11 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ],
-            "Variants": []
+            "Variants": [
+                "Ford_Bronco_Black",
+                "Ford_Bronco_Hunter",
+                "Ford_Bronco_Rust"
+            ]
         },
         {
             "ClassName": "Ford_Bronco_Black",
