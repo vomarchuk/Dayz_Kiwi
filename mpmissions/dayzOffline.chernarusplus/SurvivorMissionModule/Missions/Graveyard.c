@@ -321,20 +321,25 @@ class GraveyardMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
 
-		for (int j = 0; j < m_rewards; j++)
+		array<string> availableItems = randomItems; 
+
+		for (int j = 0; j < m_rewards && availableItems.Count() > 0; j++) 
 		{
-			int randomIndex = Math.RandomInt(0, randomItems.Count()); 
-			string randomItem = randomItems.Get(randomIndex);       
+			int randomIndex = Math.RandomInt(0, availableItems.Count()); 
+			string randomItem = availableItems.Get(randomIndex);
+			
 			if (MissionObject.GetInventory().CreateInInventory(randomItem))
 			{
 				Print("[SMM] Добавлен предмет: " + randomItem);
+				availableItems.Remove(randomIndex); 
 			}
 			else
 			{
 				Print("[SMM] Ошибка добавления предмета: " + randomItem);
 			}
 		}
-	
+		
+		
 
 		//Clutter cutter stash 	
 		Object cc_stash = GetGame().CreateObject( "ClutterCutter2x2" , MissionObject.GetPosition() );
