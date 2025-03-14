@@ -8,6 +8,8 @@ class RandomItemsList
         // список рандомних нагород
         return {  
             "Blowtorch",
+            "TD_GRN2014_money20",
+            "TD_GRN2014_money50",
             "CP_CannabisSeedsPackBlackFrost",
             "CP_CannabisSeedsPackFuture",
             "CP_CannabisSeedsPackNomad",
@@ -54,6 +56,8 @@ class RandomItemsList
             "TerjeSurgicalKit",
             "TerjeSyringeNew",
             "WeaponCleaningKit",
+            "TD_GRN2014_money20",
+            "TD_GRN2014_money50",
             "CharcoalTablets"
         };
     }

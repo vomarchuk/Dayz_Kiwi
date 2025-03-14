@@ -407,21 +407,26 @@ class GanjaMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
 
-		for (int j = 0; j < m_rewards; j++)
+		array<string> availableItems = randomItems; 
+
+		for (int j = 0; j < m_rewards && availableItems.Count() > 0; j++) 
 		{
-			int randomIndex = Math.RandomInt(0, randomItems.Count()); 
-			string randomItem = randomItems.Get(randomIndex);       
+			int randomIndex = Math.RandomInt(0, availableItems.Count()); 
+			string randomItem = availableItems.Get(randomIndex);
+			
 			if (MissionObject.GetInventory().CreateInInventory(randomItem))
 			{
 				Print("[SMM] Добавлен предмет: " + randomItem);
+				availableItems.Remove(randomIndex); 
 			}
 			else
 			{
 				Print("[SMM] Ошибка добавления предмета: " + randomItem);
 			}
 		}
-		Print("[SMM] Mission rewards spawned in reward container. Randomly selected loadout was "+ selectedLoadout +"." );
-
+		
+		Print("[SMM] Mission rewards spawned in reward container. Randomly selected loadout was " + selectedLoadout + ".");
+		
 		ref array<string> randomMedItems = {
 			"TerjeAmpouleZivirol", "TerjeAmpouleFlemoclav", "TerjeSyringeNew", "TerjeInjectorNeirox", 
 			"TerjeSurgicalKit", "TerjePillsAmoxiclav", "TerjePillsPiperacylin"
