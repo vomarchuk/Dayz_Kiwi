@@ -701,6 +701,11 @@
       "Products": [
         "BrassKnuckles_Dull,1,-1,1,350,35",
         "BrassKnuckles_Shiny,1,-1,1,350,35",
+        "Crossbow_Autumn,1,-1,1,-1,150",
+        "Crossbow,1,-1,1,-1,150",
+        "Crossbow_Black,1,-1,1,-1,150",
+        "Crossbow_Summer,1,-1,1,-1,150",
+        "Crossbow_Wood,1,-1,1,-1,150",
         "BaseballBat,1,-1,1,550,55",
         "NailedBaseballBat,1,-1,1,-1,70"
       ]
@@ -1175,6 +1180,8 @@
         "TankerHelmet,1,-1,0,800,100",
         "GreatHelm,1,-1,0,2200,240",
         "ZSh3PilotHelmet,1,-1,0,1500,170",
+        "ZSh3PilotHelmet_Green,1,-1,0,1500,170",
+        "ZSh3PilotHelmet_Black,1,-1,0,1500,170",
         "FirefightersHelmet_Yellow,1,-1,0,1000,120",
         "FirefightersHelmet_Red,1,-1,0,1000,120",
         "FirefightersHelmet_White,1,-1,0,1000,120",
