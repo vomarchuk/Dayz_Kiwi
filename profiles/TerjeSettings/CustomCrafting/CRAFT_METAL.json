@@ -1,0 +1,40 @@
+{
+  "Name": "Розрізати бочку на метал",
+  "Enabled": 1,
+  "IsInstaRecipe": 0,
+  "AnimationLength": 1.0,
+  "FirstIngredient": {
+    "Items": ["Barrel_Blue", "Barrel_Green", "Barrel_Red", "Barrel_Yellow"],
+    "DeleteRequired": 1,
+    "MinQuantity": -1.0,
+    "MaxQuantity": -1.0,
+    "MinDamage": -1.0,
+    "MaxDamage": 3.0,
+    "AddHealth": 0.0,
+    "SetHealth": -1.0,
+    "AddQuantity": 0.0
+  },
+  "SecondIngredient": {
+    "Items": ["FOG_BoltCutters"],
+    "DeleteRequired": 0,
+    "MinQuantity": -1.0,
+    "MaxQuantity": -1.0,
+    "MinDamage": -1.0,
+    "MaxDamage": 3.0,
+    "AddHealth": -50.0,
+    "SetHealth": -1.0,
+    "AddQuantity": 0.0
+  },
+  "CraftingResults": [
+    {
+      "Item": "MetalPlate",
+      "SetFullQuantity": 1,
+      "SetQuantity": 3.0,
+      "SetHealth": -1.0,
+      "InheritsHealth": -1,
+      "InheritsColor": -1,
+      "ToInventory": -2,
+      "ReplacesIngredient": -1
+    }
+  ]
+}

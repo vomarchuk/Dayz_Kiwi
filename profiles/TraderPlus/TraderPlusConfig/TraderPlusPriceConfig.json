@@ -658,10 +658,10 @@
         "BarrelHoles_Green,1,-1,0,800,300",
         "BarrelHoles_Red,1,-1,0,800,300",
         "BarrelHoles_Yellow,1,-1,0,800,300",
-        "Barrel_Blue,1,-1,0,1500,350",
-        "Barrel_Green,1,-1,0,1500,350",
-        "Barrel_Red,1,-1,0,1500,350",
-        "Barrel_Yellow,1,-1,0,1500,350",
+        "Barrel_Blue,1,-1,0,-1,350",
+        "Barrel_Green,1,-1,0,-1,350",
+        "Barrel_Red,1,-1,0,-1,350",
+        "Barrel_Yellow,1,-1,0,-1,350",
         "SeaChest,1,-1,0,2000,400",
         "PowerGenerator,1,-1,0,-1,350",
         "PartyTent,1,-1,0,1000,100",
@@ -998,10 +998,7 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": [
-        "TLRLight,1,-1,0,200,40",
-        "Universallight,1,-1,0,250,45"
-      ]
+      "Products": ["TLRLight,1,-1,0,200,40", "Universallight,1,-1,0,250,45"]
     },
     {
       "CategoryName": "Окуляри",
@@ -3187,9 +3184,7 @@
     },
     {
       "CategoryName": "TyphoonK",
-      "Products": [
-        "TyphoonK_CamoGreen,1,-1,1,500000,8000"
-      ]
+      "Products": ["TyphoonK_CamoGreen,1,-1,1,500000,8000"]
     },
     {
       "CategoryName": "MotorHomes",
