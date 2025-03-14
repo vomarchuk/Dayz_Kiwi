@@ -14,10 +14,10 @@
     "MinDistance": -1.0,
     "Amount": 5,
     "ClassNames": [
-        "BRDK_Am_Soldier_03_zmb",
-        "BRDK_Am_Soldier_04_zmb",
-        "BRDK_Am_Soldier_02_zmb",
-        "BRDK_Am_Soldier_01_zmb"
+        "FC_Zmb_Toxic_Blue",
+        "FC_Zmb_Toxic_Orange",
+        "FC_Zmb_Toxic_White",
+        "FC_Zmb_Toxic_Yellow"
     ],
     "CountSelfKill": 0,
     "AllowedWeapons": [],
