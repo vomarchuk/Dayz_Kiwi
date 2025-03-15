@@ -39,8 +39,8 @@
     {
       "name": "CJ_Key4",
       "time": 3,
-      "dmg": 10,
-      "desc": "NAME of KEY|DESCRIPTION of KEY"
+      "dmg": 100,
+      "desc": "Medical key|Старий потертий ключ, який відкриває таємничий ящик в медичному закладі"
     },
     {
       "name": "CJ_Key5",
