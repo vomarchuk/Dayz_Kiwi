@@ -1535,6 +1535,114 @@
                 "HeadlightH7"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "Ford_Bronco_White",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 60.0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "Bronco_Driverdoor",
+                "Bronco_Codriverdoor",
+                "Bronco_Hood",
+                "Bronco_Trunk",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": [
+                "Ford_Bronco_Black",
+                "Ford_Bronco_Hunter",
+                "Ford_Bronco_Rust"
+            ]
+        },
+        {
+            "ClassName": "Ford_Bronco_Black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 60.0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "Bronco_Driverdoor_Black",
+                "Bronco_Codriverdoor_Black",
+                "Bronco_Hood_Black",
+                "Bronco_Trunk_Black",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ford_Bronco_Hunter",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 60.0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "Bronco_Driverdoor_Hunter",
+                "Bronco_Codriverdoor_Hunter",
+                "Bronco_Hood_Hunter",
+                "Bronco_Trunk_Hunter",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ford_Bronco_Rust",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 60.0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "Bronco_Driverdoor_Rust",
+                "Bronco_Codriverdoor_Rust",
+                "Bronco_Hood_Rust",
+                "Bronco_Trunk_Rust",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "bronco_wheel",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
         }
     ]
 }
