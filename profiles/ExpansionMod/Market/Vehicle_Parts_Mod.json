@@ -75,7 +75,7 @@
         {
             "ClassName": "Jeep_GladiatorF9_Driver_Door",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -97,7 +97,7 @@
         {
             "ClassName": "Jeep_GladiatorF9_Codriver_Door",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -119,7 +119,7 @@
         {
             "ClassName": "Jeep_GladiatorF9_Cargo_Door1",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -141,7 +141,7 @@
         {
             "ClassName": "Jeep_GladiatorF9_Cargo_Door2",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -185,7 +185,7 @@
         {
             "ClassName": "Jeep_GladiatorF9_Hood",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -206,8 +206,8 @@
         },
         {
             "ClassName": "JeepGladiator_Wheel",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -231,7 +231,7 @@
         {
             "ClassName": "DodgeRam_Driver_Door",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -256,7 +256,7 @@
         {
             "ClassName": "DodgeRam_CoDriver_Door",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -281,7 +281,7 @@
         {
             "ClassName": "DodgeRam_Trunk",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -306,7 +306,7 @@
         {
             "ClassName": "DodgeRam_Cargo1",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -356,7 +356,7 @@
         {
             "ClassName": "DodgeRam_Hood",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -380,8 +380,8 @@
         },
         {
             "ClassName": "DodgeRam_Wheel",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -399,7 +399,7 @@
         {
             "ClassName": "Tahoe_driverdoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -420,7 +420,7 @@
         {
             "ClassName": "Tahoe_codriver",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -441,7 +441,7 @@
         {
             "ClassName": "Tahoe_cargo1",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -462,7 +462,7 @@
         {
             "ClassName": "Tahoe_cargo2",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -504,7 +504,7 @@
         {
             "ClassName": "Tahoe_trunk",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -524,8 +524,8 @@
         },
         {
             "ClassName": "Tahoe_wheel",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -536,7 +536,7 @@
         {
             "ClassName": "Runner_DriverDoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -562,7 +562,7 @@
         {
             "ClassName": "Runner_CoDriver_Door",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -588,7 +588,7 @@
         {
             "ClassName": "Runner_Cargo1",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -614,7 +614,7 @@
         {
             "ClassName": "Runner_Cargo2",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -666,7 +666,7 @@
         {
             "ClassName": "Runner_Trunk",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -690,8 +690,8 @@
         },
         {
             "ClassName": "Runner_Wheel",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -702,7 +702,7 @@
         {
             "ClassName": "Bronco_Driverdoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -718,7 +718,7 @@
         {
             "ClassName": "Bronco_Codriverdoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -734,7 +734,7 @@
         {
             "ClassName": "Bronco_Hood",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -750,7 +750,7 @@
         {
             "ClassName": "Bronco_Trunk",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -765,8 +765,8 @@
         },
         {
             "ClassName": "bronco_wheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -777,7 +777,7 @@
         {
             "ClassName": "Chevrolet_NapalmNova_Driverdoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -798,7 +798,7 @@
         {
             "ClassName": "Chevrolet_NapalmNova_CoDriver",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -819,7 +819,7 @@
         {
             "ClassName": "Chevrolet_NapalmNova_Trunk",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -840,7 +840,7 @@
         {
             "ClassName": "Chevrolet_NapalmNova_Hood",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -860,8 +860,8 @@
         },
         {
             "ClassName": "Chevrolet_NapalmNova_Wheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -872,7 +872,7 @@
         {
             "ClassName": "GMC_driverdoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -897,7 +897,7 @@
         {
             "ClassName": "GMC_Codrvier",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -922,7 +922,7 @@
         {
             "ClassName": "GMC_Cargo1",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -947,7 +947,7 @@
         {
             "ClassName": "GMC_Cargo2",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1046,8 +1046,8 @@
         },
         {
             "ClassName": "GMC_Wheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1058,7 +1058,7 @@
         {
             "ClassName": "dodgecharger_driverdoor",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1077,7 +1077,7 @@
         {
             "ClassName": "dodgecharger_codriver",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1096,7 +1096,7 @@
         {
             "ClassName": "dodgecharger_cargo1",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1115,7 +1115,7 @@
         {
             "ClassName": "dodgecharger_cargo2",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1141,7 +1141,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_hood",
                 "dodgecharger_hood_blue",
                 "dodgecharger_hood_green",
                 "dodgecharger_hood_red",
@@ -1160,7 +1159,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_trunk",
                 "dodgecharger_trunk_blue",
                 "dodgecharger_trunk_green",
                 "dodgecharger_trunk_red",
@@ -1171,8 +1169,8 @@
         },
         {
             "ClassName": "dodgecharger_wheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1183,14 +1181,13 @@
         {
             "ClassName": "Dodge_Challenger_Driver",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Dodge_Challenger_Driver",
                 "Dodge_Challenger_Driver_DarkBlue",
                 "Dodge_Challenger_Driver_Black",
                 "Dodge_Challenger_Driver_Blue",
@@ -1202,14 +1199,13 @@
         {
             "ClassName": "Dodge_Challenger_CoDriver",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Dodge_Challenger_CoDriver",
                 "Dodge_Challenger_CoDriver_DarkBlue",
                 "Dodge_Challenger_CoDriver_Black",
                 "Dodge_Challenger_CoDriver_Blue",
@@ -1221,14 +1217,13 @@
         {
             "ClassName": "Dodge_Challenger_Trunk",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Dodge_Challenger_Trunk",
                 "Dodge_Challenger_Trunk_DarkBlue",
                 "Dodge_Challenger_Trunk_Black",
                 "Dodge_Challenger_Trunk_Blue",
@@ -1240,14 +1235,13 @@
         {
             "ClassName": "Dodge_Challenger_Hood",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Dodge_Challenger_Hood",
                 "Dodge_Challenger_Hood_DarkBlue",
                 "Dodge_Challenger_Hood_Black",
                 "Dodge_Challenger_Hood_Blue",
@@ -1266,7 +1260,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_hood",
                 "dodgecharger_hood_blue",
                 "dodgecharger_hood_green",
                 "dodgecharger_hood_red",
@@ -1277,8 +1270,8 @@
         },
         {
             "ClassName": "Dodge_Challenger_Wheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1288,8 +1281,8 @@
         },
         {
             "ClassName": "rag_atv_wheel",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1300,14 +1293,13 @@
         {
             "ClassName": "FC_Uaz_Pickup_Door_Driver_Black",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FC_Uaz_Pickup_Door_Driver_Black",
                 "FC_Uaz_Pickup_Door_Driver_Green",
                 "FC_Uaz_Pickup_Door_Driver_Pink",
                 "FC_Uaz_Pickup_Door_Driver_Red"
@@ -1316,14 +1308,13 @@
         {
             "ClassName": "FC_Uaz_Pickup_Door_CoDriver_Black",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FC_Uaz_Pickup_Door_CoDriver_Black",
                 "FC_Uaz_Pickup_Door_CoDriver_Green",
                 "FC_Uaz_Pickup_Door_CoDriver_Pink",
                 "FC_Uaz_Pickup_Door_CoDriver_Red"
@@ -1332,14 +1323,13 @@
         {
             "ClassName": "FC_Uaz_Pickup_Door_Cargo1_Black",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FC_Uaz_Pickup_Door_Cargo1_Black",
                 "FC_Uaz_Pickup_Door_Cargo1_Green",
                 "FC_Uaz_Pickup_Door_Cargo1_Pink",
                 "FC_Uaz_Pickup_Door_Cargo1_Red"
@@ -1348,14 +1338,13 @@
         {
             "ClassName": "FC_Uaz_Pickup_Door_Cargo2_Black",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FC_Uaz_Pickup_Door_Cargo2_Black",
                 "FC_Uaz_Pickup_Door_Cargo2_Green",
                 "FC_Uaz_Pickup_Door_Cargo2_Pink",
                 "FC_Uaz_Pickup_Door_Cargo2_Red"
@@ -1364,14 +1353,13 @@
         {
             "ClassName": "FC_Uaz_Pickup_Door_Hood_Black",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FC_Uaz_Pickup_Door_Hood_Black",
                 "FC_Uaz_Pickup_Door_Hood_Green",
                 "FC_Uaz_Pickup_Door_Hood_Pink",
                 "FC_Uaz_Pickup_Door_Hood_Red"
@@ -1380,14 +1368,13 @@
         {
             "ClassName": "FC_Uaz_Pickup_Door_Trunk_Black",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FC_Uaz_Pickup_Door_Trunk_Black",
                 "FC_Uaz_Pickup_Door_Trunk_Green",
                 "FC_Uaz_Pickup_Door_Trunk_Pink",
                 "FC_Uaz_Pickup_Door_Trunk_Red"
@@ -1395,8 +1382,8 @@
         },
         {
             "ClassName": "FC_Uaz_Pickup_Wheel",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1407,7 +1394,7 @@
         {
             "ClassName": "rag_willy_hood",
             "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1417,8 +1404,8 @@
         },
         {
             "ClassName": "rag_willy_wheel",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1458,7 +1445,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "PitbullVX_dver_1_1",
                 "PitbullVX_dver_1_1_Khaki",
                 "PitbullVX_dver_1_1_Tan",
                 "PitbullVX_dver_1_1_Grey"
@@ -1474,7 +1460,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "PitbullVX_dver_2_1",
                 "PitbullVX_dver_2_1_Khaki",
                 "PitbullVX_dver_2_1_Tan",
                 "PitbullVX_dver_2_1_Grey"
@@ -1490,7 +1475,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "PitbullVX_dver_1_2",
                 "PitbullVX_dver_1_2_Khaki",
                 "PitbullVX_dver_1_2_Tan",
                 "PitbullVX_dver_1_2_Grey"
@@ -1506,7 +1490,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "PitbullVX_dver_2_2",
                 "PitbullVX_dver_2_2_Khaki",
                 "PitbullVX_dver_2_2_Tan",
                 "PitbullVX_dver_2_2_Grey"
@@ -1522,7 +1505,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "PitbullVX_bagazhnik",
                 "PitbullVX_bagazhnik_Khaki",
                 "PitbullVX_bagazhnik_Tan",
                 "PitbullVX_bagazhnik_Grey"
@@ -1540,8 +1522,133 @@
             "Variants": [
                 "PitbullVX_kapot",
                 "PitbullVX_kapot_Khaki",
-                "PitbullVX_kapot_Tan",
                 "PitbullVX_kapot_Grey"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_driverdoor",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_driverdoor_olive",
+                "rag_landrover_110_driverdoor_grey",
+                "rag_landrover_110_driverdoor_red",
+                "rag_landrover_110_driverdoor_un",
+                "rag_landrover_110_driverdoor_black",
+                "rag_landrover_110_driverdoor_pink"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_codriverdoor",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_codriverdoor_olive",
+                "rag_landrover_110_codriverdoor_grey",
+                "rag_landrover_110_codriverdoor_red",
+                "rag_landrover_110_codriverdoor_un",
+                "rag_landrover_110_codriverdoor_black",
+                "rag_landrover_110_codriverdoor_pink"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_hood",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_hood_olive",
+                "rag_landrover_110_hood_grey",
+                "rag_landrover_110_hood_red",
+                "rag_landrover_110_hood_un",
+                "rag_landrover_110_hood_black",
+                "rag_landrover_110_hood_pink"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_cargo1",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_cargo1_olive",
+                "rag_landrover_110_cargo1_grey",
+                "rag_landrover_110_cargo1_red",
+                "rag_landrover_110_cargo1_un",
+                "rag_landrover_110_cargo1_black",
+                "rag_landrover_110_cargo1_pink"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_cargo2",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_cargo2_olive",
+                "rag_landrover_110_cargo2_grey",
+                "rag_landrover_110_cargo2_red",
+                "rag_landrover_110_cargo2_un",
+                "rag_landrover_110_cargo2_black",
+                "rag_landrover_110_cargo2_pink"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_cargo3",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_cargo3_olive",
+                "rag_landrover_110_cargo3_grey",
+                "rag_landrover_110_cargo3_red",
+                "rag_landrover_110_cargo3_un",
+                "rag_landrover_110_cargo3_black",
+                "rag_landrover_110_cargo3_pink"
+            ]
+        },
+        {
+            "ClassName": "rag_landrover_110_wheel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_landrover_110_wheel_olive",
+                "rag_landrover_110_wheel_grey",
+                "rag_landrover_110_wheel_red",
+                "rag_landrover_110_wheel_un",
+                "rag_landrover_110_wheel_black",
+                "rag_landrover_110_wheel_pink"
             ]
         }
     ]

@@ -21,7 +21,8 @@
     "DisplayCurrencyName": "",
     "Categories": [
         "Cars",
-        "Car_SUVs",
+        "Cars_Civilian",
+        "Cars_SUV",
         "Car_65k",
         "Car_110k",
         "Car_NissanGTRs",
