@@ -727,11 +727,12 @@
         "TerjeInjectorAmoxiclav", 
         "TerjeInjectorZivirol", 
         "AntiChemInjector", 
+        "TerjeAntiradInjector", 
         "TerjeInjectorRabinucoline", 
         "TerjeInjectorReanimatal", 
         "TerjeInjectorPromidol", 
-        "TerjeInjectorAmfitalicyne", 
-        "Morphine"
+        "Morphine", 
+        "TerjeInjectorAmfitalicyne"
       ]
     },
     {
