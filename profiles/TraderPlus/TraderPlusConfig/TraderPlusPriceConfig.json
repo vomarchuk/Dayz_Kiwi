@@ -680,7 +680,10 @@
     {
       "CategoryName": "Car attachments",
       "Products": [
-        "KIWI_Barrel_01,1,-1,0,10000,1000"
+        "KIWI_Barrel_01,1,-1,0,10000,1000",
+        "KIWI_Barrel_02,1,-1,0,10000,1000",
+        "KIWI_Barrel_03,1,-1,0,10000,1000",
+        "KIWI_WoodenCrate_01,1,-1,0,10000,1000"
       ]
     },
     {
