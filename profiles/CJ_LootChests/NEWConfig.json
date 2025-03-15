@@ -45,7 +45,7 @@
     },
     {
       "name": "Medic",
-      "number": 5,
+      "number": 10,
       "pos": [
         "5985.810547 307.880005 7682.790039|117.000000 0 0",
         "2739.169922 200.871002 5176.319824|-153.577000 0 0",
@@ -86,11 +86,11 @@
         "LC_Table_Medic_low",
         "LC_Table_Medic_low",
         "LC_Table_Medic_low",
-        "LC_Table_Medic_low|0.50",
-        "LC_Table_Medic_low|0.25",
+        "LC_Table_Medic_low",
+        "LC_Table_Medic_low",
         "LC_Table_Medic_high",
-        "LC_Table_Medic_high|0.50",
-        "LC_Table_Medic_high|0.25"
+        "LC_Table_Medic_high",
+        "TerjeFirstAidKitIndividual_Black|0.15"
       ],
       "respawn": 1,
       "respawn_timer": 30,
@@ -704,11 +704,9 @@
         "TerjeAmpouleZivirol", 
         "TerjeAmpouleFlemoclav", 
         "TerjeInjectorNeirox", 
-        "TerjeFirstAidKitIndividual_Black", 
         "TerjeInjectorErythropoietin", 
         "TerjeInjectorErytromixelin", 
         "TerjeAmpouleVaxicam", 
-        "TerjePillsAmoxiclav", 
         "TerjeInjectorAmoxiclav", 
         "TerjeAmpouleMetoclopramid", 
         "TerjeAmpouleHeptral", 
@@ -727,14 +725,15 @@
         "TerjeAmpouleAmitriptyline", 
         "TerjeAmpouleMetralindole", 
         "TerjeInjectorAmfitalicyne", 
-        "Morphine", 
-        "TerjePillsPiperacylin"
+        "Morphine"
       ]
     },
     {
       "name": "LC_Table_Medic_low",
       "Loot": [
         "CharcoalTablets", 
+        "TerjePillsAmoxiclav", 
+        "TerjePillsPiperacylin",
         "TerjePillsNurofen", 
         "TerjeSyringeNew", 
         "TerjePillsParacetamol", 

@@ -104,6 +104,7 @@
 		<item name="TerjePillsParacetamol" chance="0.1" />
 		<item name="TerjePillsAgteminol" chance="0.1" />
 		<item name="TerjePillsIrovit" chance="0.1" />
+		<item name="CJ_Key4" chance="0.25" />
 	</cargo>
 	<cargo chance="0.25" name="toolsPolice">
 		<item name="Battery9V" chance="0.1" />
