@@ -30,7 +30,6 @@ class UrbanMallMission extends SurvivorMissions
 	vector RewardsPosition = "-8.1 -6.3 -1.3";
 	vector RewardsPos2;
 	string SurvivorName;	
-	string fstPlayerName;	
 
 	bool IsExtended() return true;
 	
@@ -779,10 +778,6 @@ class UrbanMallMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{

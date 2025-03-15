@@ -20,7 +20,6 @@ class FreePigsMission extends SurvivorMissions
 	
 	//Mission variables 
 	string SurvivorName;
-	string fstPlayerName;	
 	vector RewardsPosition = "0.84 -0.75 0.16";	
 	vector TargetPosition = "-1.74 -3.01 0.49";
 	
@@ -499,7 +498,7 @@ class FreePigsMission extends SurvivorMissions
 		// m_MissionMessage2 = "A man from the survivor camp said he could go to a save position anywhere in the forests and get the meat. I left a hunting bag at the picnic table on the hiking trail.";
 		// m_MissionMessage3 = "Bring the meat to the picnic table near\n** "+ m_MissionDescription[3] +", coordinates: "+ Coords +" **\nPut "+ ReqMeatAmount +" pig steaks inside it and then you can take what you need. Be careful!";
 				
-		m_MissionMessage1 = fstPlayerName +" Гаразд, ви знайшли свиней. Вбийте свиней, щоб отримати трохи м'яса.";
+		m_MissionMessage1 = "Гаразд, ви знайшли свиней. Вбийте свиней, щоб отримати трохи м'яса.";
 		m_MissionMessage2 = "Чоловік із табору вцілілих сказав, що він може піти отримати м'ясо. Я залишив скриню на столі для пікніка на туристичній стежці.";
 		m_MissionMessage3 = "Принесіть м'ясо до столу для пікніка біля\n** "+ m_MissionDescription[3] +", координати: "+ Coords +" **\nПокладіть у нього "+ ReqMeatAmount +" свинячі стейки, а потім ви можете взяти те, що тобі потрібно. Удачі і бережи себе!";
 
@@ -532,10 +531,6 @@ class FreePigsMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{

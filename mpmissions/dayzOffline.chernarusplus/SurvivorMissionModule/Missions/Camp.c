@@ -15,8 +15,7 @@ class CampMission extends SurvivorMissions
 	ref array<string> InfectedTypes = new array<string>;
 
 	//Mission variables 
-	string SurvivorName;
-	string fstPlayerName;			
+	string SurvivorName;		
 	
 	bool IsExtended() return false;
 	
@@ -467,10 +466,6 @@ class CampMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway )
 		{		
