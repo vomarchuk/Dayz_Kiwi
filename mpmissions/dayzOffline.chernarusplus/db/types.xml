@@ -2938,7 +2938,7 @@
         <category name="tools" />
     </type>
     <type name="Barrel_Blue">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2952,7 +2952,7 @@
         <usage name="Farm" />
     </type>
     <type name="Barrel_Green">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2966,7 +2966,7 @@
         <usage name="Farm" />
     </type>
     <type name="Barrel_Red">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2980,7 +2980,7 @@
         <usage name="Farm" />
     </type>
     <type name="Barrel_Yellow">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
