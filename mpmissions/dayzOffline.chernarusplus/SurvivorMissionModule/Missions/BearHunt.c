@@ -17,7 +17,6 @@ class BearHuntMission extends SurvivorMissions
 	
 	//Mission variables 
 	string SurvivorName;		
-	string fstPlayerName;	
 	
 	bool IsExtended() return true;
 	
@@ -435,7 +434,7 @@ class BearHuntMission extends SurvivorMissions
 		// m_MissionMessage3 = "Put atleast "+ ReqMeatAmount +" bear steaks and the pelt in there. Be carefull, there might be bandits around which could intercepted our little radio talk here. Good luck!";
 		
 
-		m_MissionMessage1 = "Добре,"+ fstPlayerName +", ти знайшов місцезнаходження ведмедя. Спробуй вбити його, поціливши йому в голову або серце. Ведмідь - сильна тварина, тому знадобиться кілька пострілів, щоб вбити його.";
+		m_MissionMessage1 = "Добре, ти знайшов місцезнаходження ведмедя. Спробуй вбити його, поціливши йому в голову або серце. Ведмідь - сильна тварина, тому знадобиться кілька пострілів, щоб вбити його.";
 		m_MissionMessage2 = "Вийми свій ніж і випотроши його. Принеси шкіру та м'ясо до\n** "+ m_MissionDescription[3] +" класної кімнати шкільної лабораторії **\n(ліве крило, верхній поверх), тому що я хочу оглянути ведмеже м'ясо, я залишив скриню на робочому столі.";
 		m_MissionMessage3 = "Покладіть туди щонайменше "+ ReqMeatAmount +" ведмежі стейки та шкіру. Будьте обережні, навколо можуть бути бандити, які можуть перехопити нашу невелику радіорозмову. Удачі!";
 
@@ -490,10 +489,6 @@ class BearHuntMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Update Bear position 
 		if ( m_MissionExtended )
 		{
