@@ -88,7 +88,7 @@
         "LC_Table_Medic_low",
         "LC_Table_Medic_Injector",
         "LC_Table_Medic_Injector",
-        "LC_Table_Medic_high",
+        "LC_Table_Medic_Injector",
         "LC_Table_Medic_high",
         "TerjeFirstAidKitIndividual_Black|0.15"
       ],
@@ -725,6 +725,7 @@
         "TerjeInjectorErythropoietin", 
         "TerjeInjectorErytromixelin", 
         "TerjeInjectorAmoxiclav", 
+        "TerjeInjectorZivirol", 
         "AntiChemInjector", 
         "TerjeInjectorRabinucoline", 
         "TerjeInjectorReanimatal", 
