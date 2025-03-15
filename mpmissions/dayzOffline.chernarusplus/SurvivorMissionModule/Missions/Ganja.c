@@ -20,7 +20,6 @@ class GanjaMission extends SurvivorMissions
 	
 	//Mission variables 
 	string SurvivorName;	
-	string fstPlayerName;	
 	
 	bool IsExtended() return true;
 	
@@ -572,7 +571,7 @@ class GanjaMission extends SurvivorMissions
 		// m_MissionMessage2 = "Drive to the  ** "+ m_MissionDescription[3] +" Gas Station **\nand bring the Ganjabag to cash desk. "+ SurvivorName +"'s ganja has the highest priority. Please don't steal or smoke any of it by your own because it could be very dangerous.";
 		// m_MissionMessage3 = "I have some things for you at the gas station. Be carefull, there might be bandits on the way to "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck and drive carefully!";
 		
-		m_MissionMessage1 = fstPlayerName +" Добре, отже, ви знайшли машину. "+ SurvivorName +", ймовірно, злив все пальне та масло, тож підготуйте машину перед цією довгою поїздкою. Перевірте, чи є каннабіс десь у гаражах, візьміть мішок і покладіть в нього всі 25 шт.";
+		m_MissionMessage1 = " Добре, отже, ви знайшли машину. "+ SurvivorName +", ймовірно, злив все пальне та масло, тож підготуйте машину перед цією довгою поїздкою. Перевірте, чи є каннабіс десь у гаражах, візьміть мішок і покладіть в нього всі 25 шт.";
 		m_MissionMessage2 = "Їдьте до ** "+ m_MissionDescription[3] +" АЗС **\nі принесіть мішок з канабісом до каси. Ганджа "+ SurvivorName +" має найвищий пріоритет. Будь ласка, не крадіть і не куріть самостійно, тому що це може бути дуже небезпечно.";
 		m_MissionMessage3 = "У мене є для вас винагорода на заправці. Будьте обережні, на шляху до "+ m_MissionDescription[3] +" можуть бути бандити. Вони можуть перехопити нашу маленьку радіорозмову. Успіхів тобі!" ;
 
@@ -606,10 +605,6 @@ class GanjaMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Check if MissionObject is brought to MissionPosition 
 		if ( MissionObject && MissionObject.ClassName() == "CourierBag" && !m_MissionExtended )
 		{		

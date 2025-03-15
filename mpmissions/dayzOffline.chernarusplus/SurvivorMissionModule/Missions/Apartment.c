@@ -14,7 +14,6 @@ class ApartmentMission extends SurvivorMissions
 	
 	//Mission variables 
 	string SurvivorName;	
-	string fstPlayerName;	
 	
 	bool IsExtended() return false;
 	
@@ -465,10 +464,6 @@ class ApartmentMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway )
 		{

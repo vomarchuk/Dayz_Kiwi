@@ -25,7 +25,6 @@ class CityMallMission extends SurvivorMissions
 	vector TargetPosition = "-5.3 -1.2 1.9";
 	vector RewardsPosition = "-3.46 -5.72 6.63";
 	string SurvivorName;	
-	string fstPlayerName;	
 	
 	bool IsExtended() return true;
 	
@@ -645,7 +644,7 @@ class CityMallMission extends SurvivorMissions
 		// m_MissionMessage2 = "I think the best will be if you could deposit the supplies in the quiet room of the small\n** "+ m_MissionDescription[3] +" ** police station and put all in the orange backpack i left there. I will check it in one hour and try to contact her on radio.";
 		// m_MissionMessage3 = "I have some things for you at the small police station. Be careful, there might be bandits around "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck!";
 		
-		m_MissionMessage1 = fstPlayerName +" Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
+		m_MissionMessage1 = " Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
 		m_MissionMessage2 = "Я думаю, що найкраще буде, якби ви могли залишити припаси у поліцейському відділу\n** "+ m_MissionDescription[3] +" ** і покласти все в помаранчевий рюкзак, який я там залишив. Я перевірю це через годину і спробую зв'язатися з нею по радіо.";
 		m_MissionMessage3 = "Будь обережний, навколо можуть бути бандити "+ m_MissionDescription[3] +". Вони можуть перехопити нашу розмову по радіо. Удачі!";
 
@@ -697,10 +696,6 @@ class CityMallMission extends SurvivorMissions
 	
 	void PlayerChecks( PlayerBase player )
 	{
-		if ( !fstPlayerName )
-		{
-			fstPlayerName = player.GetIdentity().GetName();
-		}
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
