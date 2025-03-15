@@ -3,13 +3,19 @@
   "IDs": [
     {
       "Id": 0,
-      "Categories": ["Таблетки", "Medical Supplies"],
+      "Categories": [
+        "Таблетки",
+        "Medical Supplies"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
     {
       "Id": 1,
-      "Categories": ["Ін'єктори", "Ампули"],
+      "Categories": [
+        "Ін'єктори",
+        "Ампули"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
@@ -116,19 +122,31 @@
     },
     {
       "Id": 8,
-      "Categories": ["Packaged Food", "Drinks"],
+      "Categories": [
+        "Packaged Food",
+        "Drinks"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
     {
       "Id": 9,
-      "Categories": ["Weapons", "Mags", "Attachments", "Optics", "Ammo"],
+      "Categories": [
+        "Weapons",
+        "Mags",
+        "Attachments",
+        "Optics",
+        "Ammo"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
     {
       "Id": 10,
-      "Categories": ["М'ясо", "Частини тварин"],
+      "Categories": [
+        "М'ясо",
+        "Частини тварин"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
@@ -144,7 +162,8 @@
         "Honda Civic",
         "Chevrolet NapalmNova",
         "Dodge Charger Hellcat",
-        "Vehicle Parts"
+        "Vehicle Parts",
+        "Car attachments"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
@@ -162,7 +181,9 @@
     },
     {
       "Id": 13,
-      "Categories": ["Vegetables"],
+      "Categories": [
+        "Vegetables"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
@@ -185,7 +206,9 @@
     },
     {
       "Id": 15,
-      "Categories": ["Частини тіл"],
+      "Categories": [
+        "Частини тіл"
+      ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },

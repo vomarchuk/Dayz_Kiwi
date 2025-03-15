@@ -676,6 +676,12 @@
       ]
     },
     {
+      "CategoryName": "Car attachments",
+      "Products": [
+        "KIWI_Barrel_01,1,-1,0,10000,1000"
+      ]
+    },
+    {
       "CategoryName": "Seeds & Lime",
       "Products": [
         "TomatoSeedsPack,1,-1,0,-1,25",
@@ -998,7 +1004,10 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": ["TLRLight,1,-1,0,200,40", "Universallight,1,-1,0,250,45"]
+      "Products": [
+        "TLRLight,1,-1,0,200,40",
+        "Universallight,1,-1,0,250,45"
+      ]
     },
     {
       "CategoryName": "Окуляри",
@@ -1173,6 +1182,7 @@
         "TankerHelmet,1,-1,0,800,100",
         "GreatHelm,1,-1,0,2200,240",
         "ZSh3PilotHelmet,1,-1,0,1500,170",
+        "ZSh3PilotHelmet_Green,1,-1,0,1500,170",
         "FirefightersHelmet_Yellow,1,-1,0,1000,120",
         "FirefightersHelmet_Red,1,-1,0,1000,120",
         "FirefightersHelmet_White,1,-1,0,1000,120",
@@ -3184,7 +3194,9 @@
     },
     {
       "CategoryName": "TyphoonK",
-      "Products": ["TyphoonK_CamoGreen,1,-1,1,500000,8000"]
+      "Products": [
+        "TyphoonK_CamoGreen,1,-1,1,500000,8000"
+      ]
     },
     {
       "CategoryName": "MotorHomes",
