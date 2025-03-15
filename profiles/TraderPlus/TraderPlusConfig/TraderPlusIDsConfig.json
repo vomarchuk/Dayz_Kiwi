@@ -153,24 +153,6 @@
     {
       "Id": 11,
       "Categories": [
-        "Jeep Rubicon",
-        "Dodge Ram",
-        "Tahoe",
-        "Bronco",
-        "GMC",
-        "UAZ",
-        "Honda Civic",
-        "Chevrolet NapalmNova",
-        "Dodge Charger Hellcat",
-        "Vehicle Parts",
-        "Car attachments"
-      ],
-      "LicencesRequired": [],
-      "CurrenciesAccepted": []
-    },
-    {
-      "Id": 12,
-      "Categories": [
         "Cannabis seeds",
         "Cigarette",
         "Cannabis bricks",
@@ -180,7 +162,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 13,
+      "Id": 12,
       "Categories": [
         "Vegetables"
       ],
@@ -188,7 +170,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 14,
+      "Id": 13,
       "Categories": [
         "Jeep Rubicon",
         "Dodge Ram",
@@ -205,20 +187,9 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 15,
+      "Id": 14,
       "Categories": [
         "Частини тіл"
-      ],
-      "LicencesRequired": [],
-      "CurrenciesAccepted": []
-    },
-    {
-      "Id": 16,
-      "Categories": [
-        "Cannabis seeds",
-        "Cigarette",
-        "Cannabis bricks",
-        "Other for Cannabis"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []

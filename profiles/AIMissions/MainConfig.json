@@ -1362,20 +1362,6 @@
                     ]
                 },
                 {
-                    "ClassName": "Expansion_BenelliM4",
-                    "Magazine_ClassName": "",
-                    "Attach": [],
-                    "Loot": [
-                        "Ammo_12gaPellets",
-                        "Ammo_12gaPellets",
-                        "Ammo_12gaPellets",
-                        "Ammo_12gaPellets",
-                        "Ammo_12gaPellets",
-                        "TerjeInjectorErytromixelin",
-                        "Morphine"
-                    ]
-                },
-                {
                     "ClassName": "SCWS_P90_Fall",
                     "Magazine_ClassName": "SCWS_P90_Magazine",
                     "Attach": [],

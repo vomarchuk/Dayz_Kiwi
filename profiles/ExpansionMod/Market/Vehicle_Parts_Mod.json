@@ -7,72 +7,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "headlighth7_box",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "headlighth7",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "carradiator",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tirerepairkit",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sparkplug",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "glowplug",
-            "MaxPriceThreshold": 1135,
-            "MinPriceThreshold": 680,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "Jeep_GladiatorF9_Driver_Door",
             "MaxPriceThreshold": 870,
             "MinPriceThreshold": 870,
@@ -82,7 +16,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Jeep_GladiatorF9_Driver_Door",
                 "Jeep_GladiatorF9_Driver_Door_Black",
                 "Jeep_GladiatorF9_Driver_Door_Gold",
                 "Jeep_GladiatorF9_Driver_Door_Brown",
@@ -104,7 +37,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Jeep_GladiatorF9_Codriver_Door",
                 "Jeep_GladiatorF9_Codriver_Door_Black",
                 "Jeep_GladiatorF9_Codriver_Door_Gold",
                 "Jeep_GladiatorF9_Codriver_Door_Brown",
@@ -126,7 +58,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Jeep_GladiatorF9_Cargo_Door1",
                 "Jeep_GladiatorF9_Cargo_Door1_Black",
                 "Jeep_GladiatorF9_Cargo_Door1_Gold",
                 "Jeep_GladiatorF9_Cargo_Door1_Brown",
@@ -148,7 +79,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Jeep_GladiatorF9_Cargo_Door2",
                 "Jeep_GladiatorF9_Cargo_Door2_Black",
                 "Jeep_GladiatorF9_Cargo_Door2_Gold",
                 "Jeep_GladiatorF9_Cargo_Door2_Brown",
@@ -170,7 +100,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Jeep_GladiatorF9_Trunk",
                 "Jeep_GladiatorF9_Trunk_Black",
                 "Jeep_GladiatorF9_Trunk_Gold",
                 "Jeep_GladiatorF9_Trunk_Brown",
@@ -192,7 +121,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Jeep_GladiatorF9_Hood",
                 "Jeep_GladiatorF9_Hood_Black",
                 "Jeep_GladiatorF9_Hood_Gold",
                 "Jeep_GladiatorF9_Hood_Brown",
@@ -243,7 +171,6 @@
                 "DodgeRam_Driver_Door_White",
                 "DodgeRam_Driver_Door_Teal",
                 "DodgeRam_Driver_Door_Black",
-                "DodgeRam_Driver_Door",
                 "DodgeRam_Driver_Door_Blue",
                 "DodgeRam_Driver_Door_camoblack",
                 "DodgeRam_Driver_Door_camoblue",
@@ -268,7 +195,6 @@
                 "DodgeRam_CoDriver_Door_White",
                 "DodgeRam_CoDriver_Door_Teal",
                 "DodgeRam_CoDriver_Door_Black",
-                "DodgeRam_CoDriver_Door",
                 "DodgeRam_CoDriver_Door_Blue",
                 "DodgeRam_CoDriver_Door_camoblack",
                 "DodgeRam_CoDriver_Door_camoblue",
@@ -293,7 +219,6 @@
                 "DodgeRam_Trunk_White",
                 "DodgeRam_Trunk_Teal",
                 "DodgeRam_Trunk_Black",
-                "DodgeRam_Trunk",
                 "DodgeRam_Trunk_Blue",
                 "DodgeRam_Trunk_camoblack",
                 "DodgeRam_Trunk_camoblue",
@@ -318,7 +243,6 @@
                 "DodgeRam_Cargo1_White",
                 "DodgeRam_Cargo1_Teal",
                 "DodgeRam_Cargo1_Black",
-                "DodgeRam_Cargo1",
                 "DodgeRam_Cargo1_Blue",
                 "DodgeRam_Cargo1_camoblack",
                 "DodgeRam_Cargo1_camoblue",
@@ -343,7 +267,6 @@
                 "DodgeRam_Cargo2_White",
                 "DodgeRam_Cargo2_Teal",
                 "DodgeRam_Cargo2_Black",
-                "DodgeRam_Cargo2",
                 "DodgeRam_Cargo2_Blue",
                 "DodgeRam_Cargo2_camoblack",
                 "DodgeRam_Cargo2_camoblue",
@@ -368,7 +291,6 @@
                 "DodgeRam_Hood_White",
                 "DodgeRam_Hood_Teal",
                 "DodgeRam_Hood_Black",
-                "DodgeRam_Hood",
                 "DodgeRam_Hood_Blue",
                 "DodgeRam_Hood_camoblack",
                 "DodgeRam_Hood_camoblue",
@@ -392,8 +314,7 @@
                 "DodgeRam_Wheel_White",
                 "DodgeRam_Wheel_Teal",
                 "DodgeRam_Wheel_Black",
-                "DodgeRam_Wheel_Blue",
-                "DodgeRam_Wheel"
+                "DodgeRam_Wheel_Blue"
             ]
         },
         {
@@ -406,7 +327,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Tahoe_driverdoor",
                 "Tahoe_driverdoor_Black",
                 "Tahoe_driverdoor_LightBlue",
                 "Tahoe_driverdoor_Blue",
@@ -427,7 +347,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Tahoe_codriver",
                 "Tahoe_codriver_Black",
                 "Tahoe_codriver_LightBlue",
                 "Tahoe_codriver_Blue",
@@ -448,7 +367,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Tahoe_cargo1",
                 "Tahoe_cargo1_Black",
                 "Tahoe_cargo1_LightBlue",
                 "Tahoe_cargo1_Blue",
@@ -469,7 +387,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Tahoe_cargo2",
                 "Tahoe_cargo2_Black",
                 "Tahoe_cargo2_LightBlue",
                 "Tahoe_cargo2_Blue",
@@ -490,7 +407,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Tahoe_hood",
                 "Tahoe_hood_Black",
                 "Tahoe_hood_LightBlue",
                 "Tahoe_hood_Blue",
@@ -511,7 +427,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Tahoe_trunk",
                 "Tahoe_trunk_Black",
                 "Tahoe_trunk_LightBlue",
                 "Tahoe_trunk_Blue",
@@ -543,7 +458,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Runner_DriverDoor",
                 "Runner_DriverDoor_camoblack",
                 "Runner_DriverDoor_camowhite",
                 "Runner_DriverDoor_camogreen",
@@ -569,7 +483,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Runner_CoDriver_Door",
                 "Runner_CoDriver_Door_camoblack",
                 "Runner_CoDriver_Door_camowhite",
                 "Runner_CoDriver_Door_camogreen",
@@ -595,7 +508,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Runner_Cargo1",
                 "Runner_Cargo1_camoblack",
                 "Runner_Cargo1_camowhite",
                 "Runner_Cargo1_camogreen",
@@ -621,7 +533,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Runner_Cargo2",
                 "Runner_Cargo2_camoblack",
                 "Runner_Cargo2_camowhite",
                 "Runner_Cargo2_camogreen",
@@ -647,7 +558,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Runner_Hood",
                 "Runner_Hood_camoblack",
                 "Runner_Hood_camowhite",
                 "Runner_Hood_camogreen",
@@ -673,7 +583,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Runner_Trunk",
                 "Runner_Trunk_camoblack",
                 "Runner_Trunk_camowhite",
                 "Runner_Trunk_camogreen",
@@ -709,7 +618,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Bronco_Driverdoor",
                 "Bronco_Driverdoor_Black",
                 "Bronco_Driverdoor_Hunter",
                 "Bronco_Driverdoor_Rust"
@@ -725,7 +633,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Bronco_Codriverdoor",
                 "Bronco_Codriverdoor_Black",
                 "Bronco_Codriverdoor_Hunter",
                 "Bronco_Codriverdoor_Rust"
@@ -741,7 +648,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Bronco_Hood",
                 "Bronco_Hood_Black",
                 "Bronco_Hood_Hunter",
                 "Bronco_Hood_Rust"
@@ -757,7 +663,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Bronco_Trunk",
                 "Bronco_Trunk_Black",
                 "Bronco_Trunk_Hunter",
                 "Bronco_Trunk_Rust"
@@ -784,7 +689,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Chevrolet_NapalmNova_Driverdoor",
                 "Chevrolet_NapalmNova_Driverdoor_White",
                 "Chevrolet_NapalmNova_Driverdoor_Red",
                 "Chevrolet_NapalmNova_Driverdoor_Blue",
@@ -805,7 +709,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Chevrolet_NapalmNova_CoDriver",
                 "Chevrolet_NapalmNova_CoDriver_White",
                 "Chevrolet_NapalmNova_CoDriver_Red",
                 "Chevrolet_NapalmNova_CoDriver_Blue",
@@ -826,7 +729,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Chevrolet_NapalmNova_Trunk",
                 "Chevrolet_NapalmNova_Trunk_White",
                 "Chevrolet_NapalmNova_Trunk_Red",
                 "Chevrolet_NapalmNova_Trunk_Blue",
@@ -847,7 +749,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Chevrolet_NapalmNova_Hood",
                 "Chevrolet_NapalmNova_Hood_White",
                 "Chevrolet_NapalmNova_Hood_Red",
                 "Chevrolet_NapalmNova_Hood_Blue",
@@ -879,18 +780,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_driverdoor",
                 "GMC_driverdoor_Black",
                 "GMC_driverdoor_White",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
-                "GMC_driverdoor_Blue",
                 "GMC_driverdoor_Blue"
             ]
         },
@@ -904,18 +795,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_Codrvier",
                 "GMC_Codrvier_Black",
                 "GMC_Codrvier_White",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
-                "GMC_Codrvier_Blue",
                 "GMC_Codrvier_Blue"
             ]
         },
@@ -929,18 +810,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_Cargo1",
                 "GMC_Cargo1_Black",
                 "GMC_Cargo1_White",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
-                "GMC_Cargo1_Blue",
                 "GMC_Cargo1_Blue"
             ]
         },
@@ -954,18 +825,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_Cargo2",
                 "GMC_Cargo2_Black",
                 "GMC_Cargo2_White",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
-                "GMC_Cargo2_Blue",
                 "GMC_Cargo2_Blue"
             ]
         },
@@ -979,18 +840,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_Hood",
                 "GMC_Hood_Black",
                 "GMC_Hood_White",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
-                "GMC_Hood_Blue",
                 "GMC_Hood_Blue"
             ]
         },
@@ -1004,18 +855,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_Trunk_1",
                 "GMC_Trunk_1_Black",
                 "GMC_Trunk_1_White",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
-                "GMC_Trunk_1_Blue",
                 "GMC_Trunk_1_Blue"
             ]
         },
@@ -1029,18 +870,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "GMC_Trunk_2",
                 "GMC_Trunk_2_Black",
                 "GMC_Trunk_2_White",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
-                "GMC_Trunk_2_Blue",
                 "GMC_Trunk_2_Blue"
             ]
         },
@@ -1065,7 +896,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_driverdoor",
                 "dodgecharger_driverdoor_blue",
                 "dodgecharger_driverdoor_green",
                 "dodgecharger_driverdoor_red",
@@ -1084,7 +914,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_codriver",
                 "dodgecharger_codriver_blue",
                 "dodgecharger_codriver_green",
                 "dodgecharger_codriver_red",
@@ -1103,7 +932,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_cargo1",
                 "dodgecharger_cargo1_blue",
                 "dodgecharger_cargo1_green",
                 "dodgecharger_cargo1_red",
@@ -1122,7 +950,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "dodgecharger_cargo2",
                 "dodgecharger_cargo2_blue",
                 "dodgecharger_cargo2_green",
                 "dodgecharger_cargo2_red",
@@ -1650,6 +1477,137 @@
                 "rag_landrover_110_wheel_black",
                 "rag_landrover_110_wheel_pink"
             ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Driver",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Driver_Red",
+                "Audi_RS6_ABT_Driver_Blue",
+                "Audi_RS6_ABT_Driver_Yellow",
+                "Audi_RS6_ABT_Driver_Green",
+                "Audi_RS6_ABT_Driver_Pink",
+                "Audi_RS6_ABT_Driver_Teal",
+                "Audi_RS6_ABT_Driver_MidNightBlue",
+                "Audi_RS6_ABT_Driver_Black"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_CoDriver",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_CoDriver_Red",
+                "Audi_RS6_ABT_CoDriver_Blue",
+                "Audi_RS6_ABT_CoDriver_Yellow",
+                "Audi_RS6_ABT_CoDriver_Green",
+                "Audi_RS6_ABT_CoDriver_Pink",
+                "Audi_RS6_ABT_CoDriver_Teal",
+                "Audi_RS6_ABT_CoDriver_MidNightBlue",
+                "Audi_RS6_ABT_CoDriver_Black"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Cargo1",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Cargo1_Red",
+                "Audi_RS6_ABT_Cargo1_Blue",
+                "Audi_RS6_ABT_Cargo1_Yellow",
+                "Audi_RS6_ABT_Cargo1_Green",
+                "Audi_RS6_ABT_Cargo1_Pink",
+                "Audi_RS6_ABT_Cargo1_Teal",
+                "Audi_RS6_ABT_Cargo1_MidNightBlue",
+                "Audi_RS6_ABT_Cargo1_Black"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Cargo2",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Cargo2_Red",
+                "Audi_RS6_ABT_Cargo2_Blue",
+                "Audi_RS6_ABT_Cargo2_Yellow",
+                "Audi_RS6_ABT_Cargo2_Green",
+                "Audi_RS6_ABT_Cargo2_Pink",
+                "Audi_RS6_ABT_Cargo2_Teal",
+                "Audi_RS6_ABT_Cargo2_MidNightBlue",
+                "Audi_RS6_ABT_Cargo2_Black"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Hood",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Hood_Red",
+                "Audi_RS6_ABT_Hood_Blue",
+                "Audi_RS6_ABT_Hood_Yellow",
+                "Audi_RS6_ABT_Hood_Green",
+                "Audi_RS6_ABT_Hood_Pink",
+                "Audi_RS6_ABT_Hood_Teal",
+                "Audi_RS6_ABT_Hood_MidNightBlue",
+                "Audi_RS6_ABT_Hood_Black"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Trunk",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Trunk_Red",
+                "Audi_RS6_ABT_Trunk_Blue",
+                "Audi_RS6_ABT_Trunk_Yellow",
+                "Audi_RS6_ABT_Trunk_Green",
+                "Audi_RS6_ABT_Trunk_Pink",
+                "Audi_RS6_ABT_Trunk_Teal",
+                "Audi_RS6_ABT_Trunk_MidNightBlue",
+                "Audi_RS6_ABT_Trunk_Black"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Wheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

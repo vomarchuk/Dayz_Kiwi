@@ -15,7 +15,10 @@
   "IsReceiptSaveCargo": 1,
   "LockPickChance": 0.30000001192092896,
   "LicenceKeyWord": "Licence",
-  "Licences": ["Car Licence", "Admin Licence"],
+  "Licences": [
+    "Car Licence",
+    "Admin Licence"
+  ],
   "AcceptedStates": {
     "AcceptWorn": 1,
     "AcceptDamaged": 1,
@@ -69,8 +72,16 @@
       "Name": "SurvivorF_Maria",
       "GivenName": "Maria",
       "Role": "Medications Trader",
-      "Position": [8229.898438, 470.646637, 9005.645508],
-      "Orientation": [53.999985, 0, 0],
+      "Position": [
+        8229.898438,
+        470.646637,
+        9005.645508
+      ],
+      "Orientation": [
+        53.999985,
+        0,
+        0
+      ],
       "Clothes": [
         "MedicalScrubsHat_White",
         "MedicalScrubsPants_White",
@@ -86,8 +97,16 @@
       "Name": "SurvivorF_Irena",
       "GivenName": "Irena",
       "Role": "Медицина",
-      "Position": [3712.570068, 402.721893, 5972.784668],
-      "Orientation": [169.43837, 0.0, -0.0],
+      "Position": [
+        3712.570068,
+        402.721893,
+        5972.784668
+      ],
+      "Orientation": [
+        169.43837,
+        0.0,
+        -0.0
+      ],
       "Clothes": [
         "ParamedicJacket_Crimson",
         "ParamedicPants_Crimson",
@@ -101,8 +120,16 @@
       "Name": "SurvivorM_Lewis",
       "GivenName": "Lewis",
       "Role": "Хім захист",
-      "Position": [2119.427002, 95.713745, 3360.794189],
-      "Orientation": [19, 0, 0],
+      "Position": [
+        2119.427002,
+        95.713745,
+        3360.794189
+      ],
+      "Orientation": [
+        19,
+        0,
+        0
+      ],
       "Clothes": [
         "GasMask",
         "NBCHoodYellow",
@@ -118,8 +145,16 @@
       "Name": "SurvivorM_Jose",
       "GivenName": "Jose",
       "Role": "Зброя",
-      "Position": [8203.549805, 470.656006, 8999.040039],
-      "Orientation": [1.8, 0, 0],
+      "Position": [
+        8203.549805,
+        470.656006,
+        8999.040039
+      ],
+      "Orientation": [
+        1.8,
+        0,
+        0
+      ],
       "Clothes": [
         "GorkaHelmet_Green",
         "TacticalShirt_Olive",
@@ -136,8 +171,16 @@
       "Name": "SurvivorM_Jose",
       "GivenName": "Jose",
       "Role": "Набої та обвіси",
-      "Position": [8212.454102, 470.707397, 8995.510742],
-      "Orientation": [1.8, 0, 0],
+      "Position": [
+        8212.454102,
+        470.707397,
+        8995.510742
+      ],
+      "Orientation": [
+        1.8,
+        0,
+        0
+      ],
       "Clothes": [
         "FAMAS",
         "USMCJacket_Desert",
@@ -154,8 +197,16 @@
       "Name": "SurvivorM_Hassan",
       "GivenName": "Hassan",
       "Role": "Одяг",
-      "Position": [8234.358398, 470.651031, 8990.013672],
-      "Orientation": [-9, 0, 0],
+      "Position": [
+        8234.358398,
+        470.651031,
+        8990.013672
+      ],
+      "Orientation": [
+        -9,
+        0,
+        0
+      ],
       "Clothes": [
         "WoolGlovesFingerless_ChristmasRed",
         "Ushanka_Blue",
@@ -169,8 +220,16 @@
       "Name": "SurvivorM_Seth",
       "GivenName": "Seth",
       "Role": "Інструменти",
-      "Position": [8222.924805, 470.639893, 9006.455078],
-      "Orientation": [116.999916, 0, 0],
+      "Position": [
+        8222.924805,
+        470.639893,
+        9006.455078
+      ],
+      "Orientation": [
+        116.999916,
+        0,
+        0
+      ],
       "Clothes": [
         "Wrench",
         "JumpsuitPants_Red",
@@ -184,8 +243,16 @@
       "Name": "SurvivorM_Jose",
       "GivenName": "Jose",
       "Role": "Продавець модового одягу",
-      "Position": [3687.716064, 402.941101, 5957.413086],
-      "Orientation": [30.808481, 0.0, -0.0],
+      "Position": [
+        3687.716064,
+        402.941101,
+        5957.413086
+      ],
+      "Orientation": [
+        30.808481,
+        0.0,
+        -0.0
+      ],
       "Clothes": [
         "FOG_Tactical_Fingerless_Gloves_MC",
         "FOG_Helmet_MICH2000_TanRattle",
@@ -204,8 +271,16 @@
       "Name": "SurvivorM_Jose",
       "GivenName": "Jose",
       "Role": "Продукти харчування",
-      "Position": [8230.179688, 470.639496, 8993.238281],
-      "Orientation": [53.999985, 0, 0],
+      "Position": [
+        8230.179688,
+        470.639496,
+        8993.238281
+      ],
+      "Orientation": [
+        53.999985,
+        0,
+        0
+      ],
       "Clothes": [
         "SurgicalGloves_LightBlue",
         "MedicalScrubsHat_Blue",
@@ -219,8 +294,16 @@
       "Name": "SurvivorF_Maria",
       "GivenName": "Maria",
       "Role": "Продавець модової зброї",
-      "Position": [3681.450684, 402.651245, 5966.488281],
-      "Orientation": [33.432823, 0.0, -0.0],
+      "Position": [
+        3681.450684,
+        402.651245,
+        5966.488281
+      ],
+      "Orientation": [
+        33.432823,
+        0.0,
+        -0.0
+      ],
       "Clothes": [
         "FOG_Knight_Mask_Black",
         "FOG_Shirt_ISOF_Jacket_MC2",
@@ -239,8 +322,16 @@
       "Name": "SurvivorM_Mirek",
       "GivenName": "Mirek",
       "Role": "Охотник",
-      "Position": [3702.868652, 402.651245, 5948.369141],
-      "Orientation": [-16.787212, 0.0, 0.0],
+      "Position": [
+        3702.868652,
+        402.651245,
+        5948.369141
+      ],
+      "Orientation": [
+        -16.787212,
+        0.0,
+        0.0
+      ],
       "Clothes": [
         "BoonieHat_Winter",
         "HuntingVest_Winter",
@@ -256,26 +347,19 @@
     },
     {
       "Id": 11,
-      "Name": "SurvivorM_Mirek",
-      "GivenName": "Сем",
-      "Role": "Авто запчастини",
-      "Position": [8241.336914, 469.192383, 9010.163086],
-      "Orientation": [-35.999992, 0.0, -0.0],
-      "Clothes": [
-        "Ushanka_Black",
-        "DownJacket_Blue",
-        "CargoPants_Black",
-        "WorkingGloves_Yellow",
-        "HikingBoots_Black"
-      ]
-    },
-    {
-      "Id": 12,
       "Name": "SurvivorM_Francis",
       "GivenName": "Дон Педро",
       "Role": "Cannabis Trader",
-      "Position": [175.029129, 386.918182, 12518.526367],
-      "Orientation": [54.0, 0.0, 0.0],
+      "Position": [
+        175.029129,
+        386.918182,
+        12518.526367
+      ],
+      "Orientation": [
+        54.0,
+        0.0,
+        0.0
+      ],
       "Clothes": [
         "ManSuit_DarkGrey",
         "DressShoes_Black",
@@ -284,12 +368,20 @@
       ]
     },
     {
-      "Id": 13,
+      "Id": 12,
       "Name": "SurvivorM_Denis",
       "GivenName": "Василь",
       "Role": "Фермер",
-      "Position": [3718.620361, 402.651123, 5953.166992],
-      "Orientation": [-39.209656, 0.0, 0.0],
+      "Position": [
+        3718.620361,
+        402.651123,
+        5953.166992
+      ],
+      "Orientation": [
+        -39.209656,
+        0.0,
+        0.0
+      ],
       "Clothes": [
         "WoolGlovesFingerless_ChristmasRed",
         "Ushanka_Blue",
@@ -299,12 +391,20 @@
       ]
     },
     {
-      "Id": 14,
+      "Id": 13,
       "Name": "SurvivorM_Mirek",
       "GivenName": "Мірик",
       "Role": "Авто запчастини",
-      "Position": [3695.160889, 402.012024, 5999.684082],
-      "Orientation": [111.202003, 0.0, -0.0],
+      "Position": [
+        3695.160889,
+        402.012024,
+        5999.684082
+      ],
+      "Orientation": [
+        111.202003,
+        0.0,
+        -0.0
+      ],
       "Clothes": [
         "Ushanka_Black",
         "DownJacket_Blue",
@@ -314,12 +414,20 @@
       ]
     },
     {
-      "Id": 15,
+      "Id": 14,
       "Name": "SurvivorM_Denis",
       "GivenName": "Мясник",
       "Role": "Частини тіл",
-      "Position": [14124.838867, 140.338562, 13839.694336],
-      "Orientation": [0.0, 0.0, -0.0],
+      "Position": [
+        14124.838867,
+        140.338562,
+        13839.694336
+      ],
+      "Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
       "Clothes": [
         "PaydayMask_Hoxton",
         "DownJacket_Blue",
@@ -328,20 +436,6 @@
         "HikingBoots_Black",
         "SVD",
         "FangeKnife"
-      ]
-    },
-    {
-      "Id": 16,
-      "Name": "SurvivorM_Francis",
-      "GivenName": "Хуан",
-      "Role": "Cannabis Trader",
-      "Position": [5749.14, 301.941, 7219.95],
-      "Orientation": [0.0, 0.0, 0.0],
-      "Clothes": [
-        "ManSuit_DarkGrey",
-        "DressShoes_Black",
-        "SlacksPants_Black",
-        "SportGlasses_Black"
       ]
     }
   ],

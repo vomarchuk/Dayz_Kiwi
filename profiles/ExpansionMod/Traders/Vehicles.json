@@ -23,13 +23,11 @@
         "Cars",
         "Cars_Civilian",
         "Cars_SUV",
-        "Car_65k",
-        "Car_110k",
         "Car_NissanGTRs",
         "Car_Armored",
         "Vehicle_Parts_Mod:3",
-        "Batteries:3",
-        "Vehicle_CarLock"
+        "Vehicle_Parts_Tools:3",
+        "Batteries:3"
     ],
     "Items": {}
 }

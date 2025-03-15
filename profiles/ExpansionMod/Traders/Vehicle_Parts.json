@@ -20,9 +20,9 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
+        "Batteries",
+        "Vehicle_Parts_Mod",
+        "Vehicle_Parts_Tools"
     ],
-    "Items": {
-        "tirerepairkit": 1,
-        "canistergasoline": 1
-    }
+    "Items": {}
 }
