@@ -345,13 +345,13 @@
     },
     {
       "Name": "Discord",
-      "URL": "https://discord.gg/q3WY4cXh",
+      "URL": "https://discord.gg/g4fv9kPxVA",
       "IconName": "Discord",
       "IconColor": -9270822
     },
     {
       "Name": "Patreon",
-      "URL": "https://discord.gg/2HZwPp3Q",
+      "URL": "https://discord.gg/g4fv9kPxVA",
       "IconName": "Patreon",
       "IconColor": -432044
     },
@@ -469,7 +469,9 @@
     },
     {
       "CategoryName": "Глушник",
-      "Results": ["improvisedsuppressor"]
+      "Results": [
+        "improvisedsuppressor"
+      ]
     },
     {
       "CategoryName": "#STR_BLThings",
