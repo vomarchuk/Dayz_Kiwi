@@ -707,7 +707,7 @@ class UrbanMallMission extends SurvivorMissions
 		// m_MissionMessage2 = "I think the best will be if you could deposit the supplies in the lunch room of the\n** "+ m_MissionDescription[3] +" **  police department and put all into the orange backpack I left there. I will check it in one hour and try to contact her on radio.";
 		// m_MissionMessage3 = "I will give you a lockpick, try to get to the armory room and lock it up. Everything is in there. Be careful, there might be bandits around "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck!";
 		
-		m_MissionMessage1 = fstPlayerName +" Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
+		m_MissionMessage1 = " Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
 		m_MissionMessage2 = "Я думаю, що найкраще буде, якби ви могли залишити припаси у поліцейському відділу\n** "+ m_MissionDescription[3] +" ** і покласти все у скриню, який я там залишила. Я перевірю це через годину і спробую зв'язатися з нею по радіо.";
 		m_MissionMessage3 = "Я дам тобі відмичку, спробуй потрапити в збройову кімнату і замкни її. Там все є. Будь обережний, навколо можуть бути бандити "+ m_MissionDescription[3] +". Вони можуть перехопити нашу розмову по радіо. Удачі!";
 
