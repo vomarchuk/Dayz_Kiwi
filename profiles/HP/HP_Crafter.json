@@ -18,7 +18,9 @@
       "PathTodonatepicImg": "my path to donatepicImg",
       "PathTovoltagepicImg": "my path to voltagepicImg"
     },
-    "WorkbenchesClassnames": ["HP_Crafter"],
+    "WorkbenchesClassnames": [
+      "HP_Crafter"
+    ],
     "CraftCategories": [
       {
         "CategoryName": "Глушники",
@@ -37,7 +39,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hacksaw", "PipeWrench"]
+            "AttachmentsNeed": [
+              "Hacksaw",
+              "PipeWrench"
+            ]
           },
           {
             "Result": "AK_Suppressor",
@@ -53,7 +58,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hacksaw", "PipeWrench"]
+            "AttachmentsNeed": [
+              "Hacksaw",
+              "PipeWrench"
+            ]
           }
         ]
       },
@@ -92,7 +100,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["PipeWrench", "HP_Grinde", "HP_Vise"]
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_Uni_Suppressor_Black",
@@ -126,7 +138,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["PipeWrench", "HP_Grinde", "HP_Vise"]
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_Uni_Suppressor_Black",
@@ -160,7 +176,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["PipeWrench", "HP_Grinde", "HP_Vise"]
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_Suppressor_Legion",
@@ -574,7 +594,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_AR10",
@@ -650,7 +672,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Oiler", "HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_SPEAR",
@@ -738,7 +764,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Oiler", "HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_M82A1",
@@ -883,7 +913,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_SCARH",
@@ -959,7 +991,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Oiler", "HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "Aug",
@@ -1047,7 +1083,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Oiler", "HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_GM6LYNX",
@@ -1192,7 +1232,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_TIMBERWOLF",
@@ -1268,7 +1310,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Oiler", "HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SCWS_DT408",
@@ -1501,7 +1547,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "CodeLock",
@@ -1553,7 +1601,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "ExpansionGPS",
@@ -1593,7 +1643,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "bl_solar_panel_Kit",
@@ -1645,7 +1697,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
           }
         ]
       },
@@ -1696,7 +1750,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
           },
           {
             "Result": "Custom_ProtectorCase_50",
@@ -1754,7 +1810,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise", "HP_Drill"]
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill"
+            ]
           },
           {
             "Result": "Custom_ProtectorCase_100",
@@ -1806,7 +1865,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise", "HP_Drill", "HP_Grinde"]
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde"
+            ]
           },
           {
             "Result": "Custom_ProtectorCase_150",
@@ -1870,7 +1933,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise", "HP_Drill", "HP_Grinde"]
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde"
+            ]
           },
           {
             "Result": "Custom_ProtectorCase_300",
@@ -1922,7 +1989,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Vise", "HP_Drill", "HP_Grinde", "HP_Anvil"]
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Anvil"
+            ]
           },
           {
             "Result": "Custom_ProtectorCase_600_kiwi",
@@ -2077,7 +2149,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Pliers"]
+            "AttachmentsNeed": [
+              "Pliers"
+            ]
           },
           {
             "Result": "TerjeFirstAidKitLarge",
@@ -2123,7 +2197,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Pliers", "Hammer"]
+            "AttachmentsNeed": [
+              "Pliers",
+              "Hammer"
+            ]
           }
         ]
       },
@@ -2174,7 +2251,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil"]
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
           },
           {
             "Result": "RIP_AP2",
@@ -2226,7 +2305,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Grinde"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde"
+            ]
           },
           {
             "Result": "RIP_AP3",
@@ -2278,7 +2360,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Grinde", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "RIP_AP4",
@@ -2330,7 +2416,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Grinde", "HP_Drill", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise"
+            ]
           }
         ]
       },
@@ -2399,7 +2490,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil"]
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
           },
           {
             "Result": "KIWI_VEST_V2",
@@ -2463,7 +2556,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "KIWI_VEST_V3",
@@ -2533,7 +2629,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "KIWI_VEST_V4",
@@ -2603,7 +2703,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Grinde", "HP_Drill", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise"
+            ]
           }
         ]
       },
@@ -2661,8 +2766,8 @@
               },
               {
                 "Classname": "Whetstone",
-                "Amount": 5,
-                "Destroy": 5,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               },
               {
@@ -2684,7 +2789,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil"]
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
           },
           {
             "Result": "SLC_Tachi",
@@ -2737,8 +2844,8 @@
               },
               {
                 "Classname": "Whetstone",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 1000,
+                "Destroy": 1000,
                 "Changehealth": 0
               },
               {
@@ -2784,7 +2891,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "SLC_Katana",
@@ -2860,7 +2970,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Grinde", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
           }
         ]
       },
@@ -2929,7 +3043,9 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil"]
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
           },
           {
             "Result": "VM_Ghost_Vest_V3",
@@ -2993,7 +3109,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
           },
           {
             "Result": "VM_Ghost_Vest_V4",
@@ -3063,7 +3182,11 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
           }
         ]
       },
@@ -3114,7 +3237,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "VM_TOXIC_Pants",
@@ -3160,7 +3288,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "VM_TOXIC_GasMask",
@@ -3218,7 +3351,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "VM_TOXIC_Gloves",
@@ -3270,7 +3408,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
           },
           {
             "Result": "VM_TOXIC_Boots",
@@ -3322,7 +3465,12 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["HP_Anvil", "HP_Drill", "HP_Vise", "HP_Payalnik"]
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
           }
         ]
       },
@@ -3349,7 +3497,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hammer", "Hacksaw"]
+            "AttachmentsNeed": [
+              "Hammer",
+              "Hacksaw"
+            ]
           },
           {
             "Result": "rag_baseitems_wardrobe_kit",
@@ -3371,7 +3522,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hammer", "Hacksaw"]
+            "AttachmentsNeed": [
+              "Hammer",
+              "Hacksaw"
+            ]
           },
           {
             "Result": "rag_baseitems_woodenshelf_big_kit",
@@ -3393,7 +3547,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["Hammer", "Hacksaw"]
+            "AttachmentsNeed": [
+              "Hammer",
+              "Hacksaw"
+            ]
           },
           {
             "Result": "rag_baseitems_lantern_kit",
@@ -3421,7 +3578,10 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["SledgeHammer", "Handsaw"]
+            "AttachmentsNeed": [
+              "SledgeHammer",
+              "Handsaw"
+            ]
           },
           {
             "Result": "rag_baseitems_lantern_wall_kit",
@@ -3449,11 +3609,13 @@
                 "Changehealth": 0
               }
             ],
-            "AttachmentsNeed": ["SledgeHammer", "Hacksaw"]
+            "AttachmentsNeed": [
+              "SledgeHammer",
+              "Hacksaw"
+            ]
           }
         ]
       }
-
     ]
   }
 }
