@@ -15,7 +15,7 @@
     "ObjectPatrols": [
         {
             "Name": "",
-            "Persist": 1,
+            "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 4.0,
@@ -49,7 +49,7 @@
         },
         {
             "Name": "",
-            "Persist": 1,
+            "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 4.0,
