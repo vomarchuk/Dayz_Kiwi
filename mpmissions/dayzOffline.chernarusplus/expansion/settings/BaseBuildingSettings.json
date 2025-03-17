@@ -1,7 +1,7 @@
 {
     "m_Version": 4,
     "CanBuildAnywhere": 1,
-    "AllowBuildingWithoutATerritory": 1,
+    "AllowBuildingWithoutATerritory": 0,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
         "Fireplace",
@@ -33,7 +33,7 @@
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 0,
     "DestroyFlagOnDismantle": 1,
-    "DismantleOutsideTerritory": 0,
+    "DismantleOutsideTerritory": 1,
     "DismantleInsideTerritory": 0,
     "DismantleAnywhere": 0,
     "CodelockActionsAnywhere": 0,
@@ -86,31 +86,11 @@
             ],
             "IsWhitelist": 1,
             "CustomMessage": ""
-        },
-        {
-            "Name": "Kamenka Trader Camp",
-            "Center": [
-                1143.1400146484376,
-                6.900000095367432,
-                2423.27001953125
-            ],
-            "Radius": 1000.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
         }
     ],
     "ZonesAreNoBuildZones": 1,
     "CodelockAttachMode": 1,
-    "DismantleFlagMode": 1,
+    "DismantleFlagMode": -1,
     "FlagMenuMode": 1,
     "EnableVirtualStorage": 0,
     "VirtualStorageExcludedContainers": []
