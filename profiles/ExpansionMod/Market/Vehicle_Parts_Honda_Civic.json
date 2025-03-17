@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Запчастини для GMC",
+    "DisplayName": "Запчастини для Honda Civic",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -17,7 +17,7 @@
             "SpawnAttachments": [],
             "Variants": [
                 "Honda_Civic_DriverDoor_RedCustom",
-                "Honda_Civic_DriverDoor_White",
+                "Honda_Civic_DriverDoor",
                 "Honda_Civic_DriverDoor_Red",
                 "Honda_Civic_DriverDoor_Blue",
                 "Honda_Civic_DriverDoor_Green",
@@ -35,7 +35,7 @@
             "SpawnAttachments": [],
             "Variants": [
                 "Honda_Civic_CoDriver_RedCustom",
-                "Honda_Civic_CoDriver_White",
+                "Honda_Civic_CoDriver",
                 "Honda_Civic_CoDriver_Red",
                 "Honda_Civic_CoDriver_Blue",
                 "Honda_Civic_CoDriver_Green",
@@ -53,7 +53,7 @@
             "SpawnAttachments": [],
             "Variants": [
                 "Honda_Civic_Trunk_RedCustom",
-                "Honda_Civic_Trunk_White",
+                "Honda_Civic_Trunk",
                 "Honda_Civic_Trunk_Red",
                 "Honda_Civic_Trunk_Blue",
                 "Honda_Civic_Trunk_Green",
@@ -71,7 +71,7 @@
             "SpawnAttachments": [],
             "Variants": [
                 "Honda_Civic_Hood_RedCustom",
-                "Honda_Civic_Hood_White",
+                "Honda_Civic_Hood",
                 "Honda_Civic_Hood_Red",
                 "Honda_Civic_Hood_Blue",
                 "Honda_Civic_Hood_Green",
