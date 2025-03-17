@@ -1,18 +1,18 @@
 [
     {
-        "playerId": "76561198047572402",
+        "playerId": "76561198104182080",
         "playerPerms": {
-            "CanOpenLocks": "false",
-            "CanChangePasscodes": "false",
-            "CanRemoveLocks": "false"
+            "CanOpenLocks": "true",
+            "CanChangePasscodes": "true",
+            "CanRemoveLocks": "true"
         }
     },
     {
-        "playerId": "76561198047572402",
+        "playerId": "76561198161108074",
         "playerPerms": {
-            "CanOpenLocks": "false",
-            "CanChangePasscodes": "false",
-            "CanRemoveLocks": "false"
+            "CanOpenLocks": "true",
+            "CanChangePasscodes": "true",
+            "CanRemoveLocks": "true"
         }
     }
 ]
