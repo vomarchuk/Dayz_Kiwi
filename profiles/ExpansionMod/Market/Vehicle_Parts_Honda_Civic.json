@@ -43,7 +43,7 @@
             ]
         },
         {
-            "ClassName": "Honda_Civic_Hood_Black",
+            "ClassName": "Honda_Civic_Trunk_Black",
             "MaxPriceThreshold": 870,
             "MinPriceThreshold": 870,
             "SellPricePercent": -1.0,
