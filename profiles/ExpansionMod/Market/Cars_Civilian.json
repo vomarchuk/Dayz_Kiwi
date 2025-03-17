@@ -267,8 +267,34 @@
                 "Civic_Red",
                 "Civic_Blue",
                 "Civic_Green",
-                "Civic_Yellow"
+                "Civic_Yellow",
+                "Civic_White"
             ]
+        },
+        {
+            "ClassName": "Civic_White",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 60.0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "Honda_Civic_DriverDoor_White",
+                "Honda_Civic_CoDriver_White",
+                "Honda_Civic_Trunk_White",
+                "Honda_Civic_Hood_White",
+                "Honda_Civic_Wheel",
+                "Honda_Civic_Wheel",
+                "Honda_Civic_Wheel",
+                "Honda_Civic_Wheel",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
         },
         {
             "ClassName": "Civic_Red",
