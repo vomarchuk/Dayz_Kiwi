@@ -925,8 +925,8 @@
   </type>
 
   <type name="bl_solar_panel_Kit">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
