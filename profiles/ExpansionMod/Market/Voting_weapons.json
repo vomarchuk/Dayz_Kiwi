@@ -16,17 +16,6 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
-    },
-    {
-      "ClassName": "Expansion_BenelliM4",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SellPricePercent": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
     }
   ]
 }
