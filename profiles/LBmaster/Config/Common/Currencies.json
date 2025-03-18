@@ -1,7 +1,7 @@
 {
     "version": 3,
     "thousandsSeparator": ".",
-    "currencyPrefix": "e",
+    "currencyPrefix": "€ ",
     "currencySuffix": "",
     "currencyValues": [
         {
@@ -37,6 +37,11 @@
         {
             "itemclassname": "TraderPlus_Money_Euro100",
             "value": 100,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Euro200",
+            "value": 200,
             "depositableOnly": 0
         },
         {

@@ -13,7 +13,7 @@
         "buttonConfig": [
             {
                 "buttonName": "Discord",
-                "subtext": "dc.lbmaster.de",
+                "subtext": "Наш Discord",
                 "hoverTooltip": "Приєднуйтесь до нашого Discord, щоб завжди бути в курсі подій та оновлень.",
                 "link": "https://discord.gg/g4fv9kPxVA"
             },

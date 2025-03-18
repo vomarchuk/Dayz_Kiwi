@@ -46,7 +46,7 @@
     "gpsItems": [
         "GPSReceiver"
     ],
-    "mapRequireItem": 1,
+    "mapRequireItem": 0,
     "mapItems": [
         "ChernarusMap",
         "GPSReceiver"

@@ -1,14 +1,14 @@
 {
     "version": 3,
-    "enablePlayerMarkers": 0,
-    "showMarkersEverywhere": 0,
+    "enablePlayerMarkers": 1,
+    "showMarkersEverywhere": 1,
     "checkLineOfSight": 0,
     "obfuscatePlayerNames": 0,
-    "showOwnPlayerTag": 1,
-    "maxPlayerDistance": 100.0,
+    "showOwnPlayerTag": 0,
+    "maxPlayerDistance": 150.0,
     "safezoneMarkers": [
         {
-            "prefix": "#lb_ag_marker_player ",
+            "prefix": "",
             "color": {
                 "a": 255,
                 "r": 51,
@@ -19,7 +19,7 @@
             "ignoreNameObfuscationSetting": 0
         },
         {
-            "prefix": "#lb_ag_marker_admin ",
+            "prefix": "#lb_ag_marker_admin",
             "color": {
                 "a": 255,
                 "r": 255,

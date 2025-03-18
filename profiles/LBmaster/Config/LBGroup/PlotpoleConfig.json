@@ -74,7 +74,7 @@
     "plotpoleRadius_InsidePvEZone": 10.0,
     "plotpoleHeightUp_InsidePvEZone": 10.0,
     "plotpoleHeightDown_InsidePvEZone": 10.0,
-    "plotpoleDistanceMinHostile": 400.0,
-    "plotpoleDistanceMinFriendly": 400.0,
+    "plotpoleDistanceMinHostile": 300.0,
+    "plotpoleDistanceMinFriendly": 300.0,
     "defaultPlotpoleCountPerGroup": 2
 }
