@@ -1,5 +1,176 @@
 {
-    "version": 0,
+    "version": 2,
+    "defaultItemConfigs": [
+        {
+            "presetName": "",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_IND",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "_IND",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_90%",
+            "individualChance": 1,
+            "chance": 0.8999999761581421,
+            "items": [],
+            "itemname": "_90%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_80%",
+            "individualChance": 1,
+            "chance": 0.800000011920929,
+            "items": [],
+            "itemname": "_80%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_70%",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "_70%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_60%",
+            "individualChance": 1,
+            "chance": 0.6000000238418579,
+            "items": [],
+            "itemname": "_60%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_50%",
+            "individualChance": 1,
+            "chance": 0.5,
+            "items": [],
+            "itemname": "_50%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_40%",
+            "individualChance": 1,
+            "chance": 0.4000000059604645,
+            "items": [],
+            "itemname": "_40%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_30%",
+            "individualChance": 1,
+            "chance": 0.30000001192092898,
+            "items": [],
+            "itemname": "_30%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_20%",
+            "individualChance": 1,
+            "chance": 0.20000000298023225,
+            "items": [],
+            "itemname": "_20%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_10%",
+            "individualChance": 1,
+            "chance": 0.10000000149011612,
+            "items": [],
+            "itemname": "_10%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_MAG",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "_MAG",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "_ROOT",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "_ROOT",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "_BAT",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "itemname": "_BAT",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_BAT_IND",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "itemname": "_BAT_IND",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        }
+    ],
     "base": [
         {
             "presetName": "Preset_Weapons_Medium",

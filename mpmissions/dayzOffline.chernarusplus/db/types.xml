@@ -4842,10 +4842,10 @@
         <usage name="Village" />
     </type>
     <type name="ChernarusMap">
-        <nominal>50</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8030,10 +8030,10 @@
         <value name="Tier4" />
     </type>
     <type name="GPSReceiver">
-        <nominal>15</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15307,7 +15307,7 @@
         <usage name="Farm" />
     </type>
     <type name="PersonalRadio">
-        <nominal>40</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -15323,7 +15323,7 @@
         <usage name="Firefighter" />
     </type>
     <type name="PetrolLighter">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>

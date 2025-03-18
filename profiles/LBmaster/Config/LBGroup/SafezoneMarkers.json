@@ -1,0 +1,33 @@
+{
+    "version": 3,
+    "enablePlayerMarkers": 0,
+    "showMarkersEverywhere": 0,
+    "checkLineOfSight": 0,
+    "obfuscatePlayerNames": 0,
+    "showOwnPlayerTag": 1,
+    "maxPlayerDistance": 100.0,
+    "safezoneMarkers": [
+        {
+            "prefix": "#lb_ag_marker_player ",
+            "color": {
+                "a": 255,
+                "r": 51,
+                "g": 153,
+                "b": 255
+            },
+            "permission": "",
+            "ignoreNameObfuscationSetting": 0
+        },
+        {
+            "prefix": "#lb_ag_marker_admin ",
+            "color": {
+                "a": 255,
+                "r": 255,
+                "g": 0,
+                "b": 0
+            },
+            "permission": "groups.nametags.admin",
+            "ignoreNameObfuscationSetting": 0
+        }
+    ]
+}

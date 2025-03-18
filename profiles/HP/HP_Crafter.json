@@ -1606,14 +1606,14 @@
             ]
           },
           {
-            "Result": "ExpansionGPS",
+            "Result": "GPSReceiver",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "voltagepic",
             "RecipeName": "GPS",
             "CraftComponents": [
               {
-                "Classname": "GPSReceiver",
+                "Classname": "PersonalRadio",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
