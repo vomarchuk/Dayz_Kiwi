@@ -20,6 +20,8 @@
         "ExpansionSafeMedium",
         "ExpansionSafeSmall",
         "SeaChest",
+        "TerjeSleepingBag_Woodland",
+        "TerjeSleepingBag_Blue",
         "GardenPlot"
     ],
     "DeployableInsideAEnemyTerritory": [
