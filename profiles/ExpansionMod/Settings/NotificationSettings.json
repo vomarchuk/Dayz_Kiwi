@@ -1,6 +1,6 @@
 {
     "m_Version": 5,
-    "EnableNotification": 0,
+    "EnableNotification": 1,
     "ShowPlayerJoinServer": 0,
     "JoinMessageType": 0,
     "ShowPlayerLeftServer": 0,
