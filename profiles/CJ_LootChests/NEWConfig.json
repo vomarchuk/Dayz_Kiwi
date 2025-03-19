@@ -24,7 +24,9 @@
       ],
       "keyclass": "CJ_Key1",
       "openable": 2,
-      "chest": ["CJ_LootChest_Brown_Small"],
+      "chest": [
+        "CJ_LootChest_Brown_Small"
+      ],
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
@@ -79,7 +81,9 @@
       ],
       "keyclass": "CJ_Key4",
       "openable": 2,
-      "chest": ["CJ_LootChest_Green_Small"],
+      "chest": [
+        "CJ_LootChest_Green_Small"
+      ],
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
@@ -272,7 +276,9 @@
       ],
       "keyclass": "CJ_Key103",
       "openable": 1,
-      "chest": ["CJ_LootChest_CashRegister_New"],
+      "chest": [
+        "CJ_LootChest_CashRegister_New"
+      ],
       "lootrandomize": 0.4,
       "light": 1,
       "loot": [
@@ -318,7 +324,9 @@
       ],
       "keyclass": "CJ_Key3",
       "openable": 2,
-      "chest": ["CJ_LootChest_Wood_Green_Small"],
+      "chest": [
+        "CJ_LootChest_Wood_Green_Small"
+      ],
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
@@ -332,7 +340,8 @@
         "LC_Table_Ammo_545_308_762",
         "SCWS_AmmoBox_338",
         "SCWS_AmmoBox_338|0.50",
-        "LC_Table_Money_Event_Low"
+        "LC_Table_Money_Event_Low",
+        "VM_InjectorHP|0.10"
       ],
       "respawn": 1,
       "respawn_timer": 45,
@@ -341,10 +350,14 @@
     {
       "name": "Bunker Yar Craft ingredients",
       "number": 1,
-      "pos": ["4386.440918 455.124084 15028.009766|0 0 0"],
+      "pos": [
+        "4386.440918 455.124084 15028.009766|0 0 0"
+      ],
       "keyclass": "CJ_Key3",
       "openable": 2,
-      "chest": ["CJ_LootChest_Wood_Green_Small"],
+      "chest": [
+        "CJ_LootChest_Wood_Green_Small"
+      ],
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
@@ -392,7 +405,9 @@
       ],
       "keyclass": "CJ_Key2",
       "openable": 2,
-      "chest": ["CJ_LootChest_Wood_Green_Small"],
+      "chest": [
+        "CJ_LootChest_Wood_Green_Small"
+      ],
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
@@ -407,7 +422,8 @@
         "SCWS_AmmoBox_338|0.50",
         "SCWS_AmmoBox_338|0.50",
         "LC_Table_Money_Event_Low",
-        "LC_Table_Money_Event_Low"
+        "LC_Table_Money_Event_Low",
+        "VM_InjectorHP|0.10"
       ],
       "respawn": 1,
       "respawn_timer": 30,
@@ -419,7 +435,9 @@
       "defname": "LC_predefined_SCWS_STI_Suppressor",
       "weapon": "SCWS_STI",
       "magazine": "SCWS_STI_Magazine",
-      "attachments": ["PistolSuppressor"],
+      "attachments": [
+        "PistolSuppressor"
+      ],
       "optic": "",
       "opticbattery": 0
     },
@@ -427,7 +445,9 @@
       "defname": "LC_predefined_Deagle_Gold_Suppressor",
       "weapon": "Deagle_Gold",
       "magazine": "Mag_Deagle_9rnd",
-      "attachments": ["PistolSuppressor"],
+      "attachments": [
+        "PistolSuppressor"
+      ],
       "optic": "",
       "opticbattery": 0
     },
@@ -455,7 +475,10 @@
       "defname": "LC_predefined_MP5K",
       "weapon": "MP5K",
       "magazine": "Mag_MP5_30Rnd",
-      "attachments": ["MP5_RailHndgrd", "MP5k_StockBttstck"],
+      "attachments": [
+        "MP5_RailHndgrd",
+        "MP5k_StockBttstck"
+      ],
       "optic": "",
       "opticbattery": 0
     },
@@ -463,7 +486,9 @@
       "defname": "LC_predefined_UMP45_Suppressor",
       "weapon": "UMP45",
       "magazine": "Mag_UMP_25Rnd",
-      "attachments": ["PistolSuppressor"],
+      "attachments": [
+        "PistolSuppressor"
+      ],
       "optic": "",
       "opticbattery": 0
     },
@@ -479,7 +504,9 @@
       "defname": "LC_predefined_SVD",
       "weapon": "SVD",
       "magazine": "Mag_SVD_10Rnd",
-      "attachments": ["AK_Suppressor"],
+      "attachments": [
+        "AK_Suppressor"
+      ],
       "optic": "PSO11Optic",
       "opticbattery": 1
     },
@@ -487,7 +514,9 @@
       "defname": "LC_predefined_VSS",
       "weapon": "VSS",
       "magazine": "Mag_VSS_10Rnd",
-      "attachments": ["AK_Suppressor"],
+      "attachments": [
+        "AK_Suppressor"
+      ],
       "optic": "KobraOptic",
       "opticbattery": 1
     },
@@ -495,7 +524,9 @@
       "defname": "LC_predefined_Tundra",
       "weapon": "Winchester70",
       "magazine": "",
-      "attachments": [""],
+      "attachments": [
+        ""
+      ],
       "optic": "HuntingOptic",
       "opticbattery": 0
     },
@@ -503,7 +534,9 @@
       "defname": "LC_predefined_Blaze",
       "weapon": "B95",
       "magazine": "",
-      "attachments": [""],
+      "attachments": [
+        ""
+      ],
       "optic": "HuntingOptic",
       "opticbattery": 0
     },
@@ -523,7 +556,9 @@
       "defname": "LC_predefined_SKS",
       "weapon": "SKS",
       "magazine": "",
-      "attachments": [""],
+      "attachments": [
+        ""
+      ],
       "optic": "PUScopeOptic",
       "opticbattery": 0
     },
@@ -531,7 +566,9 @@
       "defname": "LC_predefined_CZ527",
       "weapon": "CZ527",
       "magazine": "Mag_CZ527_5rnd",
-      "attachments": [""],
+      "attachments": [
+        ""
+      ],
       "optic": "HuntingOptic",
       "opticbattery": 0
     },
@@ -539,7 +576,11 @@
       "defname": "LC_predefined_AKM",
       "weapon": "AKM",
       "magazine": "Mag_AKM_30Rnd",
-      "attachments": ["AK_Suppressor", "AK_WoodHndgrd", "AK_WoodBttstck"],
+      "attachments": [
+        "AK_Suppressor",
+        "AK_WoodHndgrd",
+        "AK_WoodBttstck"
+      ],
       "optic": "KobraOptic",
       "opticbattery": 1
     },
@@ -547,7 +588,11 @@
       "defname": "LC_predefined_AK74",
       "weapon": "AK74",
       "magazine": "Mag_AK74_30Rnd",
-      "attachments": ["AK_Suppressor", "AK74_Hndgrd", "AK74_WoodBttstck"],
+      "attachments": [
+        "AK_Suppressor",
+        "AK74_Hndgrd",
+        "AK74_WoodBttstck"
+      ],
       "optic": "KobraOptic",
       "opticbattery": 1
     },
@@ -555,7 +600,11 @@
       "defname": "LC_predefined_AK101",
       "weapon": "AK101",
       "magazine": "Mag_AK101_30Rnd",
-      "attachments": ["AK_Suppressor", "AK_PlasticHndgrd", "AK_PlasticBttstck"],
+      "attachments": [
+        "AK_Suppressor",
+        "AK_PlasticHndgrd",
+        "AK_PlasticBttstck"
+      ],
       "optic": "KobraOptic",
       "opticbattery": 1
     },
@@ -563,7 +612,9 @@
       "defname": "LC_predefined_FAL",
       "weapon": "FAL",
       "magazine": "Mag_FAL_20Rnd",
-      "attachments": ["Fal_OeBttstck"],
+      "attachments": [
+        "Fal_OeBttstck"
+      ],
       "optic": "ACOGOptic",
       "opticbattery": 0
     },
@@ -571,7 +622,11 @@
       "defname": "LC_predefined_MP5",
       "weapon": "MP5k",
       "magazine": "Mag_MP5_30Rnd",
-      "attachments": ["MP5_Compensator", "MP5k_StockBttstck", "MP5_RailHndgrd"],
+      "attachments": [
+        "MP5_Compensator",
+        "MP5k_StockBttstck",
+        "MP5_RailHndgrd"
+      ],
       "optic": "ReflexOptic",
       "opticbattery": 1
     }
@@ -608,7 +663,11 @@
     },
     {
       "name": "LC_Table_Magazines_1",
-      "Loot": ["Mag_MP5_30Rnd", "Mag_AK74_30Rnd", "Mag_CZ527_5rnd"]
+      "Loot": [
+        "Mag_MP5_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_CZ527_5rnd"
+      ]
     },
     {
       "name": "LC_Table_Craft_Ingredients_1",
@@ -658,15 +717,25 @@
     },
     {
       "name": "LC_Table_Magazines_2",
-      "Loot": ["Mag_STANAG_30Rnd", "Mag_AKM_30Rnd", "Mag_FAL_20Rnd"]
+      "Loot": [
+        "Mag_STANAG_30Rnd",
+        "Mag_AKM_30Rnd",
+        "Mag_FAL_20Rnd"
+      ]
     },
     {
       "name": "LC_Table_Attachments",
-      "Loot": ["AK_Suppressor", "M4_Suppressor", "ACOGOptic"]
+      "Loot": [
+        "AK_Suppressor",
+        "M4_Suppressor",
+        "ACOGOptic"
+      ]
     },
     {
       "name": "LC_Table_Ammo",
-      "Loot": ["AmmoBox_545x39_20Rnd"]
+      "Loot": [
+        "AmmoBox_545x39_20Rnd"
+      ]
     },
     {
       "name": "LC_Table_Ammo_545_308_762",
@@ -701,63 +770,63 @@
     {
       "name": "LC_Table_Medic_high",
       "Loot": [
-        "TerjeAmpouleZivirol", 
-        "TerjeAmpouleFlemoclav", 
-        "TerjeAmpouleVaxicam", 
-        "TerjeAmpouleMetoclopramid", 
-        "TerjeAmpouleHeptral", 
-        "TerjeAmpouleZerivax", 
-        "TerjeAmpouleRabivax", 
-        "TerjeAmpouleKetamin", 
-        "TerjeAmpouleMorphine", 
-        "TerjeAmpouleGexobarbital", 
-        "TerjeAmpouleKetarol", 
-        "TerjeAmpouleNovacaine", 
-        "TerjeAmpouleActaparoxetine", 
-        "TerjeAmpouleAmitriptyline", 
+        "TerjeAmpouleZivirol",
+        "TerjeAmpouleFlemoclav",
+        "TerjeAmpouleVaxicam",
+        "TerjeAmpouleMetoclopramid",
+        "TerjeAmpouleHeptral",
+        "TerjeAmpouleZerivax",
+        "TerjeAmpouleRabivax",
+        "TerjeAmpouleKetamin",
+        "TerjeAmpouleMorphine",
+        "TerjeAmpouleGexobarbital",
+        "TerjeAmpouleKetarol",
+        "TerjeAmpouleNovacaine",
+        "TerjeAmpouleActaparoxetine",
+        "TerjeAmpouleAmitriptyline",
         "TerjeAmpouleMetralindole"
       ]
     },
     {
       "name": "LC_Table_Medic_Injector",
       "Loot": [
-        "TerjeInjectorNeirox", 
-        "TerjeInjectorErythropoietin", 
-        "TerjeInjectorErytromixelin", 
-        "TerjeInjectorAmoxiclav", 
-        "TerjeInjectorZivirol", 
-        "AntiChemInjector", 
-        "TerjeAntiradInjector", 
-        "TerjeInjectorRabinucoline", 
-        "TerjeInjectorReanimatal", 
-        "TerjeInjectorPromidol", 
-        "Morphine", 
+        "TerjeInjectorNeirox",
+        "TerjeInjectorErythropoietin",
+        "TerjeInjectorErytromixelin",
+        "TerjeInjectorAmoxiclav",
+        "TerjeInjectorZivirol",
+        "AntiChemInjector",
+        "TerjeAntiradInjector",
+        "TerjeInjectorRabinucoline",
+        "TerjeInjectorReanimatal",
+        "TerjeInjectorPromidol",
+        "Morphine",
         "TerjeInjectorAmfitalicyne"
       ]
     },
     {
       "name": "LC_Table_Medic_low",
       "Loot": [
-        "CharcoalTablets", 
-        "TerjeSyringeNew", 
-        "TerjePillsParacetamol", 
-        "TerjePillsNoopept", 
-        "TerjeSurgicalKit", 
-        "DisinfectantAlcohol", 
-        "TerjePillsMagnesiumSulfate", 
-        "TerjePillsRombiopental", 
-        "PainkillerTablets", 
-        "TerjePlaster", 
-        "Heatpack", 
-        "FilteringBottle", 
-        "TerjeBandageHemostatic", 
-        "TerjeSurgicalTool_Ceramic", 
-        "BandageDressing", 
-        "BloodTestKit", 
-        "SalineBag", 
-        "PurificationTablets", 
-        "TerjeDrinkYaguar", 
-        "TerjeDrinkGang", 
+        "CharcoalTablets",
+        "TerjeSyringeNew",
+        "TerjePillsParacetamol",
+        "TerjePillsNoopept",
+        "TerjeSurgicalKit",
+        "DisinfectantAlcohol",
+        "TerjePillsMagnesiumSulfate",
+        "TerjePillsRombiopental",
+        "PainkillerTablets",
+        "TerjePlaster",
+        "Heatpack",
+        "FilteringBottle",
+        "TerjeBandageHemostatic",
+        "TerjeSurgicalTool_Ceramic",
+        "BandageDressing",
+        "BloodTestKit",
+        "SalineBag",
+        "PurificationTablets",
+        "TerjeDrinkYaguar",
+        "TerjeDrinkGang",
         "TerjeDrinkPrayboy"
       ]
     },
