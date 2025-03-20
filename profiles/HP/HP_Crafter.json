@@ -2801,7 +2801,7 @@
             "RecipeName": "Tachi",
             "CraftComponents": [
               {
-                "Classname": "SLC_Wakazashi",
+                "Classname": "SLC_Ninjato",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
