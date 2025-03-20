@@ -10,7 +10,7 @@
         "76561198161108074",
         "76561198104182080"
     ],
-    "MaximumDynamicPatrols": -1,
+    "MaximumDynamicPatrols": 15,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
