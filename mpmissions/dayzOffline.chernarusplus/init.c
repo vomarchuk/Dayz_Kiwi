@@ -1,12 +1,12 @@
 
 void main()
 {
-	//INIT ECONOMY--------------------------------------
+	// INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
-	if ( ce )
+	if (ce)
 		ce.InitOffline();
 
-	//DATE RESET AFTER ECONOMY INIT-------------------------
+	// DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
 	int reset_month = 9, reset_day = 20;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
@@ -31,24 +31,24 @@ void main()
 	}
 }
 
-class CustomMission: MissionServer
+class CustomMission : MissionServer
 {
 	void SetRandomHealth(EntityAI itemEnt)
 	{
-		if ( itemEnt )
+		if (itemEnt)
 		{
-			float rndHlt = Math.RandomFloat( 0.45, 0.65 );
-			itemEnt.SetHealth01( "", "", rndHlt );
+			float rndHlt = Math.RandomFloat(0.45, 0.65);
+			itemEnt.SetHealth01("", "", rndHlt);
 		}
 	}
 
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{
 		Entity playerEnt;
-		playerEnt = GetGame().CreatePlayer( identity, characterName, pos, 0, "NONE" );
-		Class.CastTo( m_player, playerEnt );
+		playerEnt = GetGame().CreatePlayer(identity, characterName, pos, 0, "NONE");
+		Class.CastTo(m_player, playerEnt);
 
-		GetGame().SelectPlayer( identity, m_player );
+		GetGame().SelectPlayer(identity, m_player);
 
 		return m_player;
 	}
@@ -57,44 +57,56 @@ class CustomMission: MissionServer
 	{
 		player.RemoveAllItems();
 
-/*
-  EntityAI item = player.GetInventory().CreateInInventory(topsArray.GetRandomElement());
-  EntityAI item2 = player.GetInventory().CreateInInventory(pantsArray.GetRandomElement());
-  EntityAI item3 = player.GetInventory().CreateInInventory(shoesArray.GetRandomElement());
-*/
-  EntityAI itemEnt;
-  ItemBase itemBs;
-		
-	// верх одежда
-	itemEnt = player.GetInventory().CreateInInventory("ChernarusSportShirt");
-	itemBs = ItemBase.Cast(itemEnt);
-	// головной убор
-	itemEnt = player.GetInventory().CreateInInventory("FlatCap_BlackCheck");
-	itemBs = ItemBase.Cast(itemEnt);
-	// штаны
-	itemEnt = player.GetInventory().CreateInInventory("TrackSuitPants_Blue");
-	itemBs = ItemBase.Cast(itemEnt);
-	// обувь
-	itemEnt = player.GetInventory().CreateInInventory("DressShoes_Black");
-	itemBs = ItemBase.Cast(itemEnt);
-	// weapon
-	itemEnt = player.GetInventory().CreateInInventory("MKII");
-	itemBs = ItemBase.Cast(itemEnt);
-	// mag
-	itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
-	itemBs = ItemBase.Cast(itemEnt);
-	// ammo
-	itemEnt = player.GetInventory().CreateInInventory("AmmoBox_22_50Rnd");
-	itemBs = ItemBase.Cast(itemEnt);
-	// фонарик
-	itemEnt = player.GetInventory().CreateInInventory("Flashlight");
-	itemBs = ItemBase.Cast(itemEnt);
-	// еда
-	itemEnt = player.GetInventory().CreateInInventory("SardinesCan_Opened");
-	itemBs = ItemBase.Cast(itemEnt);
-	// нож
-	itemEnt = player.GetInventory().CreateInInventory("SteakKnife");
-	itemBs = ItemBase.Cast(itemEnt);
+		/*
+		  EntityAI item = player.GetInventory().CreateInInventory(topsArray.GetRandomElement());
+		  EntityAI item2 = player.GetInventory().CreateInInventory(pantsArray.GetRandomElement());
+		  EntityAI item3 = player.GetInventory().CreateInInventory(shoesArray.GetRandomElement());
+		*/
+		EntityAI itemEnt;
+		ItemBase itemBs;
+
+		// верх одежда
+		itemEnt = player.GetInventory().CreateInInventory("TrackSuitJacket_Black");
+		itemBs = ItemBase.Cast(itemEnt);
+		// штаны
+		itemEnt = player.GetInventory().CreateInInventory("TrackSuitPants_Black");
+		itemBs = ItemBase.Cast(itemEnt);
+		// пояс
+		itemEnt = player.GetInventory().CreateInInventory("HipPack_Party");
+		itemBs = ItemBase.Cast(itemEnt);
+		// обувь
+		itemEnt = player.GetInventory().CreateInInventory("AthleticShoes_Black");
+		itemBs = ItemBase.Cast(itemEnt);
+		// weapon
+		itemEnt = player.GetInventory().CreateInInventory("MKII");
+		itemBs = ItemBase.Cast(itemEnt);
+		// mag
+		itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
+		itemBs = ItemBase.Cast(itemEnt);
+		// mag
+		itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
+		itemBs = ItemBase.Cast(itemEnt);
+		// ammo
+		itemEnt = player.GetInventory().CreateInInventory("AmmoBox_22_50Rnd");
+		itemBs = ItemBase.Cast(itemEnt);
+		// еда
+		itemEnt = player.GetInventory().CreateInInventory("Pajka");
+		itemBs = ItemBase.Cast(itemEnt);
+		// нож
+		itemEnt = player.GetInventory().CreateInInventory("SteakKnife");
+		itemBs = ItemBase.Cast(itemEnt);
+		//
+		itemEnt = player.GetInventory().CreateInInventory("Roadflare");
+		itemBs = ItemBase.Cast(itemEnt);
+		//
+		itemEnt = player.GetInventory().CreateInInventory("Rag");
+		itemBs = ItemBase.Cast(itemEnt);
+		//
+		itemEnt = player.GetInventory().CreateInInventory("DisinfectantAlcohol");
+		itemBs = ItemBase.Cast(itemEnt);
+		//
+		itemEnt = player.GetInventory().CreateInInventory("Heatpack");
+		itemBs = ItemBase.Cast(itemEnt);
 	}
 };
 
