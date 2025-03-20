@@ -1185,6 +1185,8 @@
         "MotoHelmet_Blue,1,-1,0,700,90",
         "MotoHelmet_Grey,1,-1,0,750,95",
         "MotoHelmet_Green,1,-1,0,800,100",
+        "MotoHelmet_Yellow,1,-1,0,800,100",
+        "DarkMotoHelmet_Yellow,1,-1,0,800,100",
         "DarkMotoHelmet_Blue,1,-1,0,800,100",
         "DarkMotoHelmet_Lime,1,-1,0,800,100",
         "DarkMotoHelmet_Grey,1,-1,0,800,100",
