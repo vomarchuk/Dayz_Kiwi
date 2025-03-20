@@ -331,7 +331,7 @@
       "light": 1,
       "loot": [
         "CP_EmptyBag|0.70",
-        "CP_CannabisSeedsBlue|0.30",
+        "CP_CannabisSeedsPackBlue|0.30",
         "LC_Table_Craft_Random_Ingredients_1",
         "LC_Table_Ammo_545_308_762",
         "LC_Table_Ammo_545_308_762",
