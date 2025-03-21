@@ -258,6 +258,7 @@
         "TerjeInjectorNeirox,1,-1,1,-1,300",
         "TerjeInjectorErythropoietin,1,-1,1,-1,300",
         "TerjeInjectorNovichek,1,-1,1,-1,300",
+        "AntiChemInjector,1,-1,1,-1,300",
         "TerjeFirstAidKitIndividual_Camo,1,-1,0,-1,1300",
         "TerjeFirstAidKitIndividual_Green,1,-1,0,-1,1300",
         "TerjeFirstAidKitIndividual_Brown,1,-1,0,-1,1300",
@@ -1242,7 +1243,8 @@
         "BalaclavaMask_Pink,1,-1,0,800,80",
         "BalaclavaMask_White,1,-1,0,800,80",
         "EyeMask_Blue,1,-1,0,200,80",
-        "EyeMask_Red,1,-1,0,200,80"
+        "EyeMask_Red,1,-1,0,200,80",
+        "EyeMask_Yellow,1,-1,0,200,80"
       ]
     },
     {
