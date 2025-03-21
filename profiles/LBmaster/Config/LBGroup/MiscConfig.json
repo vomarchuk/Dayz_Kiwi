@@ -32,7 +32,7 @@
     "compassRequireItem": 1,
     "compassItems": [
         "Compass",
-        "GPSReceiver"
+        "OrienteeringCompass"
     ],
     "enableGPS": 1,
     "gpsDisplayAngle": 1,

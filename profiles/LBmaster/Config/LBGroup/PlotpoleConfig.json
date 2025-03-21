@@ -18,7 +18,9 @@
         "TerjeRadTent",
         "TerjeRadTentPlacing",
         "TerjeRadTentStatic",
-        "HydraulicJack"
+        "HydraulicJack",
+        "rag_baseitems_trashcan_static_kit",
+        "HP_Crafter_Kit"
     ],
     "preventUnauthorizedBuilding": 1,
     "preventUnauthorizedDismantling": 1,
