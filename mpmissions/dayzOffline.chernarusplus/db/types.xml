@@ -4240,10 +4240,10 @@
         <value name="Tier4" />
     </type>
     <type name="CZ75">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -9812,7 +9812,7 @@
         <value name="Tier4" />
     </type>
     <type name="Heatpack">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -10039,7 +10039,7 @@
     </type>
     <type name="HipPack_Party">
         <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1200</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -10225,10 +10225,10 @@
         <value name="Tier2" />
     </type>
     <type name="Hook">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10417,10 +10417,10 @@
         <value name="Tier4" />
     </type>
     <type name="HuntingKnife">
-        <nominal>60</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10571,10 +10571,10 @@
         <value name="Tier2" />
     </type>
     <type name="Izh43Shotgun">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>30</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12726,10 +12726,10 @@
         <value name="Tier4" />
     </type>
     <type name="Mag_CZ75_15Rnd">
-        <nominal>60</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>30</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13287,10 +13287,10 @@
         <value name="Tier2" />
     </type>
     <type name="Matchbox">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -14433,10 +14433,10 @@
         <category name="clothes" />
     </type>
     <type name="Netting">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14794,10 +14794,10 @@
         <usage name="Lunapark" />
     </type>
     <type name="OrienteeringCompass">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16133,10 +16133,10 @@
         <usage name="Farm" />
     </type>
     <type name="PurificationTablets">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -16419,7 +16419,7 @@
     </type>
     <type name="Rag">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16527,10 +16527,10 @@
         <usage name="Village" />
     </type>
     <type name="Rangefinder">
-        <nominal>60</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18365,7 +18365,6 @@
         <usage name="School" />
         <usage name="Hunting" />
         <usage name="Village" />
-
     </type>
     <type name="Custom_ProtectorCase_1000">
         <nominal>0</nominal>
@@ -18760,10 +18759,10 @@
         <usage name="School" />
     </type>
     <type name="Spotlight">
-        <nominal>60</nominal>
+        <nominal>50</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19855,10 +19854,10 @@
         <usage name="Military" />
     </type>
     <type name="TrackSuitJacket_Black">
-        <nominal>30</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>25</nominal>
+        <lifetime>1200</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19929,7 +19928,7 @@
     </type>
     <type name="TrackSuitPants_Black">
         <nominal>30</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1200</lifetime>
         <restock>0</restock>
         <min>25</min>
         <quantmin>-1</quantmin>
@@ -21662,10 +21661,10 @@
         <usage name="Village" />
     </type>
     <type name="XmasLights">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

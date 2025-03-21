@@ -1730,6 +1730,14 @@
       ]
     },
     {
+      "CategoryName": "Обладунки",
+      "Products": [
+        "Chainmail_Coif,1,-1,0,-1,500",
+        "Chainmail_Leggings,1,-1,0,-1,500",
+        "Chainmail,1,-1,0,-1,500"
+      ]
+    },
+    {
       "CategoryName": "Vests",
       "Products": [
         "FOG_Vest_LV119_OD,1,-1,0,-1,500",
@@ -1914,7 +1922,8 @@
         "FOG_FlagRoll_US_Black,1,-1,0,2500,200",
         "FOG_FlagRoll_Pirate,1,-1,0,2500,200",
         "FOG_FlagRoll_US,1,-1,0,2500,200",
-        "FOG_Big_Patch_US_MC_IR,1,-1,0,2500,200"
+        "FOG_Big_Patch_US_MC_IR,1,-1,0,2500,200",
+        "FOG_Tarsier,1,-1,0,2500,200"
       ]
     },
     {

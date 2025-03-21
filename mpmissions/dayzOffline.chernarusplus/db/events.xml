@@ -222,7 +222,7 @@
     <event name="InfectedArmy">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>230</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -245,7 +245,7 @@
     <event name="InfectedArmyHard">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>230</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -270,7 +270,7 @@
     <event name="InfectedCity">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>230</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -329,7 +329,7 @@
     <event name="InfectedCityTier1">
         <nominal>50</nominal>
         <min>20</min>
-        <max>200</max>
+        <max>180</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -357,7 +357,7 @@
     <event name="InfectedFirefighter">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -368,14 +368,14 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_FirefighterNormal" />
+            <child lootmax="5" lootmin="0" max="0" min="80" type="ZmbM_FirefighterNormal" />
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow" />
         </children>
     </event>
     <event name="InfectedIndustrial">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -417,7 +417,7 @@
     <event name="InfectedMedic">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -446,7 +446,7 @@
     <event name="InfectedNBC">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>230</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -457,13 +457,13 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_NBC_Grey" />
+            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_NBC_Grey" />
         </children>
     </event>
     <event name="InfectedNBCYellow">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>230</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -480,7 +480,7 @@
     <event name="InfectedPolice">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -500,7 +500,7 @@
     <event name="InfectedPoliceHard">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -518,7 +518,7 @@
     <event name="InfectedPrisoner">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -529,13 +529,13 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_PrisonerSkinny" />
+            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_PrisonerSkinny" />
         </children>
     </event>
     <event name="InfectedReligious">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -546,13 +546,13 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_priestPopSkinny" />
+            <child lootmax="5" lootmin="0" max="0" min="95" type="ZmbM_priestPopSkinny" />
         </children>
     </event>
     <event name="InfectedSanta">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>220</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -563,13 +563,13 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_Santa" />
+            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_Santa" />
         </children>
     </event>
     <event name="InfectedSolitude">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -604,7 +604,7 @@
     <event name="InfectedVillage">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>90</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
