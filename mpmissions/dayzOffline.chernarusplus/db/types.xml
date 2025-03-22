@@ -6861,7 +6861,7 @@
         <usage name="Farm" />
     </type>
     <type name="ElectronicRepairKit">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
