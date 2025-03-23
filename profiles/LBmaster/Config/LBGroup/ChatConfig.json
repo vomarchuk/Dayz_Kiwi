@@ -98,12 +98,15 @@
             "permissionToApplyGroup": "chat.prefix.owner"
         },
         {
-            "prefix": "[Admin] ",
+            "prefix": "[GM] ",
             "colorR": 255,
             "colorG": 0,
             "colorB": 0,
-            "members": [],
-            "permissionToApplyGroup": "chat.prefix.admin"
+            "members": [
+                "76561198161108074",
+                "76561199485344583"
+            ],
+            "permissionToApplyGroup": "chat.prefix.gm"
         },
         {
             "prefix": "[VIP] ",

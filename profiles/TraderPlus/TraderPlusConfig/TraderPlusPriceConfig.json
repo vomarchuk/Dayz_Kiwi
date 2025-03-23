@@ -1736,7 +1736,9 @@
       "Products": [
         "Chainmail_Coif,1,-1,0,-1,500",
         "Chainmail_Leggings,1,-1,0,-1,500",
-        "Chainmail,1,-1,0,-1,500"
+        "Chainmail,1,-1,0,-1,500",
+        "Chestplate,1,-1,0,-1,500",
+        "MedievalBoots,1,-1,0,-1,500"
       ]
     },
     {
