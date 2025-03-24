@@ -3,7 +3,7 @@
     "ID": 2,
     "ObjectiveType": 8,
     "ObjectiveText": "Вбий всіх бандитів",
-    "TimeLimit": -1,
+    "TimeLimit": 2700,
     "Active": 1,
     "InfectedDeletionRadius": 500.0,
     "MaxDistance": -1.0,
