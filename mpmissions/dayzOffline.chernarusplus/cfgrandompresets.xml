@@ -159,8 +159,8 @@
 	</cargo>
 	<cargo chance="0.5" name="ammoArmy">
 		<item name="Ammo_45ACP" chance="0.5" />
-		<item name="CJ_Key3" chance="0.25" />
 		<item name="AmmoBox_45ACP_25Rnd" chance="0.25" />
+		<item name="CJ_Key3" chance="0.25" />
 		<item name="Ammo_762x39" chance="0.4" />
 		<item name="AmmoBox_762x39_20Rnd" chance="0.2" />
 		<item name="Ammo_762x54" chance="0.4" />
