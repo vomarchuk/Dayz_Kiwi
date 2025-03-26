@@ -323,7 +323,7 @@
         "4379.680664 464.624847 15041.517578|0 0 0"
       ],
       "keyclass": "CJ_Key3",
-      "openable": 2,
+      "openable": 1,
       "chest": [
         "CJ_LootChest_Wood_Green_Small"
       ],
@@ -354,7 +354,7 @@
         "4386.440918 455.124084 15028.009766|0 0 0"
       ],
       "keyclass": "CJ_Key3",
-      "openable": 2,
+      "openable": 1,
       "chest": [
         "CJ_LootChest_Wood_Green_Small"
       ],
@@ -434,7 +434,7 @@
         "2584.2 21.6415 1321.26|-80.065 0 0"
       ],
       "keyclass": "CJ_Key2",
-      "openable": 2,
+      "openable": 1,
       "chest": [
         "CJ_LootChest_Wood_Green_Small"
       ],
