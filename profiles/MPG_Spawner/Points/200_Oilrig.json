@@ -204,7 +204,7 @@
       "12603.621094, 14.10, 1891.760742",
       "12599.042969, 14.13, 1906.681763"
     ],
-    "spawnRadius": 1,
+    "spawnRadius": 2,
     "spawnMin": 10,
     "spawnMax": 10,
     "spawnCountLimit": 10,
@@ -262,7 +262,7 @@
       "12603.621094, 14.10, 1891.760742",
       "12599.042969, 14.13, 1906.681763"
     ],
-    "spawnRadius": 1,
+    "spawnRadius": 2,
     "spawnMin": 10,
     "spawnMax": 10,
     "spawnCountLimit": 10,
@@ -318,7 +318,7 @@
       "12582.810547, 14.10, 1825.436401",
       "12581.862305, 14.10, 1843.576660"
     ],
-    "spawnRadius": 1,
+    "spawnRadius": 2,
     "spawnMin": 10,
     "spawnMax": 10,
     "spawnCountLimit": 10,
@@ -373,7 +373,7 @@
       "12599.349609, 28.91, 1892.082275",
       "12592.645508, 28.80, 1904.982910"
     ],
-    "spawnRadius": 1,
+    "spawnRadius": 2,
     "spawnMin": 10,
     "spawnMax": 10,
     "spawnCountLimit": 10,
@@ -428,7 +428,7 @@
       "12516.956055, 28.75, 1879.501099",
       "12501.148438, 28.75, 1847.541504"
     ],
-    "spawnRadius": 1,
+    "spawnRadius": 2,
     "spawnMin": 10,
     "spawnMax": 10,
     "spawnCountLimit": 10,
@@ -484,7 +484,7 @@
       "12515.700195, 28.75, 1924.402466",
       "12518.902344, 28.85, 1909.335205"
     ],
-    "spawnRadius": 1,
+    "spawnRadius": 2,
     "spawnMin": 10,
     "spawnMax": 10,
     "spawnCountLimit": 10,
