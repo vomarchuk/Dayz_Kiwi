@@ -1465,28 +1465,10 @@
     "ItemsAfterButchering": {
       "all": [
         {
-          "ClassId": "Bone",
-          "DropChancePercent": 100,
-          "QuantityInStackFromPercent": 16,
-          "QuantityInStackToPercent": 84,
-          "ConditionFrom": 2,
-          "ConditionTo": 3,
-          "Foodstages": []
-        },
-        {
           "ClassId": "Rag",
           "DropChancePercent": 100,
           "QuantityInStackFromPercent": 9,
           "QuantityInStackToPercent": 74,
-          "ConditionFrom": 2,
-          "ConditionTo": 3,
-          "Foodstages": []
-        },
-        {
-          "ClassId": "Guts",
-          "DropChancePercent": 100,
-          "QuantityInStackFromPercent": 30,
-          "QuantityInStackToPercent": 100,
           "ConditionFrom": 2,
           "ConditionTo": 3,
           "Foodstages": []
@@ -1499,17 +1481,6 @@
           "ConditionFrom": 2,
           "ConditionTo": 3,
           "Foodstages": []
-        },
-        {
-          "ClassId": "HumanSteakMeat",
-          "DropChancePercent": 100,
-          "QuantityInStackFromPercent": 30,
-          "QuantityInStackToPercent": 100,
-          "ConditionFrom": 2,
-          "ConditionTo": 3,
-          "Foodstages": [
-            6
-          ]
         },
         {
           "ClassId": "HumanSteakMeat",
