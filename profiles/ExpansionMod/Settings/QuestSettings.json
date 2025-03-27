@@ -21,7 +21,7 @@
     "QuestNotInGroupText": "Групові квести можна приймати лише у складі групи!",
     "QuestNotGroupOwnerTitle": "Груповий квест",
     "QuestNotGroupOwnerText": "Тільки лідер групи може прийняти або здати груповий квест!",
-    "GroupQuestMode": 2,
+    "GroupQuestMode": 0,
     "AchievementCompletedTitle": "Achievement \"%1\" completed!",
     "AchievementCompletedText": "%1",
     "WeeklyResetDay": "Wednesday",
