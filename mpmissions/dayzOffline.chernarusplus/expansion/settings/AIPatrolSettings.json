@@ -111,8 +111,8 @@
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 2100.0,
+            "RespawnTime": 2100.0,
             "ClassName": "Wreck_UH1Y"
         },
         {
