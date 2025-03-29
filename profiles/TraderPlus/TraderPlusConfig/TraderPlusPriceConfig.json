@@ -110,6 +110,7 @@
         "Pajka,1,-1,0,-1,50",
         "BrisketSpread,1,-1,0,-1,50",
         "SaltySticks,1,-1,0,-1,50",
+        "Chips,1,-1,0,-1,50",
         "Honey,1,-1,0,-1,100",
         "UnknownFoodCan,1,-1,0,-1,80",
         "SpaghettiCan,1,-1,0,-1,100",
@@ -171,6 +172,7 @@
         "SodaCan_Kvass,1,-1,300,-1,32",
         "SodaCan_Pipsi,1,-1,300,-1,32",
         "SodaCan_Spite,1,-1,300,-1,32",
+        "SodaCan_Fronta,1,-1,300,-1,32",
         "WaterBottle,1,-1,0,-1,32",
         "Canteen,1,-1,0,-1,34",
         "FilteringBottle,1,-1,0,-1,68"
@@ -1591,6 +1593,8 @@
     {
       "CategoryName": "Рюкзаки",
       "Products": [
+        "CourierBag,1,-1,0,-1,50",
+        "FurCourierBag,1,-1,0,-1,60",
         "CanvasBag_Olive,1,-1,0,-1,50",
         "CanvasBag_Medical,1,-1,0,-1,50",
         "ArmyPouch_Black,1,-1,0,-1,90",
