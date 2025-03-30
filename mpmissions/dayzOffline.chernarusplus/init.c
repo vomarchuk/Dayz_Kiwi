@@ -55,6 +55,9 @@ class CustomMission : MissionServer
 
 	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
 	{
+		player.GetStatEnergy().Set(1000);
+		player.GetStatWater().Set(1000);
+		
 		player.RemoveAllItems();
 
 		/*
