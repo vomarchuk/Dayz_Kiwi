@@ -104,7 +104,7 @@
             "DamageMultiplier": -1.0,
             "DamageReceivedMultiplier": 0.60,
             "CanBeTriggeredByAI": 0,
-            "MinDistRadius": 500.0,
+            "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
             "DespawnRadius": -1.0,
             "MinSpreadRadius": 5.0,
