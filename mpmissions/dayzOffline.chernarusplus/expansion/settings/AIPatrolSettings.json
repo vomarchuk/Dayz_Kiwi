@@ -3638,6 +3638,88 @@
                     1209.718140
                 ]
             ]
+        },
+        {
+            "Name": "Guard",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 2.0,
+            "Loadout": "SniperLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 1.0,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 500.0,
+            "NoiseInvestigationDistanceLimit": 500.0,
+            "DamageMultiplier": 0.2,
+            "DamageReceivedMultiplier": 0.30,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 250.0,
+            "MaxDistRadius": 500.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 30.0,
+            "RespawnTime": 60.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    12604.686523, 
+                    52.354906, 
+                    1903.944336
+                ]
+            ]
+        },
+        {
+            "Name": "Guard",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 2.0,
+            "Loadout": "SniperLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 1.0,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 500.0,
+            "NoiseInvestigationDistanceLimit": 500.0,
+            "DamageMultiplier": 0.2,
+            "DamageReceivedMultiplier": 0.30,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 300.0,
+            "MaxDistRadius": 500.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 30.0,
+            "RespawnTime": 60.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    12478.149414, 
+                    37.545980, 
+                    1853.650146
+                ]
+            ]
         }
     ]
 }
