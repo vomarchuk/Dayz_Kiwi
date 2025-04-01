@@ -212,6 +212,9 @@
         "Heatpack,1,-1,0,-1,25",
         "StartKitIV,1,-1,0,-1,25",
         "SalineBag,1,-1,0,-1,25",
+        "SlingBag_Brown,1,-1,0,-1,25",
+        "SlingBag_Grey,1,-1,0,-1,25",
+        "SlingBag_Black,1,-1,0,-1,25",
         "BloodBagEmpty,1,-1,0,-1,25",
         "TerjeSurgicalTool_Ceramic,1,-1,0,-1,125",
         "TerjeSurgicalTool_White,1,-1,0,-1,125",
@@ -1595,6 +1598,7 @@
         "HipPack_Green,1,-1,0,150,25",
         "HipPack_Medical,1,-1,0,150,25",
         "HipPack_Party,1,-1,0,150,25",
+        "HipPack_Black,1,-1,0,150,25",
         "CivilianBelt,1,-1,0,150,25",
         "MilitaryBelt,1,-1,0,150,25"
       ]
