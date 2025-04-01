@@ -396,19 +396,19 @@
       "MedicsProjectile": {
         "ItemClasses": [
           "Vodka",
-          "KitchenKnife",
-          "KitchenKnife",
-          "SteakKnife",
           "GasMask_Filter",
           "IodineTincture",
-          "DisinfectantAlcohol",
-          "DisinfectantSpray"
+          "DisinfectantAlcohol"
         ],
         "Parameters": {
-          "ThrowConditionAmountOfProjectiles": 2,
-          "ThrowConditionThrowChancePercent": 0.1,
-          "ThrowConditionCooldownSeconds": 30,
-          "ThrowConditionAllowThrowingForCrawlers": 0
+          "TargetHealthDamage": 50,
+          "TargetShockDamage": 25,
+          "TargetBleedingChancePercent": 5,
+          "DestroyProjectileAfterSeconds": 1,
+          "ThrowConditionAmountOfProjectiles": -1,
+          "ThrowConditionAllowThrowingForCrawlers": 0,
+          "ThrowConditionCooldownSeconds": 15,
+          "ThrowConditionZombieTargetDistanceMax": 25
         }
       },
       "FishermenProjectile": {
@@ -633,7 +633,7 @@
     },
     "UpJumpHeightMax": {
       "all": 2,
-      "bosses": 2.5
+      "bosses": 2.6
     },
     "UpJumpImpulseDamageChancePercent": {
       "all": 50
@@ -1529,7 +1529,9 @@
     "ThrowingProjectilesHandlerIsActive": {
       "all": 0,
       "BRDK_Am_Soldier_03_zmb": 1,
-      "BRDK_FamDoctor_zmb": 1
+      "BRDK_FamDoctor_zmb": 1,
+      "FC_Zmb_Toxic_White": 1,
+      "FC_Zmb_Toxic_Yellow": 1
     },
     "ThrowingProjectilesHandlerDamageMultiplier": {
       "all": 0.1,
@@ -1546,6 +1548,12 @@
       "lowstr": 1.7999999523162842
     },
     "ThrowingProjectilesHandlerProjectilesList": {
+      "FC_Zmb_Toxic_White": [
+        "MedicsProjectile"
+      ],
+      "FC_Zmb_Toxic_Yellow": [
+        "MedicsProjectile"
+      ],
       "BRDK_Am_Soldier_03_zmb": [
         "FlashGrenade"
       ],
