@@ -140,5 +140,13 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="rag_hummer_types.xml" type="types" />
 		<file name="rag_landrover_types.xml" type="types" />
 	</ce>
+	<!-- Car Radio -->
+	<ce folder="types/Car_Radio_ce">
+		<file name="cassette.xml" type="types" />
+	</ce>
+	<!-- Spoon Clothing -->
+	<ce folder="types/Spoon_Clothing_ce">
+		<file name="Spoon_Clothing.xml" type="types" />
+	</ce>
 
 </economycore>
