@@ -407,7 +407,7 @@
           "DestroyProjectileAfterSeconds": 1,
           "ThrowConditionAmountOfProjectiles": -1,
           "ThrowConditionAllowThrowingForCrawlers": 0,
-          "ThrowConditionCooldownSeconds": 10,
+          "ThrowConditionCooldownSeconds": 15,
           "ThrowConditionZombieTargetDistanceMax": 25
         }
       },
