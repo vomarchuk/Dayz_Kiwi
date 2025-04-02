@@ -1876,7 +1876,8 @@
         "BRDK_MedievalMan2_hand,1,-1,0,-1,50",
         "BRDK_MedievalMan_Leg,1,-1,0,-1,1000",
         "BRDK_MedievalMan_hand,1,-1,0,-1,1000",
-        "BRDK_MedievalMan_head,1,-1,0,-1,1000"
+        "BRDK_MedievalMan_head,1,-1,0,-1,1000",
+        "GW_EnigmaHead,1,-1,0,-1,10000"
       ]
     },
     {
