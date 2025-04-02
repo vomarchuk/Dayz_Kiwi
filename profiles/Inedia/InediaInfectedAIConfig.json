@@ -1509,7 +1509,8 @@
     },
     "SizeHandlerIsActive": {
       "all": 0,
-      "bosses": 1
+      "bosses": 1,
+      "GW_Creature_Enigma": 1
     },
     "SizeFromMultiplier": {
       "all": 1.4
