@@ -12398,7 +12398,6 @@ RadiationZone
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
-			<category name="books" />
 			<tag name="shelves" />
 			<point pos="-0.452310  -6.122720  18.980309" range="0.100000" height="0.250000" />
 			<point pos="5.090766  -8.265984  3.902922" range="0.100000" height="0.100001" flags="32" />
