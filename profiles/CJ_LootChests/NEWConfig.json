@@ -368,7 +368,7 @@
         "VM_InjectorHP|0.10"
       ],
       "respawn": 1,
-      "respawn_timer": 50,
+      "respawn_timer": 55,
       "randomize_position": 1
     },
     {
@@ -480,7 +480,7 @@
         "VM_InjectorHP|0.10"
       ],
       "respawn": 1,
-      "respawn_timer": 50,
+      "respawn_timer": 55,
       "randomize_position": 1
     },
     {
@@ -569,7 +569,7 @@
         "VM_InjectorHP|0.10"
       ],
       "respawn": 1,
-      "respawn_timer": 50,
+      "respawn_timer": 55,
       "randomize_position": 1
     }
   ],
