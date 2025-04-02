@@ -19673,7 +19673,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="tools" />
     </type>
-    <type name="TelnyashkaShirt">
+    <!-- <type name="TelnyashkaShirt">
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -19685,7 +19685,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
-    </type>
+    </type> -->
     <type name="TerritoryFlag">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -20782,10 +20782,10 @@
         <usage name="Industrial" />
     </type>
     <type name="Wellies_Black">
-        <nominal>25</nominal>
+        <nominal>0</nominal>
         <lifetime>600</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20795,10 +20795,10 @@
         <usage name="Farm" />
     </type>
     <type name="Wellies_Brown">
-        <nominal>25</nominal>
+        <nominal>0</nominal>
         <lifetime>600</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20808,10 +20808,10 @@
         <usage name="Farm" />
     </type>
     <type name="Wellies_Green">
-        <nominal>25</nominal>
+        <nominal>0</nominal>
         <lifetime>600</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20821,10 +20821,10 @@
         <usage name="Farm" />
     </type>
     <type name="Wellies_Grey">
-        <nominal>25</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
