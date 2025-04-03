@@ -72,10 +72,10 @@
 
     <!-- TERJE AMPOULS -->
     <type name="TerjeAmpouleAlcohol">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
