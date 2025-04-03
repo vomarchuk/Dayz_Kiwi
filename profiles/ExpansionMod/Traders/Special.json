@@ -6,7 +6,9 @@
   "RequiredFaction": "",
   "RequiredCompletedQuestID": -1,
   "TraderIcon": "Questionmark",
-  "Currencies": ["TraderPlus_Money_DIM_Gold"],
+  "Currencies": [
+    "TraderPlus_Money_DIM_Gold"
+  ],
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",
   "Categories": [
@@ -14,7 +16,8 @@
     "Voting_bags:0",
     "Voting_weapons:0",
     "Voting_mag:0",
-    "Voting_books:0"
+    "Voting_books:0",
+    "Voting_cassette:0"
   ],
   "Items": {}
 }

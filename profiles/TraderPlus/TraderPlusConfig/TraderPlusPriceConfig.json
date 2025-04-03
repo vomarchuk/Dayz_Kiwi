@@ -1788,6 +1788,7 @@
       "CategoryName": "Сет Привида",
       "Products": [
         "VM_Ghost_Helmet,1,-1,0,100000,10000",
+        "VM_Ghost_Helmet_NBC,1,-1,0,100000,10000",
         "VM_Ghost_Top_V1,1,-1,0,120000,12500",
         "VM_Ghost_Pants_V1,1,-1,0,120000,12500",
         "VM_Ghost_Vest_V1,1,-1,0,150000,15000",
@@ -2956,15 +2957,6 @@
       "CategoryName": "TyphoonK",
       "Products": [
         "TyphoonK_CamoGreen,1,-1,1,500000,8000"
-      ]
-    },
-    {
-      "CategoryName": "MotorHomes",
-      "Products": [
-        "MotorHome_Apo,1,-1,1,500000,8000",
-        "MotorHome_White,1,-1,1,500000,8000",
-        "MotorHome_Rust,1,-1,1,500000,8000",
-        "MotorHome_GreenCamo,1,-1,1,500000,8000"
       ]
     },
     {

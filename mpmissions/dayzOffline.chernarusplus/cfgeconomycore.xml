@@ -66,11 +66,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/TraderPlus_ce">
 		<file name="TraderPlus_types.xml" type="types" />
 	</ce>
-	<!-- HM -->
-	<ce folder="types/HM_ce">
-		<file name="HM.xml" type="types" />
-	</ce>
-
 	<!-- Boomlay -->
 	<ce folder="types/BoomLay_ce">
 		<file name="item_types.xml" type="types"/>
@@ -100,9 +95,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="Nomad_Backpack.xml" type="types"/>
 	</ce>
 	<!-- TOFU -->
-	<ce folder="types/Tofu_ce">
+	<!-- <ce folder="types/Tofu_ce">
 		<file name="Tofu_Barrels.xml" type="types" />
-	</ce>
+	</ce> -->
 	<!-- Items -->
 	<ce folder="types/Items_ce">
 		<file name="random_items_types.xml" type="types" />
