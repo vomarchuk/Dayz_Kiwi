@@ -72,9 +72,9 @@
         </children>
     </event>
     <event name="AnimalCow">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <min>1</min>
-        <max>3</max>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -94,7 +94,7 @@
         </children>
     </event>
     <event name="AnimalDeer">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -149,7 +149,7 @@
         </children>
     </event>
     <event name="AnimalRoeDeer">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <min>2</min>
         <max>3</max>
         <lifetime>180</lifetime>
@@ -202,8 +202,8 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>8</nominal>
-        <min>3</min>
+        <nominal>6</nominal>
+        <min>2</min>
         <max>5</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
