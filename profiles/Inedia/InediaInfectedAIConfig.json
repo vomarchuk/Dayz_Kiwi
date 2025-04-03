@@ -670,7 +670,8 @@
     },
     "InjuryHandlerIsActive": {
       "all": 1,
-      "bosses": 0
+      "bosses": 0,
+      "GW_Creature_Enigma": 0
     },
     "InjuryHandlerInjuryOnExplosiveDamageChancePercent": {
       "all": 100
