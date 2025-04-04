@@ -234,37 +234,48 @@
         <category name="clothes" />
     </type>
     <type name="FB_fedora_brown">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Military" />
+        <usage name="Hunting" />
+
     </type>
     <type name="FB_fedora_black">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Military" />
+        <usage name="Hunting" />
     </type>
     <type name="FB_fedora_blue">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="FB_cap_label_olive">
         <nominal>30</nominal>
@@ -965,26 +976,34 @@
         <category name="clothes" />
     </type>
     <type name="FB_winter_boots_pink">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="Village" />
+
     </type>
     <type name="FB_winter_boots_black">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="Village" />
+
     </type>
     <type name="FB_winter_boots_blue">
         <nominal>0</nominal>
