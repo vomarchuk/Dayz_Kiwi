@@ -166,6 +166,7 @@
         "FC_Zmb_Worker_Soldier_Blood"
       ],
       "bosses": [
+        "GW_Creature_Enigma",
         "BRDK_Am_Soldier_01_zmb",
         "BRDK_Am_Soldier_02_zmb",
         "BRDK_Am_Soldier_03_zmb",
@@ -670,8 +671,7 @@
     },
     "InjuryHandlerIsActive": {
       "all": 1,
-      "bosses": 0,
-      "GW_Creature_Enigma": 0
+      "bosses": 0
     },
     "InjuryHandlerInjuryOnExplosiveDamageChancePercent": {
       "all": 100
@@ -1347,6 +1347,9 @@
       },
       "bosses": {
         "all": 0.4
+      },
+      "GW_Creature_Enigma": {
+        "all": 1
       }
     },
     "MeleeAttacksDodgeHandlerIsActive": {
@@ -1414,8 +1417,7 @@
     },
     "RespawnInCrawlingChancePercent": {
       "all": 10,
-      "bosses": 0,
-      "GW_Creature_Enigma": 0
+      "bosses": 0
     },
     "ScreamHandlerIsActive": {
       "all": 1
@@ -1511,8 +1513,7 @@
     },
     "SizeHandlerIsActive": {
       "all": 0,
-      "bosses": 1,
-      "GW_Creature_Enigma": 1
+      "bosses": 1
     },
     "SizeFromMultiplier": {
       "all": 1.4
