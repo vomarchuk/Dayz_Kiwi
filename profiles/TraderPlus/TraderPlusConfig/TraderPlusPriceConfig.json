@@ -2973,7 +2973,7 @@
         "SCWS_MRO,1,-1,1,-1,300",
         "SCWS_Bravo,1,-1,1,-1,300",
         "SCWS_HAMROptic,1,-1,1,-1,1000",
-        "SCWS_M14_scope,1,-1,1,-1,300",
+        "SCWS_M14_scope,1,-1,1,1500,300",
         "SCWS_colimdot,1,-1,1,-1,250",
         "SCWS_UH1,1,-1,1,-1,250",
         "SCWS_uhScope,1,-1,1,-1,500",
