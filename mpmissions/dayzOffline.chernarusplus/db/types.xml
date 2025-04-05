@@ -831,7 +831,7 @@
         <usage name="Hunting" />
     </type>
     <type name="Ammo_12gaRubberSlug">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>35</min>
@@ -874,6 +874,9 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="Ammo_308Win">
         <nominal>50</nominal>
@@ -903,7 +906,6 @@
         <category name="weapons" />
         <tag name="shelves" />
         <usage name="Military" />
-        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -935,6 +937,9 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="Ammo_40mm_Chemgas">
         <nominal>5</nominal>
@@ -1056,6 +1061,9 @@
         <category name="weapons" />
         <tag name="shelves" />
         <usage name="Military" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="Ammo_556x45">
         <nominal>50</nominal>
@@ -1103,9 +1111,9 @@
         <usage name="Farm" />
         <usage name="Village" />
         <usage name="Hunting" />
-        <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="Ammo_762x39Tracer">
         <nominal>45</nominal>
@@ -1153,7 +1161,6 @@
         <category name="weapons" />
         <tag name="shelves" />
         <usage name="Military" />
-        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
