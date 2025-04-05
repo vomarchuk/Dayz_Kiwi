@@ -5422,7 +5422,7 @@
         <usage name="Industrial" />
     </type>
     <type name="CivSedanTrunk_BlackRust">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>7</min>
@@ -5434,7 +5434,7 @@
         <usage name="Industrial" />
     </type>
     <type name="CivSedanTrunk_WhiteRust">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>7</min>
