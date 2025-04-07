@@ -6809,6 +6809,7 @@
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
+			<category name="MedicalTools"/>
 			<point pos="2.150299 -7.274200 -0.076138" range="0.093629" height="0.937500" />
 			<point pos="2.659601 -7.274200 0.239354" range="0.179396" height="1.023438" />
 			<point pos="3.114574 -7.274200 0.522239" range="0.356350" height="1.023438" />
@@ -12156,6 +12157,7 @@ RadiationZone
 			<category name="clothes" />
 			<category name="weapons" />
 			<category name="explosives" />
+			<category name="MedicalTools"/>
 			<tag name="floor" />
 			<tag name="shelves" />
 			<point pos="0.895633  -1.529320  -1.835329" range="0.168750" height="0.421875" />
@@ -12185,6 +12187,7 @@ RadiationZone
 			<category name="containers" />
 			<category name="clothes" />
 			<category name="books" />
+			<category name="MedicalTools"/>
 			<tag name="shelves" />
 			<point pos="-0.943681  1.240356  -4.663615" range="0.100000" height="0.250000" />
 			<point pos="-1.474617  0.722397  1.206423" range="0.100000" height="0.250000" />
@@ -12243,6 +12246,7 @@ RadiationZone
 			<category name="containers" />
 			<category name="clothes" />
 			<category name="books" />
+			<category name="MedicalTools"/>
 			<category name="RadiationZone" />
 			<tag name="shelves" />
 			<point pos="-0.943681  1.240356  -4.663615" range="0.100000" height="0.250000" />
