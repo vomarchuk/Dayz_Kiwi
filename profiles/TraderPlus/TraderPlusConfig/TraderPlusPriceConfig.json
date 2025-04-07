@@ -43,14 +43,14 @@
     {
       "CategoryName": "Cigarette",
       "Products": [
-        "CP_CigarettePack_CannabisNomad,1,-1,0,-1,500",
+        "CP_CigarettePack_CannabisNomad,1,-1,0,-1,750",
         "CP_CigarettePack_CannabisSkunk,1,-1,0,-1,500",
-        "CP_CigarettePack_CannabisBlackFrost,1,-1,0,-1,500",
-        "CP_CigarettePack_CannabisBlue,1,-1,0,-1,500",
-        "CP_CigarettePack_CannabisFuture,1,-1,0,-1,500",
-        "CP_CigarettePack_CannabisS1,1,-1,0,-1,500",
+        "CP_CigarettePack_CannabisBlackFrost,1,-1,0,-1,750",
+        "CP_CigarettePack_CannabisBlue,1,-1,0,-1,600",
+        "CP_CigarettePack_CannabisFuture,1,-1,0,-1,700",
+        "CP_CigarettePack_CannabisS1,1,-1,0,-1,700",
         "CP_CigarettePack_Empty,1,-1,0,-1,50",
-        "CP_CigarettePack_CannabisStardawg,1,-1,0,-1,500",
+        "CP_CigarettePack_CannabisStardawg,1,-1,0,-1,600",
         "CP_CigarettePack_CannabisKush,1,-1,0,-1,500"
       ]
     },
@@ -60,11 +60,11 @@
         "CP_RollingPapers_Green,1,-1,0,-1,100",
         "CP_RollingPapers_Silver,1,-1,0,-1,100",
         "CP_RollingPapers,1,-1,0,-1,100",
-        "CP_Bagger,1,-1,0,30000,3000",
-        "CP_EmptyBag,1,-1,1,-1,100",
+        "CP_Bagger,1,-1,1,30000,3000",
+        "CP_EmptyBag,1,-1,1,-1,50",
         "CP_CompostBin,1,-1,0,-1,1000",
         "CP_Relief_Balm,1,-1,0,-1,100",
-        "CP_PlasticWrapper,1,-1,0,30000,3000",
+        "CP_PlasticWrapper,1,-1,1,30000,3000",
         "CP_PlasticRoll,1,-1,0,-1,500",
         "CP_Workbench_Kit,1,-1,0,-1,1000",
         "CP_Pouch,1,-1,0,-1,10"
