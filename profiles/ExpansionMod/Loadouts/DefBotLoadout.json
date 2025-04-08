@@ -262,7 +262,7 @@
                                         {
                                             "ClassName": "SCWS_M249_Magazine",
                                             "Include": "",
-                                            "Chance": 0.800000011920929,
+                                            "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -315,6 +315,22 @@
                             "Sets": []
                         }
                     ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "SCWS_M249_Magazine",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ],
             "ConstructionPartsBuilt": [],
