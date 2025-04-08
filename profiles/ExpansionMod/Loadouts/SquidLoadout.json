@@ -204,7 +204,7 @@
                 {
                     "ClassName": "PoliceVest",
                     "Include": "",
-                    "Chance": 0.70,
+                    "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
