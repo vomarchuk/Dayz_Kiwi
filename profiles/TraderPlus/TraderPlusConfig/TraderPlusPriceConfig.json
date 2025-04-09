@@ -350,11 +350,10 @@
         "Megaphone,1,-1,0,-1,150",
         "ElectronicRepairKit,1,-1,100,-1,200",
         "CableReel,1,-1,0,-1,40",
-        "BatteryCharger,1,-1,0,-1,60",
+        "BatteryCharger,1,-1,0,-1,250",
         "Rangefinder,1,-1,0,-1,60",
         "NVGoggles,1,-1,0,-1,1500",
-        "GPSReceiver,1,-1,0,-1,120",
-        "ExpansionGPS,1,-1,0,-1,520"
+        "GPSReceiver,1,-1,0,-1,1500"
       ]
     },
     {
@@ -929,7 +928,10 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": ["TLRLight,1,-1,0,200,40", "Universallight,1,-1,0,250,45"]
+      "Products": [
+        "TLRLight,1,-1,0,200,40",
+        "Universallight,1,-1,0,250,45"
+      ]
     },
     {
       "CategoryName": "Окуляри",
@@ -3062,7 +3064,9 @@
     },
     {
       "CategoryName": "TyphoonK",
-      "Products": ["TyphoonK_CamoGreen,1,-1,1,500000,8000"]
+      "Products": [
+        "TyphoonK_CamoGreen,1,-1,1,500000,8000"
+      ]
     },
     {
       "CategoryName": "MotorHomes",
