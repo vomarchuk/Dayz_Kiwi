@@ -300,7 +300,7 @@
           "ThrowConditionAmountOfProjectiles": -1,
           "ActivateGrenadeAfterSeconds": 0.5,
           "ThrowConditionAllowThrowingForCrawlers": 0,
-          "ThrowConditionCooldownSeconds": 30,
+          "ThrowConditionCooldownSeconds": 20,
           "ThrowConditionZombieTargetDistanceMax": 50
         }
       },
@@ -313,7 +313,7 @@
           "ThrowConditionAmountOfProjectiles": -1,
           "ActivateGrenadeAfterSeconds": 0.8,
           "ThrowConditionAllowThrowingForCrawlers": 0,
-          "ThrowConditionCooldownSeconds": 30
+          "ThrowConditionCooldownSeconds": 10
         }
       },
       "VillagersProjectile": {
