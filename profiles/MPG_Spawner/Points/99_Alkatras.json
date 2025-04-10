@@ -34,7 +34,9 @@
     "triggerDisableOnWin": 0,
     "triggerDisableOnLeave": 0,
     "spawnPositions": [
-      "2779.014160, 26.0, 1190.782471"
+      "2779.014160, 26.0, 1190.782471",
+      "2790.298340, 26.0, 1223.770020",
+      "2824.448486, 26.1, 1214.198120"
     ],
     "spawnRadius": 0,
     "spawnMin": 1,
