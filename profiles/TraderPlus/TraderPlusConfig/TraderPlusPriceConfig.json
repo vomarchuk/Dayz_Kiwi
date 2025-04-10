@@ -1793,14 +1793,14 @@
     {
       "CategoryName": "Сет Хімера",
       "Products": [
-        "VM_TOXIC_GasMask,1,-1,0,50000,5000",
-        "VM_TOXIC_Jacket,1,-1,0,40000,4000",
-        "VM_TOXIC_Pants,1,-1,0,35000,3500",
-        "VM_TOXIC_Boots,1,-1,0,15000,1500",
-        "VM_TOXIC_Gloves,1,-1,0,15000,1500",
-        "VM_TOXIC_Vest,1,-1,0,15000,1500",
-        "VM_TOXIC_Belt,1,-1,0,15000,1500",
-        "VM_TOXIC_Pouch,1,-1,0,10000,1000"
+        "SSM_Seva_GasBack_Full,1,-1,0,50000,5000",
+        "SSM_Seva_Jacket,1,-1,0,40000,4000",
+        "SSM_Seva_Pants,1,-1,0,35000,3500",
+        "SSM_Seva_Boots,1,-1,0,15000,1500",
+        "SSM_Seva_Gloves,1,-1,0,15000,1500",
+        "SSM_Seva_Vest,1,-1,0,15000,1500",
+        "SSM_Seva_Belt,1,-1,0,15000,1500",
+        "SSM_Seva_Pouch,1,-1,0,10000,1000"
       ]
     },
     {

@@ -3650,9 +3650,9 @@
             "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "LootingBehaviour": "",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
             "AccuracyMin": 1.0,
@@ -3674,8 +3674,8 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12604.686523, 
-                    52.354906, 
+                    12604.686523,
+                    52.354906,
                     1903.944336
                 ]
             ]
@@ -3691,9 +3691,9 @@
             "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "LootingBehaviour": "",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
             "AccuracyMin": 1.0,
@@ -3715,9 +3715,50 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12478.149414, 
-                    37.545980, 
+                    12478.149414,
+                    37.545980,
                     1853.650146
+                ]
+            ]
+        },
+        {
+            "Name": "Guard",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 2.0,
+            "Loadout": "DefBotLoadout",
+            "Units": [],
+            "NumberOfAI": 2,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 1.0,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 500.0,
+            "NoiseInvestigationDistanceLimit": 500.0,
+            "DamageMultiplier": 2.0,
+            "DamageReceivedMultiplier": 0.01,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 50.0,
+            "MaxDistRadius": 120.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 240.0,
+            "RespawnTime": 600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    879.347900,
+                    467.436462,
+                    14797.789063
                 ]
             ]
         }

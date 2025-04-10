@@ -3,7 +3,7 @@
     "dna_WARNING_CONTINUED": "Distance is in meters, and all time is in whole minutes. To turn off a tier, just set to longer than intended uptime.",
     "dna_UseResetTimer": 1,
     "dna_TimeBetweenChecks": 1,
-    "dna_Min_Distance_Between_Nearest_Player": 25.0,
+    "dna_Min_Distance_Between_Nearest_Player": 1,
     "dna_ResetCrates": 1,
     "dna_TimeUntilYellowCrateResets": 1,
     "dna_TimeUntilGreenCrateResets": 1,

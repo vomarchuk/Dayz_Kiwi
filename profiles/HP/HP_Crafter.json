@@ -3194,7 +3194,7 @@
         "CategoryName": "Сет Хімера",
         "CraftItems": [
           {
-            "Result": "VM_TOXIC_Jacket",
+            "Result": "SSM_Seva_Jacket",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -3245,7 +3245,7 @@
             ]
           },
           {
-            "Result": "VM_TOXIC_Pants",
+            "Result": "SSM_Seva_Pants",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -3296,7 +3296,7 @@
             ]
           },
           {
-            "Result": "VM_TOXIC_GasMask",
+            "Result": "SSM_Seva_GasBack_Full",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -3359,7 +3359,7 @@
             ]
           },
           {
-            "Result": "VM_TOXIC_Gloves",
+            "Result": "SSM_Seva_Gloves",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -3416,7 +3416,7 @@
             ]
           },
           {
-            "Result": "VM_TOXIC_Boots",
+            "Result": "SSM_Seva_Boots",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
