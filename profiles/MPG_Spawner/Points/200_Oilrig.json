@@ -39,9 +39,9 @@
       "12556.316406, 14.10, 1843.685303"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -50,7 +50,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -92,9 +92,9 @@
       "12520.666992, 14.10, 1870.397705"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -103,7 +103,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -147,9 +147,9 @@
       "12532.725586, 14.10, 1916.936768"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -158,7 +158,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -205,9 +205,9 @@
       "12599.042969, 14.13, 1906.681763"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -216,7 +216,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -263,9 +263,9 @@
       "12599.042969, 14.13, 1906.681763"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -274,7 +274,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -319,9 +319,9 @@
       "12581.862305, 14.10, 1843.576660"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -330,7 +330,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -374,9 +374,9 @@
       "12592.645508, 28.80, 1904.982910"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -385,7 +385,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -429,9 +429,9 @@
       "12501.148438, 28.75, 1847.541504"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -440,7 +440,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -485,9 +485,9 @@
       "12518.902344, 28.85, 1909.335205"
     ],
     "spawnRadius": 2,
-    "spawnMin": 10,
-    "spawnMax": 10,
-    "spawnCountLimit": 10,
+    "spawnMin": 7,
+    "spawnMax": 7,
+    "spawnCountLimit": 7,
     "spawnLoopInside": 0,
     "spawnList": [
       "FC_Zmb_Toxic_White",
@@ -496,7 +496,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -550,7 +550,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   }
 ]
