@@ -379,7 +379,7 @@
       "keyclass": "CJ_Key3",
       "openable": 1,
       "chest": [
-        "CJ_LootChest_Wood_Green_Small"
+        "CJ_LootChest_Wood_Green_Tools_Small"
       ],
       "lootrandomize": 0.0,
       "light": 1,
