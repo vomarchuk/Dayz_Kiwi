@@ -234,6 +234,35 @@
     {
         "type": 0,
         "uid": 1660995117,
+        "name": "Радіаційна зона",
+        "icon": "DZ\\gear\\navigation\\data\\map_tree_ca.paa",
+        "position": [
+            13807.695313,
+            14.190087,
+            11150.918945
+        ],
+        "currentSubgroup": 0,
+        "colorA": 255,
+        "colorR": 255,
+        "colorG": 255,
+        "colorB": 0,
+        "creatorSteamID": "",
+        "circleRadius": 150.0,
+        "circleColorA": 255,
+        "circleColorR": 255,
+        "circleColorG": 255,
+        "circleColorB": 0,
+        "circleStriked": 1,
+        "circleLayer": -1,
+        "showAllPlayerNametags": 0,
+        "toSurface": 1,
+        "display3d": 0,
+        "displayMap": 1,
+        "displayGPS": 1
+    },
+    {
+        "type": 0,
+        "uid": 1660995117,
         "name": "Морський бастіон",
         "icon": "LBmaster_Groups\\gui\\icons\\ship.paa",
         "position": [
