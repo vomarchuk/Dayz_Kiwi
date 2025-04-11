@@ -23,16 +23,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4380.401367, 464.505035, 15047.269531",
       "4375.041016, 464.492310, 15040.962891",
@@ -46,7 +46,7 @@
       "4391.330078, 464.469055, 15034.835938",
       "4378.650391, 464.551910, 15022.753906"
     ],
-    "spawnRadius": 0.0,
+    "spawnRadius": 1.0,
     "spawnMin": 11,
     "spawnMax": 11,
     "spawnCountLimit": 30,
@@ -58,7 +58,7 @@
       "ZmbM_usSoldier_normal_Desert"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -85,16 +85,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4374.203613, 464.497498, 15031.175781",
       "4374.535645, 464.476593, 15021.934570",
@@ -120,7 +120,7 @@
       "ZmbM_usSoldier_normal_Desert"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -147,16 +147,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4352.450684, 454.564026, 15034.426758",
       "4372.253418, 454.669250, 15018.826172",
@@ -183,7 +183,7 @@
       "ZmbM_usSoldier_normal_Desert"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -210,16 +210,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4352.450684, 454.564026, 15034.426758",
       "4372.253418, 454.669250, 15018.826172",
@@ -248,7 +248,7 @@
       "ZmbM_usSoldier_normal_Desert"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -275,16 +275,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4354.175781, 428.959320, 14989.411133",
       "4348.357910, 434.129517, 15015.464844",
@@ -319,7 +319,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -350,12 +350,12 @@
     "triggerCooldown": "2700",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4319.787598, 429.464111, 15022.200195"
     ],
@@ -368,7 +368,7 @@
       "BRDK_MedievalMan_zmb"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -395,16 +395,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4358.584961, 464.669489, 15018.009766",
       "4368.972656, 464.569116, 14998.356445",
@@ -422,7 +422,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -449,16 +449,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "300",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4398.165039, 455.231409, 15025.008789"
     ],
@@ -472,7 +472,7 @@
       "FC_Zmb_Toxic_Yellow"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   },
   {
@@ -499,16 +499,16 @@
     "triggerHeight": "",
     "triggerWidthX": "",
     "triggerWidthY": "",
-    "triggerFirstDelay": "2-4",
+    "triggerFirstDelay": "10-30",
     "triggerCooldown": "2700",
     "triggerSafeDistance": 5.0,
     "triggerEnterDelay": 0,
-    "triggerCleanupOnLeave": 1,
+    "triggerCleanupOnLeave": 0,
     "triggerCleanupOnLunchTime": 0,
     "triggerCleanupDelay": 0,
     "triggerWorkingTime": "0-24",
     "triggerDisableOnWin": 0,
-    "triggerDisableOnLeave": 1,
+    "triggerDisableOnLeave": 0,
     "spawnPositions": [
       "4390.970215, 470.340448, 15024.783203"
     ],
@@ -521,7 +521,7 @@
       "BRDK_FamDoctor_zmb"
     ],
     "clearDeathAnimals": 0,
-    "clearDeathZombies": 0,
+    "clearDeathZombies": 300,
     "mappingData": []
   }
 ]
