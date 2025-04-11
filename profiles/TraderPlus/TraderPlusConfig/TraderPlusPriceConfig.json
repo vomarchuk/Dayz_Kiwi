@@ -1758,7 +1758,11 @@
         "MountainBag_Green,1,-1,0,-1,230",
         "AliceBag_Black,1,-1,0,-1,260",
         "AliceBag_Green,1,-1,0,-1,260",
-        "AliceBag_Camo,1,-1,0,-1,260"
+        "AliceBag_Camo,1,-1,0,-1,260",
+        "LeatherSack_Brown,1,-1,1,-1,750",
+        "LeatherSack_Natural,1,-1,1,-1,750",
+        "LeatherSack_Black,1,-1,1,-1,750",
+        "LeatherSack_Beige,1,-1,1,-1,750"
       ]
     },
     {
