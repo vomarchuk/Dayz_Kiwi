@@ -2,7 +2,7 @@
     "version": 2,
     "admins": [
         {
-            "steamid": "76561198141097113",
+            "steamid": "76561198161108074",
             "ingameNameForPermissions": "",
             "comment": "Remove Me",
             "grantAllPermissions": 1,
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "steamid": "SteamiID Here",
+            "steamid": "76561198104182080",
             "ingameNameForPermissions": "",
             "comment": "Another Admin",
             "grantAllPermissions": 0,
