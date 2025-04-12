@@ -361,8 +361,8 @@
         "LC_Table_Ammo_545_308_762",
         "LC_Table_Ammo_545_308_762",
         "LC_Table_Ammo_545_308_762",
-        "SCWS_AmmoBox_338|0.50",
-        "SCWS_AmmoBox_338|0.50",
+        "SCWS_AmmoBox_338|0.30",
+        "SCWS_AmmoBox_338|0.30",
         "LC_Table_Money_Event_Low",
         "VM_InjectorHP|0.10"
       ],
@@ -384,8 +384,9 @@
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
-        "LC_Table_Craft_Random_Ingredients_2",
-        "LC_Table_Money_Event_Low"
+        "LC_Table_Craft_Random_Ingredients_YAR",
+        "LC_Table_Money_Event_Low",
+        "SC_FIXglovesIIO|0.05"
       ],
       "respawn": 1,
       "respawn_timer": 45,
@@ -393,7 +394,7 @@
     },
     {
       "name": "Alkatras",
-      "number": 5,
+      "number": 4,
       "pos": [
         "2443.41 4.00935 1366.67|109.818 0 0",
         "2490.94 4.09021 1343.8|-102.125 0 0",
@@ -442,7 +443,6 @@
         "2773.51 26.1174 1236.58|-49.2376 0 0",
         "2780.87 29.2274 1235.2|43.0978 0 0",
         "2808.02 25.97 1193.02|40.8155 0 0",
-        "2764.78 25.9554 1228.67|40.2615 0 0",
         "2787.59 25.95 1219.24|-139.207 0 0",
         "2811.16 29.8393 1244.2|132.952 0 0",
         "2802.22 30.6916 1250|-139.381 0 0",
@@ -471,8 +471,8 @@
         "LC_Table_Ammo_545_308_762",
         "LC_Table_Ammo_545_308_762",
         "SCWS_AmmoBox_338",
-        "SCWS_AmmoBox_338|0.50",
-        "SCWS_AmmoBox_338|0.50",
+        "SCWS_AmmoBox_338|0.30",
+        "SCWS_AmmoBox_338|0.30",
         "LC_Table_Money_Event_Low",
         "LC_Table_Money_Event_Low",
         "VM_InjectorHP|0.10"
@@ -480,6 +480,28 @@
       "respawn": 1,
       "respawn_timer": 55,
       "randomize_position": 1
+    },
+    {
+      "name": "Alkatras Craft ingredients",
+      "number": 1,
+      "pos": [
+        "2764.78 25.9554 1228.67|40.2615 0 0"
+      ],
+      "keyclass": "CJ_Key2",
+      "openable": 1,
+      "chest": [
+        "CJ_LootChest_Wood_Green_Tools_Small"
+      ],
+      "lootrandomize": 0.0,
+      "light": 1,
+      "loot": [
+        "LC_Table_Craft_Random_Ingredients_Alkatras",
+        "LC_Table_Money_Event_Low",
+        "SC_FIXpantsIIO|0.05"
+      ],
+      "respawn": 1,
+      "respawn_timer": 45,
+      "randomize_position": 0
     },
     {
       "name": "Oilrig",
@@ -936,7 +958,22 @@
       ]
     },
     {
-      "name": "LC_Table_Craft_Random_Ingredients_2",
+      "name": "LC_Table_Craft_Random_Ingredients_YAR",
+      "Loot": [
+        "RIP_CleaningKitPlastic",
+        "RIP_OilPlastic",
+        "RIP_WeaponCleaningSpray_2",
+        "RIP_WD40",
+        "RIP_WeaponCleaningSpray",
+        "KIWI_WeaponCleaningKit",
+        "RIP_WD40S",
+        "RIP_Sandpaper",
+        "ElectronicRepairKit",
+        "WeaponCleaningKit"
+      ]
+    },
+    {
+      "name": "LC_Table_Craft_Random_Ingredients_Alkatras",
       "Loot": [
         "RIP_CleaningKitPlastic",
         "RIP_OilPlastic",
