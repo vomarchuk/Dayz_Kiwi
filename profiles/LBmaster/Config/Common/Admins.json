@@ -2,27 +2,27 @@
     "version": 2,
     "admins": [
         {
-            "steamid": "76561198161108074",
+            "steamid": "76561198104182080",
             "ingameNameForPermissions": "",
-            "comment": "Remove Me",
+            "comment": "",
             "grantAllPermissions": 1,
             "permissionGroups": [
                 "Owner"
             ]
         },
         {
-            "steamid": "76561198104182080",
+            "steamid": "76561198161108074",
             "ingameNameForPermissions": "",
-            "comment": "Another Admin",
+            "comment": "Admin",
             "grantAllPermissions": 0,
             "permissionGroups": [
                 "Admin"
             ]
         },
         {
-            "steamid": "I also need a Steamid",
-            "ingameNameForPermissions": "Peter",
-            "comment": "And a third one",
+            "steamid": "76561199485344583",
+            "ingameNameForPermissions": "",
+            "comment": "Support",
             "grantAllPermissions": 0,
             "permissionGroups": [
                 "Support"
