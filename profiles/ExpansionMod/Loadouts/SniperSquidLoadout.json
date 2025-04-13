@@ -184,10 +184,10 @@
             ]
         },
         {
-            "SlotName": "Vest",
+            "SlotName": "Eyewear",
             "Items": [
                 {
-                    "ClassName": "PlateCarrierVest",
+                    "ClassName": "NVGHeadstrap",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {
@@ -196,12 +196,58 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.499999988079071,
+                            "Min": 0.699999988079071,
                             "Max": 1.0,
                             "Zone": ""
                         }
                     ],
-                    "InventoryAttachments": [],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Include": "",
+                                    "Chance": 1.0,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.699999988079071,
+                                            "Max": 1.0,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [
+                                        {
+                                            "SlotName": "",
+                                            "Items": [
+                                                {
+                                                    "ClassName": "Battery9V",
+                                                    "Include": "",
+                                                    "Chance": 1.0,
+                                                    "Quantity": {
+                                                        "Min": 0.0,
+                                                        "Max": 0.0
+                                                    },
+                                                    "Health": [],
+                                                    "InventoryAttachments": [],
+                                                    "InventoryCargo": [],
+                                                    "ConstructionPartsBuilt": [],
+                                                    "Sets": []
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
