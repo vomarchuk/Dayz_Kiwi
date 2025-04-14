@@ -3,7 +3,7 @@
     "admins": [
         {
             "steamid": "76561198104182080",
-            "ingameNameForPermissions": "",
+            "ingameNameForPermissions": "VoMa",
             "comment": "",
             "grantAllPermissions": 1,
             "permissionGroups": [
@@ -12,7 +12,7 @@
         },
         {
             "steamid": "76561198161108074",
-            "ingameNameForPermissions": "",
+            "ingameNameForPermissions": "PieceDuck",
             "comment": "Admin",
             "grantAllPermissions": 0,
             "permissionGroups": [
@@ -21,7 +21,7 @@
         },
         {
             "steamid": "76561199485344583",
-            "ingameNameForPermissions": "",
+            "ingameNameForPermissions": "Moon",
             "comment": "Support",
             "grantAllPermissions": 0,
             "permissionGroups": [

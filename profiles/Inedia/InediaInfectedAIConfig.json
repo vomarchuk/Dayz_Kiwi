@@ -446,6 +446,11 @@
     },
     "BreakingDoorsRestrictedDoors": {
       "all": {
+        "RZ_PrisonDoor": [],
+        "RZ_MetalDoor": [],
+        "RZ_BunkerDoor": [],
+        "RZ_FireproofDoubleDoor": [],
+        "RZ_MetalGate": [],
         "DNA_Lockout_OneWayDoor": [],
         "Jmc_Security_Door": [],
         "DNA_Lockout_Dbl_ColourBase": [],
