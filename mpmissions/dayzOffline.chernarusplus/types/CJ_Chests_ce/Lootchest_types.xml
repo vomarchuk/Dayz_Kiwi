@@ -165,6 +165,10 @@
         <lifetime>604800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+    <type name="CJ_LootChest_Wood_Brown_Tools_Small">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
     <type name="CJ_Key1">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
