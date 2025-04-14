@@ -439,6 +439,7 @@
         "BatteryCharger,1,-1,0,-1,160",
         "Rangefinder,1,-1,0,-1,160",
         "NVGoggles,1,-1,0,-1,1500",
+        "CodeLock,1,-1,0,-1,500",
         "GPSReceiver,1,-1,0,-1,120"
       ]
     },
