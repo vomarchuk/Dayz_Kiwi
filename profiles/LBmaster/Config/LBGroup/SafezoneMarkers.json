@@ -19,7 +19,7 @@
             "ignoreNameObfuscationSetting": 0
         },
         {
-            "prefix": "#lb_ag_marker_admin",
+            "prefix": "",
             "color": {
                 "a": 255,
                 "r": 255,
