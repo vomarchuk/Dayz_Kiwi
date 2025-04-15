@@ -93,6 +93,17 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "VM_TacticKnife_Standart",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     }
   ]
 }
