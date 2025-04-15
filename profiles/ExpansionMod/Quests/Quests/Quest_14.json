@@ -2,25 +2,25 @@
     "ConfigVersion": 22,
     "ID": 14,
     "Type": 1,
-    "Title": "TEST",
+    "Title": "Заміна болторіза",
     "Descriptions": [
-        "TEST",
-        "TEST",
+        "Заміна болторіза",
+        "Заміна болторіза",
         "PLACEHOLDER"
     ],
-    "ObjectiveText": "TEST",
+    "ObjectiveText": "Заміна болторіза",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
-    "Autocomplete": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "Paper",
+            "ClassName": "RIP_BoltCutter",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -34,26 +34,14 @@
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [
-        1
-    ],
-    "QuestTurnInIDs": [],
+    "QuestGiverIDs": [4],
+    "QuestTurnInIDs": [4],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 15,
-            "ObjectiveType": 2
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 6
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 4,
-            "ObjectiveType": 9
+            "ID": 14,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
@@ -68,5 +56,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }
