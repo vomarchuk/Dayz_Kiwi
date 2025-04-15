@@ -9867,9 +9867,9 @@ RadiationZone
 			<point pos="3.803129  -0.592621  9.717731" range="1.199951" height="2.000000" />
 		</container>
 	</group>
-	<group name="Land_Village_PoliceStation" lootmax="5">
+	<group name="Land_Village_PoliceStation" lootmax="6">
 		<usage name="Police" />
-		<container name="lootFloor" lootmax="2">
+		<container name="lootFloor" lootmax="3">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
