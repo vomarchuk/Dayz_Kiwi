@@ -374,7 +374,7 @@
       "name": "Bunker Yar Craft ingredients",
       "number": 1,
       "pos": [
-        "4386.849609, 455.174286, 15028.210938|-143.599548, -0.001661, -0.000546"
+        "4386.849609 455.174286 15028.210938|-143.599548 0 0"
       ],
       "keyclass": "CJ_Key3",
       "openable": 1,
@@ -605,7 +605,7 @@
       "lootrandomize": 0.0,
       "light": 1,
       "loot": [
-        "LC_Table_Craft_Random_Ingredients_Alkatras",
+        "LC_Table_Craft_Random_Ingredients_Oilrig",
         "LC_Table_Money_Event_Low",
         "SC_FIXtopsIIO|0.05"
       ],
@@ -951,10 +951,8 @@
         "AmmoBox_308Win_20Rnd",
         "AmmoBox_308Win_20Rnd",
         "AmmoBox_308Win_20Rnd",
-        "RIP_CleaningKitPlastic",
         "RIP_OilPlastic",
         "RIP_WeaponCleaningSpray_2",
-        "RIP_WeaponCleaningSpray",
         "KIWI_WeaponCleaningKit",
         "RIP_WD40S",
         "RIP_CuttingDisc",
@@ -965,6 +963,7 @@
         "SewingKit",
         "ElectronicRepairKit",
         "DuctTape",
+        "TireRepairKit",
         "TraderPlus_Money_Euro500",
         "TraderPlus_Money_Euro200",
         "TraderPlus_Money_Euro200",
@@ -981,11 +980,11 @@
     {
       "name": "LC_Table_Craft_Random_Ingredients_YAR",
       "Loot": [
-        "RIP_CleaningKitPlastic",
         "RIP_OilPlastic",
         "RIP_WeaponCleaningSpray_2",
-        "RIP_WD40",
-        "RIP_WeaponCleaningSpray",
+        "LeatherSewingKit",
+        "RIP_CuttingDisc",
+        "TireRepairKit",
         "KIWI_WeaponCleaningKit",
         "RIP_WD40S",
         "RIP_Sandpaper",
@@ -996,6 +995,22 @@
     {
       "name": "LC_Table_Craft_Random_Ingredients_Alkatras",
       "Loot": [
+        "LeatherSewingKit",
+        "TireRepairKit",
+        "RIP_CleaningKitPlastic",
+        "RIP_OilPlastic",
+        "RIP_WeaponCleaningSpray_2",
+        "RIP_WD40",
+        "RIP_WeaponCleaningSpray",
+        "KIWI_WeaponCleaningKit",
+        "RIP_WD40S"
+      ]
+    },
+    {
+      "name": "LC_Table_Craft_Random_Ingredients_Oilrig",
+      "Loot": [
+        "LeatherSewingKit",
+        "TireRepairKit",
         "RIP_CleaningKitPlastic",
         "RIP_OilPlastic",
         "RIP_WeaponCleaningSpray_2",
