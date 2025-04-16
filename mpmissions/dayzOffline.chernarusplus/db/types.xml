@@ -3290,7 +3290,7 @@
     </type>
     <type name="BearPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3301,7 +3301,7 @@
     </type>
     <type name="BearSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3518,7 +3518,7 @@
     </type>
     <type name="BoarSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3684,7 +3684,7 @@
     </type>
     <type name="Bone">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5815,7 +5815,7 @@
     </type>
     <type name="CowPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5826,7 +5826,7 @@
     </type>
     <type name="CowSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6306,7 +6306,7 @@
     </type>
     <type name="DeerPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6317,7 +6317,7 @@
     </type>
     <type name="DeerSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7970,7 +7970,7 @@
     </type>
     <type name="FoxPelt">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7980,7 +7980,7 @@
     </type>
     <type name="FoxSteakMeat">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8603,7 +8603,7 @@
     </type>
     <type name="GoatPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8614,7 +8614,7 @@
     </type>
     <type name="GoatSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -10247,7 +10247,7 @@
     </type>
     <type name="HumanSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15399,7 +15399,7 @@
     </type>
     <type name="PigPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15410,7 +15410,7 @@
     </type>
     <type name="PigSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16591,7 +16591,7 @@
     </type>
     <type name="ReindeerPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16601,7 +16601,7 @@
     </type>
     <type name="ReindeerSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17665,7 +17665,7 @@
     </type>
     <type name="SheepPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17676,7 +17676,7 @@
     </type>
     <type name="SheepSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -20852,7 +20852,7 @@
     </type>
     <type name="WildboarPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -21002,7 +21002,7 @@
     </type>
     <type name="WolfPelt">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -21013,7 +21013,7 @@
     </type>
     <type name="WolfSteakMeat">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
