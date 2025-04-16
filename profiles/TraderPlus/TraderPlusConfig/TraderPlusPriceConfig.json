@@ -393,6 +393,7 @@
         "Machete,1,-1,0,-1,120",
         "CrudeMachete,1,-1,0,-1,130",
         "OrientalMachete,1,-1,0,-1,150",
+        "SLC_Wakazashi,1,-1,0,-1,750",
         "ChernarusMap,1,-1,0,-1,40",
         "Lockpick,1,-1,0,-1,200",
         "Binoculars,1,-1,0,-1,35",
@@ -413,9 +414,11 @@
         "Shovel,1,-1,0,-1,250",
         "Pickaxe,1,-1,0,-1,250",
         "SledgeHammer,1,-1,0,-1,250",
+        "FOG_SOCOM_Slammer_Black,1,-1,0,-1,500",
         "PipeWrench,1,-1,1,-1,250",
         "WoodAxe,1,-1,0,-1,250",
         "FirefighterAxe,1,-1,0,-1,250",
+        "FOG_DR_Tomahawk_Standard,1,-1,0,-1,500",
         "HP_Anvil,1,-1,0,-1,1000",
         "HP_Drill,1,-1,0,-1,1000",
         "HP_Grinde,1,-1,0,-1,1000",
@@ -1009,7 +1012,11 @@
         "AK_PlasticHndgrd,1,-1,0,500,70",
         "M4_PlasticHndgrd,1,-1,0,500,70",
         "M4_RISHndgrd,1,-1,0,500,70",
-        "M4_MPHndgrd,1,-1,0,500,70"
+        "M4_RISHndgrd_Green,1,-1,0,500,70",
+        "M4_RISHndgrd_Black,1,-1,0,500,70",
+        "M4_MPHndgrd,1,-1,0,500,70",
+        "M4_MPHndgrd_Green,1,-1,0,500,70",
+        "M4_MPHndgrd_Black,1,-1,0,500,70"
       ]
     },
     {
@@ -1029,7 +1036,11 @@
         "M4_OEBttstck,1,-1,0,500,70",
         "M4_CQBBttstck,1,-1,0,500,70",
         "M4_MPBttstck,1,-1,0,500,70",
-        "AK_FoldingBttstck,1,-1,0,500,70"
+        "M4_MPBttstck_Green,1,-1,0,500,70",
+        "M4_MPBttstck_Black,1,-1,0,500,70",
+        "AK_FoldingBttstck,1,-1,0,500,70",
+        "AK_FoldingBttstck_Green,1,-1,0,500,70",
+        "AK_FoldingBttstck_Black,1,-1,0,500,70"
       ]
     },
     {
@@ -2832,8 +2843,8 @@
         "SCWS_SPEAR,1,-1,1,-1,4000",
         "SCWS_SPEAR_Fall,1,-1,1,-1,5000",
         "SCWS_CZ,1,-1,1,-1,900",
-        "SCWS_CZ_Pink,1,-1,1,-1,900",
-        "SCWS_CZ_Red,1,-1,1,-1,900",
+        "SCWS_CZ_Pink,1,-1,1,-1,1200",
+        "SCWS_CZ_Red,1,-1,1,-1,1200",
         "SCWS_GM6LYNX,1,-1,1,-1,5000",
         "SCWS_GM6LYNXK,1,-1,1,-1,7000",
         "SCWS_M14,1,-1,1,-1,1500",
@@ -2951,7 +2962,7 @@
         "SCWS_SPR_Magazine,1,-1,1,-1,1000",
         "SCWS_STI_Magazine,1,-1,1,-1,800",
         "SCWS_TIMBERWOLF_Magazine,1,-1,1,25000,1000",
-        "SCWS_SPEAR_Magazine,1,-1,1,40000,1500",
+        "SCWS_SPEAR_Magazine,1,-1,1,40000,1000",
         "SCWS_M249_Magazine,1,-1,1,-1,2000",
         "SCWS_P90_Magazine,1,-1,1,10000,500"
       ]
@@ -2965,8 +2976,6 @@
         "SCWS_Suppressor_Legion,1,-1,1,-1,500",
         "SCWS_Suppressor_Legion_Black,1,-1,1,-1,500",
         "SCWS_Uni_Suppressor_Black,1,-1,1,-1,500",
-        "SCWSUni_Suppressor_Tan,1,-1,1,-1,500",
-        "SCWS_Uni_Suppressor_Gold,1,-1,1,-1,700",
         "SCWS_408_Suppressor,1,-1,1,-1,1000",
         "SCWS_50_Suppressor,1,-1,1,-1,1000",
         "SCWS_BipodF,1,-1,1,-1,300",
