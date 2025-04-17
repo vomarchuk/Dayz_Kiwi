@@ -34,6 +34,16 @@
         <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="626.617615" z="13667.716797" r="30"/>
     </territory>
 
+    <!-- Rify TOXIC -->
+    <territory color="4278190054">
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13919.419800" z="11186.320313" r="20"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="13838.336487" z="11190.253906" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="13792.020996" z="11186.525391" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="13739.752625" z="11184.268555" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="13691.917908" z="11132.181641" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="13708.617615" z="11219.716797" r="30"/>
+    </territory>
+    
     <territory color="4278190080">
         <!-- Bolota -->
         <zone name="Infected_Military_t4" smin="0" smax="0" dmin="3" dmax="4" x="5146.91" z="2295.46" r="50"/>
