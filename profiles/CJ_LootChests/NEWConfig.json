@@ -505,7 +505,7 @@
     },
     {
       "name": "Oilrig",
-      "number": 4,
+      "number": 3,
       "pos": [
         "12535.000000 13.872000 1845.620000|108.347 0 0",
         "12529.100000 14.819900 1847.170000|108.347 0 0",
@@ -607,7 +607,7 @@
       "loot": [
         "LC_Table_Craft_Random_Ingredients_Oilrig",
         "LC_Table_Money_Event_Low",
-        "SC_FIXtopsIIO|0.05"
+        "SC_FIXshoesIIO|0.05"
       ],
       "respawn": 1,
       "respawn_timer": 45,
