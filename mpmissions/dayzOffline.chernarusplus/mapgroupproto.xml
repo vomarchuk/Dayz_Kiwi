@@ -13429,6 +13429,26 @@ RadiationZone
 			<point pos="-0.850748  -1.088016  -0.021691" range="1.000977" height="2.000000" />
 		</container>
 	</group>
+	<group name="Zona_Land_Container_1Bo" lootmax="1">
+		<usage name="Coast" />
+		<container name="lootFloor" lootmax="1">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="weapons" />
+			<category name="explosives" />
+			<category name="RadiationZone" />
+			<tag name="ground" />
+			<tag name="floor" />
+			<tag name="shelves" />
+			<point pos="0.663979  -1.088016  -0.659087" range="0.361328" height="0.903320" />
+			<point pos="0.621781  -1.088016  0.629470" range="0.427002" height="1.067505" />
+			<point pos="-2.433004  -1.088016  -0.528478" range="0.497559" height="1.243898" />
+			<point pos="-2.375900  -1.088016  0.476913" range="0.502500" height="1.256250" />
+			<point pos="2.026747  -1.088016  0.060489" range="1.000732" height="2.000000" />
+			<point pos="-0.850748  -1.088016  -0.021691" range="1.000977" height="2.000000" />
+		</container>
+	</group>
 	<group name="Land_Container_1Aoh" lootmax="1">
 		<usage name="Coast" />
 		<container name="lootFloor" lootmax="1">
@@ -13468,13 +13488,13 @@ RadiationZone
 			<point pos="-1.784097  -1.087738  0.510323" range="0.548584" height="1.371460" />
 		</container>
 	</group>
-	<group name="Land_Ship_Big_FrontA" lootmax="8">
+	<group name="Land_Ship_Big_FrontA" lootmax="5">
 		<usage name="Military" />
 		<usage name="Industrial" />
 		<usage name="Coast" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<container name="lootFloor" lootmax="8">
+		<container name="lootFloor" lootmax="5">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -13482,6 +13502,7 @@ RadiationZone
 			<category name="weapons" />
 			<category name="books" />
 			<category name="explosives" />
+			<category name="RadiationZone"/>
 			<tag name="floor" />
 			<tag name="shelves" />
 			<point pos="2.860595  -2.197670  -25.912596" range="0.100000" height="0.250000" />
@@ -13539,13 +13560,13 @@ RadiationZone
 			<point pos="-7.422365  -17.062881  2.751952" range="1.199951" height="2.000000" />
 		</container>
 	</group>
-	<group name="Land_Ship_Big_FrontB" lootmax="8">
+	<group name="Land_Ship_Big_FrontB" lootmax="5">
 		<usage name="Military" />
 		<usage name="Industrial" />
 		<usage name="Coast" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<container name="lootFloor" lootmax="8">
+		<container name="lootFloor" lootmax="5">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -13553,6 +13574,7 @@ RadiationZone
 			<category name="weapons" />
 			<category name="books" />
 			<category name="explosives" />
+			<category name="RadiationZone"/>
 			<tag name="floor" />
 			<tag name="shelves" />
 			<point pos="-6.745117  -1.146820  -6.634278" range="0.707273" height="1.620110" />
@@ -13598,13 +13620,13 @@ RadiationZone
 			<point pos="8.479738  -7.464897  15.260987" range="1.076542" height="2.000000" />
 		</container>
 	</group>
-	<group name="Land_Ship_Big_BackA" lootmax="8">
+	<group name="Land_Ship_Big_BackA" lootmax="5">
 		<usage name="Military" />
 		<usage name="Industrial" />
 		<usage name="Coast" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<container name="lootFloor" lootmax="8">
+		<container name="lootFloor" lootmax="5">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -13612,6 +13634,7 @@ RadiationZone
 			<category name="weapons" />
 			<category name="books" />
 			<category name="explosives" />
+			<category name="RadiationZone"/>
 			<tag name="floor" />
 			<tag name="shelves" />
 			<point pos="-9.107422  -5.612701  -6.806885" range="0.787500" height="1.968750" />
@@ -13643,13 +13666,13 @@ RadiationZone
 			<point pos="-6.273195  -8.911217  -17.441404" range="0.821875" height="2.000000" />
 		</container>
 	</group>
-	<group name="Land_Ship_Big_BackB" lootmax="8">
+	<group name="Land_Ship_Big_BackB" lootmax="5">
 		<usage name="Military" />
 		<usage name="Industrial" />
 		<usage name="Coast" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<container name="lootFloor" lootmax="8">
+		<container name="lootFloor" lootmax="5">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -13657,6 +13680,7 @@ RadiationZone
 			<category name="weapons" />
 			<category name="books" />
 			<category name="explosives" />
+			<category name="RadiationZone"/>
 			<tag name="floor" />
 			<tag name="shelves" />
 			<point pos="8.316410  -0.799210  18.575926" range="0.100000" height="0.250000" />
@@ -13688,16 +13712,17 @@ RadiationZone
 			<point pos="-6.341553  -7.888657  15.273925" range="1.199951" height="2.000000" />
 		</container>
 	</group>
-	<group name="Land_Ship_Big_Castle" lootmax="45">
+	<group name="Land_Ship_Big_Castle" lootmax="12">
 		<usage name="Military" />
 		<usage name="Industrial" />
 		<usage name="Coast" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<container name="lootFloor" lootmax="15">
+		<container name="lootFloor" lootmax="5">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
+			<category name="RadiationZone"/>
 			<tag name="floor" />
 			<point pos="-7.747803  -7.863258  18.816162" range="0.203125" height="0.507813" />
 			<point pos="-7.743895  -7.863258  13.188231" range="0.203125" height="0.507813" />
@@ -13770,12 +13795,13 @@ RadiationZone
 			<point pos="-1.461914  -14.254990  -0.258301" range="1.199951" height="2.000000" />
 			<point pos="-3.541015  -14.254990  -3.188477" range="1.199951" height="2.000000" />
 		</container>
-		<container name="lootshelves" lootmax="15">
+		<container name="lootshelves" lootmax="4">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
 			<category name="food" />
 			<category name="books" />
+			<category name="RadiationZone"/>
 			<tag name="shelves" />
 			<point pos="-2.575195  -2.340828  -3.474853" range="0.100000" height="0.250000" />
 			<point pos="0.304931  -2.112373  -3.423340" range="0.100000" height="0.250000" />
@@ -13820,7 +13846,7 @@ RadiationZone
 			<point pos="-9.202641  -13.810997  15.970212" range="0.409375" height="0.533386" />
 			<point pos="-8.686522  -13.810997  1.278563" range="0.340625" height="0.532158" />
 		</container>
-		<container name="lootweapons" lootmax="15">
+		<container name="lootweapons" lootmax="3">
 			<category name="weapons" />
 			<category name="explosives" />
 			<point pos="7.395996  -14.210243  17.488770" range="0.156738" height="0.391845" />

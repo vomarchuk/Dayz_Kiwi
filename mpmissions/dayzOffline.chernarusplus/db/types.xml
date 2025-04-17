@@ -12674,6 +12674,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="Mag_CMAG_40Rnd">
         <nominal>14</nominal>
@@ -12686,6 +12689,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Military" />
+        <value name="Tier4" />
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>20</nominal>
@@ -16810,6 +16815,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Military" />
+        <value name="Tier4" />
     </type>
     <type name="Saiga">
         <nominal>7</nominal>

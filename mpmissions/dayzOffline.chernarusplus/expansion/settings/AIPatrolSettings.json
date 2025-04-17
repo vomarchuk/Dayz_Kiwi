@@ -2447,6 +2447,57 @@
             ]
         },
         {
+            "Name": "Rify MB patrol",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "PatrolLoadoutNBC",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.75,
+            "AccuracyMax": 0.95,
+            "ThreatDistanceLimit": 250.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": 500.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 25.0,
+            "Chance": 0.90,
+            "WaypointInterpolation": "NaturalCubic",
+            "DespawnTime": -1.0,
+            "RespawnTime": 600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13823.365234,
+                    1.081408,
+                    11159.498047
+                ],
+                [
+                    13811.293945,
+                    1.288504,
+                    11188.002930
+                ],
+                [
+                    13928.036133,
+                    0.811663,
+                    11181.982422
+                ]
+            ]
+        },
+        {
             "Name": "BUNKER TISY",
             "Persist": 0,
             "Faction": "Mercenaries",
