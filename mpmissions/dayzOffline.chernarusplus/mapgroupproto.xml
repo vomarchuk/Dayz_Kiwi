@@ -13437,6 +13437,7 @@ RadiationZone
 			<category name="clothes" />
 			<category name="weapons" />
 			<category name="explosives" />
+			<category name="RadiationZone" />
 			<tag name="ground" />
 			<tag name="floor" />
 			<tag name="shelves" />
