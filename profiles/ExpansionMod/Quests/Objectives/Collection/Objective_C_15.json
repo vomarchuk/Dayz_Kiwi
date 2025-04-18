@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 28,
-    "ID": 14,
+    "ID": 15,
     "ObjectiveType": 4,
     "ObjectiveText": "Заміна ключів",
     "TimeLimit": -1,
@@ -8,7 +8,7 @@
     "Collections": [
         {
             "Amount": 3,
-            "ClassName": "CJ_Key3",
+            "ClassName": "CJ_Key4",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
