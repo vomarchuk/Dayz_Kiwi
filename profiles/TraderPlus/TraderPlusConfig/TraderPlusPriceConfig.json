@@ -1261,6 +1261,8 @@
       "CategoryName": "Шоломи",
       "Products": [
         "ConstructionHelmet_Yellow,1,-1,0,300,65",
+        "ConstructionHelmet_Lime,1,-1,0,300,65",
+        "ConstructionHelmet_Blue,1,-1,0,300,65",
         "ConstructionHelmet_Orange,1,-1,0,300,65",
         "ConstructionHelmet_Red,1,-1,0,300,65",
         "ConstructionHelmet_White,1,-1,0,300,65",
