@@ -10,7 +10,7 @@
             "Amount": 25,
             "ClassName": "EasterEgg",
             "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "MinQuantityPercent": 0
         }
     ],
     "ShowDistance": 1,
