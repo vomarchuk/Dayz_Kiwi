@@ -7,16 +7,21 @@
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Can Of Beans Big",
     "Currencies": [
-        "expansionbanknotehryvnia"
+        "TraderPlus_Money_Euro1",
+        "TraderPlus_Money_Euro2",
+        "TraderPlus_Money_Euro5",
+        "TraderPlus_Money_Euro10",
+        "TraderPlus_Money_Euro20",
+        "TraderPlus_Money_Euro50",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro200",
+        "TraderPlus_Money_Euro500"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Drinks",
-        "Food",
-        "Fruit_And_Vegetables",
-        "Meat",
-        "Fish"
+        "Food:2",
+        "Random_Trader:0"
     ],
     "Items": {}
 }

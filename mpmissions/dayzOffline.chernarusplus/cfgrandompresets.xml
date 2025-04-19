@@ -386,7 +386,6 @@
 	<!--INDUSTRIAL
 	ATTACHMENTS-->
 	<attachments chance="0.30" name="hatsIndustrial">
-		<item name="ConstructionHelmet_Blue" chance="0.058" />
 		<item name="ConstructionHelmet_Lime" chance="0.058" />
 		<item name="ConstructionHelmet_Orange" chance="0.058" />
 		<item name="ConstructionHelmet_Red" chance="0.058" />
