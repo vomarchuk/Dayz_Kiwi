@@ -1872,6 +1872,7 @@
         "TerjeRadTent,1,-1,0,-1,1500",
         "TerjeShower,1,-1,0,-1,500",
         "TerjeCanisterChemical,1,-1,0,-1,500",
+        "RIP_Kevlar,1,-1,2500,-1,500",
         "DNA_Battery_40v,1,-1,0,-1,500",
         "DNA_Laptop,1,-1,0,-1,500",
         "DNA_CardReader,1,-1,0,-1,1000",
