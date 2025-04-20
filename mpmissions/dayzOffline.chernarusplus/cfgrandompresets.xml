@@ -531,6 +531,7 @@
 		<item name="WaterBottle" chance="0.1" />
 	</cargo>
 	<cargo chance="0.20" name="food_T1">
+		<item name="EasterEgg" chance="0.6" />
 		<item name="HumanSteakMeat" chance="0.03" />
 		<item name="Guts" chance="0.03" />
 		<item name="PotatoSeed" chance="0.1" />
