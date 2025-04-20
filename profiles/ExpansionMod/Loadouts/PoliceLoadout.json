@@ -736,20 +736,6 @@
                 {
                     "ClassName": "Ammo_12gaPellets",
                     "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_12gaPellets",
-                    "Include": "",
                     "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
