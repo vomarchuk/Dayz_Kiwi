@@ -93,7 +93,7 @@
         {
             "ClassName": "Jeep_GladiatorF9_Trunk",
             "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -152,9 +152,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "camonetjeep"
-            ]
+            "Variants": []
         }
     ]
 }
