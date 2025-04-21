@@ -7702,6 +7702,39 @@
 			<point pos="0.462211 0.046318 0.888892" range="0.756104" height="1.890259" />
 			<point pos="-2.336955 0.046318 1.019177" range="1.108398" height="2.000000" />
 		</container>
+	<group name="Zona_Land_Mil_Tent_Big1_4" lootmax="2">
+		<usage name="Military" />
+		<container name="lootFloor">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="food" />
+			<category name="weapons" />
+			<category name="books" />
+			<category name="explosives" />
+			<category name="RadiationZone" />
+			<tag name="floor" />
+			<tag name="shelves" />
+			<point pos="3.212513 0.994698 -0.307621" range="0.443750" height="1.109375" />
+			<point pos="3.346671 0.575470 0.564904" range="0.134375" height="0.335938" />
+			<point pos="3.347097 0.849678 2.279091" range="0.340625" height="0.851563" />
+			<point pos="2.167080 0.849678 2.250680" range="0.375000" height="0.937500" />
+			<point pos="1.438281 0.648079 2.123673" range="0.203125" height="0.507813" />
+			<point pos="2.371481 0.046318 1.243290" range="0.929608" height="2.000000" />
+			<point pos="2.126862 0.046318 -1.816260" range="1.129151" height="1.790932" />
+			<point pos="1.320691 0.046318 -0.270812" range="0.613928" height="2.000000" />
+			<point pos="0.833666 0.849678 -2.314303" range="0.375000" height="0.937500" />
+			<point pos="0.278501 0.849678 -2.082862" range="0.134375" height="0.335938" />
+			<point pos="-0.245623 0.849678 -2.328549" range="0.375000" height="0.937500" />
+			<point pos="-1.070986 0.648079 -2.190208" range="0.237500" height="0.593750" />
+			<point pos="-1.991388 0.046318 -2.159598" range="0.679199" height="1.596321" />
+			<point pos="-3.149318 0.994698 -1.923317" range="0.134375" height="0.335938" />
+			<point pos="-2.938436 0.994698 -1.373325" range="0.203125" height="0.507813" />
+			<point pos="-3.326527 0.994698 -1.032894" range="0.306250" height="0.765625" />
+			<point pos="-0.628269 0.046318 -0.765946" range="1.199951" height="2.000000" />
+			<point pos="0.462211 0.046318 0.888892" range="0.756104" height="1.890259" />
+			<point pos="-2.336955 0.046318 1.019177" range="1.108398" height="2.000000" />
+		</container>
 
 	</group>
 
@@ -14165,6 +14198,25 @@ RadiationZone
 			<point pos="-1.406128  -0.382006  -0.481567" range="0.203125" height="0.507813" />
 		</container>
 	</group>
+	<group name="Zona_Land_Mil_Guardbox_Brown" lootmax="1">
+		<usage name="Military" />
+		<container name="lootFloor" lootmax="1">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="weapons" />
+			<category name="explosives" />
+			<category name="food" />
+			<category name="RadiationZone" />
+			<tag name="floor" />
+			<tag name="shelves" />
+			<point pos="-1.531860  -0.838114  0.179565" range="0.249023" height="0.622559" />
+			<point pos="-0.729370  -0.837912  0.623779" range="0.286621" height="0.716553" />
+			<point pos="-0.439697  -0.834978  -0.186157" range="0.547607" height="1.369019" />
+			<point pos="-1.444458  0.168985  0.527954" range="0.100000" height="0.250000" />
+			<point pos="-1.406128  -0.382006  -0.481567" range="0.203125" height="0.507813" />
+		</container>
+	</group>
 	<group name="Land_Mil_ControlTower" lootmax="3">
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="3">
@@ -20372,6 +20424,48 @@ RadiationZone
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
+			<tag name="floor" />
+			<point pos="-2.389683 -1.465946 -3.167737" range="0.599707" height="1.499268" />
+			<point pos="-2.596588 -1.465946 1.887695" range="0.666504" height="1.666260" />
+			<point pos="-2.230266 -1.465946 -6.366991" range="0.998779" height="2.000004" />
+			<point pos="-0.304303 -1.465946 -3.712077" range="1.070801" height="2.000004" />
+			<point pos="2.129097 -1.465946 6.377944" range="1.162109" height="2.000004" />
+			<point pos="2.151669 -1.465946 -0.798506" range="1.187256" height="2.000004" />
+			<point pos="-0.467666 -1.465946 6.397343" range="1.197998" height="2.000004" />
+			<point pos="-0.576743 -1.465946 1.400203" range="1.198730" height="2.000004" />
+		</container>
+		<container name="lootshelves" lootmax="1">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="food" />
+			<category name="books" />
+			<tag name="shelves" />
+			<point pos="-1.430683 -1.143981 -4.067863" range="0.158895" height="0.397238" />
+			<point pos="-3.081033 -1.465946 0.948884" range="0.179626" height="0.449065" />
+			<point pos="-2.610107 -0.511860 0.737117" range="0.203125" height="0.507767" />
+			<point pos="-3.044466 -1.143981 -4.497895" range="0.216370" height="0.540921" />
+			<point pos="-2.914064 -1.143981 6.795668" range="0.306250" height="0.765621" />
+			<point pos="-2.611123 -1.143981 6.056398" range="0.306250" height="0.765621" />
+			<point pos="-2.252968 -1.143981 -4.326309" range="0.443750" height="1.109371" />
+		</container>
+		<container name="lootweapons" lootmax="1">
+			<category name="weapons" />
+			<category name="explosives" />
+			<point pos="-1.944267 -1.465946 0.558229" range="0.356201" height="0.890502" />
+			<point pos="-0.362318 -1.465946 3.361964" range="0.556152" height="1.390380" />
+			<point pos="-0.394885 -1.465946 -0.567763" range="0.570557" height="1.426393" />
+			<point pos="-1.980269 -1.465946 -1.408943" range="1.200000" height="2.000004" />
+			<point pos="-2.029328 -1.465946 4.138081" range="1.200000" height="2.000004" />
+		</container>
+	</group>
+	<group name="Zona_Land_Tisy_Mil_Barracks4" lootmax="3">
+		<usage name="Military" />
+		<container name="lootFloor" lootmax="2">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="RadiationZone" />
 			<tag name="floor" />
 			<point pos="-2.389683 -1.465946 -3.167737" range="0.599707" height="1.499268" />
 			<point pos="-2.596588 -1.465946 1.887695" range="0.666504" height="1.666260" />
