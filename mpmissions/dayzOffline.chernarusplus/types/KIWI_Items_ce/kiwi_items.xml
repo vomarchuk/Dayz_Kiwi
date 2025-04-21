@@ -38,7 +38,7 @@
     </type>
     <type name="KIWI_Barrel_01">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -48,7 +48,7 @@
     </type>
     <type name="KIWI_Barrel_02">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -58,7 +58,7 @@
     </type>
     <type name="KIWI_Barrel_03">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -68,7 +68,7 @@
     </type>
     <type name="KIWI_WoodenCrate_01">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -144,7 +144,7 @@
     </type>
     <type name="Custom_ProtectorCase_25">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -156,7 +156,7 @@
     </type>
     <type name="Custom_ProtectorCase_50">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -168,7 +168,7 @@
     </type>
     <type name="Custom_ProtectorCase_100">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -180,7 +180,7 @@
     </type>
     <type name="Custom_ProtectorCase_150">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -192,7 +192,7 @@
     </type>
     <type name="Custom_ProtectorCase_300">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -204,7 +204,7 @@
     </type>
     <type name="Custom_ProtectorCase_600_neon">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -216,7 +216,7 @@
     </type>
     <type name="Custom_ProtectorCase_600_abrakadabra">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -228,7 +228,7 @@
     </type>
     <type name="Custom_ProtectorCase_600_abrakadabra_2">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -240,7 +240,7 @@
     </type>
     <type name="Custom_ProtectorCase_600_Toxic">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -252,7 +252,7 @@
     </type>
     <type name="Custom_ProtectorCase_600_kiwi">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -384,7 +384,7 @@
     </type>
     <type name="KIWI_water_proof_bag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -442,7 +442,7 @@
     </type>
     <type name="KIWI_Can_MeatRabbit">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -454,7 +454,7 @@
     </type>
     <type name="KIWI_Can_MeatRabbit_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -466,7 +466,7 @@
     </type>
     <type name="KIWI_Can_MeatChicken">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -478,7 +478,7 @@
     </type>
     <type name="KIWI_Can_MeatChicken_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -490,7 +490,7 @@
     </type>
     <type name="KIWI_Can_MeatPig">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -502,7 +502,7 @@
     </type>
     <type name="KIWI_Can_MeatPig_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -514,7 +514,7 @@
     </type>
     <type name="KIWI_Can_MeatCow">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -526,7 +526,7 @@
     </type>
     <type name="KIWI_Can_MeatCow_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -538,7 +538,7 @@
     </type>
     <type name="KIWI_Can_MeatSheep">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -550,7 +550,7 @@
     </type>
     <type name="KIWI_Can_MeatSheep_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -562,7 +562,7 @@
     </type>
     <type name="KIWI_Can_MeatGoat">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -574,7 +574,7 @@
     </type>
     <type name="KIWI_Can_MeatGoat_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -586,7 +586,7 @@
     </type>
     <type name="KIWI_Can_MeatDeer">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -598,7 +598,7 @@
     </type>
     <type name="KIWI_Can_MeatDeer_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -610,7 +610,7 @@
     </type>
     <type name="KIWI_Can_MeatWolf">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -622,7 +622,7 @@
     </type>
     <type name="KIWI_Can_MeatWolf_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -634,7 +634,7 @@
     </type>
     <type name="KIWI_Can_MeatBoar">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -646,7 +646,7 @@
     </type>
     <type name="KIWI_Can_MeatBoar_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -658,7 +658,7 @@
     </type>
     <type name="KIWI_Can_MeatBear">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -670,7 +670,7 @@
     </type>
     <type name="KIWI_Can_MeatBear_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -682,7 +682,7 @@
     </type>
     <type name="KIWI_Can_MeatFox">
         <nominal>3</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -695,7 +695,7 @@
     </type>
     <type name="KIWI_Can_MeatFox_Opened">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -707,7 +707,7 @@
     </type>
     <type name="KIWI_Bottle_XL">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
