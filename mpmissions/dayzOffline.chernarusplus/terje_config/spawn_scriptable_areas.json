@@ -29,7 +29,7 @@
       "Data": {
         "HeightMin": -100.0,
         "HeightMax": 150.0,
-        "OuterRadius": 300.0,
+        "OuterRadius": 320.0,
         "InnerRadius": 200.0,
         "Power": 5.0
       }
