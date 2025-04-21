@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <randompresets>
-	<cargo chance="0.15" name="kiwi_all">
+	<cargo chance="0.00" name="kiwi_all">
 		<item name="EasterEgg" chance="1.0" />
 	</cargo>
 	<cargo chance="0.00" name="kiwi_army">
