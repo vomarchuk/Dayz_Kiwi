@@ -24,9 +24,25 @@
         "Cars_Civilian",
         "Cars_SUV",
         "Car_Armored",
-        "Vehicle_Parts_Mod:3",
+        "Vehicle_Parts:3",
         "Vehicle_Parts_Tools:3",
-        "Batteries:3"
+        "Batteries:3",
+        "Vehicle_Parts_Bronco:3",
+        "Vehicle_Parts_Challenger:3",
+        "Vehicle_Parts_dodgecharger:3",
+        "Vehicle_Parts_DodgeRam:3",
+        "Vehicle_Parts_FC_Uaz:3",
+        "Vehicle_Parts_GMC:3",
+        "Vehicle_Parts_GTR:3",
+        "Vehicle_Parts_Honda_Civic:3",
+        "Vehicle_Parts_hummer_Armored:3",
+        "Vehicle_Parts_jeep:3",
+        "Vehicle_Parts_NapalmNova:3",
+        "Vehicle_Parts_PitbullVX:3",
+        "Vehicle_Parts_rag_landrover:3",
+        "Vehicle_Parts_RS6:3",
+        "Vehicle_Parts_Runner:3",
+        "Vehicle_Parts_Tahoe:3"
     ],
     "Items": {}
 }
