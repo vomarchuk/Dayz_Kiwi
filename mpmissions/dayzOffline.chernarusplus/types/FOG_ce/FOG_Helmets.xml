@@ -120,10 +120,10 @@
         <value name="Tier4"/>
     </type>
     <type name="FOG_Helmet_FASTMT_MCAL">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -603,10 +603,10 @@
         <value name="Tier4"/>
     </type>
     <type name="FOG_Helmet_FASTMT_Tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -616,10 +616,10 @@
         <value name="Tier4"/>
     </type>
     <type name="FOG_Helmet_FASTMT_MC">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -629,10 +629,10 @@
         <value name="Tier4"/>
     </type>
     <type name="FOG_Helmet_FASTMT_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
