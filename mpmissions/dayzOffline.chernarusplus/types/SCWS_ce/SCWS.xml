@@ -13,7 +13,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_MP7A1_Fall">
         <nominal>1</nominal>
@@ -27,7 +26,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_P90">
         <nominal>1</nominal>
@@ -66,7 +64,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_APC9">
         <nominal>2</nominal>
@@ -504,7 +501,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_MP7A1_DualMagazine">
         <nominal>0</nominal>
@@ -530,7 +526,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_APC9_DualMagazine">
         <nominal>0</nominal>
@@ -551,7 +546,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <tag name="shelves" />
         <value name="Tier2" />
@@ -565,13 +560,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_AK47G">
         <nominal>1</nominal>
@@ -581,10 +574,9 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="RadiationZone" />
         <tag name="shelves" />
-
     </type>
     <type name="SCWS_AK47G_Magazine">
         <nominal>2</nominal>
@@ -594,12 +586,10 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_AK47G_DualMagazine">
         <nominal>0</nominal>
@@ -609,7 +599,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <tag name="shelves" />
         <value name="Tier2" />
@@ -623,13 +613,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_SCARH_DualMagazine">
         <nominal>0</nominal>
@@ -639,7 +627,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <tag name="shelves" />
         <value name="Tier2" />
@@ -690,7 +678,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWSGM6LYNX_Magazine">
         <nominal>1</nominal>
@@ -704,7 +691,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_M14_Magazine">
         <nominal>4</nominal>
@@ -718,7 +704,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_M82A1_Magazine">
         <nominal>1</nominal>
@@ -728,11 +713,10 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_M200_Magazine">
         <nominal>1</nominal>
@@ -742,12 +726,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_MCX_Magazine">
         <nominal>2</nominal>
@@ -757,12 +740,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_MCX_DualMagazine">
         <nominal>0</nominal>
@@ -816,7 +798,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_SPEAR_Magazine">
         <nominal>2</nominal>
@@ -832,7 +813,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_M249_Magazine">
         <nominal>0</nominal>
@@ -868,12 +848,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_BipodU">
         <nominal>4</nominal>
@@ -888,7 +867,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_StubbyGrip">
         <nominal>4</nominal>
@@ -903,7 +881,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_AngledGrip">
         <nominal>4</nominal>
@@ -919,7 +896,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_50_Suppressor">
         <nominal>0</nominal>
@@ -929,7 +905,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="SCWS_Suppressor_Legion">
@@ -940,7 +916,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="SCWS_Suppressor_Legion_Black">
@@ -951,7 +927,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="SCWS_Uni_Suppressor_Black">
@@ -962,7 +938,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="SCWSUni_Suppressor_Tan">
@@ -973,7 +949,7 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="SCWS_Uni_Suppressor_Gold">
@@ -1022,7 +998,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_ATACR">
         <nominal>3</nominal>
@@ -1037,7 +1012,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_BipodF">
         <nominal>3</nominal>
@@ -1052,7 +1026,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <!-- Optics -->
     <type name="SCWS_MRO">
@@ -1068,7 +1041,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_Bravo">
         <nominal>3</nominal>
@@ -1084,7 +1056,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_HAMROptic">
         <nominal>3</nominal>
@@ -1099,7 +1070,6 @@
         <usage name="Military" />
         <value name="Tier4" />
         <category name="RadiationZone" />
-
     </type>
     <type name="SCWS_M14_scope">
         <nominal>3</nominal>
@@ -1109,13 +1079,12 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
         <category name="RadiationZone" />
-
     </type>
     <type name="SCWS_colimdot">
         <nominal>3</nominal>
@@ -1125,12 +1094,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_UH1">
         <nominal>3</nominal>
@@ -1140,12 +1108,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_uhScope">
         <nominal>3</nominal>
@@ -1155,12 +1122,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_CS5Scope">
         <nominal>3</nominal>
@@ -1170,12 +1136,11 @@
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_46v2x">
         <nominal>3</nominal>
@@ -1191,7 +1156,6 @@
         <value name="Tier4" />
         <category name="RadiationZone" />
 
-
     </type>
     <type name="SCWS_Holosun">
         <nominal>3</nominal>
@@ -1206,7 +1170,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_EOTECH">
         <nominal>3</nominal>
@@ -1221,7 +1184,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_DeltaReflex">
         <nominal>3</nominal>
@@ -1236,7 +1198,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_BENDERScope">
         <nominal>3</nominal>
@@ -1251,7 +1212,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="SCWS_AWMScope">
         <nominal>3</nominal>
@@ -1266,7 +1226,6 @@
         <usage name="Military" />
         <value name="Tier4" />
         <category name="RadiationZone" />
-
     </type>
     <type name="SCWS_AmmoBox_338">
         <nominal>0</nominal>
