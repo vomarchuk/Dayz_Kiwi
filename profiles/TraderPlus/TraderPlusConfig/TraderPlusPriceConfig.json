@@ -927,6 +927,7 @@
         "AmmoBox_22_50Rnd,1,-1,0,600,60",
         "AmmoBox_12gaRubberSlug_10Rnd,1,-1,0,110,11",
         "AmmoBox_12gaSlug_10Rnd,1,-1,0,150,15",
+        "AmmoBox_00buck_10rnd,1,-1,0,150,15",
         "AmmoBox_357_20Rnd,1,-1,0,280,28",
         "AmmoBox_9x39_20Rnd,1,-1,0,300,30",
         "AmmoBox_9x39AP_20Rnd,1,-1,0,340,34",
@@ -1359,6 +1360,7 @@
         "BalaclavaMask_Pig,1,-1,0,800,80",
         "BalaclavaMask_Pink,1,-1,0,800,80",
         "BalaclavaMask_White,1,-1,0,800,80",
+        "EyeMask_Black,1,-1,0,200,80",
         "EyeMask_Blue,1,-1,0,200,80",
         "EyeMask_Red,1,-1,0,200,80",
         "EyeMask_Yellow,1,-1,0,200,80"
