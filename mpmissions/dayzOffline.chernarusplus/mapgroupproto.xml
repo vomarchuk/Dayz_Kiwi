@@ -4421,7 +4421,6 @@
 			<point pos="5.788721 -2.276246 -5.114633" range="0.443750" height="1.102426" />
 			<point pos="0.701054 -3.221408 -4.062903" range="1.199951" height="2.000961" />
 		</container>
-
 	</group>
 
 	<group name="Land_Garage_Office" lootmax="2">
@@ -4503,7 +4502,6 @@
 			<point pos="-1.299999 0.629825 -2.506577" range="0.306250" height="0.759285" />
 			<point pos="1.168387 -0.079127 -1.693419" range="1.199951" height="1.990039" />
 		</container>
-
 	</group>
 
 	<group name="Land_Factory_Lathes">
@@ -4598,7 +4596,6 @@
 			<point pos="6.447766 -4.488808 6.766215" range="0.375000" height="0.923676" />
 			<point pos="-2.879982 -4.494003 10.594264" range="0.409375" height="1.023438" />
 		</container>
-
 	</group>
 
 	<group name="Land_Factory_Small" lootmax="3">
@@ -4674,7 +4671,6 @@
 			<category name="weapons" />
 			<category name="explosives" />
 		</container>
-
 	</group>
 
 	<group name="Land_Sawmill_Building">
@@ -4720,7 +4716,6 @@
 			<point pos="9.112551 -4.903236 -12.363283" range="0.271875" height="0.679688" />
 			<point pos="-0.452635 -4.096672 -8.079346" range="0.443750" height="1.109375" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mine_Building">
@@ -4761,7 +4756,6 @@
 			<point pos="-13.524903 2.304909 2.435546" range="1.199951" height="1.999981" />
 			<point pos="-12.809569 2.304909 2.094481" range="1.199951" height="1.999981" />
 		</container>
-
 	</group>
 
 	<group name="Land_Quarry_Main">
@@ -4810,7 +4804,6 @@
 			<point pos="-2.585211 5.787184 -4.488230" range="0.134375" height="0.264999" />
 			<point pos="-0.934653 5.785049 -4.465400" range="0.168750" height="0.264999" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_ExpeditionA">
@@ -4883,7 +4876,6 @@
 			<point pos="4.483155 10.305954 0.469482" range="1.199951" height="1.999924" />
 			<point pos="13.245605 -2.911095 2.208495" range="1.199951" height="1.997978" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_ExpeditionB">
@@ -4904,7 +4896,6 @@
 			<point pos="-0.606522 1.364495 6.086413" range="0.993750" height="2.000001" />
 			<point pos="-0.596238 1.364493 -2.890227" range="0.993750" height="2.000001" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_ExpeditionC">
@@ -4939,7 +4930,6 @@
 			<point pos="18.635326 2.120228 2.580385" range="1.062500" height="2.000427" />
 			<point pos="-17.241653 2.223809 -0.207740" range="1.096875" height="1.986873" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_Hall1" lootmax="10">
@@ -4994,7 +4984,6 @@
 			<point pos="-13.806395 4.448372 1.787353" range="1.199951" height="2.000000" />
 			<point pos="-21.545166 -4.523613 0.730710" range="0.203125" height="0.370003" />
 		</container>
-
 	</group>
 
 	<group name="Land_CoalPlant_Main" lootmax="5">
@@ -5100,7 +5089,6 @@
 			<point pos="-17.640387 2.550003 16.418207" range="0.539307" height="1.348267" />
 			<point pos="-14.330078 2.966682 14.796383" range="0.271875" height="0.679688" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_Hall2_Brick">
@@ -5170,7 +5158,6 @@
 			<point pos="-15.165528 -3.769974 7.595945" range="0.340625" height="0.851563" />
 			<point pos="-9.469970 -4.079018 6.959959" range="0.385254" height="0.963135" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_Hall2_Grey">
@@ -5219,7 +5206,6 @@
 			<point pos="-0.294164 -5.063460 -6.435381" range="1.199951" height="2.002884" />
 			<point pos="-13.294482 -5.069150 -0.689279" range="1.199951" height="2.003196" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_MillB">
@@ -5276,7 +5262,6 @@
 			<point pos="-11.285822 -9.190598 11.753096" range="0.558105" height="0.395813" />
 			<point pos="-3.421097 -9.190956 -4.680281" range="0.644043" height="1.610107" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_MillC">
@@ -5333,7 +5318,6 @@
 			<point pos="-1.436526 -3.931320 8.234374" range="1.199951" height="2.000000" />
 			<point pos="-7.259521 -3.931320 3.376708" range="1.170110" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_SiloBig1A">
@@ -5374,7 +5358,6 @@
 			<point pos="-6.940341 11.886982 -3.106823" range="1.199951" height="2.000008" />
 			<point pos="8.018485 -5.457386 -2.874613" range="1.199951" height="1.999981" />
 		</container>
-
 	</group>
 
 	<group name="Land_CementWorks_RotFurnace">
@@ -5453,7 +5436,6 @@
 			<point pos="-11.096178 4.709045 8.631119" range="0.520996" height="1.302490" />
 			<point pos="-6.765096 4.709045 8.496473" range="0.615625" height="1.539063" />
 		</container>
-
 	</group>
 
 	<group name="Land_Repair_Center" lootmax="1">
@@ -5494,7 +5476,6 @@
 			<point pos="4.705906 -1.434515 -1.081571" range="0.125000" height="0.260000" />
 			<point pos="4.672754 -0.299516 -0.871063" range="0.156006" height="0.260000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Rail_Warehouse_Small">
@@ -5540,7 +5521,6 @@
 			<point pos="1.209961 -1.060112 -7.765870" range="0.134375" height="0.264999" />
 			<point pos="-1.414063 -1.060112 -7.787842" range="0.134375" height="0.264999" />
 		</container>
-
 	</group>
 
 	<group name="Land_Rail_Station_Small" lootmax="2">
@@ -5592,7 +5572,6 @@
 			<point pos="0.276735 -0.797464 4.659409" range="0.203125" height="0.507813" />
 			<point pos="-1.705018 -0.796297 4.840164" range="0.180485" height="0.507813" />
 		</container>
-
 	</group>
 
 	<group name="Land_Rail_Station_Big" lootmax="2">
@@ -5630,7 +5609,6 @@
 			<point pos="2.684208 -3.920636 -3.000135" range="0.113770" height="0.284425" />
 			<point pos="0.880234 -4.051566 -2.105432" range="0.192228" height="0.480570" />
 		</container>
-
 	</group>
 
 	<group name="Land_Train_742_Blue">
@@ -5654,7 +5632,6 @@
 			<point pos="-0.077912 -0.656644 1.319866" range="0.311035" height="0.777588" />
 			<point pos="-0.568051 -0.656114 -1.100959" range="0.319092" height="0.795949" />
 		</container>
-
 	</group>
 
 	<group name="Land_Train_742_Red">
@@ -5678,7 +5655,6 @@
 			<point pos="-0.077393 -0.665321 1.318848" range="0.311035" height="0.777588" />
 			<point pos="-0.570801 -0.665321 -1.100830" range="0.319092" height="0.797729" />
 		</container>
-
 	</group>
 
 	<group name="Land_Train_Wagon_Box" lootmax="2">
@@ -5719,7 +5695,6 @@
 			<point pos="0.540272 2.306852 -1.858777" range="0.443750" height="1.103470" />
 			<point pos="1.843132 2.304058 0.081311" range="0.478125" height="1.195313" />
 		</container>
-
 	</group>
 
 	<group name="Land_Power_Station" lootmax="2">
@@ -5751,7 +5726,6 @@
 			<point pos="-1.626710 -1.622726 4.143065" range="0.237500" height="0.593750" />
 			<point pos="-0.565187 -1.617294 3.935303" range="0.237500" height="0.593750" />
 		</container>
-
 	</group>
 
 	<group name="Land_Power_Transformer_Build" lootmax="1">
@@ -5768,7 +5742,6 @@
 			<point pos="1.120924 -4.547723 0.714283" range="0.396712" height="0.991290" />
 			<point pos="0.181760 -4.547256 0.242052" range="0.651019" height="1.627231" />
 		</container>
-
 	</group>
 
 	<group name="Land_Water_Station" lootmax="2">
@@ -5788,7 +5761,6 @@
 			<point pos="-0.869453 -0.866272 1.198091" range="0.203125" height="0.212311" />
 			<point pos="1.381448 -0.275421 -1.024132" range="0.203125" height="0.507813" />
 		</container>
-
 	</group>
 
 	<group name="Land_Sawmill_Illuminanttower">
@@ -5806,7 +5778,6 @@
 			<point pos="0.473633 10.306648 1.354492" range="0.420703" height="2.000000" />
 			<point pos="-0.365478 10.306648 0.229736" range="0.326788" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Smokestack_Brick">
@@ -5824,7 +5795,6 @@
 			<point pos="0.115967 12.455498 -1.282959" range="0.642197" height="1.605492" />
 			<point pos="2.042480 12.454727 -1.655518" range="0.737490" height="1.843719" />
 		</container>
-
 	</group>
 
 	<group name="Land_Smokestack_Medium">
@@ -5847,7 +5817,6 @@
 			<point pos="-2.438233 19.713303 0.770263" range="0.381520" height="0.953796" />
 			<point pos="0.461914 19.713303 1.346680" range="0.733347" height="1.833368" />
 		</container>
-
 	</group>
 
 	<group name="Land_Smokestack_Big">
@@ -5878,7 +5847,6 @@
 			<point pos="-1.759562 -23.250622 2.938972" range="0.753125" height="1.878754" />
 			<point pos="1.955419 10.755699 1.154081" range="0.410157" height="1.025393" />
 		</container>
-
 	</group>
 
 	<group name="Land_Pier_Crane_A">
@@ -5905,7 +5873,6 @@
 			<point pos="1.320570 2.999886 -0.543796" range="0.707970" height="1.769925" />
 			<point pos="-0.813665 2.999886 2.645869" range="0.793251" height="1.983124" />
 		</container>
-
 	</group>
 
 	<group name="Land_Pier_Crane_B" lootmax="4">
@@ -5931,7 +5898,6 @@
 			<point pos="0.735955 -6.113091 10.563868" range="0.409375" height="0.998100" />
 			<point pos="0.524589 -6.113091 9.505576" range="0.545898" height="0.998100" />
 		</container>
-
 	</group>
 
 	<group name="Land_Construction_Crane" lootmax="3">
@@ -5953,7 +5919,6 @@
 			<point pos="1.443742 5.737518 10.151217" range="0.786622" height="1.966553" />
 			<point pos="-1.468328 5.739548 7.182042" range="0.887696" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Construction_Building" lootmax="20">
@@ -6077,7 +6042,6 @@
 			<point pos="-3.068004 6.369064 7.507812" range="0.512500" height="1.281189" />
 			<point pos="-10.285642 -6.538376 13.222811" range="0.671667" height="1.679108" />
 		</container>
-
 	</group>
 
 	<group name="Land_Construction_House1" lootmax="6">
@@ -6124,7 +6088,6 @@
 			<point pos="4.381836 4.839699 4.596436" range="0.546875" height="1.367188" />
 			<point pos="1.443359 4.839699 1.725830" range="0.306250" height="0.765625" />
 		</container>
-
 	</group>
 
 	<group name="Land_Construction_House2" lootmax="8">
@@ -6670,7 +6633,6 @@
 			<point pos="-1.980269 -1.465946 -1.408943" range="1.200000" height="2.000004" />
 			<point pos="-2.029328 -1.465946 4.138081" range="1.200000" height="2.000004" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mil_Barracks5" lootmax="2">
@@ -6734,7 +6696,6 @@
 			<point pos="-7.923281 -5.003021 13.944594" range="1.199951" height="2.000000" />
 			<point pos="-2.076275 -0.933044 13.855999" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mil_Barracks5_Basement" lootmax="2">
@@ -6821,9 +6782,7 @@
 			<point pos="7.360744 -7.396820 -2.666862" range="0.203125" height="0.507813" />
 			<point pos="0.615404 -7.461273 1.361351" range="0.100000" height="0.250000" />
 		</container>
-
 	</group>
-
 	<group name="Land_Mil_Barracks6" lootmax="3">
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="2">
@@ -7101,9 +7060,7 @@
 			<point pos="2.134767 5.095093 10.538573" range="0.134375" height="0.335938" />
 			<point pos="2.463134 3.923828 -8.014893" range="0.203125" height="0.370003" />
 		</container>
-
 	</group>
-
 	<group name="Land_Mil_Barracks6_Old" lootmax="3">
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="2">
@@ -7381,9 +7338,7 @@
 			<point pos="2.134767 5.095093 10.538573" range="0.134375" height="0.335938" />
 			<point pos="2.463134 3.923828 -8.014893" range="0.203125" height="0.370003" />
 		</container>
-
 	</group>
-
 	<group name="Land_Mil_Barracks_Round" lootmax="3">
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="2">
@@ -7593,7 +7548,6 @@
 			<point pos="-1.931714 0.046318 0.052331" range="0.520264" height="1.300659" />
 		</container>
 	</group>
-
 	<group name="Land_Mil_Tent_Big1_3" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor">
@@ -7629,7 +7583,6 @@
 			<point pos="-1.966035 0.046318 -2.062426" range="0.790283" height="1.793289" />
 			<point pos="-2.052130 0.046318 -0.129865" range="0.748047" height="1.870117" />
 		</container>
-
 	</group>
 	<group name="Zona_Land_Mil_Tent_Big1_3" lootmax="3">
 		<usage name="Military" />
@@ -7667,9 +7620,7 @@
 			<point pos="-1.966035 0.046318 -2.062426" range="0.790283" height="1.793289" />
 			<point pos="-2.052130 0.046318 -0.129865" range="0.748047" height="1.870117" />
 		</container>
-
 	</group>
-
 	<group name="Land_Mil_Tent_Big1_4" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor">
@@ -7702,6 +7653,7 @@
 			<point pos="0.462211 0.046318 0.888892" range="0.756104" height="1.890259" />
 			<point pos="-2.336955 0.046318 1.019177" range="1.108398" height="2.000000" />
 		</container>
+	</group>
 	<group name="Zona_Land_Mil_Tent_Big1_4" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor">
@@ -7735,9 +7687,7 @@
 			<point pos="0.462211 0.046318 0.888892" range="0.756104" height="1.890259" />
 			<point pos="-2.336955 0.046318 1.019177" range="1.108398" height="2.000000" />
 		</container>
-
 	</group>
-
 	<group name="Land_Mil_Tent_Big1_5" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor">
@@ -7767,9 +7717,7 @@
 			<point pos="-2.067546 0.849678 2.042747" range="0.134375" height="0.335938" />
 			<point pos="-2.448397 0.046318 0.425987" range="0.347793" height="2.000000" />
 		</container>
-
 	</group>
-
 	<group name="Land_Mil_Tent_Big2_1" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor">
@@ -8164,7 +8112,6 @@
 			<point pos="-1.499404 -1.037323 -2.335976" range="1.199951" height="2.000000" />
 			<point pos="-5.394416 -1.037323 -3.044804" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mil_Tent_Big4" lootmax="2">
@@ -8205,7 +8152,6 @@
 			<point pos="-5.172843 -1.161530 1.250169" range="0.770264" height="1.925659" />
 			<point pos="-2.228182 -1.161530 -0.128232" range="0.944595" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_HQ" lootmax="4">
@@ -8342,7 +8288,6 @@
 			<point pos="3.157972 5.136948 -2.160731" range="0.908874" height="2.000000" />
 			<point pos="2.086038 1.789528 -4.274648" range="0.164551" height="0.202454" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_Garages" lootmax="3">
@@ -8396,7 +8341,6 @@
 			<point pos="-9.301746 -3.052704 -4.613370" range="1.199951" height="2.000000" />
 			<point pos="-4.598347 -3.052094 3.351741" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_Garages2">
@@ -8463,7 +8407,6 @@
 			<point pos="1.518433 -2.269060 3.276489" range="0.203125" height="0.507813" />
 			<point pos="-9.251529 -2.670231 4.278133" range="1.134399" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Zona_Land_Tisy_RadarB_Base" lootmax="10">
@@ -8587,7 +8530,6 @@
 			<point pos="-5.467144 4.682098 -1.635749" range="1.179087" height="2.000000" />
 			<point pos="-11.299195 0.966492 -17.090168" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 	<group name="Land_Tisy_RadarB_Base" lootmax="10">
 		<usage name="Military" />
@@ -8709,7 +8651,6 @@
 			<point pos="-5.467144 4.682098 -1.635749" range="1.179087" height="2.000000" />
 			<point pos="-11.299195 0.966492 -17.090168" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_Base_cooler" lootmax="3">
@@ -8730,7 +8671,6 @@
 			<point pos="0.157979 3.506348 -2.918114" range="0.890625" height="2.000000" />
 			<point pos="1.065750 3.506348 0.988708" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_RadarPlatform_Top" lootmax="3">
@@ -8758,7 +8698,6 @@
 			<point pos="7.629045 7.285400 -2.459974" range="1.199951" height="1.990082" />
 			<point pos="-2.951011 7.284332 8.405149" range="1.199951" height="1.987640" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_KitchenRoom" lootmax="3">
@@ -8796,7 +8735,6 @@
 			<point pos="-0.922606 -4.268127 -6.978232" range="1.199951" height="2.000000" />
 			<point pos="7.051305 -4.268127 6.184982" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_Barracks" lootmax="4">
@@ -8950,7 +8888,6 @@
 			<point pos="4.218995 3.754684 1.751708" range="1.199951" height="2.000000" />
 			<point pos="-4.789551 3.754684 1.679199" range="1.199951" height="2.000000" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mil_GuardTower" lootmax="2">
@@ -8969,7 +8906,6 @@
 			<point pos="-4.101233 3.603546 0.962538" range="0.514648" height="1.276978" />
 			<point pos="-4.177416 3.603546 -0.542746" range="0.901367" height="1.989929" />
 		</container>
-
 	</group>
 
 
@@ -9003,7 +8939,6 @@
 			<point pos="0.361108 -0.001518 1.840628" range="0.237500" height="0.593750" />
 			<point pos="0.967651 0.015579 1.753108" range="0.203125" height="0.507813" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mil_Fortified_Nest_Big">
@@ -9037,7 +8972,6 @@
 			<point pos="1.988135 -0.780296 2.862494" range="0.615479" height="1.538696" />
 			<point pos="1.877684 0.500305 4.294263" range="0.168750" height="0.421875" />
 		</container>
-
 	</group>
 
 	<group name="Land_Mil_Fortified_Nest_Watchtower" lootmax="2">
@@ -18911,7 +18845,6 @@ RadiationZone
 			<point pos="-0.812867  0.201370  0.783203" range="0.100000" height="0.250000" />
 			<point pos="-0.794555  0.130087  -0.663086" range="0.100000" height="0.250000" />
 		</container>
-
 	</group>
 	<group name="Land_Wreck_hb01_aban2_white_DE" lootmax="2">
 		<usage name="Village" />
@@ -20587,7 +20520,6 @@ RadiationZone
 			<point pos="2.639081 -0.732483 -4.754410" range="0.478125" height="1.195313" />
 			<point pos="3.711096 -0.731201 -2.212100" range="0.478125" height="1.195313" />
 		</container>
-
 	</group>
 
 	<group name="Land_Tisy_Mil_Barracks2" lootmax="4">
@@ -20661,7 +20593,6 @@ RadiationZone
 			<point pos="-0.171865 -1.098541 4.826071" range="1.015381" height="2.000000" />
 			<point pos="-1.883546 -1.098541 8.319878" range="1.153076" height="2.000000" />
 		</container>
-
 	</group>
 	<group name="Land_Tisy_Mil_Barracks6" lootmax="4">
 		<usage name="Military" />
