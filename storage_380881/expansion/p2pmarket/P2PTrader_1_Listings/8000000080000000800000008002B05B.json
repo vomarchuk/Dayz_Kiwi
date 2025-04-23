@@ -1,0 +1,24 @@
+{
+    "m_Version": 1,
+    "m_ClassName": "GPSReceiver",
+    "m_SkinName": "",
+    "m_HealthLevel": 0,
+    "m_Quantity": 0.0,
+    "m_QuantityType": 0,
+    "m_LiquidType": -1,
+    "m_IsBloodContainer": 0,
+    "m_FoodStageType": -1,
+    "m_ContainerItemsCount": 0,
+    "m_ContainerItems": [],
+    "m_GlobalID": [
+        -2147483648,
+        -2147483648,
+        -2147483648,
+        -2147307429
+    ],
+    "m_OwnerUID": "oj0y7YkImD1gf5CtBLajNYlSKeMtZNGfQhGlsoQKZfU=",
+    "m_Price": 2500,
+    "m_ListingTime": 1745262381,
+    "m_ListingState": 1,
+    "m_OwnerName": "AllorReynar"
+}

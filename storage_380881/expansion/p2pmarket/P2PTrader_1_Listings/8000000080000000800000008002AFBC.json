@@ -1,0 +1,24 @@
+{
+    "m_Version": 1,
+    "m_ClassName": "Mag_Aug_30Rnd",
+    "m_SkinName": "",
+    "m_HealthLevel": 0,
+    "m_Quantity": 0.0,
+    "m_QuantityType": 16,
+    "m_LiquidType": -1,
+    "m_IsBloodContainer": 0,
+    "m_FoodStageType": -1,
+    "m_ContainerItemsCount": 0,
+    "m_ContainerItems": [],
+    "m_GlobalID": [
+        -2147483648,
+        -2147483648,
+        -2147483648,
+        -2147307588
+    ],
+    "m_OwnerUID": "62ZZcFkdhgJlWMxNaR2LnfPpWcFwUWS15DqnFX5Iyuo=",
+    "m_Price": 500,
+    "m_ListingTime": 1744714166,
+    "m_ListingState": 1,
+    "m_OwnerName": "Smirnoff1984[UA]"
+}

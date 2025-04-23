@@ -1,0 +1,24 @@
+{
+    "m_Version": 1,
+    "m_ClassName": "TerjeCaseRadSpecial",
+    "m_SkinName": "",
+    "m_HealthLevel": 0,
+    "m_Quantity": 0.0,
+    "m_QuantityType": 0,
+    "m_LiquidType": -1,
+    "m_IsBloodContainer": 0,
+    "m_FoodStageType": -1,
+    "m_ContainerItemsCount": 0,
+    "m_ContainerItems": [],
+    "m_GlobalID": [
+        -2147483648,
+        -2147483648,
+        -2147483648,
+        -2147307822
+    ],
+    "m_OwnerUID": "s9gdsoOGgGE7UbpAFhhbUg4O8kfnkN5Z_mO2S2dpKiQ=",
+    "m_Price": 500,
+    "m_ListingTime": 1744615539,
+    "m_ListingState": 2,
+    "m_OwnerName": "[Fishers] MrMISHKA"
+}
