@@ -849,7 +849,7 @@
         <category name="tools" />
         <tag name="shelves"/>
     </type>
-    <type name="PD_fridge_40">
+    <type name="PD_fridge_48">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
