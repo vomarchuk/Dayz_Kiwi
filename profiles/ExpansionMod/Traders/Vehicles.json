@@ -42,7 +42,14 @@
         "Vehicle_Parts_rag_landrover:3",
         "Vehicle_Parts_RS6:3",
         "Vehicle_Parts_Runner:3",
-        "Vehicle_Parts_Tahoe:3"
+        "Vehicle_Parts_Tahoe:3",
+        "Vehicle_Parts_BMW_M3:3",
+        "Vehicle_Parts_Ford_Mustang_Shelby_GT500:3",
+        "Vehicle_Parts_MitsubishiEVO:3",
+        "Vehicle_Parts_Nissan_Skyline:3",
+        "Vehicle_Parts_Porsche_911:3",
+        "Vehicle_Parts_Supra:3",
+        "Vehicle_Parts_DodgeRam3500:3"
     ],
     "Items": {}
 }

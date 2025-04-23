@@ -38,7 +38,14 @@
         "Vehicle_Parts_Challenger",
         "Vehicle_Parts_Bronco",
         "Vehicle_Parts_hummer_Armored",
-        "Vehicle_Parts_Honda_Civic"
+        "Vehicle_Parts_Honda_Civic",
+        "Vehicle_Parts_DodgeRam3500",
+        "Vehicle_Parts_BMW_M3",
+        "Vehicle_Parts_Ford_Mustang_Shelby_GT500",
+        "Vehicle_Parts_MitsubishiEVO",
+        "Vehicle_Parts_Nissan_Skyline",
+        "Vehicle_Parts_Porsche_911",
+        "Vehicle_Parts_Supra"
     ],
     "Items": {}
 }
