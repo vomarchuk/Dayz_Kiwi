@@ -264,7 +264,7 @@
     </type>
     <type name="KIWI_Quest_Bear_Base">
         <nominal>0</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -276,7 +276,7 @@
     </type>
     <type name="KIWI_Quest_Bear_2">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -288,7 +288,7 @@
     </type>
     <type name="KIWI_Quest_Bear_3">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -300,7 +300,7 @@
     </type>
     <type name="KIWI_Quest_Bear_4">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -312,7 +312,7 @@
     </type>
     <type name="KIWI_Quest_Bear_5">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -324,7 +324,7 @@
     </type>
     <type name="KIWI_Quest_Bear_6">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -336,7 +336,7 @@
     </type>
     <type name="KIWI_Quest_Bear_7">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -348,7 +348,43 @@
     </type>
     <type name="KIWI_Quest_Bear_8">
         <nominal>0</nominal>
-        <lifetime>4200</lifetime>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="shelves"/>
+    </type>
+    <type name="KIWI_Quest_Bear_9">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="shelves"/>
+    </type>
+    <type name="KIWI_Quest_Bear_10">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="shelves"/>
+    </type>
+    <type name="KIWI_Quest_Bear_11">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
