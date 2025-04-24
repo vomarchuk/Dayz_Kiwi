@@ -802,7 +802,6 @@
       "Products": [
         "MakarovIJ70,1,-1,1,-1,60",
         "P1,1,-1,1,-1,60",
-        "Flaregun,1,-1,1,-1,70",
         "CZ75,1,-1,1,-1,70",
         "FNX45,1,-1,1,-1,70",
         "Glock19,1,-1,1,-1,70",
@@ -810,9 +809,6 @@
         "Colt1911,1,-1,1,-1,90",
         "Magnum,1,-1,1,-1,140",
         "Engraved1911,1,-1,1,-1,200",
-        "Derringer_Pink,1,-1,1,-1,90",
-        "Derringer_Grey,1,-1,1,-1,90",
-        "Derringer_Black,1,-1,1,-1,90",
         "Deagle,1,-1,1,-1,90",
         "Deagle_Gold,1,-1,1,-1,200",
         "Longhorn,1,-1,1,-1,220"
@@ -917,10 +913,6 @@
         "Ammo_308WinTracer,1,-1,1,-1,5",
         "Ammo_762x39Tracer,1,-1,1,-1,5",
         "Ammo_762x54Tracer,1,-1,1,-1,6",
-        "Ammo_Flare,1,-1,1,-1,7",
-        "Ammo_FlareBlue,1,-1,1,-1,7",
-        "Ammo_FlareGreen,1,-1,1,-1,7",
-        "Ammo_FlareRed,1,-1,1,-1,7",
         "AmmoBox_380_35rnd,1,-1,0,385,38",
         "AmmoBox_9x19_25rnd,1,-1,0,275,27",
         "AmmoBox_45ACP_25rnd,1,-1,0,275,27",
