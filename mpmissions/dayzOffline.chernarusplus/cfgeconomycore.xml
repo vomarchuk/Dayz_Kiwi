@@ -87,17 +87,17 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="DNA_KeyCard.xml" type="types"/>
 	</ce>
 	<!-- RZ key doors -->
-	<!-- <ce folder="types/RZ_KeyCardDoors_ce">
+	<ce folder="types/RZ_KeyCardDoors_ce">
 		<file name="rz_keyCardDoors.xml" type="types"/>
-	</ce> -->
+	</ce>
 	<!-- Nomad_Backpack -->
 	<ce folder="types/Nomad_Backpack_ce">
 		<file name="Nomad_Backpack.xml" type="types"/>
 	</ce>
 	<!-- TOFU -->
-	<!-- <ce folder="types/Tofu_ce">
+	<ce folder="types/Tofu_ce">
 		<file name="Tofu_Barrels.xml" type="types" />
-	</ce> -->
+	</ce>
 	<!-- Items -->
 	<ce folder="types/Items_ce">
 		<file name="random_items_types.xml" type="types" />
@@ -118,14 +118,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="SCWS.xml" type="types" />
 	</ce>
 	<!-- FOG -->
-	<ce folder="types/FOG_ce">
-		<file name="FOG.xml" type="types" />
-		<file name="FOG_Helmets.xml" type="types" />
-		<file name="FOG_Pants.xml" type="types" />
-		<file name="FOG_PNV.xml" type="types" />
-		<file name="FOG_Vests.xml" type="types" />
-		<file name="FOG_T_Shirts.xml" type="types" />
-		<file name="FOG_Bags.xml" type="types" />
+	<ce folder="types/IMP_ce">
+		<file name="imp_weapon.xml" type="types" />
 	</ce>
 	<!-- RaG -->
 	<ce folder="types/RaG_ce">
