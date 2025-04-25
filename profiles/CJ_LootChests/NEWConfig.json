@@ -501,7 +501,7 @@
       ],
       "respawn": 1,
       "respawn_timer": 45,
-      "randomize_position": 0
+      "randomize_position": 1
     },
     {
       "name": "Oilrig",
