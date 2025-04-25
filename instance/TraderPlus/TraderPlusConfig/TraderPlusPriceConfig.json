@@ -541,7 +541,7 @@
         "rag_baseitems_volleyball_net_kit,1,-1,0,-1,200",
         "rag_baseitems_beach_umbrella_beige_kit,1,-1,0,-1,200",
         "rag_baseitems_beach_umbrella_blue_kit,1,-1,0,-1,200",
-        "rag_baseitems_beach_umbrella_multi_kit,1,-1,0,-1,200",
+        "rag_baseitems_beach_umbrella_multi_kit,1,-1,0,2000,200",
         "rag_baseitems_beach_umbrella_green_kit,1,-1,0,2000,200",
         "rag_baseitems_small_pool_blue_kit,1,-1,0,-1,200",
         "rag_baseitems_small_pool_green_kit,1,-1,0,-1,200",
@@ -778,7 +778,7 @@
       "CategoryName": "Fluffy Pets <3",
       "Products": [
         "Bear_Beige,1,-1,0,-1,200",
-        "Bear_Dark,1,-1,0,-1,200",
+        "Bear_Dark,1,-1,0,-1,400",
         "Bear_Pink,1,-1,0,-1,200",
         "Bear_White,1,-1,0,-1,200"
       ]
