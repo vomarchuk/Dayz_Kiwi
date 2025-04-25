@@ -13,7 +13,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Pillar">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_RoofKit">
@@ -21,7 +21,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Roof">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_FloorKit">
@@ -29,7 +29,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Floor">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_CeilingKit">
@@ -37,7 +37,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Ceiling">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_StaircaseKit">
@@ -45,7 +45,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Staircase">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_Staircase_2Kit">
@@ -53,7 +53,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Staircase_2">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_StairsKit">
@@ -61,7 +61,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Stairs">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_WallKit">
@@ -69,7 +69,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Wall">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_DoorKit">
@@ -77,7 +77,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Door">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_WindowKit">
@@ -85,7 +85,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Window">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_Window_SmallKit">
@@ -93,7 +93,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Window_Small">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_Low_WallKit">
@@ -101,7 +101,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Low_Wall">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_FoundationKit">
@@ -109,7 +109,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Foundation">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_GateKit">
@@ -117,7 +117,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Gate">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_GateLeftKit">
@@ -125,7 +125,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_GateLeft">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_GateRightKit">
@@ -133,7 +133,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_GateRight">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_WoodStorageKit">
@@ -141,7 +141,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_WoodStorage">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_RampKit">
@@ -149,7 +149,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Ramp">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_StepLadderKit">
@@ -157,11 +157,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_StepLadder">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_Ladder">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_Floor_HatchKit">
@@ -169,7 +169,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="RaG_BB_Floor_Hatch">
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RaG_BB_Single_DoorKit">
