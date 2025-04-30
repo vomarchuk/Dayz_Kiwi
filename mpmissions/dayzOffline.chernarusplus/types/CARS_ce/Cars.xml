@@ -11091,10 +11091,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="BMWE34_kapot">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11105,10 +11105,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11119,10 +11119,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11133,10 +11133,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11147,10 +11147,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11161,10 +11161,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11175,10 +11175,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_kapot_red">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11189,10 +11189,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik_red">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11203,10 +11203,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1_red">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11217,10 +11217,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1_red">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11231,10 +11231,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2_red">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11245,10 +11245,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2_red">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11259,10 +11259,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_kapot_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11273,10 +11273,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11287,10 +11287,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11301,10 +11301,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11315,10 +11315,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11329,10 +11329,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11343,10 +11343,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_kapot_beater">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11357,10 +11357,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik_beater">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11371,10 +11371,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1_beater">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11385,10 +11385,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1_beater">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11399,10 +11399,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2_beater">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11413,10 +11413,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2_beater">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11427,10 +11427,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_kapot_Purple">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11441,10 +11441,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik_Purple">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11455,10 +11455,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1_Purple">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11469,10 +11469,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1_Purple">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11483,10 +11483,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2_Purple">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11497,10 +11497,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2_Purple">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11511,10 +11511,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_kapot_beater_Black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11525,10 +11525,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik_beater_Black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11539,10 +11539,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1_beater_Black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11553,10 +11553,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1_beater_Black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11567,10 +11567,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2_beater_Black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11581,10 +11581,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2_beater_Black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11595,10 +11595,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_kapot_Green">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11609,10 +11609,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_bagazhnik_Green">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11623,10 +11623,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_1_Green">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11637,10 +11637,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_1_Green">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11651,10 +11651,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_1_2_Green">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11665,10 +11665,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_dver_2_2_Green">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11679,10 +11679,10 @@
 		<usage name="Farm"/>
 	</type>
 	<type name="BMWE34_koleso_style5">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11697,10 +11697,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_style2">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11715,10 +11715,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_style16">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11733,10 +11733,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_style21">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11751,10 +11751,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_style21_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11769,10 +11769,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_style37">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11787,10 +11787,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_shtamp">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -11805,10 +11805,10 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="BMWE34_koleso_shtamp_black">
-		<nominal>8</nominal>
+		<nominal>0</nominal>
 		<lifetime>2700</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
