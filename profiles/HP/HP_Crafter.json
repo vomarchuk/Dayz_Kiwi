@@ -3246,72 +3246,6 @@
             ]
           },
           {
-            "Result": "VM_HUNTtops_Camo_V2",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Торс Хантера 2 класу",
-            "CraftComponents": [
-              {
-                "Classname": "VM_HUNTtops_Camo_V1",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil"
-            ]
-          },
-          {
             "Result": "VM_HUNTtops_GreenAndYellow_V3",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
@@ -3325,7 +3259,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3343,38 +3277,39 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
                 "Amount": 20,
                 "Destroy": 20,
                 "Changehealth": 0
               },
               {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Vise"
             ]
           },
           {
@@ -3391,7 +3326,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3409,38 +3344,39 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
                 "Amount": 20,
                 "Destroy": 20,
                 "Changehealth": 0
               },
               {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Vise"
             ]
           },
           {
@@ -3457,7 +3393,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3475,38 +3411,39 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
                 "Amount": 20,
                 "Destroy": 20,
                 "Changehealth": 0
               },
               {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Vise"
             ]
           },
           {
@@ -3523,7 +3460,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3541,104 +3478,39 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
                 "Amount": 20,
                 "Destroy": 20,
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil"
-            ]
-          },
-          {
-            "Result": "VM_HUNTtops_Camo_V3",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Торс Хантера 3 класу",
-            "CraftComponents": [
-              {
-                "Classname": "VM_HUNTtops_Camo_V2",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
                 "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
                 "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Vise"
             ]
           },
           {
@@ -3655,7 +3527,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3667,44 +3539,52 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "HP_napilnik",
+                "Classname": "Pliers",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "SewingKit",
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
+                "Classname": "TireRepairKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
             ]
           },
           {
@@ -3721,7 +3601,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3733,44 +3613,52 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "HP_napilnik",
+                "Classname": "Pliers",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "SewingKit",
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
+                "Classname": "TireRepairKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
             ]
           },
           {
@@ -3787,7 +3675,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3799,44 +3687,52 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "HP_napilnik",
+                "Classname": "Pliers",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "SewingKit",
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
+                "Classname": "TireRepairKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
             ]
           },
           {
@@ -3853,7 +3749,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -3865,110 +3761,52 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "HP_napilnik",
+                "Classname": "Pliers",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "SewingKit",
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
+                "Classname": "TireRepairKit",
                 "Amount": 300,
                 "Destroy": 300,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
-            ]
-          },
-          {
-            "Result": "VM_HUNTtops_Camo_V4",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Торс Хантера 4 класу",
-            "CraftComponents": [
-              {
-                "Classname": "VM_HUNTtops_Camo_V3",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
             ]
           }
         ]
