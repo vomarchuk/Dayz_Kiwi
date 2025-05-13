@@ -386,7 +386,8 @@
       "loot": [
         "LC_Table_Craft_Random_Ingredients_YAR",
         "LC_Table_Money_Event_Low",
-        "SC_FIXglovesIIO|0.05"
+        "SC_FIXglovesIIO|0.05",
+        "SC_FIXHelmetIIO|0.05"
       ],
       "respawn": 1,
       "respawn_timer": 45,
@@ -497,7 +498,8 @@
       "loot": [
         "LC_Table_Craft_Random_Ingredients_Alkatras",
         "LC_Table_Money_Event_Low",
-        "SC_FIXpantsIIO|0.05"
+        "SC_FIXpantsIIO|0.05",
+        "SC_FIXtopsIIO|0.05"
       ],
       "respawn": 1,
       "respawn_timer": 45,
@@ -607,7 +609,8 @@
       "loot": [
         "LC_Table_Craft_Random_Ingredients_Oilrig",
         "LC_Table_Money_Event_Low",
-        "SC_FIXshoesIIO|0.05"
+        "SC_FIXshoesIIO|0.05",
+        "SC_FIXHelmetIIO|0.05"
       ],
       "respawn": 1,
       "respawn_timer": 45,
